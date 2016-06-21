@@ -8,32 +8,32 @@ data : data-raw/nnv-xml data-raw/nnv-tsv/all-votes.tsv data-raw/nnv-office data-
 data-raw/nnv-xml : temp/nnv-xml.zip
 	unzip -o $^ -d $@
 
-temp/nnv-xml.zip : 
+temp/nnv-xml.zip :
 	curl http://lincolnmullen.com/files/nnv-xml.zip -o $@
 
 # NNV export of all votes
 # http://hdl.handle.net/10427/70452
 data-raw/nnv-tsv/all-votes.tsv : temp/all-votes.zip
-	unzip -o $^ -d $(@D) 
+	unzip -o $^ -d $(@D)
 	touch $@
 
-temp/all-votes.zip : 
-	curl http://dl.tufts.edu/file_assets/generic/tufts:MS115.003.001.00001/0 -o $@ 
+temp/all-votes.zip :
+	curl http://dl.tufts.edu/file_assets/generic/tufts:MS115.003.001.00001/0 -o $@
 
 # Election records candidate office authority records
 # http://hdl.handle.net/10427/70465
 data-raw/nnv-office : temp/office-authority.zip
 	unzip -o $^ -d $@
 
-temp/office-authority.zip : 
-	curl http://dl.tufts.edu/file_assets/generic/tufts:MS115.003.001.00003/0 -o $@ 
+temp/office-authority.zip :
+	curl http://dl.tufts.edu/file_assets/generic/tufts:MS115.003.001.00003/0 -o $@
 
 # Election records candidate name authority records
 # http://hdl.handle.net/10427/70466
 data-raw/nnv-names : temp/name-authority.zip
 	unzip -o $^ -d $@
 
-temp/name-authority.zip : 
+temp/name-authority.zip :
 	curl http://dl.tufts.edu/file_assets/generic/tufts:MS115.003.001.00002/0 -o $@
 
 # Party authorities
@@ -42,11 +42,11 @@ data-raw/nnv-party/party-authority.xml :
 	mkdir -p $(@D)
 	curl http://dl.tufts.edu/file_assets/generic/tufts:party-authority/0 -o $@
 
-
 # Utilities
 # -------------------------------------------------------------------
 setup :
 	@mkdir -p R
+	@mkdir -p notebooks
 	@mkdir -p data
 	@mkdir -p data-raw
 	@mkdir -p output
