@@ -6,6 +6,7 @@ NYCONG := $(patsubst %.xml, %.csv, $(NYCONG))
 all : $(NYCONG) data
 
 data/congressional/%.csv : data-raw/nnv-xml/%.xml 
+	@mkdir -p data/congressional
 	./scripts/xml2table.R $^ -u town -o $@
 
 # Download and unzip raw data

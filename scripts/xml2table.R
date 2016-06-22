@@ -95,8 +95,9 @@ output <- expand.grid(candidate_num = candidates$candidate_num,
   left_join(overview, by = "candidate_num") %>%
   dmap_if(is.character, replace_null) %>%
   mutate(office_name = office_name,
-         office_id = office_id) %>%
-  select(office_name, office_id,
+         office_id = office_id,
+         election_id = str_replace(basename(opt$INPUT), ".xml", "")) %>%
+  select(election_id, office_name, office_id,
          candidate, candidate_id = name_id,
          affiliation, affiliation_id,
          town, county, town_full,
