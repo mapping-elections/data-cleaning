@@ -1,4 +1,12 @@
-all : data
+# Just the NY congressional elections
+NYCONG := $(wildcard data-raw/nnv-xml/ny.uscongress*.xml)
+NYCONG := $(patsubst data-raw/nnv-xml/%, data/congressional/%, $(NYCONG))
+NYCONG := $(patsubst %.xml, %.csv, $(NYCONG))
+
+all : $(NYCONG) data
+
+data/congressional/%.csv : data-raw/nnv-xml/%.xml 
+	./scripts/xml2table.R $^ -u town -o $@
 
 # Download and unzip raw data
 # -------------------------------------------------------------------
@@ -6,7 +14,10 @@ data : data-raw/nnv-xml data-raw/nnv-tsv/all-votes.tsv data-raw/nnv-office data-
 
 # XML records for each election in NNV
 data-raw/nnv-xml : temp/nnv-xml.zip
-	unzip -o $^ -d $@
+	mkdir -p $@
+	mkdir -p temp/nnv-xml
+	unzip -o $^ -d temp/nnv-xml
+	find temp/nnv-xml/ -type f -iname *.xml -exec mv -t $@ -i '{}' +
 
 temp/nnv-xml.zip :
 	curl http://lincolnmullen.com/files/nnv-xml.zip -o $@
