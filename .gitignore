@@ -1,6 +1,7 @@
 temp/*
 output/*
 data-raw/*
-
 .Rproj.user
 .DS_Store
+.Rhistory
+.RData
