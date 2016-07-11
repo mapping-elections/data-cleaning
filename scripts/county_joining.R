@@ -18,7 +18,7 @@ names(nnv) <- names(nnv) %>%
 
 cong_elect_county <- nnv %>%
   filter(office == "U.S. House of Representatives" & state == "Virginia" & !is.na(county)) %>%
-  filter(!id %in% troublesome_elections$election_id) %>% View()
+  filter(!id %in% troublesome_elections$election_id) %>%
   count(county)
 
 # county_bound: Creating the shapefile's data table, fixing the string case, joining to distinct nnv counties

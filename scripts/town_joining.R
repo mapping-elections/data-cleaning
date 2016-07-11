@@ -16,6 +16,10 @@ names(nnv) <- names(nnv) %>%
   str_replace_all("\\.", "") %>%
   str_replace_all("\\s", "_")
 
+# Assign city values to town column for computational ease
+nnv <- nnv %>%
+  mutate(town = ifelse(is.na(town), city, town))
+
 # Extract the year from the date column and treat that as an integer
 nnv <- nnv %>%
   mutate(year = str_extract(date, "\\d{4}") %>% as.integer())

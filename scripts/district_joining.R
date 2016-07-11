@@ -30,7 +30,7 @@ district_df <- congress_df %>%
   filter(statename == "Virginia") %>%
   distinct(id, startcong, endcong, district, .keep_all = TRUE)
 
-# Writes .csv of distinct congressional election ids to create the joining table
+# Writes .csv of distinct congressional election ids to create the joining
 # cong_elect_district %>%
 #   select(id, date, district) %>%
 #   distinct(id, .keep_all = TRUE) %>%
