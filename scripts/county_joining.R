@@ -5,9 +5,11 @@ library(stringr)
 library(dplyr)
 
 # Need to edit the state inputs according to the state of interest
+STATE <- "Virginia"
+JOIN_TABLE <- "data/va_county_join_table.csv"
 
 nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
-county_shp <- USAboundaries::hist_us_counties@data %>% filter(state_terr == "Virginia") %>% distinct()
+county_shp <- USAboundaries::hist_us_counties@data %>% filter(state_terr == STATE) %>% distinct()
 troublesome_elections <- read_csv("data/troublesome_elections.csv")
 
 # Clean up variable names, filter and create distinct counties data table
@@ -17,7 +19,7 @@ names(nnv) <- names(nnv) %>%
   str_replace_all("\\s", "_")
 
 cong_elect_county <- nnv %>%
-  filter(office == "U.S. House of Representatives" & state == "Virginia" & !is.na(county)) %>%
+  filter(office == "U.S. House of Representatives" & state == STATE & !is.na(county)) %>%
   filter(!id %in% troublesome_elections$election_id) %>%
   count(county)
 
@@ -38,7 +40,7 @@ ce_county_left_join <- cong_elect_county %>%
 
 
 #Joining the two datatables by the county-join-table
-county_join_table <- read_csv("data/va_county_join_table.csv")
+county_join_table <- read_csv(JOIN_TABLE)
 
 cong_elect_join <- cong_elect_county %>%
   left_join(county_join_table, by = c("county" = "nnv_county"))
