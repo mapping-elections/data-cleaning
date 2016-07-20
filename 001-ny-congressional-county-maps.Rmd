@@ -12,6 +12,7 @@ library(readr)
 library(stringr)
 nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
 troublesome_elections <- read_csv("data/troublesome_elections.csv")
+join_table <- read_csv("data/ny_county_join_table.csv")
 names(nnv) <- names(nnv) %>%
   str_to_lower() %>%
   str_replace_all("\\.", "") %>%
@@ -55,21 +56,38 @@ ny_1800 <- ny_1800 %>%
   mutate(vote = if_else(is.na(vote), 0L, vote),
          vote_county = sum(vote, na.rm = TRUE),
          percentage_county = vote / vote_county,
-         won_county = vote == max(vote, na.rm = TRUE)) 
-  
-ny_1800 %>% 
-  group_by(id, name, name_id, affiliation) %>% 
-  summarize(vote = sum(vote),
-            counties_won = sum(won_county)) %>% 
+         won_county = vote == max(vote, na.rm = TRUE)) %>% 
   group_by(id) %>% 
-  mutate(election_total = sum(vote),
-         election_percentage = round(vote / election_total, 3),
-         won_election = vote == max(vote)) %>% View
+  mutate(vote_district_total = sum(vote)) %>% 
+  group_by(id, name_id) %>% 
+  mutate(vote_candidate_total = sum(vote),
+         vote_candidate_percentage = round(vote_candidate_total / vote_district_total, 3),
+         counties_won = sum(won_county)) %>% 
+  group_by(id) %>% 
+  mutate(won_election = vote_candidate_total == max(vote_candidate_total)) 
   
-  
-  ungroup()
-  group_by(id, district) %>% 
-  mutate(vote_district = sum(vote, na.rm = TRUE),
-         percentage_district = vote / )
+data_for_map <- ny_1800 %>% 
+  group_by(id, affiliation, county) %>%
+  summarize(vote = sum(vote)) %>% 
+  spread(affiliation, vote, fill = 0) %>% 
+  left_join(join_table, by = c("county" = "nnv_county")) %>% 
+  select(-notes)
+```
+
+
+```{r}
+library(USAboundaries)
+counties_1800 <- us_counties("1800-07-04", states = "New York", resolution =)
+
+counties_1800@data <- counties_1800@data %>% 
+  left_join(data_for_map, by = c("name" = "ahcb_county"))
+
+library(leaflet)
+
+color_scale <- colorQuantile("Blues", counties_1800$Federalist)
+
+leaflet(counties_1800) %>% 
+  addPolygons(stroke = FALSE, smoothFactor = 0.5,
+              color = ~color_scale(Federalist))
 ```
 
