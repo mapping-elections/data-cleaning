@@ -1,0 +1,94 @@
+---
+title: "Demo of New York Congressional Elections"
+author: "Mapping Early American Elections Project Team"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+
+The aim of this notebook is to create a map of New York congressional elections at the county level.
+
+```{r load-data, include=FALSE}
+library(dplyr)
+library(tidyr)
+library(readr)
+library(stringr)
+library(USAboundaries)
+library(leaflet)
+library(rgdal)
+library(scales)
+
+nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
+join_table <- read_csv("data/ny_county_join_table.csv")
+
+names(nnv) <- names(nnv) %>%
+  str_to_lower() %>%
+  str_replace_all("\\.", "") %>%
+  str_replace_all("\\s", "_")
+
+ny_congressional <- nnv %>%
+  filter(office == "U.S. House of Representatives",
+         state == "New York",
+         !is.na(county))
+
+ny_1800 <- ny_congressional %>% 
+  filter(date == "1800",
+         is.na(town),
+         is.na(city))
+
+# ny_1800 %>% 
+#   group_by(id, district, county) %>% 
+#   mutate(vote = if_else(is.na(vote), 0L, vote),
+#          vote_county = sum(vote, na.rm = TRUE),
+#          percentage_county = vote / vote_county,
+#          won_county = vote == max(vote, na.rm = TRUE)) %>% 
+#   group_by(id) %>% 
+#   mutate(vote_district_total = sum(vote)) %>% 
+#   group_by(id, name_id) %>% 
+#   mutate(vote_candidate_total = sum(vote),
+#          vote_candidate_percentage = round(vote_candidate_total / vote_district_total, 3),
+#          counties_won = sum(won_county)) %>% 
+#   group_by(id) %>% 
+#   mutate(won_election = vote_candidate_total == max(vote_candidate_total)) 
+  
+data_for_map <- ny_1800 %>% 
+  group_by(id, affiliation, county) %>%
+  summarize(vote = sum(vote)) %>% 
+  spread(affiliation, vote, fill = 0) %>% 
+  mutate(total_vote = Federalist + null + Republican,
+         federalist_percentage = Federalist / total_vote,
+         federalist_percentage =
+           ifelse(is.nan(federalist_percentage), NA, federalist_percentage),
+         deviation = federalist_percentage - 0.5) %>% 
+  left_join(join_table, by = c("county" = "nnv_county")) %>% 
+  select(-notes)
+```
+
+
+```{r}
+counties_1800 <- us_counties("1800-07-04", states = "New York", resolution = "high")
+
+counties_1800@data <- counties_1800@data %>% 
+  left_join(data_for_map, by = c("name" = "ahcb_county"))
+
+districts_1800 <- readOGR("data-raw/congressional-districts", "ny-1800-districts")
+
+color_scale <- colorNumeric("PRGn", domain = c(0, 1), na.color = "white")
+population_scale <- scales::rescale(to = c(0.5, 1), counties_1800$total_vote)
+
+leaflet(counties_1800) %>% 
+  # addPolygons(data = districts_1800, stroke = TRUE, color = "#000000", 
+  #             opacity = 1, fill = FALSE, weight = 5) #%>% 
+  addPolygons(stroke = TRUE, color = "#000000", opacity = 1, weight = 1,
+              smoothFactor = 0.5,
+              fillColor = ~color_scale(federalist_percentage),
+              fillOpacity = population_scale, 
+              popup = ~paste0("<b>County: </b>", county, "<br>",
+                              "Federalist vote: ", prettyNum(Federalist, big.mark = ","), " (", round(federalist_percentage * 100, 1), "%)<br>",
+                              "Republican vote: ", prettyNum(Republican, big.mark = ","), " (", round((1 - federalist_percentage) * 100, 1), "%)<br>"))
+```
+
