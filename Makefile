@@ -58,7 +58,6 @@ data-raw/nnv-party/party-authority.xml :
 # -------------------------------------------------------------------
 setup :
 	@mkdir -p R
-	@mkdir -p notebooks
 	@mkdir -p data
 	@mkdir -p data-raw
 	@mkdir -p output
