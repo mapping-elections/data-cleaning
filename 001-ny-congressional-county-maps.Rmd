@@ -1,0 +1,75 @@
+---
+title: "New York Congressional Elections by County"
+output: html_notebook
+---
+
+The aim of this notebook is to create a map of New York congressional elections at the county level.
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(readr)
+library(stringr)
+nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
+troublesome_elections <- read_csv("data/troublesome_elections.csv")
+names(nnv) <- names(nnv) %>%
+  str_to_lower() %>%
+  str_replace_all("\\.", "") %>%
+  str_replace_all("\\s", "_")
+ny_congressional <- nnv %>%
+  filter(office == "U.S. House of Representatives",
+         state == "New York",
+         !is.na(county),
+         !id %in% troublesome_elections$election_id) 
+ny_1800 <- ny_congressional %>% 
+  filter(date == "1800",
+         is.na(town),
+         is.na(city))
+ny_1800_sums <- ny_congressional %>% 
+  filter(date == "1800") %>% 
+  mutate(place = ifelse(is.na(town), city, town)) %>% 
+  filter(!is.na(place)) %>% 
+  group_by(id, district, county) %>% 
+  summarize(vote_total_sum = sum(vote, na.rm = TRUE))
+```
+
+Check the county reported versus the county sums.
+
+```{r}
+ny_1800 %>% 
+  group_by(id, district, county) %>% 
+  summarize(vote_total_reported = sum(vote, na.rm = TRUE)) %>% 
+  full_join(ny_1800_sums, by = c("id", "district", "county")) %>% 
+  mutate(matches = vote_total_reported == vote_total_sum,
+         difference = vote_total_reported - vote_total_sum) %>% 
+  arrange(difference) 
+```
+
+There are some discrepencies, but it appears from comparing the two and checking NNV that we are fine with using the reported county totals, which are off by a few votes from the sums at most. (Albany is a special case where there is an error in my filtering because of the wards; the NNV record is correct.)
+
+Now figure out who the leading candidates were.
+
+```{r}
+ny_1800 <- ny_1800 %>% 
+  group_by(id, district, county) %>% 
+  mutate(vote = if_else(is.na(vote), 0L, vote),
+         vote_county = sum(vote, na.rm = TRUE),
+         percentage_county = vote / vote_county,
+         won_county = vote == max(vote, na.rm = TRUE)) 
+  
+ny_1800 %>% 
+  group_by(id, name, name_id, affiliation) %>% 
+  summarize(vote = sum(vote),
+            counties_won = sum(won_county)) %>% 
+  group_by(id) %>% 
+  mutate(election_total = sum(vote),
+         election_percentage = round(vote / election_total, 3),
+         won_election = vote == max(vote)) %>% View
+  
+  
+  ungroup()
+  group_by(id, district) %>% 
+  mutate(vote_district = sum(vote, na.rm = TRUE),
+         percentage_district = vote / )
+```
+
