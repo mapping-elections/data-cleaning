@@ -1,16 +1,14 @@
 ---
-title: "Demo of New York Congressional Elections"
+title: "New York Congressional Elections, 1800"
 author: "Mapping Early American Elections Project Team"
 output: html_document
 ---
 
+Below are some sample maps and visualizations of the 1800 New York congressional elections for a presentation at the annual meeting of the Society for Historians of the Early American Republic, July 22, 2016.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
-
-
-The aim of this notebook is to create a map of New York congressional elections at the county level.
 
 ```{r load-data, include=FALSE}
 library(dplyr)
@@ -22,6 +20,7 @@ library(leaflet)
 library(rgdal)
 library(scales)
 library(ggplot2)
+library(ggrepel)
 
 nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
 join_table <- read_csv("data/ny_county_join_table.csv")
@@ -67,11 +66,27 @@ data_for_map <- ny_1800 %>%
            ifelse(is.nan(federalist_percentage), NA, federalist_percentage),
          deviation = federalist_percentage - 0.5) %>% 
   left_join(join_table, by = c("county" = "nnv_county")) %>% 
-  ungroup()
+  ungroup() %>% 
+  mutate(winner = ifelse(Federalist > Republican,
+                         "Federalist", "Republican"))
+
+nhgis_join <- read_csv("data/nhgis_nycounty_join_table.csv")
+populations <- read_csv("data-raw/population/nhgis0049_ds2_1800_county.csv")
+
+ny_pop <- populations %>% 
+  filter(STATE == "New York") %>% 
+  mutate(fwm = AAX003 + AAX004 + AAX005)
+
+data_for_map <- data_for_map %>% 
+  left_join(nhgis_join, by = c("county" = "nnv_county")) %>% 
+  left_join(ny_pop, by = c("nhgis_county" = "COUNTY")) %>% 
+  mutate(total_vote = ifelse(total_vote == 0, NA, total_vote),
+         turnout = total_vote / fwm) 
 ```
 
+### Map of votes for Federalist and Republicans by county
 
-```{r}
+```{r, fig.width=8, fig.height=8}
 counties_1800 <- us_counties("1800-07-04", states = "New York", resolution = "high")
 
 counties_1800@data <- counties_1800@data %>% 
@@ -79,7 +94,7 @@ counties_1800@data <- counties_1800@data %>%
   mutate(total_vote = ifelse(total_vote == 0, NA, total_vote),
          alpha = rescale(to = c(0.5, 1), total_vote)) 
 
-districts_1800 <- readOGR("data-raw/congressional-districts", "ny-1800-districts")
+districts_1800 <- readOGR("data-raw/congressional-districts", "ny-1800-districts", verbose = FALSE)
 
 color_scale <- colorNumeric("PRGn", domain = c(0, 1), na.color = "darkgrey")
 
@@ -104,7 +119,7 @@ leaflet(counties_1800) %>%
               color = "#000000",
               opacity = 1, 
               fill = FALSE, 
-              weight = 2,
+              weight = 3,
               smoothFactor = 0.5) %>%
   addLegend(pal = color_scale,
             values = ~c(federalist_percentage, 1),
@@ -114,24 +129,132 @@ leaflet(counties_1800) %>%
             title = "Federalist %")
 ```
 
+### Visualizations of Congressional elections in New York 1800
 
-```{r}
+```{r, fig.width=8, fig.size=8}
+ny_1800 %>% 
+  group_by(id, name_id) %>% 
+  summarize(name = name[1],
+            affiliation = affiliation[1],
+            vote = sum(vote, na.rm = TRUE)) %>% 
+  group_by(id) %>% 
+  mutate(vote_total = sum(vote, na.rm = TRUE),
+         percentage = vote / vote_total,
+         winner = vote == max(vote),
+         label = ifelse(winner, name, NA)) %>% 
+  mutate(district = str_extract(id, "\\d+") %>% 
+           as.numeric() %>% ordered(levels = c("10", "9", "8", "7", "4", "3",
+                                               "1"))) %>% 
+  arrange(affiliation, desc(vote)) %>% 
+  ggplot(aes(x = district,
+             y = percentage, fill = affiliation,
+             label = label)) + 
+  geom_bar(stat = "identity", color = "white") +
+  coord_flip() +
+  scale_fill_manual(values = c("#7fbf7b", "gray", "#af8dc3"),
+                    labels = c("Federalist", "NA", "Republican")) +
+  geom_hline(yintercept = 0.5, color = "darkgray") +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  labs(title = "Competition between parties and candidates",
+       subtitle = "New York congressional elections, 1800",
+       x = "District",
+       y = NULL,
+       fill = "Party") +
+  scale_y_continuous(labels = percent)
+```
+
+
+```{r, fig.width=8, fig.height=8}
 data_for_map %>% 
-  mutate(winner = ifelse(Federalist > Republican,
-                         "Federalist", "Republican")) %>% 
-ggplot(aes(x = Federalist, y = Republican, color = winner)) + 
+  mutate(label = ifelse(Federalist > 250 | Republican > 250,
+                        county, NA)) %>% 
+ggplot(aes(x = Federalist, y = Republican, color = winner,
+           size = turnout, label = label)) + 
   geom_point() +
   geom_abline(slope = 1, intercept = 0, color = "darkgray") +
+  geom_text_repel(size = 3.5, color = "black") +
+  scale_size_continuous(label = percent) +
   coord_equal() +
   scale_color_manual(values = c("#7fbf7b", "#af8dc3")) +
   theme_minimal() +
   labs(title = "New York congressional elections, 1800",
-       subtitle = "Number of votes per county by party") +
+       subtitle = "Number of votes per county by party",
+       color = "Winning party") +
   theme(legend.position = "bottom")
 ```
 
 
-```{r}
-data_for_map %>% View
+```{r fig.width=8, fig.height=8}
+data_for_map %>% 
+  ggplot(aes(x = turnout, y = federalist_percentage, size = total_vote,
+             color = winner, label = county)) +
+  geom_point() + 
+  theme_minimal() +
+  scale_x_continuous(label = percent) +
+  scale_y_continuous(label = percent) +
+  scale_color_manual(values = c("#7fbf7b", "#af8dc3")) +
+  geom_hline(yintercept = 0.5, color = "darkgray") +
+  geom_text_repel(size = 3.5, color = "black") +
+  labs(title = "Turnout in New York congressional elections, 1800",
+       subtitle = "Votes per free white male over 16 by county",
+       y = "Federalist %",
+       x = "Turnout %",
+       color = "Winning party",
+       size = "Total votes cast")
+  
 ```
+
+### Map of turnout in New York congressional elections in 1800
+
+Turnout was calculated as the ratio between the total number of votes cast and population of free white males over the age of sixteen.
+
+```{r fig.width=8, fig.height=8}
+color_turnout <- colorBin("Blues", domain = counties_1800$turnout,
+                              na.color = "darkgrey")
+
+leaflet(counties_1800) %>% 
+  addPolygons(stroke = TRUE, 
+              color = "#000000", 
+              opacity = 1, 
+              weight = 1,
+              smoothFactor = 0.5,
+              fillColor = ~color_turnout(turnout),
+              fillOpacity = 1, 
+              popup = ~paste0("<b>County: </b>", county, "<br>",
+                              "Federalist vote: ",
+                              prettyNum(Federalist, big.mark = ","),
+                              " (", round(federalist_percentage * 100, 1),
+                              "%)<br>", "Republican vote: ",
+                              prettyNum(Republican, big.mark = ","),
+                              " (", round((1 - federalist_percentage) * 100, 1),
+                              "%)<br>",
+                              "Turnout: ", round(turnout * 100, 1), "%")) %>%
+  addPolygons(data = districts_1800,
+              stroke = TRUE,
+              color = "#000000",
+              opacity = 1, 
+              fill = FALSE, 
+              weight = 3,
+              smoothFactor = 0.5) %>%
+  addLegend(pal = color_turnout,
+            values = ~turnout,
+            labFormat = labelFormat(suffix = "%",
+                                    transform = function(x) 100 * x),
+            na.label = "NA",
+            title = "Turnout")
+```
+
+### Sources
+
+Election records: Philip Lampi Collection of American Electoral Returns, 1788--1825, American Antiquarian Society (2007). And *A New Nation Votes: American Election Returns, 1787--1825*: <http://elections.lib.tufts.edu/>.
+
+Population data: Minnesota Population Center, *National Historical Geographic Information System*, version 2.0, University of Minnesota (2011): <https://nhgis.org/>.
+
+County boundary data: John H. Long, Peggy Tuck Sinko, et al. *Atlas of Historic County Boundaries*, Dr. William M. Scholl Center for American History and Culture, Newberry Library (2010): <http://publications.newberry.org/ahcbp/project.html>.
+
+Congressional district boundary data: Jeffrey B. Lewis, Brandon DeVine, and Lincoln Pritcher with Kenneth C. Martis, "United States Congressional District Shapefiles," University of California, Los Angeles (2013): <http://cdmaps.polisci.ucla.edu/>.
+
+
+
 
