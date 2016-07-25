@@ -57,7 +57,7 @@ ny_1800 <- ny_congressional %>%
   
 data_for_map <- ny_1800 %>% 
   group_by(affiliation, county) %>%
-  summarize(vote = sum(vote),
+  summarize(vote = sum(vote, na.rm = TRUE),
             district = district[1]) %>% 
   spread(affiliation, vote, fill = 0) %>% 
   mutate(total_vote = Federalist + Republican,
