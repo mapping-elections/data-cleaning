@@ -1,4 +1,7 @@
-all : data
+all : data/congressional-elections-list.csv data
+
+data/congressional-elections-list.csv :
+	./scripts/list-congressional-elections.R
 
 # Download and unzip raw data
 # -------------------------------------------------------------------
