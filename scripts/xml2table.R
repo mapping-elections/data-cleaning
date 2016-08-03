@@ -11,36 +11,48 @@ suppressMessages(library(readr))
 
 "Convert XML election records from NNV to tabular data.
 
-Usage: xml2table.R [-u UNIT] INPUT -o OUTPUT
+Usage: xml2table.R INPUT -o OUTPUT
 
 Options:
   <INPUT>                 Path to XML record from NNV.
   -h --help               Show this message.
-  -o --output <OUTPUT>    Path to output file (CSV).
-  -u --unit <UNIT>        The geographical unit to return [default: town]." -> doc
+  -o --output <OUTPUT>    Path to output file (CSV)." -> doc
 
 opt <- docopt(doc)
 
-opt$unit <- str_to_title(opt$unit)
-possible_units <- c("Town")
-if (!opt$unit %in% possible_units) {
-  warning("Geographical unit must be one of ", str_c(possible_units, collapse = ", "))
-  quit(status = 1)
-}
-
 stopifnot(file.exists(opt$INPUT))
+opt$output <- normalizePath(opt$output)
+stopifnot(dir.exists(opt$output))
+
 input <- read_xml(opt$INPUT)
 ns <- xml_ns(input)
 
-general_xml <- input %>% xml_find_one(".//d1:office", ns)
-office_name <- general_xml %>% xml_attr("name")
-office_id <- general_xml %>% xml_attr("office_id")
+# Extract information which is general to every data point
+office_xml <- input %>% xml_find_first(".//d1:office", ns)
+office_name <- office_xml %>% xml_attr("name")
+office_id <- office_xml %>% xml_attr("office_id")
+election_label <- input %>% xml_attr("label")
+election_type <- input %>% xml_attr("type")
+election_iteration <- input %>% xml_attr("iteration")
+election_date <- input %>% xml_attr("date")
+election_year <- input %>% xml_attr("date") %>%
+  str_extract("\\d{4}") %>%
+  as.integer()
+election_id <- input %>% xml_attr("election_id")
 
+# Get the candidates' information, since elsewhere they are referred to by number
 candidates_xml <- input %>%
-  xml_find_one(".//d1:ballot", ns) %>%
+  xml_find_first(".//d1:ballot", ns) %>%
   xml_children()
 
 candidates <- data_frame(
+  election_id = election_id,
+  election_date = election_date,
+  election_year = election_year,
+  election_type = election_type,
+  election_label = election_label,
+  office_name = office_name,
+  office_id = office_id,
   candidate = xml_attr(candidates_xml, "name"),
   name_id = xml_attr(candidates_xml, "name_id"),
   affiliation = xml_attr(candidates_xml, "affiliation"),
@@ -48,59 +60,87 @@ candidates <- data_frame(
   candidate_num = xml_attr(candidates_xml, "candidate_num")
 )
 
+# The overview is the summary vote total for all geographies
 overview_xml <- input %>%
-  xml_find_one(".//d1:overview", ns) %>%
+  xml_find_first(".//d1:overview", ns) %>%
   xml_find_all(".//d1:candidate_summary", ns)
 
 overview <- data_frame(
   candidate_num = xml_attr(overview_xml, "candidate_ref"),
-  overview_vote_total = xml_attr(overview_xml, "vote_total")
+  overview_vote = xml_attr(overview_xml, "vote_total")
 )
 
-sub_units_xml <- input %>%
-  xml_find_all(str_c(".//d1:sub_unit[@type='", opt$unit, "']"), ns)
+overview_summary <- candidates %>%
+  left_join(overview, by = "candidate_num")
 
-extract_voting <- function(node) {
-  results_candidates <- node %>% xml_children() %>% xml_attr("candidate_ref")
-  results_vote <- node %>% xml_children() %>% xml_attr("vote") %>% as.integer()
-  results_unit_name <- node %>% xml_attr("name")
-  # results_unit_type <- node %>% xml_attr("type")
-  results_unit_geogid <- node %>% xml_attr("geog_id")
-  results_parent_unit_name <- xml_parents(node)[[1]] %>% xml_attr("name")
+write_csv(overview_summary,
+          str_c(opt$output, "/", election_id, "-overview.csv"))
 
-  data_frame(candidate_num = results_candidates,
-             vote = results_vote,
-             town = results_unit_name,
-             county = results_parent_unit_name,
-             town_full = str_c(town, ", ", county, " County"),
-             geog_id = results_unit_geogid)
-}
-
-votes <- sub_units_xml %>%
-  as_list() %>%
-  map(extract_voting) %>%
-  bind_rows()
-
+# Helper
 replace_null <- function(x) {
-  ifelse(x == "null", NA, x)
+  if_else(x == "null", NA_integer_, x)
 }
+
+# This function gets the results one level deep
+extract_voting <- function(node) {
+  results_candidates <- node %>%
+    xml_find_all("d1:result") %>%
+    xml_attr("candidate_ref")
+  results_vote <- node %>%
+    xml_find_all("d1:result") %>%
+    xml_attr("vote") %>%
+    as.integer()
+  results <- node %>% xml_find_all("d1:result")
+  results_unit_name <- map_chr(results, function(x) {
+    xml_parents(x)[[1]] %>% xml_attr("name")
+    })
+  results_unit_type <- node %>% xml_attr("type") %>% str_to_lower()
+  # results_unit_geogid <- node %>% xml_attr("geog_id")
+  # results_parent_unit_name <- xml_parents(node)[[1]] %>% xml_attr("name")
+
+  if (all(results_unit_type == "district")) {
+    df <- data_frame(
+      candidate_num = results_candidates,
+      district = results_unit_name,
+      vote = results_vote
+      )
+  } else if (all(results_unit_type == "county")) {
+    df <- data_frame(
+      candidate_num = results_candidates,
+      county = results_unit_name,
+      vote = results_vote
+    )
+  }
+
+  df %>%
+    mutate(vote = replace_null(vote))
+}
+
+# For Congressional elections, at least, the district total should be the same
+# as the overview, but we will check that assumption.
+district_xml <- input %>%
+  xml_find_all(".//d1:sub_unit[@type='District']")
+
+district_summary <- candidates %>%
+  left_join(extract_voting(district_xml), by = "candidate_num")
+
+write_csv(district_summary,
+          str_c(opt$output, "/", election_id, "-districts.csv"))
+
+# Get the counties
+counties_xml <- input %>%
+  xml_find_all(".//d1:sub_unit[@type='County']")
 
 # Make sure we include NAs for candidates even when they didn't get votes in
 # particular locations
-output <- expand.grid(candidate_num = candidates$candidate_num,
-                      town_full = unique(votes$town_full),
-                      stringsAsFactors = FALSE) %>%
-  left_join(votes, by = c("candidate_num", "town_full")) %>%
-  left_join(candidates, by = "candidate_num") %>%
-  left_join(overview, by = "candidate_num") %>%
-  dmap_if(is.character, replace_null) %>%
-  mutate(office_name = office_name,
-         office_id = office_id,
-         election_id = str_replace(basename(opt$INPUT), ".xml", "")) %>%
-  select(election_id, office_name, office_id,
-         candidate, candidate_id = name_id,
-         affiliation, affiliation_id,
-         town, county, town_full,
-         vote, overview_vote_total)
+county_votes <- extract_voting(counties_xml)
+na_grid <- expand.grid(candidate_num = candidates$candidate_num,
+                       county = unique(county_votes$county),
+                       stringsAsFactors = FALSE)
 
-write_csv(output, opt$output)
+county_summary <- na_grid %>%
+  left_join(candidates, by = "candidate_num") %>%
+  left_join(county_votes, by = c("candidate_num", "county"))
+
+write_csv(county_summary,
+          str_c(opt$output, "/", election_id, "-counties.csv"))
