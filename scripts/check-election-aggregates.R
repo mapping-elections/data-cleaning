@@ -9,10 +9,9 @@ suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(purrr))
 suppressPackageStartupMessages(library(docopt))
 
-"Aggregate county returns for a congressional elections in a year and state
-and check for problems.
+"Check for problems in aggregate votes of congressional elections 
 
-Usage: aggregate-election-year.R --input <input> --year <year> --state <state> --output <output>
+Usage: check-election-aggregates.R --input <input> --year <year> --state <state> --output <output>
 
 Options:
   -i --input <input>      Path to input directory.
