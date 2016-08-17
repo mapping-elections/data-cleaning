@@ -1,0 +1,51 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,481
+2,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Pond,PB0058,Republican,A03,481
+3,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,463
+4,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,466
+5,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+6,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woodworth,WJ0439,null,null,NA
+7,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+8,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Solomon Southwick,SS0188,null,null,NA
+9,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+10,Clinton,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Platt,PR0033,null,null,NA
+1,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,715
+2,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Pond,PB0058,Republican,A03,702
+3,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,535
+4,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,508
+5,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,2
+6,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woodworth,WJ0439,null,null,2
+7,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+8,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Solomon Southwick,SS0188,null,null,NA
+9,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+10,Essex,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Platt,PR0033,null,null,NA
+1,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,87
+2,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Pond,PB0058,Republican,A03,86
+3,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,270
+4,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,270
+5,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+6,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woodworth,WJ0439,null,null,NA
+7,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,2
+8,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Solomon Southwick,SS0188,null,null,2
+9,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,2
+10,Franklin,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Platt,PR0033,null,null,1
+1,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,652
+2,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Pond,PB0058,Republican,A03,652
+3,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,412
+4,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,412
+5,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+6,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woodworth,WJ0439,null,null,NA
+7,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+8,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Solomon Southwick,SS0188,null,null,NA
+9,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+10,Warren,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Platt,PR0033,null,null,NA
+1,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,2235
+2,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Pond,PB0058,Republican,A03,2216
+3,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,2273
+4,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,2272
+5,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+6,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woodworth,WJ0439,null,null,NA
+7,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+8,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Solomon Southwick,SS0188,null,null,NA
+9,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+10,Washington,ny.uscongress12.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Platt,PR0033,null,null,NA

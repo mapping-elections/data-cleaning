@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress9.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Solomon Van Rensselaer,VS0034,Federalist,A01,1,2003
+ny.uscongress9.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jabius Sisson,SJ0817,null,null,2,5
+ny.uscongress9.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Gold Hoyt,HG0114,null,null,3,2

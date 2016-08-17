@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,240
+2,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Talman,TP0036,Federalist,A01,46
+3,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Morris,MJ0473,Federalist,A01,NA
+4,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,NA
+5,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Hatfield,HR0118,null,null,NA
+6,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter De Noyelles,DP0026,null,null,3
+7,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Amos Lane, Jr.",LA0060,null,null,NA
+8,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Onderdonk,OJ0070,null,null,2
+9,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joel Frost,FJ0195,null,null,NA
+10,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hyatt,HJ0616,null,null,NA
+11,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Joseph Owens, Jr.",OJ0098,null,null,NA
+12,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Schenck,SJ0636,null,null,NA
+13,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abijah Whitney,WA0141,null,null,NA
+14,Rockland,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Wright,WA0132,null,null,NA
+1,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,1055
+2,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Talman,TP0036,Federalist,A01,210
+3,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Morris,MJ0473,Federalist,A01,29
+4,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,7
+5,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Hatfield,HR0118,null,null,4
+6,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter De Noyelles,DP0026,null,null,NA
+7,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Amos Lane, Jr.",LA0060,null,null,3
+8,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Onderdonk,OJ0070,null,null,NA
+9,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joel Frost,FJ0195,null,null,1
+10,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hyatt,HJ0616,null,null,1
+11,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Joseph Owens, Jr.",OJ0098,null,null,1
+12,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Schenck,SJ0636,null,null,1
+13,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abijah Whitney,WA0141,null,null,1
+14,Westchester,ny.uscongress4.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Wright,WA0132,null,null,1

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry B. Lee,LH0038,Republican,A03,1706
+2,Dutchess,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry A. Livingston,LH0039,Federalist,A01,1943
+3,Dutchess,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James J. Van Alen,VJ0071,null,null,6
+4,Dutchess,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rowland Baily,BR0071,null,null,NA
+5,Dutchess,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"James Tallmadge, Jr.",TJ0360,null,null,1
+6,Dutchess,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Edward Smith, Jr.",SE0099,null,null,NA
+1,Putnam,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry B. Lee,LH0038,Republican,A03,824
+2,Putnam,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry A. Livingston,LH0039,Federalist,A01,328
+3,Putnam,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James J. Van Alen,VJ0071,null,null,NA
+4,Putnam,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rowland Baily,BR0071,null,null,2
+5,Putnam,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"James Tallmadge, Jr.",TJ0360,null,null,NA
+6,Putnam,ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Edward Smith, Jr.",SE0099,null,null,1

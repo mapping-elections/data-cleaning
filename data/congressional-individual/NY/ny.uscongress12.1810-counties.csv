@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Arunah Metcalf,MA0129,Republican,A03,1466
+2,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John M. Bowers,BJ0742,Federalist,A01,863
+3,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard F. Cooper,CR0094,null,null,NA
+4,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Foote,FE0035,null,null,NA
+5,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Francis Henry,HF0029,null,null,NA
+6,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Erastus Root,RE0049,null,null,1
+7,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Roseboom,RR0035,null,null,NA
+8,Delaware,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+1,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Arunah Metcalf,MA0129,Republican,A03,2505
+2,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John M. Bowers,BJ0742,Federalist,A01,2230
+3,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard F. Cooper,CR0094,null,null,1
+4,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Foote,FE0035,null,null,1
+5,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Francis Henry,HF0029,null,null,1
+6,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Erastus Root,RE0049,null,null,NA
+7,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Roseboom,RR0035,null,null,1
+8,Otsego,ny.uscongress12.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA

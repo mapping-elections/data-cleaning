@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ0689,Republican,A03,1,1530
+ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Schenck,SJ0636,null,null,2,5
+ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Hulet,HO0027,null,null,3,3
+ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,4,3
+ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Morris Fosdyck,FM0017,null,null,5,1
+ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Hudson,HO0026,null,null,6,1

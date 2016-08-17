@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress10.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Cochran,CJ0481,Federalist,A01,1,2993
+ny.uscongress10.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cooper,CW0154,Federalist,A01,2,2975
+ny.uscongress10.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Williamson,WC0053,Republican,A03,3,40

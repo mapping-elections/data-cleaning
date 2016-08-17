@@ -1,0 +1,34 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Moss Kent,KM0021,Federalist,A01,1183
+2,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Samuel Whittlesey,WS0012,Republican,A03,1082
+3,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David A. Ogden,OD0006,null,null,NA
+4,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Bennet Bicknell,BB0053,null,null,1
+8,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,1
+5,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John J. Prendergast,PJ0323,null,null,1
+6,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,1
+7,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Abel Cole,CA0103,null,null,1
+9,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Amos Stebbins,SA0136,null,null,1
+10,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Samuel Whitney,WS0123,null,null,NA
+11,Jefferson,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Davis Whittlesey,WD0055,null,null,NA
+1,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Moss Kent,KM0021,Federalist,A01,340
+2,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Samuel Whittlesey,WS0012,Republican,A03,435
+3,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David A. Ogden,OD0006,null,null,NA
+4,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Bennet Bicknell,BB0053,null,null,1
+8,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,NA
+5,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John J. Prendergast,PJ0323,null,null,1
+6,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,1
+7,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Abel Cole,CA0103,null,null,1
+9,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Amos Stebbins,SA0136,null,null,NA
+10,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Samuel Whitney,WS0123,null,null,NA
+11,Lewis,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Davis Whittlesey,WD0055,null,null,NA
+1,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Moss Kent,KM0021,Federalist,A01,654
+2,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Samuel Whittlesey,WS0012,Republican,A03,345
+3,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David A. Ogden,OD0006,null,null,3
+4,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Bennet Bicknell,BB0053,null,null,NA
+8,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,NA
+5,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John J. Prendergast,PJ0323,null,null,NA
+6,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,NA
+7,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Abel Cole,CA0103,null,null,NA
+9,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Amos Stebbins,SA0136,null,null,NA
+10,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Samuel Whitney,WS0123,null,null,1
+11,Saint Lawrence,ny.uscongress18.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Davis Whittlesey,WD0055,null,null,1

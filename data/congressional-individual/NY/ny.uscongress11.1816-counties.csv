@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Saratoga,ny.uscongress11.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John W. Taylor,TJ0328,Republican,A03,1804
+2,Saratoga,ny.uscongress11.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Elisha Powell,PE0061,Federalist,A01,1564
+3,Saratoga,ny.uscongress11.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Samuel Young,YS0004,null,null,2

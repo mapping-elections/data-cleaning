@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress1.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,78
+2,Kings,ny.uscongress1.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Strong,SS0176,Federalist,A01,107
+1,Queens,ny.uscongress1.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,221
+2,Queens,ny.uscongress1.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Strong,SS0176,Federalist,A01,304
+1,Suffolk,ny.uscongress1.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,960
+2,Suffolk,ny.uscongress1.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Strong,SS0176,Federalist,A01,237

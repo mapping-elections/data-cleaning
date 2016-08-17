@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress17.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William S. Smith,SW0140,Federalist,A01,1073
+2,Herkimer,ny.uscongress17.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Hubbard Smith,SH0090,Republican,A03,981
+1,Madison,ny.uscongress17.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William S. Smith,SW0140,Federalist,A01,1532
+2,Madison,ny.uscongress17.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Hubbard Smith,SH0090,Republican,A03,991

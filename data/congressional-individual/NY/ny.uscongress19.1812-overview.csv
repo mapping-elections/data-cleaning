@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,Federalist,A01,1,1634
+ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Miller,MJ0472,Republican,A03,2,1297
+ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Mallery,MW0219,null,null,3,2
+ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Cook,CW0165,null,null,4,NA

@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,Republican,A03,173
+2,Allegany,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,Federalist,A01,161
+3,Allegany,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,NA
+4,Allegany,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathaniel F. Norton,NN0002,null,null,NA
+5,Allegany,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,NA
+6,Allegany,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William C. Wiley,WW0231,null,null,NA
+1,Genesee,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,Republican,A03,1018
+2,Genesee,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,Federalist,A01,310
+3,Genesee,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,5
+4,Genesee,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathaniel F. Norton,NN0002,null,null,1
+5,Genesee,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,1
+6,Genesee,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William C. Wiley,WW0231,null,null,NA
+1,Niagara,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,Republican,A03,685
+2,Niagara,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,Federalist,A01,381
+3,Niagara,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,NA
+4,Niagara,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathaniel F. Norton,NN0002,null,null,NA
+5,Niagara,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,NA
+6,Niagara,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William C. Wiley,WW0231,null,null,NA
+1,Ontario,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,Republican,A03,2892
+2,Ontario,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,Federalist,A01,2479
+3,Ontario,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,NA
+4,Ontario,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathaniel F. Norton,NN0002,null,null,NA
+5,Ontario,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,NA
+6,Ontario,ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William C. Wiley,WW0231,null,null,1

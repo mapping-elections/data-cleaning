@@ -1,0 +1,96 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,606
+2,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cadwallader D. Colden,CC0074,Clintonian/Federalist,A05,586
+3,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Sharpe,SP0100,Republican,A03,584
+4,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0784,Republican,A03,588
+5,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+6,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+7,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+8,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+9,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Churchill C. Cambrelling,CC0075,null,null,NA
+10,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stevens,SP0087,null,null,NA
+11,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+12,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Matthew Clarkson,CM0027,null,null,NA
+13,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Bayard,BW0211,null,null,NA
+14,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Kneeland,KH0008,null,null,NA
+15,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stephens,SP0087,null,null,NA
+16,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+17,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abel Huntington,HA0101,null,null,NA
+18,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Gurnee,GA0034,null,null,NA
+19,Kings,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,null,null,NA
+1,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,1090
+2,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cadwallader D. Colden,CC0074,Clintonian/Federalist,A05,1160
+3,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Sharpe,SP0100,Republican,A03,510
+4,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0784,Republican,A03,475
+5,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,4
+6,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,4
+7,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,3
+8,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,2
+9,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Churchill C. Cambrelling,CC0075,null,null,2
+10,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stevens,SP0087,null,null,1
+11,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,1
+12,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Matthew Clarkson,CM0027,null,null,1
+13,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Bayard,BW0211,null,null,1
+14,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Kneeland,KH0008,null,null,1
+15,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stephens,SP0087,null,null,NA
+16,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+17,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abel Huntington,HA0101,null,null,NA
+18,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Gurnee,GA0034,null,null,NA
+19,New York,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,null,null,NA
+1,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,1269
+2,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cadwallader D. Colden,CC0074,Clintonian/Federalist,A05,1241
+3,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Sharpe,SP0100,Republican,A03,848
+4,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0784,Republican,A03,826
+5,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+6,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+7,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+8,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+9,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Churchill C. Cambrelling,CC0075,null,null,NA
+10,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stevens,SP0087,null,null,NA
+11,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+12,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Matthew Clarkson,CM0027,null,null,NA
+13,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Bayard,BW0211,null,null,NA
+14,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Kneeland,KH0008,null,null,NA
+15,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stephens,SP0087,null,null,NA
+16,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+17,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abel Huntington,HA0101,null,null,NA
+18,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Gurnee,GA0034,null,null,NA
+19,Queens,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,null,null,NA
+1,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,306
+2,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cadwallader D. Colden,CC0074,Clintonian/Federalist,A05,306
+3,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Sharpe,SP0100,Republican,A03,348
+4,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0784,Republican,A03,348
+5,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+6,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+7,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+8,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+9,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Churchill C. Cambrelling,CC0075,null,null,NA
+10,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stevens,SP0087,null,null,NA
+11,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+12,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Matthew Clarkson,CM0027,null,null,NA
+13,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Bayard,BW0211,null,null,NA
+14,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Kneeland,KH0008,null,null,NA
+15,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stephens,SP0087,null,null,NA
+16,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+17,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abel Huntington,HA0101,null,null,NA
+18,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Gurnee,GA0034,null,null,NA
+19,Richmond,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,null,null,NA
+1,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,700
+2,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cadwallader D. Colden,CC0074,Clintonian/Federalist,A05,670
+3,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Sharpe,SP0100,Republican,A03,1063
+4,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0784,Republican,A03,1089
+5,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+6,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+7,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John J. Morgan,MJ0525,null,null,NA
+8,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Eckford,EH0020,null,null,NA
+9,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Churchill C. Cambrelling,CC0075,null,null,NA
+10,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stevens,SP0087,null,null,NA
+11,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+12,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Matthew Clarkson,CM0027,null,null,NA
+13,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Bayard,BW0211,null,null,NA
+14,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Kneeland,KH0008,null,null,NA
+15,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Stephens,SP0087,null,null,1
+16,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,1
+17,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abel Huntington,HA0101,null,null,1
+18,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Abraham Gurnee,GA0034,null,null,1
+19,Suffolk,ny.uscongress1.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,null,null,1

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Isaac Bloom,BI0022,Republican,A03,1565
+2,Dutchess,ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Mott,MS0088,Federalist,A01,1259
+3,Dutchess,ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Foote,FS0047,null,null,2
+4,Dutchess,ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Ebenezer Foote,FE0035,Federalist,A01,1
+6,Dutchess,ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Taylor,TT0037,null,null,1
+7,Dutchess,ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,David Van Ness,VD0029,null,null,1

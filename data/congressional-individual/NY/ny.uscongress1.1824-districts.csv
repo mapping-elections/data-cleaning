@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress1.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,1,One,2140
+ny.uscongress1.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Lent,LJ0255,Republican,A03,2,One,1398
+ny.uscongress1.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles H. Havens,HC0061,null,null,3,One,1

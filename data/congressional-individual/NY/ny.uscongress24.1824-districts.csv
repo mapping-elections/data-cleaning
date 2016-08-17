@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress24.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Charles Kellogg,KC0017,Clintonian/Federalist,A05,1,Twenty Four,3372
+ny.uscongress24.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Rowland Day,DR0036,Republican,A03,2,Twenty Four,2976
+ny.uscongress24.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Andrews Preston,PA0080,null,null,3,Twenty Four,1

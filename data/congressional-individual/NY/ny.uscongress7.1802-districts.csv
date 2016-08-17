@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Conrad E. Elmendorf,EC0014,Federalist,A01,1,Seven,1279
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Cantine,CJ0467,Republican,A03,2,Seven,1220
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Caleb Benton,BC0076,null,null,3,Seven,2
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Lucas E. Elmendorf,EL0004,null,null,4,Seven,2
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Christian France,FC0022,null,null,5,Seven,1
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Johannes Hornbeck,HJ0475,null,null,6,Seven,1
+ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Solomon Sutherland,SS0174,null,null,7,Seven,1

@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry R. Storrs,SH0095,Clintonian/Federalist,A05,4146
+2,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Lynch,LJ0256,Republican,A03,3094
+3,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,30
+4,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,George Brayton,BG0082,null,null,2
+5,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,DeWitt Clinton,CD0092,null,null,2
+6,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Tallmadge,TJ0360,null,null,2
+7,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Ezekiel Bacon,BE0242,null,null,1
+8,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Clark,CE0106,null,null,1
+9,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,George Huntington,HG0058,null,null,1
+10,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,1
+11,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joseph Kirkland,KJ0109,null,null,1
+12,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,David Pierson,PD0046,null,null,1
+13,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Israel Stoddard,SI0054,null,null,1
+14,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Broughton White,WB0053,null,null,1
+15,Oneida,ny.uscongress14.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel Woodworth,WS0126,null,null,1

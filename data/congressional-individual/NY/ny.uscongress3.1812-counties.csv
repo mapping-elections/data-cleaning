@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rockland,ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter DeNoyelles,DP0026,Republican,A03,401
+2,Rockland,ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Valentine Morris,MR0070,Federalist,A01,93
+3,Rockland,ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"Pierre Van Cortlandt, Jr.",VP0039,Republican,A03,55
+1,Westchester,ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter DeNoyelles,DP0026,Republican,A03,1003
+2,Westchester,ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Valentine Morris,MR0070,Federalist,A01,1214
+3,Westchester,ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"Pierre Van Cortlandt, Jr.",VP0039,Republican,A03,514

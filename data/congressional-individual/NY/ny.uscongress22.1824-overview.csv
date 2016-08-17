@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress22.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Miller,MJ0472,Clintonian/Federalist,A05,1,3857
+ny.uscongress22.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Lynde,LJ0257,Republican,A03,2,3243
+ny.uscongress22.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Osborn,OJ0078,null,null,3,2

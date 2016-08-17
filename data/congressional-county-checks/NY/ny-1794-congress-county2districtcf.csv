@@ -1,0 +1,31 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress1.1794,1794,Edward Livingston,LE0044,Republican,A03,1843,1843,0,0.0
+ny.uscongress1.1794,1794,John Watts,WJ0410,Federalist,A01,1638,1638,0,0.0
+ny.uscongress10.1794,1794,James Cochran,CJ0481,Federalist,A01,535,535,0,0.0
+ny.uscongress10.1794,1794,John Winn,WJ0414,Republican,A03,1417,1417,0,0.0
+ny.uscongress10.1794,1794,Jonathan Fitch,FJ0179,Republican,A03,40,40,0,0.0
+ny.uscongress10.1794,1794,William Cooper,CW0154,Federalist,A01,2462,2462,0,0.0
+ny.uscongress2.1794,1794,John Smith,SJ0658,Republican,A03,251,251,0,0.0
+ny.uscongress2.1794,1794,Jonathan Havens,HJ0499,Republican,A03,815,815,0,0.0
+ny.uscongress2.1794,1794,Samuel Jones,JS0049,Federalist,A01,494,494,0,0.0
+ny.uscongress2.1794,1794,Whitehead Cornwell,CW0149,Republican,A03,554,554,0,0.0
+ny.uscongress3.1794,1794,Philip Van Cortlandt,VP0041,Republican,A03,991,991,0,0.0
+ny.uscongress3.1794,1794,Richard Morris,MR0063,Federalist,A01,972,972,0,0.0
+ny.uscongress4.1794,1794,David Brooks,BD0076,Federalist,A01,1090,1090,0,0.0
+ny.uscongress4.1794,1794,Theodorus Bailey,BT0171,Republican,A03,1449,1449,0,0.0
+ny.uscongress5.1794,1794,Conrad E. Elmendorf,EC0014,Federalist,A01,583,583,0,0.0
+ny.uscongress5.1794,1794,John Hathorn,HJ0485,Republican,A03,1519,1519,0,0.0
+ny.uscongress5.1794,1794,Peter Gansevoort,GP0027,Republican,A03,2,2,0,0.0
+ny.uscongress5.1794,1794,William Thompson,TW0052,Federalist,A01,41,41,0,0.0
+ny.uscongress6.1794,1794,Ezekiel Gilbert,GE0066,Federalist,A01,1168,1168,0,0.0
+ny.uscongress6.1794,1794,John Bay,BJ0665,Republican,A03,441,441,0,0.0
+ny.uscongress6.1794,1794,Mathew Adgate,AM0007,Republican,A03,419,419,0,0.0
+ny.uscongress7.1794,1794,John E. Van Allen,VJ0202,Federalist,A01,1109,1109,0,0.0
+ny.uscongress7.1794,1794,Thomas Tredwell,TT0055,Republican,A03,298,298,0,0.0
+ny.uscongress8.1794,1794,Abraham Yates,YA0001,Republican,A03,20,20,0,0.0
+ny.uscongress8.1794,1794,Henry Glen,GH0039,Federalist,A01,677,677,0,0.0
+ny.uscongress8.1794,1794,James Fairlie,FJ0180,Republican,A03,4,4,0,0.0
+ny.uscongress8.1794,1794,John Taylor,TJ0290,Republican,A03,19,19,0,0.0
+ny.uscongress9.1794,1794,Alexander Webster,WA0107,Republican,A03,305,305,0,0.0
+ny.uscongress9.1794,1794,Ebenezer Russell,RE0047,null,null,1079,1079,0,0.0
+ny.uscongress9.1794,1794,John Williams,WJ0409,null,null,1297,1297,0,0.0

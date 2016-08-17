@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Conrad E. Elmendorf,EC0014,Federalist,A01,507
+2,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Cantine,CJ0467,Republican,A03,527
+3,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Caleb Benton,BC0076,null,null,2
+4,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Lucas E. Elmendorf,EL0004,null,null,2
+5,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Christian France,FC0022,null,null,NA
+6,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Johannes Hornbeck,HJ0475,null,null,NA
+7,Greene,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Solomon Sutherland,SS0174,null,null,NA
+1,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Conrad E. Elmendorf,EC0014,Federalist,A01,772
+2,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Cantine,CJ0467,Republican,A03,693
+3,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Caleb Benton,BC0076,null,null,NA
+4,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Lucas E. Elmendorf,EL0004,null,null,NA
+5,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Christian France,FC0022,null,null,1
+6,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Johannes Hornbeck,HJ0475,null,null,1
+7,Ulster,ny.uscongress7.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Solomon Sutherland,SS0174,null,null,1

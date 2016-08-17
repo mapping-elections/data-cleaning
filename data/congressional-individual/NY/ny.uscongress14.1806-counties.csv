@@ -1,0 +1,43 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Russell,RJ0209,Republican,A03,801
+2,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Solomon Martin,MS0097,Federalist,A01,614
+3,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Martin Booth,BM0058,null,null,NA
+4,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Root,RE0049,null,null,2
+5,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Stephen Arnold,AS0052,null,null,NA
+6,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Elisha Barlow,BE0174,null,null,1
+7,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Beardsley,BJ0127,null,null,NA
+8,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Burt,BJ0709,null,null,1
+9,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Dow,DA0048,null,null,NA
+10,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,June Eggleston,EJ0210,null,null,NA
+11,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Lemuel Fitch,FL0015,null,null,NA
+12,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Gephard,GJ0282,null,null,NA
+13,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benjamin Gilbert,GB0024,null,null,NA
+14,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Francis Henry,HF0029,null,null,NA
+15,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,S. Marling,MS0070,null,null,1
+16,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Anthony Marvine,MA0117,null,null,1
+17,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joshua Pine,PJ0304,null,null,1
+18,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Robert Roseboom,RR0035,null,null,NA
+19,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Russel,null,null,null,1
+20,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Zachariah Snyder,SZ0004,null,null,1
+21,Delaware,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joseph White,WJ0423,null,null,NA
+1,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Russell,RJ0209,Republican,A03,1327
+2,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Solomon Martin,MS0097,Federalist,A01,420
+3,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Martin Booth,BM0058,null,null,5
+4,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Root,RE0049,null,null,NA
+5,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Stephen Arnold,AS0052,null,null,1
+6,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Elisha Barlow,BE0174,null,null,NA
+7,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Beardsley,BJ0127,null,null,1
+8,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Burt,BJ0709,null,null,NA
+9,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Dow,DA0048,null,null,1
+10,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,June Eggleston,EJ0210,null,null,1
+11,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Lemuel Fitch,FL0015,null,null,1
+12,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Gephard,GJ0282,null,null,1
+13,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benjamin Gilbert,GB0024,null,null,1
+14,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Francis Henry,HF0029,null,null,1
+15,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,S. Marling,MS0070,null,null,NA
+16,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Anthony Marvine,MA0117,null,null,NA
+17,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joshua Pine,PJ0304,null,null,NA
+18,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Robert Roseboom,RR0035,null,null,1
+19,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Russel,null,null,null,NA
+20,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Zachariah Snyder,SZ0004,null,null,NA
+21,Otsego,ny.uscongress14.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joseph White,WJ0423,null,null,1

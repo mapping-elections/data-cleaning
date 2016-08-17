@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Thompson,TJ0297,Republican,A03,83
+2,Clinton,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Williams,WJ0409,Federalist,A01,180
+3,Clinton,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Jellis A. Fonda,FJ0176,Federalist,A01,2
+1,Saratoga,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Thompson,TJ0297,Republican,A03,868
+2,Saratoga,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Williams,WJ0409,Federalist,A01,274
+3,Saratoga,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Jellis A. Fonda,FJ0176,Federalist,A01,415
+1,Washington,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Thompson,TJ0297,Republican,A03,1246
+2,Washington,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Williams,WJ0409,Federalist,A01,1115
+3,Washington,ny.uscongress7.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Jellis A. Fonda,FJ0176,Federalist,A01,2

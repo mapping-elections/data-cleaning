@@ -1,0 +1,129 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress1.1800,1800,Silas Wood,WS0084,Federalist,A01,1774,1874,100,0.05
+ny.uscongress6.1800,1800,John Woodworth,WJ0439,Republican,A03,52,NA,-52,1.0
+ny.uscongress4.1800,1800,"Lucas Elemendorf, Jr.",EL0004,null,null,28,31,3,0.1
+ny.uscongress9.1800,1800,Nathaniel King,KN0000,Federalist,A01,9,6,-3,0.33
+ny.uscongress10.1800,1800,Francis Henry,HF0029,Federalist,A01,3,5,2,0.4
+ny.uscongress10.1800,1800,"Robert Roseboom, Sr.",RR0035,Republican,A03,53,55,2,0.04
+ny.uscongress10.1800,1800,John Patterson,PJ0208,Republican,A03,263,264,1,0.0
+ny.uscongress4.1800,1800,Cornelius Louw,LC0019,Federalist,A01,0,1,1,1.0
+ny.uscongress4.1800,1800,Lucas Devol,DL0011,null,null,0,1,1,1.0
+ny.uscongress1.1800,1800,Abraham Montfort,MA0107,Republican,A03,1,1,0,0.0
+ny.uscongress1.1800,1800,Benjamin Hunting,HB0116,Republican,A03,2,2,0,0.0
+ny.uscongress1.1800,1800,Ebenezer Purdy,PE0055,Republican,A03,2,2,0,0.0
+ny.uscongress1.1800,1800,Johah Hallet,HJ0511,Republican,A03,1,1,0,0.0
+ny.uscongress1.1800,1800,John I. Skidmore,SJ0669,Republican,A03,1,1,0,0.0
+ny.uscongress1.1800,1800,John Smith,SJ0689,Republican,A03,2268,2268,0,0.0
+ny.uscongress1.1800,1800,Joseph Pettit,PJ0298,Republican,A03,1,1,0,0.0
+ny.uscongress1.1800,1800,Selah Strong,SS0176,Federalist,A01,1,1,0,0.0
+ny.uscongress1.1800,1800,William Denning,DW0080,Republican,A03,2,2,0,0.0
+ny.uscongress10.1800,1800,Asa Danforth,DA0049,Republican,A03,2,2,0,0.0
+ny.uscongress10.1800,1800,Benjamin Walker,WB0005,Federalist,A01,13,13,0,0.0
+ny.uscongress10.1800,1800,Comfort Tyler,TC0040,Federalist,A01,4,4,0,0.0
+ny.uscongress10.1800,1800,"Ebenezer Butler, Jr.",BE0172,null,null,1,1,0,0.0
+ny.uscongress10.1800,1800,Edward Edwards,EE0031,Federalist,A01,6,6,0,0.0
+ny.uscongress10.1800,1800,Ezekiel Lyon,LE0007,null,null,1,1,0,0.0
+ny.uscongress10.1800,1800,Jabez Eaker,EJ0036,null,null,2,2,0,0.0
+ny.uscongress10.1800,1800,Jacob Morris,MJ0438,Federalist,A01,1,1,0,0.0
+ny.uscongress10.1800,1800,Jediah Sanger,SJ0678,Federalist,A01,53,53,0,0.0
+ny.uscongress10.1800,1800,John Stewart,SJ0115,null,null,1,1,0,0.0
+ny.uscongress10.1800,1800,"John Williams, Jr.",WJ0127,null,null,1,1,0,0.0
+ny.uscongress10.1800,1800,Joseph S. Sidney,SJ0128,null,null,1,1,0,0.0
+ny.uscongress10.1800,1800,Moss Kent,KM0021,Federalist,A01,1,1,0,0.0
+ny.uscongress10.1800,1800,Nathaniel W. Howell,HN0037,Federalist,A01,1,1,0,0.0
+ny.uscongress10.1800,1800,Robert Morris,MR0058,null,null,9,9,0,0.0
+ny.uscongress10.1800,1800,Samuel Tinckham,TS0003,null,null,2,2,0,0.0
+ny.uscongress10.1800,1800,Silas Halsey,HS0138,Republican,A03,2,2,0,0.0
+ny.uscongress10.1800,1800,Thomas Morris,MT0003,Federalist,A01,3266,3266,0,0.0
+ny.uscongress10.1800,1800,William Cooper,CW0154,Federalist,A01,2,2,0,0.0
+ny.uscongress10.1800,1800,William H. Cuyler,CW0066,null,null,1,1,0,0.0
+ny.uscongress10.1800,1800,William Stuart,SW0043,Republican,A03,2377,2377,0,0.0
+ny.uscongress2.1800,1800,Jacob Morton,MJ0446,Federalist,A01,2091,2091,0,0.0
+ny.uscongress2.1800,1800,Peter H. Wendover,WP0068,null,null,1,1,0,0.0
+ny.uscongress2.1800,1800,Philip Van Cortlandt,VP0041,Republican,A03,8,8,0,0.0
+ny.uscongress2.1800,1800,Samuel Bayard,BS0186,Federalist,A01,2,2,0,0.0
+ny.uscongress2.1800,1800,Samuel L. Mitchell,MS0108,Republican,A03,2180,2180,0,0.0
+ny.uscongress2.1800,1800,William H. Woolsey,WW0007,null,null,1,1,0,0.0
+ny.uscongress3.1800,1800,Charles Teed,TC0041,Federalist,A01,2,2,0,0.0
+ny.uscongress3.1800,1800,Elijah Ward,WE0084,Federalist,A01,3,3,0,0.0
+ny.uscongress3.1800,1800,Jacob Morton,MJ0446,Federalist,A01,66,66,0,0.0
+ny.uscongress3.1800,1800,"John Woolsey, Jr.",WJ0437,Federalist,A01,3,3,0,0.0
+ny.uscongress3.1800,1800,Nathan Rockwell,RN0022,Federalist,A01,3,3,0,0.0
+ny.uscongress3.1800,1800,Philip Van Cortlandt,VP0041,Republican,A03,2070,2070,0,0.0
+ny.uscongress3.1800,1800,Robert Graham,GR0078,Federalist,A01,3,3,0,0.0
+ny.uscongress3.1800,1800,Samuel Bayard,BS0186,Federalist,A01,1400,1400,0,0.0
+ny.uscongress3.1800,1800,Samuel Haight,HS0136,Federalist,A01,4,4,0,0.0
+ny.uscongress3.1800,1800,Samuel Jones,JS0049,Federalist,A01,5,5,0,0.0
+ny.uscongress3.1800,1800,Samuel L. Mitchell,MS0108,Republican,A03,47,47,0,0.0
+ny.uscongress3.1800,1800,Selah Strong,SS0176,Federalist,A01,4,4,0,0.0
+ny.uscongress3.1800,1800,William Bayard,BW0025,null,null,3,3,0,0.0
+ny.uscongress4.1800,1800,Conrad E. Elmendorf,EC0014,Republican,A03,1,1,0,0.0
+ny.uscongress4.1800,1800,Isaac Hardenberg,HI0009,Federalist,A01,1,1,0,0.0
+ny.uscongress4.1800,1800,Jacob Ford,FJ0173,Federalist,A01,2,2,0,0.0
+ny.uscongress4.1800,1800,James Oliver,OJ0059,Federalist,A01,2,2,0,0.0
+ny.uscongress4.1800,1800,John Hathorn,HJ0485,Federalist,A01,2026,2026,0,0.0
+ny.uscongress4.1800,1800,John Thompson,TJ0017,Federalist,A01,2,2,0,0.0
+ny.uscongress4.1800,1800,Leonard Bronk,BL0041,Federalist,A01,178,178,0,0.0
+ny.uscongress4.1800,1800,Lucas Elmendorf,EL0004,Republican,A03,3305,3305,0,0.0
+ny.uscongress4.1800,1800,Patrick Lamb,LP0038,Federalist,A01,1,1,0,0.0
+ny.uscongress4.1800,1800,Thomas Broadhead,BT0181,Federalist,A01,2,2,0,0.0
+ny.uscongress4.1800,1800,William Thompson,TW0052,Federalist,A01,2,2,0,0.0
+ny.uscongress5.1800,1800,David Brooks,BD0076,Federalist,A01,1244,1244,0,0.0
+ny.uscongress5.1800,1800,Jonathan Owen,OJ0069,null,null,1,1,0,0.0
+ny.uscongress5.1800,1800,Richard D'Cantillion,DR0026,Federalist,A01,1,1,0,0.0
+ny.uscongress5.1800,1800,Thomas Tilloston,TT0054,Republican,A03,1991,1991,0,0.0
+ny.uscongress6.1800,1800,Derick Gardiner,GD0038,Federalist,A01,1,1,0,0.0
+ny.uscongress6.1800,1800,Derick Lane,LD0001,Federalist,A01,1,1,0,0.0
+ny.uscongress6.1800,1800,Edward Livingston,LE0052,null,null,1,1,0,0.0
+ny.uscongress6.1800,1800,Ezekiel Gilbert,GE0066,Federalist,A01,1,1,0,0.0
+ny.uscongress6.1800,1800,Henry K. Van Rensselaer,VH0031,null,null,1,1,0,0.0
+ny.uscongress6.1800,1800,Henry W. Livingston,LH0032,Federalist,A01,2085,2085,0,0.0
+ny.uscongress6.1800,1800,James Savage,SJ0643,Federalist,A01,1,1,0,0.0
+ny.uscongress6.1800,1800,John Bird,BJ0683,Federalist,A01,2456,2456,0,0.0
+ny.uscongress6.1800,1800,John Bud,BJ0562,null,null,5,5,0,0.0
+ny.uscongress6.1800,1800,John Lovitt,LJ0221,Federalist,A01,1,1,0,0.0
+ny.uscongress6.1800,1800,Robert Yates,YR0003,Republican,A03,2,2,0,0.0
+ny.uscongress6.1800,1800,Walter M. Livingston,LW0009,null,null,1,1,0,0.0
+ny.uscongress7.1800,1800,Benjamin Mooers,MB0043,Republican,A03,4,4,0,0.0
+ny.uscongress7.1800,1800,Benjamin Stafford,SB0020,null,null,2,2,0,0.0
+ny.uscongress7.1800,1800,Caleb Nichols,NC0015,null,null,1,1,0,0.0
+ny.uscongress7.1800,1800,David Congress,CD0009,null,null,1,1,0,0.0
+ny.uscongress7.1800,1800,David Hopkins,HD0052,Federalist,A01,12,12,0,0.0
+ny.uscongress7.1800,1800,David Thomas,TD0045,Republican,A03,2987,2987,0,0.0
+ny.uscongress7.1800,1800,David Thompson,TD0064,null,null,6,6,0,0.0
+ny.uscongress7.1800,1800,Ebenezer Russell,RE0047,Federalist,A01,1,1,0,0.0
+ny.uscongress7.1800,1800,Gerrit G. Lansing,LG0008,Federalist,A01,1,1,0,0.0
+ny.uscongress7.1800,1800,Hezekiah Middlebox,MH0014,null,null,1,1,0,0.0
+ny.uscongress7.1800,1800,James Gordon,GJ0267,null,null,9,9,0,0.0
+ny.uscongress7.1800,1800,John Ten Broeck,TJ0200,Republican,A03,1,1,0,0.0
+ny.uscongress7.1800,1800,John Thompson,TJ0297,Republican,A03,78,78,0,0.0
+ny.uscongress7.1800,1800,John Williams,WJ0409,Federalist,A01,2810,2810,0,0.0
+ny.uscongress7.1800,1800,Richard Macumber,MR0011,null,null,1,1,0,0.0
+ny.uscongress7.1800,1800,Robert Yates,YR0003,Republican,A03,7,7,0,0.0
+ny.uscongress7.1800,1800,Stephen Lush,LS0053,null,null,10,10,0,0.0
+ny.uscongress7.1800,1800,Thomas Tredwell,TT0055,null,null,1,1,0,0.0
+ny.uscongress8.1800,1800,Charles Vorce,VC0011,null,null,1,1,0,0.0
+ny.uscongress8.1800,1800,George Tiffany,TG0045,Federalist,A01,1113,1113,0,0.0
+ny.uscongress8.1800,1800,Henry Glen,GH0039,Federalist,A01,258,258,0,0.0
+ny.uscongress8.1800,1800,Killian K. Van Rensselaer,VK0000,Federalist,A01,1577,1577,0,0.0
+ny.uscongress8.1800,1800,Robert Yates,YR0003,Republican,A03,3,3,0,0.0
+ny.uscongress8.1800,1800,Silvester Tiffany,TS0018,null,null,1,1,0,0.0
+ny.uscongress8.1800,1800,Stephen Lush,LS0053,Federalist,A01,2,2,0,0.0
+ny.uscongress9.1800,1800,Abraham Arndt,AA0051,null,null,2,2,0,0.0
+ny.uscongress9.1800,1800,Arthur Breese,BA0133,null,null,1,1,0,0.0
+ny.uscongress9.1800,1800,Benjamin Walker,WB0005,Federalist,A01,4241,4241,0,0.0
+ny.uscongress9.1800,1800,Daniel Paris,PD0053,null,null,2,2,0,0.0
+ny.uscongress9.1800,1800,Elijah Welch,WE0014,null,null,1,1,0,0.0
+ny.uscongress9.1800,1800,George Eaker,EG0010,null,null,1,1,0,0.0
+ny.uscongress9.1800,1800,Gerrit Putnam,PG0052,null,null,2,2,0,0.0
+ny.uscongress9.1800,1800,Jacob Eaker,EJ0111,Republican,A03,2274,2274,0,0.0
+ny.uscongress9.1800,1800,Jacob Merkell,MJ0449,null,null,2,2,0,0.0
+ny.uscongress9.1800,1800,James Allen,AJ0205,null,null,2,2,0,0.0
+ny.uscongress9.1800,1800,James Glover,GJ0016,null,null,3,3,0,0.0
+ny.uscongress9.1800,1800,Jedediah Sanger,SJ0678,Federalist,A01,28,28,0,0.0
+ny.uscongress9.1800,1800,John T. Vischer,VJ0063,null,null,2,2,0,0.0
+ny.uscongress9.1800,1800,Jonathan Forman,FJ0003,null,null,6,6,0,0.0
+ny.uscongress9.1800,1800,Joshua Mursereau,MJ0000,null,null,3,3,0,0.0
+ny.uscongress9.1800,1800,Nathaniel Walker,WN0040,null,null,1,1,0,0.0
+ny.uscongress9.1800,1800,Thomas Converse,CT0158,Republican,A03,51,51,0,0.0
+ny.uscongress9.1800,1800,Thomas Walker,WT0031,null,null,1,1,0,0.0

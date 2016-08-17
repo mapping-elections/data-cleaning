@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Randall S. Street,SR0169,Clintonian,A05,1299
+2,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William H. Johnson,JW0036,Republican,A03,825
+3,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Obadiah Quimby,QO0000,null,null,4
+4,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,A. Campbell,CA0096,null,null,1
+5,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Albert Cocker,CA0173,null,null,1
+6,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Cornelius,CJ0600,null,null,1
+7,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Darius Crosby,CD0100,null,null,NA
+8,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Strong,SJ0778,null,null,1
+9,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hart Weed,WH0043,null,null,NA
+10,Dutchess,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,blank,null,null,null,3
+1,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Randall S. Street,SR0169,Clintonian,A05,91
+2,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William H. Johnson,JW0036,Republican,A03,531
+3,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Obadiah Quimby,QO0000,null,null,NA
+4,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,A. Campbell,CA0096,null,null,NA
+5,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Albert Cocker,CA0173,null,null,NA
+6,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Cornelius,CJ0600,null,null,NA
+7,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Darius Crosby,CD0100,null,null,1
+8,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Strong,SJ0778,null,null,NA
+9,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hart Weed,WH0043,null,null,1
+10,Putnam,ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,blank,null,null,null,NA

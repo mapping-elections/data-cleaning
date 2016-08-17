@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress6.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,"John Hallock, Jr.",HJ0600,Republican,A03,1,Six,2105
+ny.uscongress6.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Hector Craig,CH0107,Clintonian/Federalist,A05,2,Six,1978
+ny.uscongress6.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Walter Case,CW0169,Republican,A03,3,Six,374

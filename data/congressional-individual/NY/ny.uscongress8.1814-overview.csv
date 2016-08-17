@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress8.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Erastus Root,RE0049,Republican,A03,1,2214
+ny.uscongress8.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Adams,AJ0206,Federalist,A01,2,1968
+ny.uscongress8.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Coltso,CJ0421,null,null,3,1

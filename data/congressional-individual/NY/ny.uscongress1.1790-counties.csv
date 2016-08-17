@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Townsend,TJ0286,Federalist,A01,6
+2,Kings,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,209
+3,Kings,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,83
+4,Kings,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,7
+5,Kings,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,1
+1,Queens,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Townsend,TJ0286,Federalist,A01,581
+2,Queens,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,64
+3,Queens,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,47
+4,Queens,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,45
+5,Queens,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,139
+1,Richmond,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Townsend,TJ0286,Federalist,A01,NA
+2,Richmond,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,54
+3,Richmond,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,23
+4,Richmond,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,NA
+5,Richmond,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,NA
+1,Suffolk,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Townsend,TJ0286,Federalist,A01,5
+2,Suffolk,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,NA
+3,Suffolk,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,166
+4,Suffolk,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,232
+5,Suffolk,ny.uscongress1.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,7

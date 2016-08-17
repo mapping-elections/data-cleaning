@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,1,Nine,3628
+ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Richard Van Horne,VR0018,Federalist,A01,2,Nine,3329
+ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Douw Van Vechten,VD0026,null,null,3,Nine,2
+ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Pifer,PP0037,null,null,4,Nine,1

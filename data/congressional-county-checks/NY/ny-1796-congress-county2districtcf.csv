@@ -1,0 +1,25 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress7.1796,1796,Henry Glenn,GH0039,Federalist,A01,342,480,138,0.29
+ny.uscongress1.1796,1796,Jonathan Havens,HJ0499,Republican,A03,1259,1259,0,0.0
+ny.uscongress1.1796,1796,Selah Strong,SS0176,Federalist,A01,648,648,0,0.0
+ny.uscongress10.1796,1796,Charles Williamson,WC0053,Republican,A03,40,40,0,0.0
+ny.uscongress10.1796,1796,James Cochran,CJ0481,Federalist,A01,2993,2993,0,0.0
+ny.uscongress10.1796,1796,William Cooper,CW0154,Federalist,A01,2975,2975,0,0.0
+ny.uscongress2.1796,1796,Edward Livingston,LE0044,Republican,A03,2362,2362,0,0.0
+ny.uscongress2.1796,1796,James Watson,WJ0412,Federalist,A01,1812,1812,0,0.0
+ny.uscongress3.1796,1796,Philip Van Cortlandt,VP0041,Republican,A03,1016,1016,0,0.0
+ny.uscongress3.1796,1796,Samuel Haight,HS0136,Federalist,A01,1003,1003,0,0.0
+ny.uscongress4.1796,1796,Conrad E. Elmendorf,EC0014,Federalist,A01,1514,1514,0,0.0
+ny.uscongress4.1796,1796,Lucas Elmendorf,EL0004,Republican,A03,1937,1937,0,0.0
+ny.uscongress5.1796,1796,David Brooks,BD0076,Federalist,A01,1220,1220,0,0.0
+ny.uscongress5.1796,1796,Theodorus Bailey,BT0171,Republican,A03,1018,1018,0,0.0
+ny.uscongress6.1796,1796,Hezekiah L. Hosmer,HH0037,Federalist,A01,1036,1036,0,0.0
+ny.uscongress6.1796,1796,John P. Van Ness,VJ0182,Republican,A03,758,758,0,0.0
+ny.uscongress6.1796,1796,scattering,null,null,null,16,16,0,0.0
+ny.uscongress7.1796,1796,Peter Swart,SP0063,Republican,A03,138,138,0,0.0
+ny.uscongress8.1796,1796,John E. Van Alen,VJ0202,Federalist,A01,1680,1680,0,0.0
+ny.uscongress8.1796,1796,John Woodworth,WJ0439,Republican,A03,1155,1155,0,0.0
+ny.uscongress9.1796,1796,Douw I. Fonda,FD0017,Republican,A03,209,209,0,0.0
+ny.uscongress9.1796,1796,Ebenezer Russell,RE0047,Federalist,A01,17,17,0,0.0
+ny.uscongress9.1796,1796,James Gordon,GJ0267,Federalist,A01,575,575,0,0.0
+ny.uscongress9.1796,1796,John Williams,WJ0409,Federalist,A01,1318,1318,0,0.0

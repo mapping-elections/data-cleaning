@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,Republican,A03,1,Fifteen,4768
+ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,Federalist,A01,2,Fifteen,3331
+ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,null,null,3,Fifteen,5
+ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathaniel F. Norton,NN0002,null,null,4,Fifteen,1
+ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philetus Swift,SP0092,null,null,5,Fifteen,1
+ny.uscongress15.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William C. Wiley,WW0231,null,null,6,Fifteen,1

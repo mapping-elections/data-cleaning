@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Cornelius C. Schoonmaker,SC0076,Anti-Federalist,A02,522
+2,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Van Gaesbeck,VP0015,Federalist,A01,20
+3,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Federalist,A01,61
+4,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Christopher Tappen,TC0039,Anti-Federalist,A02,13
+5,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Arnold,AW0049,null,null,1
+6,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,P. Tappen,TP0033,null,null,1
+7,Orange,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,W. Thompson,TW0052,null,null,1
+1,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Cornelius C. Schoonmaker,SC0076,Anti-Federalist,A02,376
+2,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Van Gaesbeck,VP0015,Federalist,A01,733
+3,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Federalist,A01,NA
+4,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Christopher Tappen,TC0039,Anti-Federalist,A02,NA
+5,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Arnold,AW0049,null,null,NA
+6,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,P. Tappen,TP0033,null,null,NA
+7,Ulster,ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,W. Thompson,TW0052,null,null,NA

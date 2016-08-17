@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress13.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Hermanus Peck,PH0032,Republican,A03,1,2136
+ny.uscongress13.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Isaac H. Tiffany,TI0025,Federalist,A01,2,1683
+ny.uscongress13.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Peaslee,PJ0380,null,null,3,1

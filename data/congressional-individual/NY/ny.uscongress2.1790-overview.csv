@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress2.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Laurence,LJ0218,Federalist,A01,1,691
+ny.uscongress2.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Melancton Smith,SM0075,Anti-Federalist,A02,2,11

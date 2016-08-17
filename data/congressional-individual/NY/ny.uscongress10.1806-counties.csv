@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rensselaer,ny.uscongress10.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Josiah Masters,MJ0439,Republican,A03,1284
+2,Rensselaer,ny.uscongress10.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Hosea Moffet,MH0061,Federalist,A01,1221
+3,Rensselaer,ny.uscongress10.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,6
+4,Rensselaer,ny.uscongress10.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Isaac Danforth,DI0012,null,null,1
+5,Rensselaer,ny.uscongress10.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Joseph Sheldon,SJ0587,null,null,1

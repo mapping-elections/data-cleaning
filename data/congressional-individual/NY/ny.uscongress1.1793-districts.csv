@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress1.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Republican,A03,1,One,1446
+ny.uscongress1.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,2,One,769
+ny.uscongress1.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Harry Peters,PH0027,Federalist,A01,3,One,673

@@ -1,0 +1,146 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,794
+2,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Republican,A03,728
+3,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Russell,RD0032,Federalist,A01,136
+4,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Halsey Rogers,RH0033,Republican,A03,25
+5,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rosekrantz and Adams,null,null,null,11
+6,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,NA
+7,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Doty,DJ0233,null,null,NA
+8,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,1
+9,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,null,null,4
+10,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,NA
+11,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Brownson,BE0236,null,null,2
+12,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James MacNaughton,MJ0511,null,null,NA
+13,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Michal Beadle,BM0053,null,null,NA
+14,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Beshal,BJ0822,null,null,NA
+15,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Clark,CE0141,null,null,NA
+16,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Fitch,FA0038,null,null,NA
+17,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George,null,null,null,1
+18,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Hoffnagle,HJ0576,null,null,NA
+19,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Charles F. Ingalls,IC0004,null,null,NA
+20,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Leavens,LB0026,null,null,NA
+21,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Royal Levins,LR0040,null,null,NA
+22,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+23,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jabez Rogers,RJ0395,null,null,NA
+24,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Polly Rogers,RP0024,null,null,NA
+25,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rawley Rogers,RR0079,null,null,NA
+26,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Russell,RJ0209,null,null,NA
+27,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Sackrider,SR0111,null,null,NA
+28,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roswell Weston,WR0034,null,null,NA
+29,Clinton,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Whallon,WR0094,null,null,1
+1,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,320
+2,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Republican,A03,855
+3,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Russell,RD0032,Federalist,A01,597
+4,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Halsey Rogers,RH0033,Republican,A03,7
+5,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rosekrantz and Adams,null,null,null,NA
+6,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,7
+7,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Doty,DJ0233,null,null,6
+8,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,NA
+9,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,null,null,NA
+10,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,NA
+11,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Brownson,BE0236,null,null,NA
+12,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James MacNaughton,MJ0511,null,null,NA
+13,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Michal Beadle,BM0053,null,null,NA
+14,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Beshal,BJ0822,null,null,NA
+15,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Clark,CE0141,null,null,NA
+16,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Fitch,FA0038,null,null,NA
+17,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George,null,null,null,NA
+18,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Hoffnagle,HJ0576,null,null,1
+19,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Charles F. Ingalls,IC0004,null,null,NA
+20,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Leavens,LB0026,null,null,NA
+21,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Royal Levins,LR0040,null,null,NA
+22,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+23,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jabez Rogers,RJ0395,null,null,1
+24,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Polly Rogers,RP0024,null,null,NA
+25,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rawley Rogers,RR0079,null,null,1
+26,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Russell,RJ0209,null,null,NA
+27,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Sackrider,SR0111,null,null,NA
+28,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roswell Weston,WR0034,null,null,NA
+29,Essex,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Whallon,WR0094,null,null,NA
+1,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,501
+2,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Republican,A03,194
+3,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Russell,RD0032,Federalist,A01,209
+4,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Halsey Rogers,RH0033,Republican,A03,114
+5,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rosekrantz and Adams,null,null,null,NA
+6,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,NA
+7,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Doty,DJ0233,null,null,NA
+8,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,3
+9,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,null,null,1
+10,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,3
+11,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Brownson,BE0236,null,null,2
+12,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James MacNaughton,MJ0511,null,null,NA
+13,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Michal Beadle,BM0053,null,null,NA
+14,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Beshal,BJ0822,null,null,NA
+15,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Clark,CE0141,null,null,NA
+16,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Fitch,FA0038,null,null,NA
+17,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George,null,null,null,NA
+18,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Hoffnagle,HJ0576,null,null,NA
+19,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Charles F. Ingalls,IC0004,null,null,NA
+20,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Leavens,LB0026,null,null,NA
+21,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Royal Levins,LR0040,null,null,NA
+22,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+23,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jabez Rogers,RJ0395,null,null,NA
+24,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Polly Rogers,RP0024,null,null,NA
+25,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rawley Rogers,RR0079,null,null,NA
+26,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Russell,RJ0209,null,null,NA
+27,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Sackrider,SR0111,null,null,NA
+28,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roswell Weston,WR0034,null,null,NA
+29,Franklin,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Whallon,WR0094,null,null,NA
+1,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,722
+2,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Republican,A03,351
+3,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Russell,RD0032,Federalist,A01,283
+4,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Halsey Rogers,RH0033,Republican,A03,488
+5,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rosekrantz and Adams,null,null,null,NA
+6,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,NA
+7,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Doty,DJ0233,null,null,NA
+8,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,1
+9,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,null,null,NA
+10,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,1
+11,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Brownson,BE0236,null,null,NA
+12,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James MacNaughton,MJ0511,null,null,NA
+13,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Michal Beadle,BM0053,null,null,NA
+14,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Beshal,BJ0822,null,null,NA
+15,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Clark,CE0141,null,null,NA
+16,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Fitch,FA0038,null,null,NA
+17,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George,null,null,null,NA
+18,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Hoffnagle,HJ0576,null,null,NA
+19,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Charles F. Ingalls,IC0004,null,null,NA
+20,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Leavens,LB0026,null,null,NA
+21,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Royal Levins,LR0040,null,null,1
+22,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+23,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jabez Rogers,RJ0395,null,null,NA
+24,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Polly Rogers,RP0024,null,null,NA
+25,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rawley Rogers,RR0079,null,null,NA
+26,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Russell,RJ0209,null,null,NA
+27,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Sackrider,SR0111,null,null,NA
+28,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roswell Weston,WR0034,null,null,NA
+29,Warren,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Whallon,WR0094,null,null,NA
+1,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,1993
+2,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Republican,A03,1615
+3,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Russell,RD0032,Federalist,A01,1174
+4,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Halsey Rogers,RH0033,Republican,A03,341
+5,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rosekrantz and Adams,null,null,null,NA
+6,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,NA
+7,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Doty,DJ0233,null,null,NA
+8,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,1
+9,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,null,null,NA
+10,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,1
+11,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Brownson,BE0236,null,null,NA
+12,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James MacNaughton,MJ0511,null,null,2
+13,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Michal Beadle,BM0053,null,null,1
+14,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Beshal,BJ0822,null,null,1
+15,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Clark,CE0141,null,null,1
+16,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Fitch,FA0038,null,null,1
+17,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George,null,null,null,NA
+18,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Hoffnagle,HJ0576,null,null,NA
+19,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Charles F. Ingalls,IC0004,null,null,1
+20,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Leavens,LB0026,null,null,1
+21,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Royal Levins,LR0040,null,null,NA
+22,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,1
+23,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jabez Rogers,RJ0395,null,null,NA
+24,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Polly Rogers,RP0024,null,null,1
+25,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rawley Rogers,RR0079,null,null,NA
+26,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Russell,RJ0209,null,null,1
+27,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Sackrider,SR0111,null,null,1
+28,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roswell Weston,WR0034,null,null,1
+29,Washington,ny.uscongress12.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Whallon,WR0094,null,null,NA

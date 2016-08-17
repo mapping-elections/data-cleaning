@@ -1,0 +1,86 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,329
+2,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,Republican,A03,319
+3,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip Church,CP0032,Federalist,A01,210
+4,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Graham Newell,NG0013,Federalist,A01,228
+5,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,NA
+6,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Colt,CS0134,Federalist,A01,NA
+7,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+8,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elisha B. Strong,SE0101,null,null,6
+9,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jedediah Prendergast,PJ0324,null,null,NA
+10,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+11,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daviel W. Lewis,LD0014,null,null,1
+12,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,NA
+13,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+14,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+15,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Mallory,MW0219,null,null,NA
+16,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ephraim Hart,HE0087,null,null,NA
+17,Allegany,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Knox,KJ0103,null,null,NA
+1,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,494
+2,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,Republican,A03,356
+3,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip Church,CP0032,Federalist,A01,362
+4,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Graham Newell,NG0013,Federalist,A01,349
+5,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,134
+6,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Colt,CS0134,Federalist,A01,14
+7,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+8,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elisha B. Strong,SE0101,null,null,NA
+9,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jedediah Prendergast,PJ0324,null,null,2
+10,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,2
+11,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daviel W. Lewis,LD0014,null,null,NA
+12,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,NA
+13,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+14,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+15,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Mallory,MW0219,null,null,NA
+16,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ephraim Hart,HE0087,null,null,NA
+17,Chautauque,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Knox,KJ0103,null,null,NA
+1,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,2474
+2,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,Republican,A03,2389
+3,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip Church,CP0032,Federalist,A01,1393
+4,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Graham Newell,NG0013,Federalist,A01,1295
+5,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,102
+6,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Colt,CS0134,Federalist,A01,58
+7,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,39
+8,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elisha B. Strong,SE0101,null,null,NA
+9,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jedediah Prendergast,PJ0324,null,null,NA
+10,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+11,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daviel W. Lewis,LD0014,null,null,NA
+12,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,2
+13,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+14,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,1
+15,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Mallory,MW0219,null,null,1
+16,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ephraim Hart,HE0087,null,null,1
+17,Genesee,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Knox,KJ0103,null,null,1
+1,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,986
+2,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,Republican,A03,696
+3,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip Church,CP0032,Federalist,A01,440
+4,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Graham Newell,NG0013,Federalist,A01,448
+5,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,295
+6,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Colt,CS0134,Federalist,A01,1
+7,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+8,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elisha B. Strong,SE0101,null,null,NA
+9,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jedediah Prendergast,PJ0324,null,null,1
+10,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,1
+11,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daviel W. Lewis,LD0014,null,null,NA
+12,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,NA
+13,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+14,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+15,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Mallory,MW0219,null,null,NA
+16,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ephraim Hart,HE0087,null,null,NA
+17,Niagara,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Knox,KJ0103,null,null,NA
+1,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,4511
+2,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,Republican,A03,4293
+3,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip Church,CP0032,Federalist,A01,3747
+4,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Graham Newell,NG0013,Federalist,A01,3751
+5,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,159
+6,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Colt,CS0134,Federalist,A01,NA
+7,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+8,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elisha B. Strong,SE0101,null,null,NA
+9,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jedediah Prendergast,PJ0324,null,null,NA
+10,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+11,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daviel W. Lewis,LD0014,null,null,1
+12,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,NA
+13,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+14,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+15,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Mallory,MW0219,null,null,NA
+16,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ephraim Hart,HE0087,null,null,NA
+17,Ontario,ny.uscongress21.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Knox,KJ0103,null,null,NA

@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Fay,FJ0059,Republican,A03,79
+2,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Veeder,VJ0064,Federalist,A01,405
+3,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Hackley,HA0093,null,null,NA
+4,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Abraham Morrell,MA0100,null,null,NA
+5,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Harring,HA0096,null,null,NA
+6,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,NA
+7,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Eyegenbroat,EJ0169,null,null,NA
+8,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel Jackson,JS0059,null,null,NA
+9,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,NA
+10,Herkimer,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Wilson,WJ0667,null,null,NA
+1,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Fay,FJ0059,Republican,A03,1959
+2,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Veeder,VJ0064,Federalist,A01,1137
+3,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Hackley,HA0093,null,null,7
+4,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Abraham Morrell,MA0100,null,null,2
+5,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Harring,HA0096,null,null,2
+6,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,1
+7,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Eyegenbroat,EJ0169,null,null,1
+8,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel Jackson,JS0059,null,null,1
+9,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,1
+10,Montgomery,ny.uscongress14.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Wilson,WJ0667,null,null,1

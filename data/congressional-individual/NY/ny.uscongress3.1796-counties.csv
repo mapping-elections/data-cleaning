@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Richmond,ny.uscongress3.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,58
+2,Richmond,ny.uscongress3.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Haight,HS0136,Federalist,A01,144
+1,Westchester,ny.uscongress3.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,958
+2,Westchester,ny.uscongress3.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Haight,HS0136,Federalist,A01,859

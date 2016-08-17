@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Columbia,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philip Schuyler,SP0065,Federalist,A01,2371
+2,Columbia,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Van Alen,VJ0201,Republican,A03,1746
+3,Columbia,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry B. Lee,LH0038,Republican,null,3
+4,Columbia,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry A. Livingston,LH0039,Federalist,A01,1
+5,Columbia,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James D. Livingston,LJ0055,null,null,NA
+1,Dutchess,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philip Schuyler,SP0065,Federalist,A01,783
+2,Dutchess,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Van Alen,VJ0201,Republican,A03,452
+3,Dutchess,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry B. Lee,LH0038,Republican,null,3
+4,Dutchess,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry A. Livingston,LH0039,Federalist,A01,3
+5,Dutchess,ny.uscongress5.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James D. Livingston,LJ0055,null,null,1

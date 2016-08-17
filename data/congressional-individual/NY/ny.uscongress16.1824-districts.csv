@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress16.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Henry Markell,MH0075,Clintonian/Federalist,A05,1,Sixteen,3115
+ny.uscongress16.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William L. Dodge,DW0104,Republican,A03,2,Sixteen,2565
+ny.uscongress16.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William I. Clase,CW0191,null,null,3,Sixteen,1
+ny.uscongress16.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Henry Cunningham,CH0027,null,null,4,Sixteen,1
+ny.uscongress16.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Martin Van Beuren,VM0022,null,null,5,Sixteen,1

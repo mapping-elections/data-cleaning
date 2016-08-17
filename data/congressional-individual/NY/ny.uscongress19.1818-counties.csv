@@ -1,0 +1,57 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George Hall,HG0062,Republican,A03,625
+2,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,H. O. Wattles,WH0087,Federalist,A01,NA
+3,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George O. Wattles,WG0070,null,null,NA
+4,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,NA
+5,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,NA
+6,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Thaddeus M. Wood,WT0135,null,null,NA
+7,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,NA
+8,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Willis Gaylord,GW0094,null,null,NA
+9,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph Reynolds,RJ0331,null,null,4
+10,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William B. Wilkinson,WW0202,null,null,NA
+11,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Victory Birdseye,BV0010,null,null,NA
+12,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joshua Forman,FJ0205,null,null,NA
+13,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Keep,KJ0210,null,null,NA
+14,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Amos Boyce,BA0224,null,null,NA
+15,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Ezra Brackett,BE0106,null,null,NA
+16,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Admiral Coodey,CA0177,null,null,NA
+17,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elicum Edwards,EE0022,null,null,NA
+18,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Jared French,FJ0239,null,null,NA
+19,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Thomas French,FT0039,null,null,1
+20,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,null,null,NA
+21,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Mikah Hotchkiss,HM0097,null,null,1
+22,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Solomon Judd,JS0016,null,null,NA
+23,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Zachariah Kinne,KZ0005,null,null,NA
+24,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Luther Marsh,ML0046,null,null,NA
+25,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,NA
+26,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Jesse Searl,SJ0820,null,null,1
+27,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Lemuel Tyler,TL0028,null,null,NA
+28,Cortland,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Billy Watson,WB0071,null,null,1
+1,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George Hall,HG0062,Republican,A03,1667
+2,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,H. O. Wattles,WH0087,Federalist,A01,49
+3,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George O. Wattles,WG0070,null,null,8
+4,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,6
+5,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,5
+6,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Thaddeus M. Wood,WT0135,null,null,5
+7,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,4
+8,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Willis Gaylord,GW0094,null,null,4
+9,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph Reynolds,RJ0331,null,null,NA
+10,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William B. Wilkinson,WW0202,null,null,4
+11,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Victory Birdseye,BV0010,null,null,2
+12,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joshua Forman,FJ0205,null,null,2
+13,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Keep,KJ0210,null,null,2
+14,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Amos Boyce,BA0224,null,null,1
+15,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Ezra Brackett,BE0106,null,null,1
+16,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Admiral Coodey,CA0177,null,null,1
+17,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elicum Edwards,EE0022,null,null,1
+18,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Jared French,FJ0239,null,null,1
+19,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Thomas French,FT0039,null,null,NA
+20,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,null,null,1
+21,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Mikah Hotchkiss,HM0097,null,null,NA
+22,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Solomon Judd,JS0016,null,null,1
+23,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Zachariah Kinne,KZ0005,null,null,1
+24,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Luther Marsh,ML0046,null,null,1
+25,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,1
+26,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Jesse Searl,SJ0820,null,null,NA
+27,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Lemuel Tyler,TL0028,null,null,1
+28,Onondaga,ny.uscongress19.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Billy Watson,WB0071,null,null,NA

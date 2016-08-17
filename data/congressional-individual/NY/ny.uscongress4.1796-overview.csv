@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress4.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Lucas Elmendorf,EL0004,Republican,A03,1,1937
+ny.uscongress4.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Conrad E. Elmendorf,EC0014,Federalist,A01,2,1514

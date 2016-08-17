@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,null,null,1,1297
+ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ebenezer Russell,RE0047,null,null,2,1079
+ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Webster,WA0107,Republican,A03,3,305

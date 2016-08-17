@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress25.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 25",U.S. House of Representatives,ON125,Samuel Lawrence,LS0060,Clintonian/Federalist,A05,1,Twenty Five,2449
+ny.uscongress25.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 25",U.S. House of Representatives,ON125,David Woodcock,WD0058,Republican,A03,2,Twenty Five,2215
+ny.uscongress25.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 25",U.S. House of Representatives,ON125,Latham A. Burrows,BL0045,null,null,3,Twenty Five,1

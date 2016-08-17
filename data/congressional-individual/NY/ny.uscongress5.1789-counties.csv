@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,504
+2,Albany,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Matthew Adgate,AM0007,Anti-Federalist,A02,530
+3,Albany,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Williams,WJ0409,Anti-Federalist,A02,NA
+1,Clinton,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,23
+2,Clinton,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Matthew Adgate,AM0007,Anti-Federalist,A02,NA
+3,Clinton,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Williams,WJ0409,Anti-Federalist,A02,36
+1,Columbia,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,954
+2,Columbia,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Matthew Adgate,AM0007,Anti-Federalist,A02,723
+3,Columbia,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Williams,WJ0409,Anti-Federalist,A02,NA
+1,Washington,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,147
+2,Washington,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Matthew Adgate,AM0007,Anti-Federalist,A02,248
+3,Washington,ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Williams,WJ0409,Anti-Federalist,A02,14

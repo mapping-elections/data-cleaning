@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cayuga,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,Republican,A03,506
+2,Cayuga,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,410
+3,Cayuga,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Stuart,SW0043,Republican,A03,647
+1,Ontario,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,Republican,A03,868
+2,Ontario,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,906
+3,Ontario,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Stuart,SW0043,Republican,A03,68
+1,Steuben,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,Republican,A03,178
+2,Steuben,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,74
+3,Steuben,ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Stuart,SW0043,Republican,A03,87

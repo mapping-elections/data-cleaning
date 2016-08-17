@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Queens,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,738
+2,Queens,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John P. Osborne,OJ0078,Republican,A03,627
+3,Queens,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Lent,LJ0255,null,null,NA
+4,Queens,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles Smith,SC0149,null,null,NA
+1,Suffolk,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Silas Wood,WS0120,Clintonian/Federalist,A05,651
+2,Suffolk,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John P. Osborne,OJ0078,Republican,A03,726
+3,Suffolk,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Lent,LJ0255,null,null,1
+4,Suffolk,ny.uscongress1.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles Smith,SC0149,null,null,1

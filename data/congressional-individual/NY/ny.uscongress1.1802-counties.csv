@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Queens,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ0689,Republican,A03,397
+2,Queens,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Schenck,SJ0636,null,null,NA
+3,Queens,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Hulet,HO0027,null,null,3
+4,Queens,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,3
+5,Queens,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Morris Fosdyck,FM0017,null,null,NA
+6,Queens,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Hudson,HO0026,null,null,NA
+1,Suffolk,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ0689,Republican,A03,1133
+2,Suffolk,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Schenck,SJ0636,null,null,5
+3,Suffolk,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Hulet,HO0027,null,null,NA
+4,Suffolk,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,NA
+5,Suffolk,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Morris Fosdyck,FM0017,null,null,1
+6,Suffolk,ny.uscongress1.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Hudson,HO0026,null,null,1

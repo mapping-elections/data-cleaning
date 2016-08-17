@@ -1,0 +1,43 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Hawks,HJ0588,Republican,A03,658
+2,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel Campbell,CS0136,Republican,A03,650
+3,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Monell,MR0076,Clintonian/Federalist,A05,639
+4,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Alvan Stewart,SA0146,Clintonian/Federalist,A05,628
+5,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Cannull Campbell,CC0068,null,null,NA
+6,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Farrand Stranahan,SF0026,null,null,NA
+7,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,1
+8,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,1
+9,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jacob Skinner,SJ0695,null,null,NA
+10,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abel Deforest,FA0005,null,null,NA
+11,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,David Buttolph,BD0091,null,null,NA
+12,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Lake,LJ0376,null,null,NA
+13,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Wells Lake,LW0111,null,null,NA
+14,Broome,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,V. P. Van Rensselaer,VV0002,null,null,NA
+1,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Hawks,HJ0588,Republican,A03,1843
+2,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel Campbell,CS0136,Republican,A03,1755
+3,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Monell,MR0076,Clintonian/Federalist,A05,1343
+4,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Alvan Stewart,SA0146,Clintonian/Federalist,A05,1265
+5,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Cannull Campbell,CC0068,null,null,9
+6,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Farrand Stranahan,SF0026,null,null,1
+7,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,NA
+8,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,NA
+9,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jacob Skinner,SJ0695,null,null,1
+10,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abel Deforest,FA0005,null,null,1
+11,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,David Buttolph,BD0091,null,null,1
+12,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Lake,LJ0376,null,null,1
+13,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Wells Lake,LW0111,null,null,NA
+14,Chenango,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,V. P. Van Rensselaer,VV0002,null,null,NA
+1,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Hawks,HJ0588,Republican,A03,2862
+2,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel Campbell,CS0136,Republican,A03,2817
+3,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Monell,MR0076,Clintonian/Federalist,A05,2202
+4,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Alvan Stewart,SA0146,Clintonian/Federalist,A05,2145
+5,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Cannull Campbell,CC0068,null,null,NA
+6,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Farrand Stranahan,SF0026,null,null,1
+7,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,NA
+8,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,NA
+9,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jacob Skinner,SJ0695,null,null,NA
+10,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abel Deforest,FA0005,null,null,NA
+11,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,David Buttolph,BD0091,null,null,NA
+12,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Lake,LJ0376,null,null,NA
+13,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Wells Lake,LW0111,null,null,1
+14,Otsego,ny.uscongress15.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,V. P. Van Rensselaer,VV0002,null,null,1

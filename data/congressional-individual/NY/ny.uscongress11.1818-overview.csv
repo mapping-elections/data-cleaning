@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress11.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John W. Taylor,TJ0328,Republican,A03,1,2282
+ny.uscongress11.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Thompson,TJ0345,Federalist,A01,2,851
+ny.uscongress11.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James MacCrea,MJ0466,null,null,3,37
+ny.uscongress11.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Moon,MT0080,null,null,4,1

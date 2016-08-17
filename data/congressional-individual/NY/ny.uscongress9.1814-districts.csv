@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress9.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Lovett,LJ0221,Federalist,A01,1,Nine,1777
+ny.uscongress9.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Tillotson,TR0052,Republican,A03,2,Nine,1003
+ny.uscongress9.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Garrit W. Van Wie,VG0016,null,null,3,Nine,1
+ny.uscongress9.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Walton,WH0016,null,null,4,Nine,1

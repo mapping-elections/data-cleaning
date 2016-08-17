@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Schenectady,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Lewis Eaton,EL0013,Republican,A03,913
+2,Schenectady,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nicholas F. Beck,BN0073,Clintonian/Federalist,A05,717
+3,Schenectady,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry R. Teller,TH0026,Clintonian/Federalist,A05,59
+4,Schenectady,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gideon Holladay,HG0077,null,null,19
+1,Schoharie,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Lewis Eaton,EL0013,Republican,A03,1920
+2,Schoharie,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nicholas F. Beck,BN0073,Clintonian/Federalist,A05,877
+3,Schoharie,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry R. Teller,TH0026,Clintonian/Federalist,A05,17
+4,Schoharie,ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gideon Holladay,HG0077,null,null,14

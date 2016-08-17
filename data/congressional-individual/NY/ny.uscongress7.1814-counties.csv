@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel R. Betts,BS0203,Republican,A03,469
+2,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Elnathan Sears,SE0056,Federalist,A01,307
+3,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel S. Freer,FS0031,null,null,NA
+4,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ch. Bruyn,BC0067,null,null,NA
+5,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Cornelius Cole,CC0053,null,null,NA
+6,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Harris,HA0119,null,null,NA
+7,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Caleb Merritt,MC0029,null,null,NA
+8,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Benjamin J. Moore,MB0019,null,null,NA
+9,Sullivan,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Scott,SJ0575,null,null,NA
+1,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel R. Betts,BS0203,Republican,A03,1483
+2,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Elnathan Sears,SE0056,Federalist,A01,1192
+3,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel S. Freer,FS0031,null,null,2
+4,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ch. Bruyn,BC0067,null,null,1
+5,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Cornelius Cole,CC0053,null,null,1
+6,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Harris,HA0119,null,null,1
+7,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Caleb Merritt,MC0029,null,null,1
+8,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Benjamin J. Moore,MB0019,null,null,1
+9,Ulster,ny.uscongress7.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Scott,SJ0575,null,null,1

@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1,Ten,1305
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Josiah Masters,MJ0439,Republican,A03,2,Ten,1244
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert Woodworth,WR0068,null,null,3,Ten,3
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Lovet,LJ0221,null,null,4,Ten,1
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John MacCoun,MJ0518,null,null,5,Ten,1
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Main,MJ0362,null,null,6,Ten,1
+ny.uscongress10.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Winne,WJ0596,null,null,7,Ten,1

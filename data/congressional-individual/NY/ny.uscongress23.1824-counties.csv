@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Onondaga,ny.uscongress23.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Luther Badger,BL0047,Clintonian/Federalist,A05,3214
+2,Onondaga,ny.uscongress23.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Elisha Litchfield,LE0066,Republican,A03,3117
+3,Onondaga,ny.uscongress23.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Henry DePew,DH0041,null,null,1
+4,Onondaga,ny.uscongress23.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Daniel Kellog,KD0023,null,null,1

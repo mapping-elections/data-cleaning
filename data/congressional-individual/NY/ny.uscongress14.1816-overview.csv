@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress14.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Herkimer,HJ0524,Republican,A03,1,2579
+ny.uscongress14.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Richard Van Horn,VR0018,Federalist,A01,2,2495
+ny.uscongress14.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John MacCarthy,MJ1094,null,null,3,1
+ny.uscongress14.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,null,null,4,1

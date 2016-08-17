@@ -1,0 +1,70 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Isaac Williams,WI0029,Republican,A03,686
+2,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Drake,DJ0329,Republican,A03,675
+3,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Clapp,CJ0521,Federalist,A01,741
+4,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Hyde,HJ0565,Federalist,A01,742
+5,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Amos Franklin,FA0078,null,null,NA
+6,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Houghteling,HJ0464,null,null,NA
+7,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,NA
+8,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel Ladd,LS0067,null,null,NA
+9,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Asa North,NA0043,null,null,NA
+10,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel A. Smith,SS0103,null,null,NA
+11,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+12,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer Wakely,WE0091,null,null,NA
+13,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Chamberlain,CW0167,null,null,1
+14,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Reuben Dodge,DR0052,null,null,NA
+15,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,"Peter Swart, Jr.",SP0094,null,null,NA
+16,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,"Edward Pratt, Jr.",PE0074,null,null,NA
+18,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Stephen O. Runyan,RS0055,null,null,NA
+19,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+20,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joel Thompson,TJ0323,null,null,NA
+21,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+22,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Vanderlyn,VH0021,null,null,NA
+23,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joseph White,WJ0423,null,null,NA
+24,Broome,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George D. Wickham,WG0064,null,null,NA
+1,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Isaac Williams,WI0029,Republican,A03,1609
+2,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Drake,DJ0329,Republican,A03,1609
+3,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Clapp,CJ0521,Federalist,A01,1001
+4,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Hyde,HJ0565,Federalist,A01,1007
+5,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Amos Franklin,FA0078,null,null,2
+6,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Houghteling,HJ0464,null,null,2
+7,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,1
+8,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel Ladd,LS0067,null,null,2
+9,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Asa North,NA0043,null,null,2
+10,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel A. Smith,SS0103,null,null,2
+11,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1
+12,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer Wakely,WE0091,null,null,2
+13,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Chamberlain,CW0167,null,null,NA
+14,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Reuben Dodge,DR0052,null,null,NA
+15,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,"Peter Swart, Jr.",SP0094,null,null,1
+16,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,"Edward Pratt, Jr.",PE0074,null,null,NA
+18,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Stephen O. Runyan,RS0055,null,null,1
+19,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,1
+20,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joel Thompson,TJ0323,null,null,1
+21,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+22,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Vanderlyn,VH0021,null,null,1
+23,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joseph White,WJ0423,null,null,NA
+24,Chenango,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George D. Wickham,WG0064,null,null,1
+1,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Isaac Williams,WI0029,Republican,A03,2732
+2,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Drake,DJ0329,Republican,A03,2735
+3,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Clapp,CJ0521,Federalist,A01,2674
+4,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Hyde,HJ0565,Federalist,A01,2667
+5,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Amos Franklin,FA0078,null,null,NA
+6,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Houghteling,HJ0464,null,null,NA
+7,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,1
+8,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel Ladd,LS0067,null,null,NA
+9,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Asa North,NA0043,null,null,NA
+10,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Samuel A. Smith,SS0103,null,null,NA
+11,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1
+12,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ebenezer Wakely,WE0091,null,null,NA
+13,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Chamberlain,CW0167,null,null,NA
+14,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Reuben Dodge,DR0052,null,null,1
+15,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,"Peter Swart, Jr.",SP0094,null,null,NA
+16,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,"Edward Pratt, Jr.",PE0074,null,null,2
+18,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Stephen O. Runyan,RS0055,null,null,NA
+19,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+20,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joel Thompson,TJ0323,null,null,NA
+21,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+22,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Vanderlyn,VH0021,null,null,NA
+23,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joseph White,WJ0423,null,null,1
+24,Otsego,ny.uscongress15.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George D. Wickham,WG0064,null,null,NA

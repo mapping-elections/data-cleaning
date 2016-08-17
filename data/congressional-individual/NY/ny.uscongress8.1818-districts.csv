@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Clark,CR0084,Republican,A03,1,Eight,1799
+ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jabez Bostwick,BJ0769,Federalist,A01,2,Eight,1442
+ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,null,null,3,Eight,4
+ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Thomas Landon, Jr.",LT0077,null,null,4,Eight,1
+ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Isaac Ogden,OI0002,null,null,5,Eight,1

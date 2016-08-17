@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,New York,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchill,MS0108,Republican,A03,5256
+2,New York,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"William Paulding, Jr.",PW0169,Republican,A03,5207
+3,New York,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Coles,CJ0493,Federalist,A01,5245
+4,New York,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter Jay,JP0004,Federalist,A01,5226
+1,Richmond,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchill,MS0108,Republican,A03,338
+2,Richmond,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"William Paulding, Jr.",PW0169,Republican,A03,338
+3,Richmond,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Coles,CJ0493,Federalist,A01,326
+4,Richmond,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter Jay,JP0004,Federalist,A01,326
+1,Rockland,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchill,MS0108,Republican,A03,632
+2,Rockland,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"William Paulding, Jr.",PW0169,Republican,A03,630
+3,Rockland,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Coles,CJ0493,Federalist,A01,53
+4,Rockland,ny.uscongress2.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter Jay,JP0004,Federalist,A01,49

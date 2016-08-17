@@ -1,0 +1,40 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,674
+2,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Bayard,BS0186,Federalist,A01,362
+3,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Morton,MJ0446,Federalist,A01,66
+4,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,Republican,A03,47
+5,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,NA
+6,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Haight,HS0136,Federalist,A01,NA
+7,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Selah Strong,SS0176,Federalist,A01,NA
+8,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Bayard,BW0025,null,null,NA
+9,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Graham,GR0078,Federalist,A01,NA
+10,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathan Rockwell,RN0022,Federalist,A01,NA
+11,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elijah Ward,WE0084,Federalist,A01,NA
+12,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"John Woolsey, Jr.",WJ0437,Federalist,A01,NA
+13,New York,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Teed,TC0041,Federalist,A01,NA
+1,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,281
+2,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Bayard,BS0186,Federalist,A01,3
+3,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Morton,MJ0446,Federalist,A01,NA
+4,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,Republican,A03,NA
+5,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,NA
+6,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Haight,HS0136,Federalist,A01,NA
+7,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Selah Strong,SS0176,Federalist,A01,NA
+8,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Bayard,BW0025,null,null,NA
+9,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Graham,GR0078,Federalist,A01,NA
+10,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathan Rockwell,RN0022,Federalist,A01,NA
+11,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elijah Ward,WE0084,Federalist,A01,NA
+12,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"John Woolsey, Jr.",WJ0437,Federalist,A01,NA
+13,Rockland,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Teed,TC0041,Federalist,A01,NA
+1,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,1115
+2,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Bayard,BS0186,Federalist,A01,1035
+3,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Morton,MJ0446,Federalist,A01,NA
+4,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,Republican,A03,NA
+5,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,5
+6,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Haight,HS0136,Federalist,A01,4
+7,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Selah Strong,SS0176,Federalist,A01,4
+8,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Bayard,BW0025,null,null,3
+9,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Graham,GR0078,Federalist,A01,3
+10,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathan Rockwell,RN0022,Federalist,A01,3
+11,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elijah Ward,WE0084,Federalist,A01,3
+12,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"John Woolsey, Jr.",WJ0437,Federalist,A01,3
+13,Westchester,ny.uscongress3.1800,1800,1800,General,"New York 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Teed,TC0041,Federalist,A01,2

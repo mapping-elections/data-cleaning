@@ -1,0 +1,27 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Clark,CL0046,Republican,A03,791
+2,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Campbell,CS0136,Clintonian/Federalist,A05,130
+3,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tracey,TJ0206,null,null,NA
+4,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Burlington,BC0114,null,null,NA
+5,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Festus Cone,CF0023,null,null,NA
+6,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joshua Lamb,LJ0294,null,null,NA
+7,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Amos Baldwin,BA0104,null,null,NA
+8,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hona Chubbock,CH0032,null,null,NA
+9,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Noah Ely,EN0024,null,null,NA
+10,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Howland,HB0076,null,null,NA
+11,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Robert Monell,MR0076,null,null,NA
+12,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Smith,ST0043,null,null,NA
+13,Broome,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Platt,PJ0266,null,null,1
+1,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Clark,CL0046,Republican,A03,1476
+2,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Campbell,CS0136,Clintonian/Federalist,A05,691
+3,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tracey,TJ0206,null,null,8
+4,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Burlington,BC0114,null,null,2
+5,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Festus Cone,CF0023,null,null,2
+6,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joshua Lamb,LJ0294,null,null,2
+7,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Amos Baldwin,BA0104,null,null,1
+8,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hona Chubbock,CH0032,null,null,1
+9,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Noah Ely,EN0024,null,null,1
+10,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Howland,HB0076,null,null,1
+11,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Robert Monell,MR0076,null,null,1
+12,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Smith,ST0043,null,null,1
+13,Chenango,ny.uscongress21.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Platt,PJ0266,null,null,NA

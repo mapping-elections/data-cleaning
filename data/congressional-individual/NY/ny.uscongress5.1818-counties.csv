@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Columbia,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James S. Strong,SJ0778,Clintonian,A05,1554
+2,Columbia,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John J. Miller,MJ0504,Republican,A03,1107
+3,Columbia,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert LeRoy Livingston,LR0024,Quid,A04,716
+4,Columbia,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James J. Miller,AA0000,null,null,1
+1,Dutchess,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James S. Strong,SJ0778,Clintonian,A05,419
+2,Dutchess,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John J. Miller,MJ0504,Republican,A03,153
+3,Dutchess,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert LeRoy Livingston,LR0024,Quid,A04,16
+4,Dutchess,ny.uscongress5.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James J. Miller,AA0000,null,null,1

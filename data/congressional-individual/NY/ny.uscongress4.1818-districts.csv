@@ -1,0 +1,11 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Randall S. Street,SR0169,Clintonian,A05,1,Four,1389
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William H. Johnson,JW0036,Republican,A03,2,Four,1356
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Obadiah Quimby,QO0000,null,null,3,Four,4
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,A. Campbell,CA0096,null,null,4,Four,1
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Albert Cocker,CA0173,null,null,5,Four,1
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Cornelius,CJ0600,null,null,6,Four,1
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Darius Crosby,CD0100,null,null,7,Four,1
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Strong,SJ0778,null,null,8,Four,1
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hart Weed,WH0043,null,null,9,Four,1
+ny.uscongress4.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,blank,null,null,null,10,Four,3

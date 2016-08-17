@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress14.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Alfred Conkling,CA0117,Clintonian/Federalist,A05,382
+2,Herkimer,ny.uscongress14.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Herkimer,HJ0524,Republican,A03,284
+1,Montgomery,ny.uscongress14.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Alfred Conkling,CA0117,Clintonian/Federalist,A05,2280
+2,Montgomery,ny.uscongress14.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Herkimer,HJ0524,Republican,A03,2142

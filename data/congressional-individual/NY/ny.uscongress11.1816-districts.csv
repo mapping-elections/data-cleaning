@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress11.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John W. Taylor,TJ0328,Republican,A03,1,Eleven,1804
+ny.uscongress11.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Elisha Powell,PE0061,Federalist,A01,2,Eleven,1564
+ny.uscongress11.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Samuel Young,YS0004,null,null,3,Eleven,2

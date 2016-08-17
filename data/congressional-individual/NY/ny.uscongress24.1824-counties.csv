@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cayuga,ny.uscongress24.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Charles Kellogg,KC0017,Clintonian/Federalist,A05,3372
+2,Cayuga,ny.uscongress24.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Rowland Day,DR0036,Republican,A03,2976
+3,Cayuga,ny.uscongress24.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Andrews Preston,PA0080,null,null,1

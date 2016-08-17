@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress3.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Egbert Benson,BE0171,Federalist,A01,1,584
+ny.uscongress3.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Theodorus Bailey,BT0171,Anti-Federalist,A02,2,574

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Saratoga,ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,null,null,153
+2,Saratoga,ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ebenezer Russell,RE0047,null,null,566
+3,Saratoga,ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Webster,WA0107,Republican,A03,89
+1,Washington,ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,null,null,1144
+2,Washington,ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ebenezer Russell,RE0047,null,null,513
+3,Washington,ny.uscongress9.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Webster,WA0107,Republican,A03,216

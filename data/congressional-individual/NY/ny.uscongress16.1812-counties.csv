@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Oneida,ny.uscongress16.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Morris S. Miller,MM0033,Federalist,A01,2710
+2,Oneida,ny.uscongress16.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Brayton,BG0082,Republican,A03,1573

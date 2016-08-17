@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Saratoga,ny.uscongress11.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John W. Taylor,TJ0328,Clintonian/Federalist,A05,2344
+2,Saratoga,ny.uscongress11.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Guert Van Schoonhoven,VG0020,Republican,A03,2043
+3,Saratoga,ny.uscongress11.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Salmon Child,CS0132,null,null,7
+4,Saratoga,ny.uscongress11.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George W. Deake,DG0058,null,null,1

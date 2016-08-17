@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress15.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Herkimer,HJ0524,Republican,A03,2050
+2,Herkimer,ny.uscongress15.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Simeon Ford,FS0078,Clintonian/Federalist,A05,1390

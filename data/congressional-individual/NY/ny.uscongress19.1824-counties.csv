@@ -1,0 +1,41 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry H. Ross,RH0035,Clintonian/Federalist,A05,628
+2,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Hogen,HW0231,Republican,A03,985
+3,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Smith,SW0254,null,null,NA
+4,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Martin I. Aikin,AM0006,null,null,NA
+5,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,6
+6,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josiah Fisk,FJ0225,null,null,3
+7,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Crary,CJ0523,null,null,1
+8,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Swetland,SW0250,null,null,NA
+9,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Young,YS0004,null,null,NA
+10,Clinton,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,DeWitt Clinton,CD0092,null,null,NA
+1,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry H. Ross,RH0035,Clintonian/Federalist,A05,1527
+2,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Hogen,HW0231,Republican,A03,567
+3,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Smith,SW0254,null,null,11
+4,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Martin I. Aikin,AM0006,null,null,6
+5,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+6,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josiah Fisk,FJ0225,null,null,NA
+7,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Crary,CJ0523,null,null,NA
+8,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Swetland,SW0250,null,null,1
+9,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Young,YS0004,null,null,1
+10,Essex,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,DeWitt Clinton,CD0092,null,null,1
+1,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry H. Ross,RH0035,Clintonian/Federalist,A05,491
+2,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Hogen,HW0231,Republican,A03,581
+3,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Smith,SW0254,null,null,NA
+4,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Martin I. Aikin,AM0006,null,null,NA
+5,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+6,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josiah Fisk,FJ0225,null,null,NA
+7,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Crary,CJ0523,null,null,NA
+8,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Swetland,SW0250,null,null,NA
+9,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Young,YS0004,null,null,NA
+10,Franklin,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,DeWitt Clinton,CD0092,null,null,NA
+1,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry H. Ross,RH0035,Clintonian/Federalist,A05,564
+2,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Hogen,HW0231,Republican,A03,801
+3,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Smith,SW0254,null,null,NA
+4,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Martin I. Aikin,AM0006,null,null,NA
+5,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Kinner Newcomb,NK0000,null,null,NA
+6,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josiah Fisk,FJ0225,null,null,NA
+7,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Crary,CJ0523,null,null,1
+8,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Swetland,SW0250,null,null,NA
+9,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Young,YS0004,null,null,NA
+10,Warren,ny.uscongress19.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,DeWitt Clinton,CD0092,null,null,NA

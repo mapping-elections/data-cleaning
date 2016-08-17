@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rockland,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jeremiah H. Pierson,PJ0331,Republican,A03,418
+2,Rockland,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John T. Smith,SJ0772,Clintonian/Federalist,A05,161
+3,Rockland,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter S. Van Orden,VP0038,Clintonian/Federalist,A05,275
+4,Rockland,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Cornelius D. Clark,CC0067,null,null,1
+5,Rockland,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,NA
+6,Rockland,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter Stephen,SP0087,null,null,1
+1,Westchester,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jeremiah H. Pierson,PJ0331,Republican,A03,1445
+2,Westchester,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John T. Smith,SJ0772,Clintonian/Federalist,A05,1177
+3,Westchester,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter S. Van Orden,VP0038,Clintonian/Federalist,A05,56
+4,Westchester,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Cornelius D. Clark,CC0067,null,null,NA
+5,Westchester,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Rose,RA0030,null,null,1
+6,Westchester,ny.uscongress3.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter Stephen,SP0087,null,null,NA

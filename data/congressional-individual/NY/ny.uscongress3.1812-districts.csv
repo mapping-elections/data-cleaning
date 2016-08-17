@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter DeNoyelles,DP0026,Republican,A03,1,Three,1404
+ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Valentine Morris,MR0070,Federalist,A01,2,Three,1307
+ny.uscongress3.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"Pierre Van Cortlandt, Jr.",VP0039,Republican,A03,3,Three,569

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,New York,ny.uscongress2.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Laurence,LJ0218,Federalist,A01,2251
+2,New York,ny.uscongress2.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Broome,BJ0669,Anti-Federalist,A02,280
+3,New York,ny.uscongress2.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Philip Pell,PP0007,Anti-Federalist,A02,2
+1,Westchester,ny.uscongress2.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Laurence,LJ0218,Federalist,A01,291
+2,Westchester,ny.uscongress2.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Broome,BJ0669,Anti-Federalist,A02,92
+3,Westchester,ny.uscongress2.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Philip Pell,PP0007,Anti-Federalist,A02,31

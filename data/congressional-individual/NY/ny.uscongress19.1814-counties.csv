@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Victory Birdseye,BV0010,Republican,A03,624
+2,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,Federalist,A01,456
+3,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Birdseye,AA0000,null,null,10
+4,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Hezekiah L. Granger,GH0048,null,null,NA
+5,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Warren Hecox,HW0224,null,null,NA
+6,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Gordon Needham,NG0012,null,null,NA
+7,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Brown Smith,SB0054,null,null,3
+8,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Porter,PJ0315,null,null,NA
+9,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel G. Hathaway,HS0157,null,null,2
+10,Cortland,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elnathan Roswell,RE0046,null,null,1
+1,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Victory Birdseye,BV0010,Republican,A03,1790
+2,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,Federalist,A01,1228
+3,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Birdseye,AA0000,null,null,NA
+4,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Hezekiah L. Granger,GH0048,null,null,4
+5,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Warren Hecox,HW0224,null,null,4
+6,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Gordon Needham,NG0012,null,null,4
+7,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Brown Smith,SB0054,null,null,NA
+8,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Porter,PJ0315,null,null,3
+9,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel G. Hathaway,HS0157,null,null,NA
+10,Onondaga,ny.uscongress19.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elnathan Roswell,RE0046,null,null,NA

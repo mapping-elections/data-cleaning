@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,272
+2,Kings,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Broome,BJ0669,Republican,A03,249
+3,Kings,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,null,null,NA
+4,Kings,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,2
+5,Kings,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Brower,BJ1508,null,null,NA
+1,New York,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,865
+2,New York,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Broome,BJ0669,Republican,A03,808
+3,New York,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,null,null,6
+4,New York,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,NA
+5,New York,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Brower,BJ1508,null,null,1
+1,Richmond,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,146
+2,Richmond,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Broome,BJ0669,Republican,A03,155
+3,Richmond,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,null,null,NA
+4,Richmond,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,NA
+5,Richmond,ny.uscongress2.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Brower,BJ1508,null,null,NA

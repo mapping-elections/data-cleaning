@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Dorrance Kirtland,KD0038,Republican,A03,1,Eight,2372
+ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,Federalist,A01,2,Eight,1902
+ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles A. Foot,FC0018,null,null,3,Eight,1
+ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Thomas MacLaughry, Jr.",MT0165,null,null,4,Eight,1

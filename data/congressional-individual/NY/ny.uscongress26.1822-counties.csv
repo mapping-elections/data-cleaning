@@ -1,0 +1,23 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,Clintonian/Federalist,A05,3586
+2,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Robert S. Rose,RR0038,Republican,A03,1866
+3,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,William Thompson,TW0071,Clintonian/Federalist,A05,1781
+4,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,John Price,PJ0333,Clintonian/Federalist,A05,1353
+5,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,627
+6,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,George Clark,CG0045,null,null,3
+7,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Myron Holley,HM0051,null,null,3
+8,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,1
+9,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Luther Millard,ML0051,null,null,1
+10,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Samuel Rice,RS0065,null,null,1
+11,Ontario,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,David Depue,DD0024,null,null,NA
+1,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,Clintonian/Federalist,A05,928
+2,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Robert S. Rose,RR0038,Republican,A03,1181
+3,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,William Thompson,TW0071,Clintonian/Federalist,A05,783
+4,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,John Price,PJ0333,Clintonian/Federalist,A05,513
+5,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,791
+6,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,George Clark,CG0045,null,null,NA
+7,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Myron Holley,HM0051,null,null,NA
+8,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,NA
+9,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Luther Millard,ML0051,null,null,NA
+10,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,Samuel Rice,RS0065,null,null,NA
+11,Seneca,ny.uscongress26.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 26",U.S. House of Representatives,ON125,David Depue,DD0024,null,null,1

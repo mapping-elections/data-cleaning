@@ -1,0 +1,67 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gurdon S. Mumford,MG0050,Republican,A03,351
+2,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Clinton,CG0080,Republican,A03,349
+3,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John B. Coles,CJ0493,Federalist,A01,253
+4,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Nicholas Fish,FN0016,Federalist,A01,243
+5,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John R. Livingston,LJ0232,Lewisite,A08,3
+6,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,NA
+7,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,NA
+8,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,1
+9,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,NA
+10,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Egbert Benson,BE0171,Federalist,A01,NA
+11,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Cod,CB0044,null,null,1
+12,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Andrew Heister,HA0130,null,null,NA
+13,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Hoffmaster,HW0125,null,null,NA
+14,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Koap,KB0017,null,null,NA
+15,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter R. Livingston,LP0036,null,null,NA
+16,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Morris,MW0133,null,null,1
+17,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George S. Mumford,AA0000,null,null,NA
+18,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Palmer,PT0026,null,null,NA
+19,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Schmelz,SG0058,null,null,NA
+20,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Semour Sherwin,SS0118,null,null,NA
+21,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Townsend,TJ0335,null,null,NA
+22,Kings,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Wells,WG0058,null,null,NA
+1,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gurdon S. Mumford,MG0050,Republican,A03,4013
+2,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Clinton,CG0080,Republican,A03,3811
+3,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John B. Coles,CJ0493,Federalist,A01,3240
+4,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Nicholas Fish,FN0016,Federalist,A01,3232
+5,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John R. Livingston,LJ0232,Lewisite,A08,165
+6,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,7
+7,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,5
+8,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,3
+9,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,3
+10,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Egbert Benson,BE0171,Federalist,A01,2
+11,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Cod,CB0044,null,null,NA
+12,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Andrew Heister,HA0130,null,null,1
+13,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Hoffmaster,HW0125,null,null,1
+14,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Koap,KB0017,null,null,1
+15,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter R. Livingston,LP0036,null,null,1
+16,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Morris,MW0133,null,null,NA
+17,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George S. Mumford,AA0000,null,null,1
+18,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Palmer,PT0026,null,null,1
+19,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Schmelz,SG0058,null,null,1
+20,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Semour Sherwin,SS0118,null,null,1
+21,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Townsend,TJ0335,null,null,1
+22,New York,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Wells,WG0058,null,null,1
+1,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gurdon S. Mumford,MG0050,Republican,A03,251
+2,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Clinton,CG0080,Republican,A03,246
+3,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John B. Coles,CJ0493,Federalist,A01,205
+4,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Nicholas Fish,FN0016,Federalist,A01,204
+5,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John R. Livingston,LJ0232,Lewisite,A08,5
+6,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,1
+7,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,1
+8,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,NA
+9,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,NA
+10,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Egbert Benson,BE0171,Federalist,A01,NA
+11,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Cod,CB0044,null,null,NA
+12,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Andrew Heister,HA0130,null,null,NA
+13,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Hoffmaster,HW0125,null,null,NA
+14,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Koap,KB0017,null,null,NA
+15,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter R. Livingston,LP0036,null,null,NA
+16,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Morris,MW0133,null,null,NA
+17,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George S. Mumford,AA0000,null,null,NA
+18,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Palmer,PT0026,null,null,NA
+19,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Schmelz,SG0058,null,null,NA
+20,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Semour Sherwin,SS0118,null,null,NA
+21,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Townsend,TJ0335,null,null,NA
+22,Richmond,ny.uscongress2and3.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Wells,WG0058,null,null,NA

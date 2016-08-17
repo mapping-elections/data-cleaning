@@ -1,0 +1,27 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Gaylord Griswold,GG0018,Federalist,A01,504
+2,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Francis A. Bloodgood,BF0030,Republican,A03,900
+3,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Arthur Breese,BA0133,null,null,NA
+4,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Kirkpatrick,KW0057,null,null,NA
+5,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Budlong,BJ0646,null,null,1
+6,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Rosewell Fellows,FR0015,null,null,NA
+7,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,NA
+8,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Timothy Greenlys,GT0050,null,null,1
+9,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Clay Griswold,GC0027,null,null,NA
+10,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Myers,MJ0480,null,null,1
+11,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,David Ostrom,OD0003,null,null,NA
+12,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philip Scott,SP0061,null,null,NA
+13,Herkimer,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Matthew B. Talmadge,TM0022,null,null,1
+1,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Gaylord Griswold,GG0018,Federalist,A01,1518
+2,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Francis A. Bloodgood,BF0030,Republican,A03,854
+3,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Arthur Breese,BA0133,null,null,9
+4,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Kirkpatrick,KW0057,null,null,2
+5,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Budlong,BJ0646,null,null,NA
+6,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Rosewell Fellows,FR0015,null,null,1
+7,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,1
+8,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Timothy Greenlys,GT0050,null,null,NA
+9,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Clay Griswold,GC0027,null,null,1
+10,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Myers,MJ0480,null,null,NA
+11,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,David Ostrom,OD0003,null,null,1
+12,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Philip Scott,SP0061,null,null,1
+13,Oneida,ny.uscongress15.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Matthew B. Talmadge,TM0022,null,null,NA

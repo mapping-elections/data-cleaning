@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,Republican,A03,1,1552
+ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,2,1390
+ny.uscongress17.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Stuart,SW0043,Republican,A03,3,802

@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress4.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas J. Oakley,OT0003,Federalist,A01,1687
+2,Dutchess,ny.uscongress4.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Theodorus R. Van Wyck,VT0016,Republican,A03,944
+1,Putnam,ny.uscongress4.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas J. Oakley,OT0003,Federalist,A01,313
+2,Putnam,ny.uscongress4.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Theodorus R. Van Wyck,VT0016,Republican,A03,545
