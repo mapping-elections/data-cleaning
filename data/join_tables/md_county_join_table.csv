@@ -1,7 +1,9 @@
 nnv_county,ahcb_county,notes
 Allegany,ALLEGANY,
 Anne Arundel,ANNE ARUNDEL,
+Anne Arundell,ANNE ARUNDEL,misspelling
 Baltimore,BALTIMORE,
+Baltimore County,BALTIMORE,includes county
 Calvert,CALVERT,
 Caroline,CAROLINE,
 Cecil,CECIL,
@@ -10,11 +12,16 @@ Dorchester,DORCHESTER,
 Frederick,FREDERICK,
 Harford,HARFORD,
 Kent,KENT,
+Mongomery,,data anomaly: changing variable name over time
 Montgomery,,data anomaly: changing variable name over time
 Prince George's,,data anomaly: changing variable name over time
+Prince George's County,,data anomaly: changing variable name over time
+Queen Ann's,QUEEN ANNES,
 Queen Anne's,QUEEN ANNES,
-Saint Mary's,ST. MARYS,misspelling
+Saint Mary's,ST. MARYS,
+Saint Mary's County,ST. MARYS,includes county
 Somerset,SOMERSET,
 Talbot,TALBOT,
 Washington,WASHINGTON,
 Worcester,WORCESTER,
+Worchester,WORCESTER,misspelling

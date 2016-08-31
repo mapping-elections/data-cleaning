@@ -1,7 +1,10 @@
 nnv_county,ahcb_county,notes
+Accomac,ACCOMACK,misspelling
 Accomack,ACCOMACK,
+AccomacK,ACCOMACK,letter case issue
 Albemarle,ALBEMARLE,
 Albermarle,ALBEMARLE,misspelling
+Alleghany,ALLEGHANY,
 Allegheny,ALLEGHANY,misspelling
 Amelia,AMELIA,
 Amherst,AMHERST,
@@ -34,6 +37,7 @@ Fluvanna,FLUVANNA,
 Franklin,FRANKLIN,
 Frederick,FREDERICK,
 Giles,GILES,
+Glocester,GLOUCESTER,misspelling
 Gloucester,GLOUCESTER,
 Goochland,GOOCHLAND,
 Grayson,GRAYSON,
@@ -47,13 +51,13 @@ Hardy,HARDY,
 Harrison,HARRISON,
 Henrico,HENRICO,
 Henry,HENRY,
-Isle of Wight,ISLE OF WIGHT,
+Isle of Wight,ISLE OF WIGHT,letter case issue
 James City,JAMES CITY,
 Jefferson,JEFFERSON,
 Kanawha,KANAWHA,
 Kenawha,KANAWHA,misspelling
 Kenhawa,KANAWHA,misspelling
-King and Queen,KING AND QUEEN,
+King and Queen,KING AND QUEEN,letter case issue
 King George,KING GEORGE,
 King William,KING WILLIAM,
 Lancaster,LANCASTER,
@@ -63,32 +67,40 @@ Lincoln,LINCOLN,
 Logan,LOGAN,
 Loudoun,LOUDOUN,
 Louisa,LOUISA,
+Lunenberg,LUNENBURG,misspelling
 Lunenburg,LUNENBURG,
 Madison,MADISON,
 Mason,MASON,
 Mathews,MATHEWS,
 Matthews,MATHEWS,misspelling
+Mecklenberg,MECKLENBURG,misspelling
 Mecklenburg,MECKLENBURG,
 Mecklenburgh,MECKLENBURG,misspelling
 Mercer,MERCER,
 Middlesex,MIDDLESEX,
+Monogalia,MONONGALIA,misspelling
 Monongalia,MONONGALIA,
 Monroe,MONROE,
 Montgomery,MONTGOMERY,
 Morgan,MORGAN,
+Nanesmond,NANSEMOND (ext),extinct county
 Nansemond,NANSEMOND (ext),extinct county
 Nelson,NELSON,
 New Kent,NEW KENT,
 Nicholas,NICHOLAS,
 Norfolk,NORFOLK (ext),extinct county
+Norfolk Borough,NORFOLK (ext),extinct county
 Norfolk County,NORFOLK (ext),extinct county
 Northampton,NORTHAMPTON,
 Northumberland,NORTHUMBERLAND,
+Nottaway,NOTTOWAY,misspelling
 Nottoway,NOTTOWAY,
 Ohio,OHIO,
 Orange,ORANGE,
 Patrick,PATRICK,
 Pendleton,PENDLETON,
+Petersburg City,,data anomaly: not a county
+Pittslyvania,PITTSYLVANIA,misspelling
 Pittsylvania,PITTSYLVANIA,
 Pocahontas,POCAHONTAS,
 Powhatan,POWHATAN,
@@ -96,10 +108,11 @@ Preston,PRESTON,
 Prince Edward,PRINCE EDWARD,
 Prince George,PRINCE GEORGE,
 Prince William,PRINCE WILLIAM,
-Princess Ann,PRINCESS ANNE (ext),"extinct county, misspelling"
+Princess Ann,PRINCESS ANNE (ext),extinct county
 Princess Anne,PRINCESS ANNE (ext),extinct county
 Randolph,RANDOLPH,
 Richmond,RICHMOND,
+Richmond City,,data anomaly: not a county
 Rockbridge,ROCKBRIDGE,
 Rockingham,ROCKINGHAM,
 Russell,RUSSELL,
@@ -108,18 +121,17 @@ Shenandoah,SHENANDOAH,
 Southampton,SOUTHAMPTON,
 Spotslyvania,SPOTSYLVANIA,misspelling
 Spotsylvania,SPOTSYLVANIA,
+Spottsylvania,SPOTSYLVANIA,misspelling
 Stafford,STAFFORD,
 Surrey,SURRY,misspelling
 Surry,SURRY,
 Sussex,SUSSEX,
 Tazewell,TAZEWELL,
 Tyler,TYLER,
+Warwick,WARWICK (ext),extinct county
 Washington,WASHINGTON,
 Westmoreland,WESTMORELAND,
 Wood,WOOD,
 Woodford,WOODFORD,
 Wythe,WYTHE,
 York,YORK,
-Petersburg City,,data anomaly: not a county
-Richmond City,,data anomaly: not a county
-Warwick,WARWICK (ext),extinct county

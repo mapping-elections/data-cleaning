@@ -4,12 +4,15 @@ Baldwin,BALDWIN,
 Bibb,BIBB,
 Bryan,BRYAN,
 Bulloch,BULLOCH,
+Bullock,BULLOCH,misspelling
 Burke,BURKE,
 Camden,CAMDEN,
 Chatham,CHATHAM,
+Clark,CLARKE,misspelling
 Clarke,CLARKE,
 Columbia,COLUMBIA,
 Crawford,CRAWFORD,
+De Kalb,DEKALB,misspelling
 Decatur,DECATUR,
 Dooly,DOOLY,
 Early,EARLY,
@@ -35,16 +38,13 @@ Laurens,LAURENS,
 Liberty,LIBERTY,
 Lincoln,LINCOLN,
 Madison,MADISON,
+McIntosh,McINTOSH,letter case error
 Monroe,MONROE,
 Montgomery,MONTGOMERY,
 Morgan,MORGAN,
-Clark,CLARKE,misspelling
-De Kalb,DEKALB,misspelling
-McIntosh,McINTOSH,misspelling
-Oglethrope,OGLETHORPE,misspelling
-Scriven,SCREVEN,misspelling
 Newton,NEWTON,
 Oglethorpe,OGLETHORPE,
+Oglethrope,OGLETHORPE,misspelling
 Pike,PIKE,
 Pulaski,PULASKI,
 Putnam,PUTNAM,
@@ -52,6 +52,7 @@ Rabun,RABUN,
 Randolph,RANDOLPH,
 Richmond,RICHMOND,
 Screven,SCREVEN,
+Scriven,SCREVEN,misspelling
 Tattnall,TATTNALL,
 Telfair,TELFAIR,
 Twiggs,TWIGGS,

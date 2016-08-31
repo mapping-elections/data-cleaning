@@ -1,4 +1,4 @@
-nnv_county,ahcb_county,notes
+county,name,
 Adair,ADAIR,
 Allen,ALLEN,
 Barren,BARREN,
@@ -6,8 +6,12 @@ Bath,BATH,
 Boone,BOONE,
 Bourbon,BOURBON,
 Bracken,BRACKEN,
+Brackin,BRACKEN,misspelling
+Breckenridge,BRECKINRIDGE,misspelling
 Breckinridge,BRECKINRIDGE,
+Bullett,BULLITT,misspelling
 Bullitt,BULLITT,
+Burbon,BOURBON,misspelling
 Butler,BUTLER,
 Caldwell,CALDWELL,
 Calloway,CALLOWAY,
@@ -15,8 +19,10 @@ Campbell,CAMPBELL,
 Casey,CASEY,
 Christian,CHRISTIAN,
 Clark,CLARK,
+Clarke,CLARK,misspelling
 Clay,CLAY,
 Cumberland,CUMBERLAND,
+Daveiss,DAVIESS,misspelling
 Daviess,DAVIESS,
 Estill,ESTILL,
 Fayette,FAYETTE,
@@ -25,11 +31,14 @@ Floyd,FLOYD,
 Franklin,FRANKLIN,
 Gallatin,GALLATIN,
 Garrard,GARRARD,
+Gerrard,GARRARD,misspelling
 Grant,GRANT,
 Graves,GRAVES,
 Grayson,GRAYSON,
 Green,GREEN,
+Greene,GREEN,misspelling
 Greenup,GREENUP,
+Harden,HARDIN,misspelling
 Hardin,HARDIN,
 Harlan,HARLAN,
 Harrison,HARRISON,
@@ -48,28 +57,21 @@ Livingston,LIVINGSTON,
 Logan,LOGAN,
 Madison,MADISON,
 Mason,MASON,
+McCracken,McCRACKEN,letter case error
 Meade,MEADE,
 Mercer,MERCER,
 Monroe,MONROE,
 Montgomery,MONTGOMERY,
 Morgan,MORGAN,
 Muhlenberg,MUHLENBERG,
-Breckenridge,BRECKINRIDGE,misspelling
-Bullett,BULLITT,misspelling
-Clarke,CLARK,misspelling
-Daveiss,DAVIESS,misspelling
-Gerrard,GARRARD,misspelling
-Greene,GREEN,misspelling
-McCracken,McCRACKEN,case issue
 Muhlenburg,MUHLENBERG,misspelling
 Muhlenburgh,MUHLENBERG,misspelling
-Pendelton,PENDLETON,misspelling
-Whitely,WHITLEY,misspelling
 Nelson,NELSON,
 Nicholas,NICHOLAS,
 Ohio,OHIO,
 Oldham,OLDHAM,
 Owen,OWEN,
+Pendelton,PENDLETON,misspelling
 Pendleton,PENDLETON,
 Perry,PERRY,
 Pike,PIKE,
@@ -84,5 +86,6 @@ Union,UNION,
 Warren,WARREN,
 Washington,WASHINGTON,
 Wayne,WAYNE,
+Whitely,WHITLEY,misspelling
 Whitley,WHITLEY,
 Woodford,WOODFORD,

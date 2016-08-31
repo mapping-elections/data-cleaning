@@ -1,4 +1,9 @@
-county,name
-Fairfield,FAIRFIELD
-Middlesex,MIDDLESEX
-New Haven,NEW HAVEN
+nnv_county,ahcb_county,notes
+Fairfield,FAIRFIELD,
+Hartford,HARTFORD,
+Litchfield,LITCHFIELD,
+Middlesex,MIDDLESEX,
+New Haven,NEW HAVEN,
+New London,NEW LONDON,
+Tolland,TOLLAND,
+Windham,WINDHAM,
