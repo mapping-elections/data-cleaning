@@ -1,0 +1,27 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Henry Storrs,SH0095,Clintonian,A05,2332
+2,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Allen Frazer,FA0043,Republican,A03,119
+3,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Ezekiel H. Bacon,BE0242,null,null,17
+4,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Thomas Hamilton,HT0065,null,null,4
+5,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Huntington,HG0058,null,null,4
+6,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Theodore Sill,ST0183,null,null,4
+7,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Joel Bristol,BJ0744,null,null,3
+8,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,3
+9,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,3
+10,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,2
+11,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,2
+12,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John S. Davis,DJ0223,null,null,1
+13,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Doe,DJ0413,null,null,1
+14,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Samuel Dyer,DS0076,null,null,1
+15,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Andrew Elmer,EA0048,null,null,1
+16,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Luther Guiteau,GL0021,null,null,1
+17,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Daniel P. Hoyt,HD0140,null,null,1
+18,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,M. Hunt,HM0098,null,null,1
+19,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Alexander B. Johnson,JA0015,null,null,1
+20,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John H. Ostrom,OJ0082,null,null,1
+21,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John C. Pride,PJ0280,null,null,1
+22,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Bradford Seymour,SB0067,null,null,1
+23,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Samuel F. Snowden,SS0172,null,null,1
+24,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Andrew White,WA0178,null,null,1
+25,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Nathan Williams,WN0088,null,null,1
+26,Oneida,ny.uscongress16.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Theoron Woodruff,WT0072,null,null,1

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,7
+2,Kings,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Whitehead Cornwell,CW0149,Republican,A03,139
+3,Kings,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,96
+4,Kings,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Smith,SJ0658,Republican,A03,42
+1,Queens,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,51
+2,Queens,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Whitehead Cornwell,CW0149,Republican,A03,376
+3,Queens,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,277
+4,Queens,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Smith,SJ0658,Republican,A03,74
+1,Suffolk,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,757
+2,Suffolk,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Whitehead Cornwell,CW0149,Republican,A03,39
+3,Suffolk,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,121
+4,Suffolk,ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Smith,SJ0658,Republican,A03,135

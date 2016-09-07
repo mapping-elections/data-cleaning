@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Henry Ashley,AH0008,Republican,A03,1984
+2,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William V.B. Heermance,HW0230,Clintonian/Federalist,A05,1215
+3,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Amos Hamlin,HA0147,null,null,NA
+4,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Reuben Hosford,HR0061,null,null,NA
+5,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Amasa Parker,PA0072,null,null,2
+6,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William V.B. Wheeler,WW0150,null,null,1
+7,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Isaac Cleever,CI0042,null,null,NA
+8,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Alvin Bushnell,BA0154,null,null,NA
+9,Delaware,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Alexander Fraser,FA0056,null,null,NA
+1,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Henry Ashley,AH0008,Republican,A03,1547
+2,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William V.B. Heermance,HW0230,Clintonian/Federalist,A05,1337
+3,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Amos Hamlin,HA0147,null,null,64
+4,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Reuben Hosford,HR0061,null,null,3
+5,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Amasa Parker,PA0072,null,null,NA
+6,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William V.B. Wheeler,WW0150,null,null,NA
+7,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Isaac Cleever,CI0042,null,null,1
+8,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Alvin Bushnell,BA0154,null,null,1
+9,Greene,ny.uscongress11.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Alexander Fraser,FA0056,null,null,1

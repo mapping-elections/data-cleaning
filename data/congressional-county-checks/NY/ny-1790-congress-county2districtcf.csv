@@ -1,0 +1,21 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress1.1790,1790,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,147,147,0,0.0
+ny.uscongress1.1790,1790,James Townsend,TJ0286,Federalist,A01,592,592,0,0.0
+ny.uscongress1.1790,1790,John Vanderbilt,VJ0061,Federalist,A01,327,327,0,0.0
+ny.uscongress1.1790,1790,Thomas Tredwell,TT0055,Anti-Federalist,A02,284,284,0,0.0
+ny.uscongress1.1790,1790,William Floyd,FW0034,Anti-Federalist,A02,319,319,0,0.0
+ny.uscongress2.1790,1790,John Laurence,LJ0218,Federalist,A01,691,691,0,0.0
+ny.uscongress2.1790,1790,Melancton Smith,SM0075,Anti-Federalist,A02,11,11,0,0.0
+ny.uscongress3.1790,1790,Egbert Benson,BE0171,Federalist,A01,723,723,0,0.0
+ny.uscongress3.1790,1790,Theodorus Bailey,BT0171,Anti-Federalist,A02,468,468,0,0.0
+ny.uscongress4.1790,1790,Christopher Tappen,TC0039,Anti-Federalist,A02,13,13,0,0.0
+ny.uscongress4.1790,1790,Cornelius C. Schoonmaker,SC0076,Anti-Federalist,A02,898,898,0,0.0
+ny.uscongress4.1790,1790,John Hathorn,HJ0485,Federalist,A01,61,61,0,0.0
+ny.uscongress4.1790,1790,P. Tappen,TP0033,null,null,1,1,0,0.0
+ny.uscongress4.1790,1790,Peter Van Gaesbeck,VP0015,Federalist,A01,753,753,0,0.0
+ny.uscongress4.1790,1790,W. Thompson,TW0052,null,null,1,1,0,0.0
+ny.uscongress4.1790,1790,William Arnold,AW0049,null,null,1,1,0,0.0
+ny.uscongress5.1790,1790,John Livingston,LJ0214,Anti-Federalist,A02,1218,1218,0,0.0
+ny.uscongress5.1790,1790,Peter Sylvester,SP0060,Federalist,A01,1712,1712,0,0.0
+ny.uscongress6.1790,1790,James Gordon,GJ0267,Federalist,A01,1465,1465,0,0.0
+ny.uscongress6.1790,1790,Jeremiah Van Rensselaer,VJ0189,Anti-Federalist,A02,1017,1017,0,0.0

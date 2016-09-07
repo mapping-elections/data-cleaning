@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Saratoga,ny.uscongress9.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Gordon,GJ0267,Federalist,A01,639
+2,Saratoga,ny.uscongress9.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,Republican,A03,41
+3,Saratoga,ny.uscongress9.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John M. Thompson,TJ0297,Republican,A03,355
+1,Washington,ny.uscongress9.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Gordon,GJ0267,Federalist,A01,639
+2,Washington,ny.uscongress9.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,Republican,A03,1106
+3,Washington,ny.uscongress9.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John M. Thompson,TJ0297,Republican,A03,NA

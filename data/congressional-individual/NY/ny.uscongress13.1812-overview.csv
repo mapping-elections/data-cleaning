@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress13.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Alexander Boyd,BA0140,Federalist,A01,1,1722
+ny.uscongress13.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Gebhard,GJ0283,Republican,A03,2,1434
+ny.uscongress13.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jesse Shephard,SJ0731,Republican,A03,3,208
+ny.uscongress13.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,David Boyd,BD0086,null,null,4,1

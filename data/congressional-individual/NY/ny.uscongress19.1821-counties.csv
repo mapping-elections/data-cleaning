@@ -1,0 +1,31 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elisha Litchfield,LE0066,Republican,A03,952
+2,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George Hall,HG0062,Clintonian/Federalist,A05,738
+3,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,3
+4,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,2
+5,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,1
+6,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sherwood,SD0094,null,null,1
+7,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josehus Barker,BJ0763,null,null,NA
+8,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Sylvester Gardner,GS0043,null,null,NA
+9,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,null,null,NA
+10,Cortland,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,David Munro,MD0048,null,null,NA
+1,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elisha Litchfield,LE0066,Republican,A03,2103
+2,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George Hall,HG0062,Clintonian/Federalist,A05,2162
+3,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,NA
+4,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,NA
+5,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,NA
+6,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sherwood,SD0094,null,null,NA
+7,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josehus Barker,BJ0763,null,null,1
+8,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Sylvester Gardner,GS0043,null,null,1
+9,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,null,null,1
+10,Onondaga,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,David Munro,MD0048,null,null,1
+1,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Elisha Litchfield,LE0066,Republican,A03,153
+2,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,George Hall,HG0062,Clintonian/Federalist,A05,146
+3,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,NA
+4,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,NA
+5,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,NA
+6,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sherwood,SD0094,null,null,NA
+7,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Josehus Barker,BJ0763,null,null,NA
+8,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Sylvester Gardner,GS0043,null,null,NA
+9,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,null,null,NA
+10,Oswego,ny.uscongress19.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,David Munro,MD0048,null,null,NA

@@ -1,0 +1,52 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,William D. Ford,FW0046,Republican,A03,1479
+2,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Horatio Orvis,OH0024,Clintonian,A05,970
+3,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David Ogden,OD0006,Clintonian,A05,NA
+4,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Davies,DG0060,null,null,NA
+5,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Roswell Hopkins,HR0129,null,null,NA
+6,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,William Ellis,EW0038,null,null,9
+7,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Nathan Ford,FN0037,null,null,NA
+8,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,1
+9,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,James H. Chambers,CJ0609,null,null,NA
+10,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Eliphalet Edmonds,EE0023,null,null,1
+11,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George D. Ford,FG0040,null,null,NA
+12,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Simeon D. Ford,FS0078,null,null,NA
+13,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Perley Keyes,KP0018,null,null,1
+14,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Gouverneur Ogden,OG0009,null,null,NA
+15,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Gersham Orvis,OG0005,null,null,1
+16,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,1
+17,Jefferson,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph York,YJ0025,null,null,NA
+1,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,William D. Ford,FW0046,Republican,A03,394
+2,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Horatio Orvis,OH0024,Clintonian,A05,17
+3,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David Ogden,OD0006,Clintonian,A05,NA
+4,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Davies,DG0060,null,null,NA
+5,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Roswell Hopkins,HR0129,null,null,NA
+6,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,William Ellis,EW0038,null,null,NA
+7,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Nathan Ford,FN0037,null,null,NA
+8,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,NA
+9,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,James H. Chambers,CJ0609,null,null,1
+10,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Eliphalet Edmonds,EE0023,null,null,NA
+11,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George D. Ford,FG0040,null,null,1
+12,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Simeon D. Ford,FS0078,null,null,1
+13,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Perley Keyes,KP0018,null,null,NA
+14,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Gouverneur Ogden,OG0009,null,null,NA
+15,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Gersham Orvis,OG0005,null,null,NA
+16,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,NA
+17,Lewis,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph York,YJ0025,null,null,NA
+1,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,William D. Ford,FW0046,Republican,A03,1060
+2,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Horatio Orvis,OH0024,Clintonian,A05,4
+3,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David Ogden,OD0006,Clintonian,A05,25
+4,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Davies,DG0060,null,null,11
+5,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Roswell Hopkins,HR0129,null,null,10
+6,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,William Ellis,EW0038,null,null,NA
+7,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Nathan Ford,FN0037,null,null,2
+8,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Levi Adams,AL0004,null,null,NA
+9,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,James H. Chambers,CJ0609,null,null,NA
+10,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Eliphalet Edmonds,EE0023,null,null,NA
+11,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George D. Ford,FG0040,null,null,NA
+12,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Simeon D. Ford,FS0078,null,null,NA
+13,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Perley Keyes,KP0018,null,null,NA
+14,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Gouverneur Ogden,OG0009,null,null,1
+15,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Gersham Orvis,OG0005,null,null,NA
+16,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Rosecrantz,RG0043,null,null,NA
+17,Saint Lawrence,ny.uscongress18.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph York,YJ0025,null,null,1

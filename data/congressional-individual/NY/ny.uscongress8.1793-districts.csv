@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress8.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John E. Van Alen,VJ0202,Federalist,A01,1,Eight,1165
+ny.uscongress8.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry K. Van Rensselaer,VH0031,Republican,A03,2,Eight,870
+ny.uscongress8.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Sickles,ST0160,Republican,A03,3,Eight,12

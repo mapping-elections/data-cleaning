@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Saratoga,ny.uscongress17.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John W. Taylor,TJ0328,Clintonian/Federalist,A05,2505
+2,Saratoga,ny.uscongress17.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,George Palmer,PG0057,Republican,A03,2115
+3,Saratoga,ny.uscongress17.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,T. Palmer,PT0023,null,null,1

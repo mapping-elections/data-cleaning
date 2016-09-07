@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress6.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Ezekiel Gilbert,GE0066,Federalist,A01,1,977
+ny.uscongress6.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Peter R. Livingston,LP0036,Federalist,A01,2,948
+ny.uscongress6.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Peter Van Ness,VP0037,Republican,A03,3,856

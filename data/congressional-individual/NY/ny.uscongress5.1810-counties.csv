@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Greene,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas B. Cook,CT0159,Republican,A03,993
+2,Greene,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Garret Abeel,AG0024,Federalist,A01,1171
+3,Greene,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Reuben Abeel,AR0020,null,null,1
+4,Greene,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jonathan Kays,KJ0197,null,null,1
+5,Greene,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Sands,SR0150,null,null,1
+1,Sullivan,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas B. Cook,CT0159,Republican,A03,627
+2,Sullivan,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Garret Abeel,AG0024,Federalist,A01,310
+3,Sullivan,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Reuben Abeel,AR0020,null,null,NA
+4,Sullivan,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jonathan Kays,KJ0197,null,null,NA
+5,Sullivan,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Sands,SR0150,null,null,NA
+1,Ulster,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas B. Cook,CT0159,Republican,A03,1437
+2,Ulster,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Garret Abeel,AG0024,Federalist,A01,1332
+3,Ulster,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Reuben Abeel,AR0020,null,null,NA
+4,Ulster,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jonathan Kays,KJ0197,null,null,NA
+5,Ulster,ny.uscongress5.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Sands,SR0150,null,null,NA

@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Richmond,ny.uscongress3.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,31
+2,Richmond,ny.uscongress3.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Morris,MR0063,Federalist,A01,253
+1,Westchester,ny.uscongress3.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,960
+2,Westchester,ny.uscongress3.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Morris,MR0063,Federalist,A01,719

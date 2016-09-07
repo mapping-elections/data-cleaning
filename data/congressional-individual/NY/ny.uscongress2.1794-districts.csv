@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Havens,HJ0499,Republican,A03,1,Two,815
+ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Whitehead Cornwell,CW0149,Republican,A03,2,Two,554
+ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Jones,JS0049,Federalist,A01,3,Two,494
+ny.uscongress2.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Smith,SJ0658,Republican,A03,4,Two,251

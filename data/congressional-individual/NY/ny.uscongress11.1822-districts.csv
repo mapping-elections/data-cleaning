@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress11.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Charles A. Foote,FC0018,Republican,A03,1,Eleven,3184
+ny.uscongress11.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John T. Moore,MJ0512,Clintonian/Federalist,A05,2,Eleven,2698
+ny.uscongress11.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Henry Dumond,DH0042,null,null,3,Eleven,2
+ny.uscongress11.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Isaac Burr,BI0059,null,null,4,Eleven,1
+ny.uscongress11.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stephen Lockwood,LS0056,null,null,5,Eleven,1

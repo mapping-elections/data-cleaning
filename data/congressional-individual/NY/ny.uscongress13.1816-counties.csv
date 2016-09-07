@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Schenectady,ny.uscongress13.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Lawyer,LT0064,Republican,A03,792
+2,Schenectady,ny.uscongress13.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Beekman,BW0186,Federalist,A01,722
+1,Schoharie,ny.uscongress13.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Lawyer,LT0064,Republican,A03,1353
+2,Schoharie,ny.uscongress13.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Beekman,BW0186,Federalist,A01,1041

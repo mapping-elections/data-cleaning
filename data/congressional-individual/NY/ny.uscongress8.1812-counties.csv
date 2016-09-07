@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,Federalist,A01,1042
+2,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Ely,EJ0115,Republican,A03,1370
+3,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Avery,AW0086,null,null,NA
+4,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Peter Bogart,BP0093,null,null,1
+5,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Isaac Burr,BI0071,null,null,1
+6,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry C. Houghtaling,HH0057,null,null,NA
+7,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jonathan Keyes,KJ0197,null,null,NA
+8,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ebenezer Merritt,ME0066,null,null,1
+9,Delaware,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Abijah Paine,PA0063,null,null,1
+1,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,Federalist,A01,1261
+2,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Ely,EJ0115,Republican,A03,620
+3,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Avery,AW0086,null,null,1
+4,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Peter Bogart,BP0093,null,null,NA
+5,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Isaac Burr,BI0071,null,null,NA
+6,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry C. Houghtaling,HH0057,null,null,1
+7,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jonathan Keyes,KJ0197,null,null,1
+8,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ebenezer Merritt,ME0066,null,null,NA
+9,Greene,ny.uscongress8.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Abijah Paine,PA0063,null,null,NA

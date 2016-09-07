@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,ny.uscongress16.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John W. Cady,CJ0528,Clintonian/Federalist,A05,2215
+2,Montgomery,ny.uscongress16.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Alexander Sheldon,SA0122,Republican,A03,2148
+3,Montgomery,ny.uscongress16.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Alfred Conkling,CA0117,null,null,1
+4,Montgomery,ny.uscongress16.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jesse J. De Graaf,DJ0281,null,null,1
+5,Montgomery,ny.uscongress16.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Adam Smith,SA0142,null,null,1

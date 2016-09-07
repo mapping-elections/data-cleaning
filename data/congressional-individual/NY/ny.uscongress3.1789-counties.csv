@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress3.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Egbert Benson,BE0171,Federalist,A01,NA
+2,Dutchess,ny.uscongress3.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Theodorus Bailey,BT0171,Anti-Federalist,A02,NA
+1,Westchester,ny.uscongress3.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Egbert Benson,BE0171,Federalist,A01,NA
+2,Westchester,ny.uscongress3.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Theodorus Bailey,BT0171,Anti-Federalist,A02,NA

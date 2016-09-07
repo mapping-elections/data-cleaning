@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Isaac Bloom,BI0022,Republican,A03,1,1565
+ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Mott,MS0088,Federalist,A01,2,1259
+ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Foote,FS0047,null,null,3,2
+ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Ebenezer Foote,FE0035,Federalist,A01,4,1
+ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Taylor,TT0037,null,null,6,1
+ny.uscongress6.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,David Van Ness,VD0029,null,null,7,1

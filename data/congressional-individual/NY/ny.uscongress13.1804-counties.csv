@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,2284
+2,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,James Cushney,CJ0376,null,null,3
+3,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Calvin Rich,RC0029,null,null,NA
+4,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jonathan Joice,JJ0137,null,null,NA
+5,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Adam Hichman,HA0210,null,null,NA
+6,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Knowland,KJ0185,null,null,1
+7,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,NA
+8,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Calvin Pike,PC0067,null,null,NA
+9,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Frederick Storbeck,SF0019,null,null,1
+10,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Symmans,ST0074,null,null,1
+11,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Stephen Thorn,TS0073,null,null,1
+12,Montgomery,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Thrall,TW0164,null,null,NA
+1,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,1006
+2,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,James Cushney,CJ0376,null,null,NA
+3,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Calvin Rich,RC0029,null,null,3
+4,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jonathan Joice,JJ0137,null,null,2
+5,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Adam Hichman,HA0210,null,null,1
+6,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Knowland,KJ0185,null,null,NA
+7,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,1
+8,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Calvin Pike,PC0067,null,null,1
+9,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Frederick Storbeck,SF0019,null,null,NA
+10,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Symmans,ST0074,null,null,NA
+11,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Stephen Thorn,TS0073,null,null,NA
+12,Schoharie,ny.uscongress13.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Thrall,TW0164,null,null,1

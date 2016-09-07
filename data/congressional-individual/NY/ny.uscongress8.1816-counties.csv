@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Dorrance Kirtland,KD0038,Republican,A03,1359
+2,Delaware,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,Federalist,A01,739
+3,Delaware,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles A. Foot,FC0018,null,null,1
+4,Delaware,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Thomas MacLaughry, Jr.",MT0165,null,null,1
+1,Greene,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Dorrance Kirtland,KD0038,Republican,A03,1013
+2,Greene,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,Federalist,A01,1163
+3,Greene,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles A. Foot,FC0018,null,null,NA
+4,Greene,ny.uscongress8.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Thomas MacLaughry, Jr.",MT0165,null,null,NA

@@ -1,0 +1,10 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew MacCord,MA0104,Republican,A03,1,Five,1255
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Federalist,A01,2,Five,333
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Hunter,HS0227,null,null,3,Five,3
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Wilkin,WJ0459,null,null,4,Five,2
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jonathan Cooley,CJ0475,null,null,5,Five,1
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"James Fink, Jr.",FJ0214,null,null,6,Five,1
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James MacCord,MJ0477,null,null,7,Five,1
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Seth Marvin,MS0083,null,null,8,Five,1
+ny.uscongress5.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andries Tebowe,TA0000,null,null,9,Five,1

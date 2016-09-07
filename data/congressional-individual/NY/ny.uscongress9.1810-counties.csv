@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,2366
+2,Montgomery,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Richard Van Horne,VR0018,Federalist,A01,2422
+3,Montgomery,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Douw Van Vechten,VD0026,null,null,2
+4,Montgomery,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Pifer,PP0037,null,null,1
+1,Schoharie,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,1262
+2,Schoharie,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Richard Van Horne,VR0018,Federalist,A01,907
+3,Schoharie,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Douw Van Vechten,VD0026,null,null,NA
+4,Schoharie,ny.uscongress9.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Pifer,PP0037,null,null,NA

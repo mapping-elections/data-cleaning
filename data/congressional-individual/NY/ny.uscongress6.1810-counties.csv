@@ -1,0 +1,55 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Le Roy Livingston,LR0024,Federalist,A01,2594
+2,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Asa Fitch,FA0038,Federalist,A01,2590
+3,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,1997
+4,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James L. Hogeboom,HJ0519,Republican,A03,2002
+5,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,NA
+6,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nicholas Fish,FN0016,Federalist,A01,NA
+7,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William North,NW0020,null,null,NA
+8,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Hermanus Bleecker,BH0050,Federalist,A01,NA
+9,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Broome,BJ0669,null,null,1
+10,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Derick D. Goes,GD0042,null,null,1
+11,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Roger L. Hogeboom,AA0000,null,null,1
+12,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,NA
+13,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William A. Moor,MW0217,null,null,NA
+14,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Reuben Neely,NR0016,null,null,1
+15,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Zebulon R. Shepherd,SZ0012,null,null,NA
+16,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+17,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Melcanton Wheeler,WM0057,null,null,NA
+18,Columbia,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John White,WJ0444,null,null,NA
+1,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Le Roy Livingston,LR0024,Federalist,A01,2562
+2,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Asa Fitch,FA0038,Federalist,A01,2559
+3,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,2058
+4,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James L. Hogeboom,HJ0519,Republican,A03,2060
+5,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,1
+6,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nicholas Fish,FN0016,Federalist,A01,NA
+7,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William North,NW0020,null,null,NA
+8,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Hermanus Bleecker,BH0050,Federalist,A01,1
+9,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Broome,BJ0669,null,null,NA
+10,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Derick D. Goes,GD0042,null,null,NA
+11,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Roger L. Hogeboom,AA0000,null,null,NA
+12,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,1
+13,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William A. Moor,MW0217,null,null,NA
+14,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Reuben Neely,NR0016,null,null,NA
+15,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Zebulon R. Shepherd,SZ0012,null,null,NA
+16,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+17,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Melcanton Wheeler,WM0057,null,null,NA
+18,Rensselaer,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John White,WJ0444,null,null,NA
+1,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Le Roy Livingston,LR0024,Federalist,A01,2210
+2,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Asa Fitch,FA0038,Federalist,A01,2224
+3,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,3017
+4,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James L. Hogeboom,HJ0519,Republican,A03,2982
+5,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,2
+6,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nicholas Fish,FN0016,Federalist,A01,2
+7,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William North,NW0020,null,null,2
+8,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Hermanus Bleecker,BH0050,Federalist,A01,NA
+9,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Broome,BJ0669,null,null,NA
+10,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Derick D. Goes,GD0042,null,null,NA
+11,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Roger L. Hogeboom,AA0000,null,null,NA
+12,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,NA
+13,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William A. Moor,MW0217,null,null,1
+14,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Reuben Neely,NR0016,null,null,NA
+15,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Zebulon R. Shepherd,SZ0012,null,null,1
+16,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+17,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Melcanton Wheeler,WM0057,null,null,1
+18,Washington,ny.uscongress6.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John White,WJ0444,null,null,1

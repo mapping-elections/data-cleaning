@@ -1,0 +1,16 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,1,Twelve,3981
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,2,Twelve,3912
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,Republican,A03,3,Twelve,3238
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,4,Twelve,3208
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Livingston,LW0107,Republican,A03,5,Twelve,404
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,null,null,6,Twelve,7
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,"John Daniels, Jr.",DJ0381,null,null,7,Twelve,4
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,8,Twelve,4
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha J. Shipherd,SE0157,null,null,9,Twelve,2
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,10,Twelve,2
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Grissell,GR0044,null,null,11,Twelve,1
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Skinner,SM0056,null,null,12,Twelve,1
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Wheeler,WM0057,null,null,13,Twelve,1
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Mattison,MH0067,null,null,14,Twelve,1
+ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Abel Wood,WA0162,null,null,15,Twelve,1

@@ -1,0 +1,13 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Townsend,TG0049,Republican,A03,1,One,3798
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Tredwell Scudder,ST0177,Republican,A03,2,One,3781
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"Samuel Jones, Jr.",JS0049,Federalist,A01,3,One,3267
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nathaniel Smith,SN0099,Federalist,A01,4,One,3268
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,null,null,5,One,6
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Irving,IW0014,null,null,6,One,6
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Josiah Hoffman,HJ0489,Federalist,A01,7,One,4
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Isaac M. Ely,EI0001,null,null,8,One,4
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas J. Lester,LT0062,null,null,9,One,2
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Smith,SS0109,null,null,10,One,1
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,11,One,1
+ny.uscongress1.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,12,One,1

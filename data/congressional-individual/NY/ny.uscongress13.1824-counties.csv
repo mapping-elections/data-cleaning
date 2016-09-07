@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Otsego,ny.uscongress13.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William G. Angel,AW0046,Republican,A03,3379
+2,Otsego,ny.uscongress13.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Campbell,CW0147,Clintonian/Federalist,A05,2357
+3,Otsego,ny.uscongress13.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,George Fenno,FG0014,null,null,7
+4,Otsego,ny.uscongress13.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Paschal Franchott,FP0026,null,null,1

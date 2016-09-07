@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,1,Five,1628
+ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Matthew Adgate,AM0007,Anti-Federalist,A02,2,Five,1501
+ny.uscongress5.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Williams,WJ0409,Anti-Federalist,A02,3,Five,50

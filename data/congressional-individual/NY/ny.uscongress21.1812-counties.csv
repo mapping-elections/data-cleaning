@@ -1,0 +1,66 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,90
+2,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,100
+3,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,Republican,A03,120
+4,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Bates,BS0202,Republican,A03,113
+5,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,NA
+6,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Hopkins,AA0000,null,null,NA
+7,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Moses Atwater,AM0019,null,null,NA
+9,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Alexander Smith,SA0171,null,null,NA
+10,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Silas Taylor,TS0109,null,null,NA
+11,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Baker,BS0150,null,null,NA
+12,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Bates,BC0127,null,null,NA
+14,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Howell,HS0178,null,null,NA
+15,Allegany,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Loomis,LW0098,null,null,NA
+1,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,197
+2,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,197
+3,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,Republican,A03,168
+4,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Bates,BS0202,Republican,A03,168
+5,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,NA
+6,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Hopkins,AA0000,null,null,NA
+7,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Moses Atwater,AM0019,null,null,NA
+9,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Alexander Smith,SA0171,null,null,NA
+10,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Silas Taylor,TS0109,null,null,NA
+11,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Baker,BS0150,null,null,NA
+12,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Bates,BC0127,null,null,NA
+14,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Howell,HS0178,null,null,NA
+15,Chautauque,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Loomis,LW0098,null,null,NA
+1,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,688
+2,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,689
+3,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,Republican,A03,791
+4,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Bates,BS0202,Republican,A03,782
+5,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,5
+6,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Hopkins,AA0000,null,null,2
+7,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Moses Atwater,AM0019,null,null,1
+9,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Alexander Smith,SA0171,null,null,1
+10,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Silas Taylor,TS0109,null,null,1
+11,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Baker,BS0150,null,null,1
+12,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Bates,BC0127,null,null,NA
+14,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Howell,HS0178,null,null,NA
+15,Genesee,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Loomis,LW0098,null,null,NA
+1,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,200
+2,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,184
+3,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,Republican,A03,310
+4,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Bates,BS0202,Republican,A03,303
+5,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,2
+6,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Hopkins,AA0000,null,null,NA
+7,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Moses Atwater,AM0019,null,null,NA
+9,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Alexander Smith,SA0171,null,null,NA
+10,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Silas Taylor,TS0109,null,null,NA
+11,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Baker,BS0150,null,null,1
+12,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Bates,BC0127,null,null,NA
+14,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Howell,HS0178,null,null,NA
+15,Niagara,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Loomis,LW0098,null,null,NA
+1,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Federalist,A01,3252
+2,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,3352
+3,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Loomis,LC0023,Republican,A03,2229
+4,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Bates,BS0202,Republican,A03,2145
+5,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Micah Brooks,BM0060,Republican,A03,67
+6,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Hopkins,AA0000,null,null,2
+7,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Moses Atwater,AM0019,null,null,NA
+9,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Alexander Smith,SA0171,null,null,NA
+10,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Silas Taylor,TS0109,null,null,NA
+11,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Stephen Baker,BS0150,null,null,NA
+12,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey Bates,BC0127,null,null,1
+14,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Howell,HS0178,null,null,1
+15,Ontario,ny.uscongress21.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Loomis,LW0098,null,null,1

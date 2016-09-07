@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Irving,IW0014,Republican,A03,5225
+2,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,Republican,A03,5199
+3,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Josiah Hoffman,HJ0489,Federalist,A01,3792
+4,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaac Ely,EI0001,Federalist,A01,3771
+5,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"Samuel Jones, Jr.",JS0049,null,null,1
+6,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Tredwell Scudder,ST0177,null,null,1
+7,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Nathaniel Smith,SN0099,null,null,1
+8,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Townsend,TG0049,null,null,1
+9,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jacob Barker,BJ0448,null,null,1
+10,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Peter T. Bilbert,BP0055,null,null,1
+11,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Matthew L. Davis,DM0020,null,null,1
+12,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel L. Mitchell,MS0108,null,null,1
+13,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gurdon S. Mumford,MG0050,null,null,1
+14,New York,ny.uscongress2.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Perine,PJ0286,null,null,1

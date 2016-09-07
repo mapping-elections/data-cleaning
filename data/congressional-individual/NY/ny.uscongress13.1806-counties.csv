@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Peter Swart,SP0063,Republican,A03,2069
+2,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Isaac H. Tiffany,TI0025,Federalist,A01,584
+3,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,4
+4,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Beekman,BW0186,null,null,1
+5,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Frey,null,null,null,1
+6,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Seeber,SJ0697,null,null,1
+7,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,George H. Tiffany,TG0045,null,null,1
+8,Montgomery,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jacob H. Tiffany,TJ0220,null,null,1
+1,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Peter Swart,SP0063,Republican,A03,756
+2,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Isaac H. Tiffany,TI0025,Federalist,A01,660
+3,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,NA
+4,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Beekman,BW0186,null,null,NA
+5,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Frey,null,null,null,NA
+6,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Seeber,SJ0697,null,null,NA
+7,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,George H. Tiffany,TG0045,null,null,NA
+8,Schoharie,ny.uscongress13.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Jacob H. Tiffany,TJ0220,null,null,NA

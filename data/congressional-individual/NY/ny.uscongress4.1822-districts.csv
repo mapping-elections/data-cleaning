@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joel Frost,FJ0195,Republican,A03,1,Four,2214
+ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Smith,SA0150,Clintonian/Federalist,A05,2,Four,678
+ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter A. Jay,JP0004,Clintonian/Federalist,A05,3,Four,333
+ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Gilbert Brown,BG0065,null,null,4,Four,1
+ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Guion,GJ0318,null,null,5,Four,1
+ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Snider,SS0144,null,null,6,Four,1

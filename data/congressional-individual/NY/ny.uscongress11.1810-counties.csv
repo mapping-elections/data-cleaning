@@ -1,0 +1,23 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,1357
+2,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Skinner,ST0178,Republican,A03,1322
+3,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Robert Skinner,SR0117,null,null,NA
+4,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,4
+5,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Solomon Beebe,BS0199,null,null,3
+6,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Eli Gage,GE0069,null,null,3
+7,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John W. Bulkley,BJ0726,null,null,2
+8,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Henry Clark, Jr.",CH0096,null,null,2
+9,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Zebulon Douglass,DZ0004,null,null,2
+10,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Skinner,SG0127,null,null,1
+11,Madison,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Smith,ST0067,null,null,1
+1,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,2714
+2,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Skinner,ST0178,Republican,A03,2353
+3,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Robert Skinner,SR0117,null,null,9
+4,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,NA
+5,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Solomon Beebe,BS0199,null,null,NA
+6,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Eli Gage,GE0069,null,null,NA
+7,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John W. Bulkley,BJ0726,null,null,NA
+8,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Henry Clark, Jr.",CH0096,null,null,NA
+9,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Zebulon Douglass,DZ0004,null,null,NA
+10,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Skinner,SG0127,null,null,NA
+11,Oneida,ny.uscongress11.1810,1810,1810,General,"New York 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Smith,ST0067,null,null,NA

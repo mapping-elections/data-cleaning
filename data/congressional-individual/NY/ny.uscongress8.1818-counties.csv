@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Clark,CR0084,Republican,A03,885
+2,Delaware,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jabez Bostwick,BJ0769,Federalist,A01,524
+3,Delaware,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,null,null,NA
+4,Delaware,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Thomas Landon, Jr.",LT0077,null,null,1
+5,Delaware,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Isaac Ogden,OI0002,null,null,1
+1,Greene,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Clark,CR0084,Republican,A03,914
+2,Greene,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jabez Bostwick,BJ0769,Federalist,A01,918
+3,Greene,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sherwood,SS0183,null,null,4
+4,Greene,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Thomas Landon, Jr.",LT0077,null,null,NA
+5,Greene,ny.uscongress8.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Isaac Ogden,OI0002,null,null,NA

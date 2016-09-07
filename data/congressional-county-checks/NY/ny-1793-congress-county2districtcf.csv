@@ -1,0 +1,32 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress10.1793,1793,Andrew Fink,FA0037,Republican,A03,0,408,408,1.0
+ny.uscongress10.1793,1793,Josiah Crane,CJ0466,Republican,A03,0,85,85,1.0
+ny.uscongress1.1793,1793,Harry Peters,PH0027,Federalist,A01,673,673,0,0.0
+ny.uscongress1.1793,1793,Joshua Sands,SJ0646,Federalist,A01,769,769,0,0.0
+ny.uscongress1.1793,1793,Thomas Tredwell,TT0055,Republican,A03,1446,1446,0,0.0
+ny.uscongress10.1793,1793,John Winn,WJ0414,Republican,A03,738,738,0,0.0
+ny.uscongress10.1793,1793,Silas Talbot,TS0063,Federalist,A01,1231,1231,0,0.0
+ny.uscongress10.1793,1793,William Cooper,CW0154,Federalist,A01,961,961,0,0.0
+ny.uscongress2.1793,1793,John Watts,WJ0410,Federalist,A01,1872,1872,0,0.0
+ny.uscongress2.1793,1793,William S. Livingston,LW0102,Republican,A03,707,707,0,0.0
+ny.uscongress3.1793,1793,Philip Van Cortlandt,VP0041,Republican,A03,973,973,0,0.0
+ny.uscongress3.1793,1793,Richard Hatfield,HR0118,Federalist,A01,808,808,0,0.0
+ny.uscongress4.1793,1793,Cornelius C. Schoonmaker,SC0076,Republican,A03,53,53,0,0.0
+ny.uscongress4.1793,1793,Jesse Woodhull,WJ0407,Republican,A03,19,19,0,0.0
+ny.uscongress4.1793,1793,John Carpenter,CJ0462,Republican,A03,72,72,0,0.0
+ny.uscongress4.1793,1793,John Hathorn,HJ0485,Republican,A03,1448,1448,0,0.0
+ny.uscongress4.1793,1793,Peter Van Gaasbeck,VP0015,Federalist,A01,1464,1464,0,0.0
+ny.uscongress4.1793,1793,William Thompson,TW0052,Republican,A03,40,40,0,0.0
+ny.uscongress5.1793,1793,James Kent,KJ0097,Federalist,A01,852,852,0,0.0
+ny.uscongress5.1793,1793,Theodorus Bailey,BT0171,Republican,A03,984,984,0,0.0
+ny.uscongress6.1793,1793,Ezekiel Gilbert,GE0066,Federalist,A01,977,977,0,0.0
+ny.uscongress6.1793,1793,Peter R. Livingston,LP0036,Federalist,A01,948,948,0,0.0
+ny.uscongress6.1793,1793,Peter Van Ness,VP0037,Republican,A03,856,856,0,0.0
+ny.uscongress7.1793,1793,Henry Glen,GH0039,Federalist,A01,927,927,0,0.0
+ny.uscongress7.1793,1793,Jeremiah Van Rensselaer,VJ0189,Republican,A03,526,526,0,0.0
+ny.uscongress8.1793,1793,Henry K. Van Rensselaer,VH0031,Republican,A03,870,870,0,0.0
+ny.uscongress8.1793,1793,John E. Van Alen,VJ0202,Federalist,A01,1165,1165,0,0.0
+ny.uscongress8.1793,1793,Thomas Sickles,ST0160,Republican,A03,12,12,0,0.0
+ny.uscongress9.1793,1793,James Gordon,GJ0267,Federalist,A01,1278,1278,0,0.0
+ny.uscongress9.1793,1793,John M. Thompson,TJ0297,Republican,A03,355,355,0,0.0
+ny.uscongress9.1793,1793,John Williams,WJ0409,Republican,A03,1147,1147,0,0.0

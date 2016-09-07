@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Broome,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Whitemore,WE0111,Clintonian/Federalist,A05,991
+2,Broome,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Clark,CL0046,Republican,A03,518
+3,Broome,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Clark,CJ0458,null,null,NA
+4,Broome,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip M. Dezeng,DP0029,null,null,NA
+5,Broome,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Shumway,SD0115,null,null,NA
+6,Broome,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tracey,TJ0206,null,null,NA
+1,Chenango,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Whitemore,WE0111,Clintonian/Federalist,A05,2137
+2,Chenango,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Clark,CL0046,Republican,A03,2555
+3,Chenango,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Clark,CJ0458,null,null,8
+4,Chenango,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philip M. Dezeng,DP0029,null,null,1
+5,Chenango,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Shumway,SD0115,null,null,1
+6,Chenango,ny.uscongress21.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Tracey,TJ0206,null,null,1

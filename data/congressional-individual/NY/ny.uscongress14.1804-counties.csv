@@ -1,0 +1,71 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Russell,RJ0209,Republican,A03,749
+2,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benjamin Gilbert,GB0024,Federalist,A01,NA
+3,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Solomon Martin,MS0097,Federalist,A01,105
+4,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Root,RE0049,Republican,A03,NA
+5,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,NA
+6,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Stephen Reed,RS0099,null,null,NA
+7,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,"John Russell, Jr.",RJ0209,null,null,NA
+8,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Peter Combs,CP0040,null,null,NA
+9,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joshua O. Donald,DJ0403,null,null,2
+10,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,George Grennell,GG0055,null,null,NA
+11,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Roswell Hotchkiss,HR0137,null,null,2
+12,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Elias Osborne,OE0012,null,null,2
+13,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Nathaniel White,WN0061,null,null,NA
+14,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry Brandt,BH0178,null,null,NA
+15,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Brimer,BJ0901,null,null,NA
+16,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Reuben Buckingham,BR0128,null,null,NA
+17,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benajah Bundy,BB0145,null,null,NA
+18,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Burr,BA0134,null,null,1
+19,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Andrew Cameron,CA0190,null,null,NA
+20,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Andrew Canon,CA0189,null,null,NA
+21,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Abel Card,CA0188,null,null,NA
+22,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Ebenezer Foote,FE0035,null,null,NA
+23,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Adam Hassey,HA0209,null,null,NA
+24,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Moss Kent,KM0021,null,null,NA
+25,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Cyrus Lad,LC0041,null,null,NA
+26,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Morris,MJ0438,null,null,NA
+27,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jonathan Nicholls,NJ0124,null,null,NA
+28,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jedediah Peck,PJ0209,null,null,NA
+29,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,null,null,1
+30,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Elijah Rawson,RE0076,null,null,NA
+31,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Rawson,RJ0441,null,null,NA
+32,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Ephraim Sturtvert,SE0171,null,null,NA
+33,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Peter Van Ness,VP0037,null,null,1
+34,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Vander Williams,WV0004,null,null,NA
+35,Delaware,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Alexander W. Wilson,WA0195,null,null,NA
+1,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Russell,RJ0209,Republican,A03,1763
+2,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benjamin Gilbert,GB0024,Federalist,A01,178
+3,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Solomon Martin,MS0097,Federalist,A01,NA
+4,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Root,RE0049,Republican,A03,105
+5,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,28
+6,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Stephen Reed,RS0099,null,null,19
+7,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,"John Russell, Jr.",RJ0209,null,null,3
+8,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Peter Combs,CP0040,null,null,2
+9,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Joshua O. Donald,DJ0403,null,null,NA
+10,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,George Grennell,GG0055,null,null,2
+11,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Roswell Hotchkiss,HR0137,null,null,NA
+12,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Elias Osborne,OE0012,null,null,NA
+13,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Nathaniel White,WN0061,null,null,2
+14,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry Brandt,BH0178,null,null,1
+15,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Brimer,BJ0901,null,null,1
+16,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Reuben Buckingham,BR0128,null,null,1
+17,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benajah Bundy,BB0145,null,null,1
+18,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Aaron Burr,BA0134,null,null,NA
+19,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Andrew Cameron,CA0190,null,null,1
+20,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Andrew Canon,CA0189,null,null,1
+21,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Abel Card,CA0188,null,null,1
+22,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Ebenezer Foote,FE0035,null,null,1
+23,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Adam Hassey,HA0209,null,null,1
+24,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Moss Kent,KM0021,null,null,1
+25,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Cyrus Lad,LC0041,null,null,1
+26,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jacob Morris,MJ0438,null,null,1
+27,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jonathan Nicholls,NJ0124,null,null,1
+28,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jedediah Peck,PJ0209,null,null,1
+29,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,null,null,NA
+30,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Elijah Rawson,RE0076,null,null,1
+31,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Rawson,RJ0441,null,null,1
+32,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Ephraim Sturtvert,SE0171,null,null,1
+33,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Peter Van Ness,VP0037,null,null,NA
+34,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Vander Williams,WV0004,null,null,1
+35,Otsego,ny.uscongress14.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Alexander W. Wilson,WA0195,null,null,1

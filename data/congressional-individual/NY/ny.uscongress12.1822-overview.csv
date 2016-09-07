@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Lewis Eaton,EL0013,Republican,A03,1,2800
+ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nicholas F. Beck,BN0073,Clintonian/Federalist,A05,2,1594
+ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry R. Teller,TH0026,Clintonian/Federalist,A05,3,76
+ny.uscongress12.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gideon Holladay,HG0077,null,null,4,33

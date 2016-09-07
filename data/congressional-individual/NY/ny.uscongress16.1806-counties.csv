@@ -1,0 +1,121 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Reuben Humphreys,HR0127,Republican,A03,746
+2,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Thaddeus M. Wood,WT0135,Federalist,A01,97
+3,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Cantine,CJ0467,Lewisite,A08,NA
+4,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Uri Tracy,TU0001,Lewisite,A08,9
+5,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,"Ebenezer Butler, Jr.",BE0172,null,null,NA
+6,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Cornelius Humprhrey,HC0064,null,null,5
+7,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,NA
+8,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Parris,PJ0310,null,null,NA
+9,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Ballard,BJ0712,null,null,1
+10,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Dan Bradley,BD0085,null,null,NA
+11,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Erastus Cleveland,CE0102,null,null,NA
+12,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Asa Danforth,DA0049,null,null,NA
+13,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Guy Humphrey,HG0060,null,null,NA
+14,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Kirkpatrick,KW0057,null,null,NA
+15,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Miller,MJ0472,null,null,NA
+16,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Stephen Arnel,AS0074,null,null,1
+17,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John J. Auckmody,AJ0183,null,null,NA
+18,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonathan Brownell,BJ0580,null,null,1
+19,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Platt Brush,BP0054,null,null,1
+20,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Anson Cary,CA0112,null,null,1
+21,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Zachariah Cutting,CZ0004,null,null,NA
+22,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Goodale,GJ0393,null,null,1
+23,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Josiah Hacket,HJ0553,null,null,1
+24,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Humphrey,HW0127,null,null,1
+25,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Jayne,JJ0140,null,null,NA
+26,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Vincent Matthew,MV0004,null,null,1
+27,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Moury,MG0027,null,null,1
+28,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William H. Sabin,SW0142,null,null,NA
+29,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Joseph Simons,SJ0556,null,null,1
+30,Chenango,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonas Spafford,SJ0586,null,null,1
+1,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Reuben Humphreys,HR0127,Republican,A03,994
+2,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Thaddeus M. Wood,WT0135,Federalist,A01,35
+3,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Cantine,CJ0467,Lewisite,A08,NA
+4,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Uri Tracy,TU0001,Lewisite,A08,91
+5,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,"Ebenezer Butler, Jr.",BE0172,null,null,NA
+6,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Cornelius Humprhrey,HC0064,null,null,1
+7,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,NA
+8,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Parris,PJ0310,null,null,NA
+9,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Ballard,BJ0712,null,null,NA
+10,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Dan Bradley,BD0085,null,null,NA
+11,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Erastus Cleveland,CE0102,null,null,2
+12,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Asa Danforth,DA0049,null,null,NA
+13,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Guy Humphrey,HG0060,null,null,NA
+14,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Kirkpatrick,KW0057,null,null,2
+15,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Miller,MJ0472,null,null,NA
+16,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Stephen Arnel,AS0074,null,null,NA
+17,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John J. Auckmody,AJ0183,null,null,NA
+18,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonathan Brownell,BJ0580,null,null,NA
+19,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Platt Brush,BP0054,null,null,NA
+20,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Anson Cary,CA0112,null,null,NA
+21,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Zachariah Cutting,CZ0004,null,null,NA
+22,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Goodale,GJ0393,null,null,NA
+23,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Josiah Hacket,HJ0553,null,null,NA
+24,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Humphrey,HW0127,null,null,NA
+25,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Jayne,JJ0140,null,null,NA
+26,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Vincent Matthew,MV0004,null,null,NA
+27,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Moury,MG0027,null,null,NA
+28,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William H. Sabin,SW0142,null,null,NA
+29,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Joseph Simons,SJ0556,null,null,NA
+30,Madison,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonas Spafford,SJ0586,null,null,NA
+1,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Reuben Humphreys,HR0127,Republican,A03,1095
+2,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Thaddeus M. Wood,WT0135,Federalist,A01,180
+3,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Cantine,CJ0467,Lewisite,A08,NA
+4,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Uri Tracy,TU0001,Lewisite,A08,1
+5,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,"Ebenezer Butler, Jr.",BE0172,null,null,6
+6,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Cornelius Humprhrey,HC0064,null,null,NA
+7,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,4
+8,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Parris,PJ0310,null,null,NA
+9,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Ballard,BJ0712,null,null,1
+10,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Dan Bradley,BD0085,null,null,2
+11,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Erastus Cleveland,CE0102,null,null,NA
+12,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Asa Danforth,DA0049,null,null,2
+13,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Guy Humphrey,HG0060,null,null,2
+14,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Kirkpatrick,KW0057,null,null,NA
+15,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Miller,MJ0472,null,null,NA
+16,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Stephen Arnel,AS0074,null,null,NA
+17,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John J. Auckmody,AJ0183,null,null,NA
+18,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonathan Brownell,BJ0580,null,null,NA
+19,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Platt Brush,BP0054,null,null,NA
+20,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Anson Cary,CA0112,null,null,NA
+21,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Zachariah Cutting,CZ0004,null,null,1
+22,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Goodale,GJ0393,null,null,NA
+23,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Josiah Hacket,HJ0553,null,null,NA
+24,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Humphrey,HW0127,null,null,NA
+25,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Jayne,JJ0140,null,null,NA
+26,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Vincent Matthew,MV0004,null,null,NA
+27,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Moury,MG0027,null,null,NA
+28,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William H. Sabin,SW0142,null,null,1
+29,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Joseph Simons,SJ0556,null,null,NA
+30,Onondaga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonas Spafford,SJ0586,null,null,NA
+1,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Reuben Humphreys,HR0127,Republican,A03,474
+2,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Thaddeus M. Wood,WT0135,Federalist,A01,1
+3,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Cantine,CJ0467,Lewisite,A08,119
+4,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Uri Tracy,TU0001,Lewisite,A08,NA
+5,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,"Ebenezer Butler, Jr.",BE0172,null,null,NA
+6,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Cornelius Humprhrey,HC0064,null,null,NA
+7,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John MacWhorter,MJ0460,null,null,NA
+8,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Parris,PJ0310,null,null,3
+9,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Ballard,BJ0712,null,null,NA
+10,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Dan Bradley,BD0085,null,null,NA
+11,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Erastus Cleveland,CE0102,null,null,NA
+12,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Asa Danforth,DA0049,null,null,NA
+13,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Guy Humphrey,HG0060,null,null,NA
+14,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Kirkpatrick,KW0057,null,null,NA
+15,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Miller,MJ0472,null,null,2
+16,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Stephen Arnel,AS0074,null,null,NA
+17,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John J. Auckmody,AJ0183,null,null,1
+18,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonathan Brownell,BJ0580,null,null,NA
+19,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Platt Brush,BP0054,null,null,NA
+20,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Anson Cary,CA0112,null,null,NA
+21,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Zachariah Cutting,CZ0004,null,null,NA
+22,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Goodale,GJ0393,null,null,NA
+23,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Josiah Hacket,HJ0553,null,null,NA
+24,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Humphrey,HW0127,null,null,NA
+25,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Jayne,JJ0140,null,null,1
+26,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Vincent Matthew,MV0004,null,null,NA
+27,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Moury,MG0027,null,null,NA
+28,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William H. Sabin,SW0142,null,null,NA
+29,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Joseph Simons,SJ0556,null,null,NA
+30,Tioga,ny.uscongress16.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Jonas Spafford,SJ0586,null,null,NA

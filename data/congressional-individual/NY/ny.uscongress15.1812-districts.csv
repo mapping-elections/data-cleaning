@@ -1,0 +1,15 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joel Thompson,TJ0323,Federalist,A01,1,Fifteen,4479
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Dowse,DW0088,Federalist,A01,2,Fifteen,4417
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Rosebloom,RR0035,Republican,A03,3,Fifteen,3943
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Amos Patterson,PA0076,Republican,A03,4,Fifteen,3917
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Arunah Metcalf,MA0129,null,null,5,Fifteen,5
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jonathan Roseboom,RJ0369,null,null,6,Fifteen,4
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Francis Henry,HF0029,null,null,8,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Tom Skinner,ST0178,null,null,9,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Joel Dowse,DJ0380,null,null,10,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,James Patterson,PJ0365,null,null,11,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Patterson,PR0079,null,null,12,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William M. Price,PW0095,null,null,13,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Stephen O. Runyon,RS0055,null,null,14,Fifteen,1
+ny.uscongress15.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathaniel Waldron,WN0090,null,null,15,Fifteen,1

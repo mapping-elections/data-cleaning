@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Livingston,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,Moses Hayden,HM0053,Clintonian/Federalist,A05,1406
+2,Livingston,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,John H. Jones,JJ0148,Republican,A03,759
+3,Livingston,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,Joseph R. Ramsdale,RJ0347,null,null,3
+4,Livingston,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,Eleazer Church,CE0081,null,null,NA
+5,Livingston,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,George Hosomer,HG0078,null,null,1
+6,Livingston,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,"Simon Stone, II",SS0221,null,null,NA
+1,Monroe,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,Moses Hayden,HM0053,Clintonian/Federalist,A05,1711
+2,Monroe,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,John H. Jones,JJ0148,Republican,A03,1264
+3,Monroe,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,Joseph R. Ramsdale,RJ0347,null,null,NA
+4,Monroe,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,Eleazer Church,CE0081,null,null,1
+5,Monroe,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,George Hosomer,HG0078,null,null,NA
+6,Monroe,ny.uscongress27.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 27",U.S. House of Representatives,ON125,"Simon Stone, II",SS0221,null,null,1

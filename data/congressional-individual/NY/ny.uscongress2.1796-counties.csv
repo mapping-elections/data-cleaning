@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,New York,ny.uscongress2.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Edward Livingston,LE0044,Republican,A03,2362
+2,New York,ny.uscongress2.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Watson,WJ0412,Federalist,A01,1812

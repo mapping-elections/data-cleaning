@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Onondaga,ny.uscongress23.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Elisha Litchfield,LE0066,Republican,A03,2042
+2,Onondaga,ny.uscongress23.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Asa Wells,WA0115,Clintonian/Federalist,A05,1387
+3,Onondaga,ny.uscongress23.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Luther Badger,BL0047,null,null,1
+4,Onondaga,ny.uscongress23.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 23",U.S. House of Representatives,ON125,Jacob Winchel,WJ0598,null,null,1

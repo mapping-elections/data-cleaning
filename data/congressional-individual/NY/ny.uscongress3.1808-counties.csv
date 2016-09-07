@@ -1,0 +1,37 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Fisk,FJ0199,Republican,A03,1321
+2,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hatfield,HR0118,Federalist,A01,855
+3,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathan H. White,WN0003,null,null,35
+4,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Ten Broeck,TS0137,null,null,4
+5,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,null,null,1
+6,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,NA
+7,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William W. Gilbert,GW0078,null,null,NA
+8,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Bodle,BW0189,null,null,1
+9,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Cooley,CJ0475,null,null,1
+10,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Edward Ely,EE0021,null,null,1
+11,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Ferris,FB0031,null,null,NA
+12,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David G. Fisch,FD0043,null,null,1
+13,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,NA
+14,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Miller,MA0118,null,null,NA
+15,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,NA
+16,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ozias Osborn,OO0000,null,null,NA
+17,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Webbers,WI0026,null,null,NA
+18,Orange,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James W. Wilkin,WJ0459,null,null,1
+1,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Fisk,FJ0199,Republican,A03,1101
+2,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hatfield,HR0118,Federalist,A01,1268
+3,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathan H. White,WN0003,null,null,NA
+4,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Ten Broeck,TS0137,null,null,NA
+5,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,null,null,3
+6,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,3
+7,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William W. Gilbert,GW0078,null,null,3
+8,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Bodle,BW0189,null,null,NA
+9,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Cooley,CJ0475,null,null,NA
+10,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Edward Ely,EE0021,null,null,NA
+11,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Ferris,FB0031,null,null,1
+12,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David G. Fisch,FD0043,null,null,NA
+13,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,1
+14,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Miller,MA0118,null,null,1
+15,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,1
+16,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ozias Osborn,OO0000,null,null,1
+17,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Webbers,WI0026,null,null,1
+18,Westchester,ny.uscongress3.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James W. Wilkin,WJ0459,null,null,NA

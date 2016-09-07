@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard MacCarty,MR0080,Clintonian/Federalist,A05,717
+2,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jacob Haight,HJ0589,Republican,A03,1102
+3,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Daniel MacCarty,MD0211,null,null,1
+4,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Benoni Austin,AB0020,null,null,NA
+5,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas E. Barker,BT0185,null,null,NA
+6,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Herman Carter,CH0044,null,null,NA
+7,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Leonard Bronk,BL0036,null,null,NA
+8,Delaware,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry C. Houghtaling,HH0057,null,null,NA
+1,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard MacCarty,MR0080,Clintonian/Federalist,A05,1875
+2,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jacob Haight,HJ0589,Republican,A03,710
+3,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Daniel MacCarty,MD0211,null,null,NA
+4,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Benoni Austin,AB0020,null,null,2
+5,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas E. Barker,BT0185,null,null,1
+6,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Herman Carter,CH0044,null,null,1
+7,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Leonard Bronk,BL0036,null,null,1
+8,Greene,ny.uscongress8.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry C. Houghtaling,HH0057,null,null,1

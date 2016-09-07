@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Barent Gardenier,GB0043,Federalist,A01,1177
+2,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Dill,DJ0311,Republican,A03,781
+3,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Masbrouck,MJ0456,null,null,NA
+4,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Garrit Abeel,AG0024,null,null,1
+5,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Backus,BA0128,null,null,1
+6,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas B. Cook,CT0159,null,null,1
+7,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Ten Broeck,TS0137,null,null,1
+8,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Moses M. Cantine,CM0030,null,null,NA
+9,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Petrus Elmendorf,EP0021,null,null,NA
+10,Greene,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Hasbrouck,HJ0520,null,null,NA
+1,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Barent Gardenier,GB0043,Federalist,A01,1500
+2,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Dill,DJ0311,Republican,A03,1278
+3,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Masbrouck,MJ0456,null,null,9
+4,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Garrit Abeel,AG0024,null,null,1
+5,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Backus,BA0128,null,null,NA
+6,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas B. Cook,CT0159,null,null,NA
+7,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Ten Broeck,TS0137,null,null,NA
+8,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Moses M. Cantine,CM0030,null,null,1
+9,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Petrus Elmendorf,EP0021,null,null,1
+10,Ulster,ny.uscongress5.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Hasbrouck,HJ0520,null,null,1

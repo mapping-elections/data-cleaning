@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress8.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John E. Van Alen,VJ0202,Federalist,A01,282
+2,Clinton,ny.uscongress8.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Woodworth,WJ0439,Republican,A03,65
+1,Rensselaer,ny.uscongress8.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John E. Van Alen,VJ0202,Federalist,A01,1398
+2,Rensselaer,ny.uscongress8.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Woodworth,WJ0439,Republican,A03,1090

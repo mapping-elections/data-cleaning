@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,1892
+2,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Robert MacFarlan,MR0065,Federalist,A01,798
+3,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,George Tiffany,TG0045,null,null,NA
+4,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,"John Bellinger, Jr.",BJ0647,null,null,NA
+5,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William W. Brown,BW0252,null,null,NA
+6,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Stephen Judd,JS0032,null,null,NA
+7,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Andrew MacFarlan,MA0128,null,null,1
+8,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William MacFarlan,MW0204,null,null,NA
+9,Montgomery,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Peter Van Alstyne,VP0006,null,null,NA
+1,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Republican,A03,668
+2,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Robert MacFarlan,MR0065,Federalist,A01,390
+3,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,George Tiffany,TG0045,null,null,2
+4,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,"John Bellinger, Jr.",BJ0647,null,null,1
+5,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William W. Brown,BW0252,null,null,1
+6,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Stephen Judd,JS0032,null,null,1
+7,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Andrew MacFarlan,MA0128,null,null,NA
+8,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William MacFarlan,MW0204,null,null,1
+9,Schoharie,ny.uscongress13.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Peter Van Alstyne,VP0006,null,null,1

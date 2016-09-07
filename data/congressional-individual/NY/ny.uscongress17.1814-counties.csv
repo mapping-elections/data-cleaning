@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,"Westel Willoughby, Jr.",WW0164,Republican,A03,1402
+2,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William S. Smith,SW0140,Federalist,A01,1106
+3,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William D. Ford,FW0046,null,null,1
+4,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Thomas R. Gould,GT0056,Federalist,A01,1
+5,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Henry Tillinghast,TH0018,null,null,1
+6,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,David Beecher,BD0084,null,null,NA
+7,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Winsor Coman,CW0144,null,null,NA
+8,Herkimer,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John D. Henry,HJ0558,null,null,NA
+1,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,"Westel Willoughby, Jr.",WW0164,Republican,A03,1374
+2,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William S. Smith,SW0140,Federalist,A01,1404
+3,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William D. Ford,FW0046,null,null,NA
+4,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Thomas R. Gould,GT0056,Federalist,A01,NA
+5,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Henry Tillinghast,TH0018,null,null,NA
+6,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,David Beecher,BD0084,null,null,1
+7,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Winsor Coman,CW0144,null,null,1
+8,Madison,ny.uscongress17.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John D. Henry,HJ0558,null,null,1

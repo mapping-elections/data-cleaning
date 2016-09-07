@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress9.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Killian K. Van Rensselaer,VK0000,Federalist,A01,1894
+2,Albany,ny.uscongress9.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David MacCarty,MD0097,Republican,A03,1465
+3,Albany,ny.uscongress9.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John R. Blecker,BJ0691,null,null,3
+4,Albany,ny.uscongress9.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Walter Easton,EW0025,null,null,1
+5,Albany,ny.uscongress9.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William MacCarty,MW0199,null,null,1
+6,Albany,ny.uscongress9.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Killian J. Winne,WK0003,null,null,1

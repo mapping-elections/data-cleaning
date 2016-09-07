@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sullivan,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Bruyn Hasbrouck,HA0085,Clintonian/Federalist,A05,703
+2,Sullivan,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Lounsberry,LJ0245,Republican,A03,440
+3,Sullivan,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Lindsley,LJ0339,null,null,1
+4,Sullivan,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John P. Jones,JJ0144,null,null,NA
+1,Ulster,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Bruyn Hasbrouck,HA0085,Clintonian/Federalist,A05,2214
+2,Ulster,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Lounsberry,LJ0245,Republican,A03,2341
+3,Ulster,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Lindsley,LJ0339,null,null,NA
+4,Ulster,ny.uscongress7.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John P. Jones,JJ0144,null,null,1

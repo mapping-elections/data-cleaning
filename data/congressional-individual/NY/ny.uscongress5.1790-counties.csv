@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,562
+2,Albany,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Livingston,LJ0214,Anti-Federalist,A02,58
+1,Clinton,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,NA
+2,Clinton,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Livingston,LJ0214,Anti-Federalist,A02,NA
+1,Columbia,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,914
+2,Columbia,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Livingston,LJ0214,Anti-Federalist,A02,855
+1,Washington,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Sylvester,SP0060,Federalist,A01,236
+2,Washington,ny.uscongress5.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Livingston,LJ0214,Anti-Federalist,A02,305

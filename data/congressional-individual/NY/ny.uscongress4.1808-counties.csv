@@ -1,0 +1,12 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Emott,EJ0125,Federalist,A01,1606
+2,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Johnson,JR0030,Republican,A03,556
+3,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,14
+4,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel C. Verplanck,VD0005,null,null,12
+5,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Edward P. Livingston,LE0052,null,null,3
+6,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Napper Tandy,TN0012,null,null,3
+7,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joel Denton,DJ0220,null,null,2
+8,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Emott,EW0063,null,null,1
+9,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Horton,HJ0581,null,null,1
+10,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Theron Rudd,RT0074,null,null,1
+11,Dutchess,ny.uscongress4.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hezekiah Van Keuren,VH0022,null,null,1

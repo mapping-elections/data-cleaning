@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress7.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Killian K. Van Rensselaer,VK0000,Federalist,A01,2685
+2,Albany,ny.uscongress7.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Merchant,MG0051,Republican,A03,1437
+3,Albany,ny.uscongress7.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Glen,GH0039,Federalist,A01,1
+4,Albany,ny.uscongress7.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Stephen Lush,LS0053,null,null,1

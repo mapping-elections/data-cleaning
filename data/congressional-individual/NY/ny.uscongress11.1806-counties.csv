@@ -1,0 +1,34 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Thompson,TJ0297,Republican,A03,360
+2,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Asahel Porter,PA0073,Federalist,A01,247
+3,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Peter Sailly,SP0076,Lewisite,A08,87
+4,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,6
+5,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Nathaniel Z. Platt,PN0030,Federalist,A01,8
+6,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,3
+7,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stephen Cuyler,CS0117,null,null,NA
+8,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Bailey,BW0188,null,null,1
+9,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Ezekiel Montgomery,ME0061,null,null,NA
+10,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Caleb Nichols,NC0015,null,null,1
+11,Clinton,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Benjamin Stafford,SB0020,null,null,NA
+1,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Thompson,TJ0297,Republican,A03,334
+2,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Asahel Porter,PA0073,Federalist,A01,306
+3,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Peter Sailly,SP0076,Lewisite,A08,4
+4,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,NA
+5,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Nathaniel Z. Platt,PN0030,Federalist,A01,NA
+6,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+7,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stephen Cuyler,CS0117,null,null,2
+8,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Bailey,BW0188,null,null,NA
+9,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Ezekiel Montgomery,ME0061,null,null,1
+10,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Caleb Nichols,NC0015,null,null,NA
+11,Essex,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Benjamin Stafford,SB0020,null,null,1
+1,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Thompson,TJ0297,Republican,A03,1324
+2,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Asahel Porter,PA0073,Federalist,A01,828
+3,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Peter Sailly,SP0076,Lewisite,A08,NA
+4,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,6
+5,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Nathaniel Z. Platt,PN0030,Federalist,A01,NA
+6,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+7,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stephen Cuyler,CS0117,null,null,NA
+8,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Bailey,BW0188,null,null,NA
+9,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Ezekiel Montgomery,ME0061,null,null,NA
+10,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Caleb Nichols,NC0015,null,null,NA
+11,Saratoga,ny.uscongress11.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Benjamin Stafford,SB0020,null,null,NA

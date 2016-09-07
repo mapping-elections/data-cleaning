@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sullivan,ny.uscongress7.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Hasbrouck,HA0085,Republican,A03,426
+2,Sullivan,ny.uscongress7.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Te DeWitt,DA0058,Federalist,A01,259
+3,Sullivan,ny.uscongress7.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Andries Davis, Jr.",DA0109,null,null,NA
+1,Ulster,ny.uscongress7.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Hasbrouck,HA0085,Republican,A03,1205
+2,Ulster,ny.uscongress7.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham Te DeWitt,DA0058,Federalist,A01,1227
+3,Ulster,ny.uscongress7.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Andries Davis, Jr.",DA0109,null,null,1

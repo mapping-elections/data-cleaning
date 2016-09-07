@@ -1,0 +1,8 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Killian K. Van Rensselaer,VK0000,Federalist,A01,1277
+2,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Benjamin DeWitt,DB0019,Republican,A03,892
+3,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Glen,GH0039,Lewisite,A08,562
+4,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jacob Snell,SJ0665,null,null,2
+5,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jaup Braat,BJ0579,null,null,1
+6,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Daniel Hale,HD0007,null,null,1
+7,Albany,ny.uscongress9.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Abraham Van Vechten,VA0013,Federalist,A01,1

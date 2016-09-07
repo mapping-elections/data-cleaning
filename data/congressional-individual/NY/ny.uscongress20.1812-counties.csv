@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cayuga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Oliver Comstock,CO0016,Republican,A03,1944
+2,Cayuga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Daniel Avery,AD0015,Republican,A03,1936
+3,Cayuga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah Miller,ME0078,Federalist,A01,1103
+4,Cayuga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Vincent Matthews,MV0004,Federalist,A01,1096
+5,Cayuga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah C. Comstock,CE0091,null,null,NA
+6,Cayuga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Venien Mather,MV0003,null,null,NA
+1,Seneca,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Oliver Comstock,CO0016,Republican,A03,1257
+2,Seneca,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Daniel Avery,AD0015,Republican,A03,1251
+3,Seneca,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah Miller,ME0078,Federalist,A01,577
+4,Seneca,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Vincent Matthews,MV0004,Federalist,A01,571
+5,Seneca,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah C. Comstock,CE0091,null,null,NA
+6,Seneca,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Venien Mather,MV0003,null,null,1
+1,Steuben,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Oliver Comstock,CO0016,Republican,A03,458
+2,Steuben,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Daniel Avery,AD0015,Republican,A03,453
+3,Steuben,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah Miller,ME0078,Federalist,A01,415
+4,Steuben,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Vincent Matthews,MV0004,Federalist,A01,419
+5,Steuben,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah C. Comstock,CE0091,null,null,1
+6,Steuben,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Venien Mather,MV0003,null,null,NA
+1,Tioga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Oliver Comstock,CO0016,Republican,A03,688
+2,Tioga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Daniel Avery,AD0015,Republican,A03,683
+3,Tioga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah Miller,ME0078,Federalist,A01,264
+4,Tioga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Vincent Matthews,MV0004,Federalist,A01,270
+5,Tioga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Elijah C. Comstock,CE0091,null,null,NA
+6,Tioga,ny.uscongress20.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Venien Mather,MV0003,null,null,NA

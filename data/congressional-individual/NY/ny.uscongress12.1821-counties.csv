@@ -1,0 +1,71 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben H. Walworth,WR0100,Republican,A03,778
+2,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,771
+3,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Crary,CJ0523,Clintonian/Federalist,A05,465
+4,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,473
+5,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel Shipherd,SD0072,null,null,2
+6,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Judson,JD0008,null,null,2
+7,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Hascall,HA0099,null,null,2
+8,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John L. Viele,VJ0078,null,null,2
+9,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+10,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Palmer,PG0057,null,null,NA
+11,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard Goodell,GR0083,null,null,NA
+12,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Douglass,DE0048,null,null,NA
+13,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Isaac Finch,FI0016,null,null,NA
+14,Clinton,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jacob Day,DJ0385,null,null,NA
+1,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben H. Walworth,WR0100,Republican,A03,912
+2,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,903
+3,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Crary,CJ0523,Clintonian/Federalist,A05,478
+4,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,816
+5,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel Shipherd,SD0072,null,null,NA
+6,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Judson,JD0008,null,null,NA
+7,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Hascall,HA0099,null,null,NA
+8,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John L. Viele,VJ0078,null,null,NA
+9,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+10,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Palmer,PG0057,null,null,NA
+11,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard Goodell,GR0083,null,null,NA
+12,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Douglass,DE0048,null,null,5
+13,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Isaac Finch,FI0016,null,null,2
+14,Essex,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jacob Day,DJ0385,null,null,1
+1,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben H. Walworth,WR0100,Republican,A03,262
+2,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,278
+3,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Crary,CJ0523,Clintonian/Federalist,A05,405
+4,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,427
+5,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel Shipherd,SD0072,null,null,2
+6,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Judson,JD0008,null,null,2
+7,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Hascall,HA0099,null,null,2
+8,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John L. Viele,VJ0078,null,null,2
+9,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,1
+10,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Palmer,PG0057,null,null,1
+11,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard Goodell,GR0083,null,null,1
+12,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Douglass,DE0048,null,null,NA
+13,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Isaac Finch,FI0016,null,null,NA
+14,Franklin,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jacob Day,DJ0385,null,null,NA
+1,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben H. Walworth,WR0100,Republican,A03,1093
+2,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,691
+3,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Crary,CJ0523,Clintonian/Federalist,A05,472
+4,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,NA
+5,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel Shipherd,SD0072,null,null,NA
+6,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Judson,JD0008,null,null,NA
+7,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Hascall,HA0099,null,null,NA
+8,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John L. Viele,VJ0078,null,null,NA
+9,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+10,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Palmer,PG0057,null,null,NA
+11,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard Goodell,GR0083,null,null,NA
+12,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Douglass,DE0048,null,null,NA
+13,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Isaac Finch,FI0016,null,null,NA
+14,Warren,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jacob Day,DJ0385,null,null,NA
+1,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben H. Walworth,WR0100,Republican,A03,2255
+2,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Nathaniel Pitcher,PN0050,Republican,A03,2308
+3,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Crary,CJ0523,Clintonian/Federalist,A05,2330
+4,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,2248
+5,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel Shipherd,SD0072,null,null,NA
+6,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Judson,JD0008,null,null,NA
+7,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Hascall,HA0099,null,null,NA
+8,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John L. Viele,VJ0078,null,null,NA
+9,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+10,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Palmer,PG0057,null,null,NA
+11,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Richard Goodell,GR0083,null,null,NA
+12,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Douglass,DE0048,null,null,NA
+13,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Isaac Finch,FI0016,null,null,NA
+14,Washington,ny.uscongress12.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jacob Day,DJ0385,null,null,NA

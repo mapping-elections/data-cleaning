@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Caleb Tompkins,TC0045,Republican,A03,532
+2,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Isaacs,IB0001,Clintonian,A05,NA
+3,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Clintonian,A05,19
+4,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Darius Crosby,CD0100,null,null,4
+5,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Edward Suffren,SE0068,null,null,3
+6,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Barker,BW0181,null,null,NA
+7,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Frederick J. Coffin,CF0017,null,null,NA
+8,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob De La Montagnie,DJ0189,null,null,2
+9,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Requa,RW0104,null,null,NA
+10,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Garrison,GJ0414,null,null,1
+11,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Garretson,GJ0289,null,null,1
+12,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John S. Sutton,SJ0755,null,null,NA
+13,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,NA
+14,Rockland,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Wood,WJ0515,null,null,1
+1,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Caleb Tompkins,TC0045,Republican,A03,907
+2,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Isaacs,IB0001,Clintonian,A05,623
+3,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Clintonian,A05,387
+4,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Darius Crosby,CD0100,null,null,NA
+5,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Edward Suffren,SE0068,null,null,NA
+6,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Barker,BW0181,null,null,2
+7,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Frederick J. Coffin,CF0017,null,null,2
+8,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob De La Montagnie,DJ0189,null,null,NA
+9,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Requa,RW0104,null,null,2
+10,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Garrison,GJ0414,null,null,NA
+11,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Garretson,GJ0289,null,null,NA
+12,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John S. Sutton,SJ0755,null,null,1
+13,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,1
+14,Westchester,ny.uscongress3.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Wood,WJ0515,null,null,NA

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress4.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Lucas Elmendorf,EL0004,Republican,A03,1,Four,2765
+ny.uscongress4.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jonathan Hasbrouck,HJ0509,Federalist,A01,2,Four,1482
+ny.uscongress4.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Republican,A03,3,Four,47

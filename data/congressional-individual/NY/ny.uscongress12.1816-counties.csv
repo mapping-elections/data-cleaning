@@ -1,0 +1,111 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Palmer,PJ0320,Republican,A03,620
+2,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,613
+3,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Ross,RH0032,Federalist,A01,408
+4,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shiperd,SZ0012,Federalist,A01,407
+5,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,null,null,NA
+6,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,1
+7,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,1
+8,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+9,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,1
+10,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alric Mann,MA0136,null,null,NA
+11,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1
+12,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jonathan Dorr,DJ0314,null,null,NA
+13,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+14,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William K. Adams,AW0043,null,null,NA
+15,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Ferris,FW0081,null,null,NA
+16,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ralph Haskell,HR0131,null,null,NA
+17,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+18,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Platt,PL0022,null,null,1
+19,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Reid,RJ0064,null,null,NA
+20,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Luman Wadhams,WL0045,null,null,NA
+21,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gerrit Wendell,WG0061,null,null,1
+22,Clinton,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Wilkinson,WR0032,null,null,NA
+1,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Palmer,PJ0320,Republican,A03,852
+2,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,855
+3,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Ross,RH0032,Federalist,A01,504
+4,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shiperd,SZ0012,Federalist,A01,495
+5,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,null,null,NA
+6,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,1
+7,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,1
+8,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+9,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,NA
+10,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alric Mann,MA0136,null,null,NA
+11,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+12,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jonathan Dorr,DJ0314,null,null,NA
+13,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,2
+14,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William K. Adams,AW0043,null,null,NA
+15,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Ferris,FW0081,null,null,NA
+16,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ralph Haskell,HR0131,null,null,NA
+17,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+18,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Platt,PL0022,null,null,NA
+19,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Reid,RJ0064,null,null,NA
+20,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Luman Wadhams,WL0045,null,null,1
+21,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gerrit Wendell,WG0061,null,null,NA
+22,Essex,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Wilkinson,WR0032,null,null,NA
+1,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Palmer,PJ0320,Republican,A03,193
+2,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,192
+3,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Ross,RH0032,Federalist,A01,297
+4,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shiperd,SZ0012,Federalist,A01,296
+5,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,null,null,NA
+6,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,NA
+7,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,2
+8,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,2
+9,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,1
+10,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alric Mann,MA0136,null,null,3
+11,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1
+12,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jonathan Dorr,DJ0314,null,null,NA
+13,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+14,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William K. Adams,AW0043,null,null,NA
+15,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Ferris,FW0081,null,null,NA
+16,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ralph Haskell,HR0131,null,null,NA
+17,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,1
+18,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Platt,PL0022,null,null,NA
+19,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Reid,RJ0064,null,null,NA
+20,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Luman Wadhams,WL0045,null,null,NA
+21,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gerrit Wendell,WG0061,null,null,NA
+22,Franklin,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Wilkinson,WR0032,null,null,NA
+1,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Palmer,PJ0320,Republican,A03,769
+2,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,756
+3,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Ross,RH0032,Federalist,A01,360
+4,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shiperd,SZ0012,Federalist,A01,361
+5,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,null,null,NA
+6,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,NA
+7,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,NA
+8,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,NA
+9,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,NA
+10,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alric Mann,MA0136,null,null,NA
+11,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+12,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jonathan Dorr,DJ0314,null,null,2
+13,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+14,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William K. Adams,AW0043,null,null,NA
+15,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Ferris,FW0081,null,null,1
+16,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ralph Haskell,HR0131,null,null,NA
+17,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+18,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Platt,PL0022,null,null,NA
+19,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Reid,RJ0064,null,null,1
+20,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Luman Wadhams,WL0045,null,null,NA
+21,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gerrit Wendell,WG0061,null,null,NA
+22,Warren,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Wilkinson,WR0032,null,null,1
+1,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Palmer,PJ0320,Republican,A03,2279
+2,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,Republican,A03,2181
+3,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Ross,RH0032,Federalist,A01,2537
+4,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shiperd,SZ0012,Federalist,A01,2513
+5,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,null,null,9
+6,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Asa Adgate,AA0060,null,null,5
+7,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Tayler,TJ0304,null,null,1
+8,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Daniel D. Tompkins,TD0058,null,null,1
+9,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,1
+10,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alric Mann,MA0136,null,null,NA
+11,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1
+12,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Jonathan Dorr,DJ0314,null,null,NA
+13,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+14,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William K. Adams,AW0043,null,null,1
+15,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Ferris,FW0081,null,null,NA
+16,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ralph Haskell,HR0131,null,null,1
+17,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Benjamin Mooers,MB0043,null,null,NA
+18,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Levi Platt,PL0022,null,null,NA
+19,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Reid,RJ0064,null,null,NA
+20,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Luman Wadhams,WL0045,null,null,NA
+21,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Gerrit Wendell,WG0061,null,null,NA
+22,Washington,ny.uscongress12.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Wilkinson,WR0032,null,null,NA

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cortland,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,Federalist,A01,425
+2,Cortland,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Miller,MJ0472,Republican,A03,595
+3,Cortland,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Mallery,MW0219,null,null,1
+4,Cortland,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Cook,CW0165,null,null,NA
+1,Onondaga,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Geddes,GJ0280,Federalist,A01,1209
+2,Onondaga,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Miller,MJ0472,Republican,A03,702
+3,Onondaga,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Mallery,MW0219,null,null,NA
+4,Onondaga,ny.uscongress19.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Cook,CW0165,null,null,1

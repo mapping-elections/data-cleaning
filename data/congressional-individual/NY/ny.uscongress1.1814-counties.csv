@@ -1,0 +1,46 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Townsend,TG0049,Republican,A03,490
+2,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Crocheron,CH0097,Republican,A03,490
+3,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Townsend,TW0061,Federalist,A01,479
+4,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cornelius Bedell,BC0061,Federalist,A01,479
+5,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,Republican,A03,NA
+6,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Irving,IW0014,Republican,A03,NA
+7,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Arthur,AJ0177,null,null,NA
+8,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Lorillard,LJ0241,Federalist,A01,NA
+9,Kings,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Darius Crosby,CD0100,Republican,A03,NA
+1,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Townsend,TG0049,Republican,A03,695
+2,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Crocheron,CH0097,Republican,A03,694
+3,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Townsend,TW0061,Federalist,A01,1018
+4,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cornelius Bedell,BC0061,Federalist,A01,1016
+5,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,Republican,A03,96
+6,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Irving,IW0014,Republican,A03,46
+7,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Arthur,AJ0177,null,null,17
+8,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Lorillard,LJ0241,Federalist,A01,15
+9,New York,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Darius Crosby,CD0100,Republican,A03,3
+1,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Townsend,TG0049,Republican,A03,864
+2,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Crocheron,CH0097,Republican,A03,862
+3,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Townsend,TW0061,Federalist,A01,1224
+4,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cornelius Bedell,BC0061,Federalist,A01,1221
+5,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,Republican,A03,NA
+6,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Irving,IW0014,Republican,A03,NA
+7,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Arthur,AJ0177,null,null,NA
+8,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Lorillard,LJ0241,Federalist,A01,NA
+9,Queens,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Darius Crosby,CD0100,Republican,A03,NA
+1,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Townsend,TG0049,Republican,A03,320
+2,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Crocheron,CH0097,Republican,A03,320
+3,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Townsend,TW0061,Federalist,A01,330
+4,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cornelius Bedell,BC0061,Federalist,A01,330
+5,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,Republican,A03,NA
+6,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Irving,IW0014,Republican,A03,NA
+7,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Arthur,AJ0177,null,null,NA
+8,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Lorillard,LJ0241,Federalist,A01,NA
+9,Richmond,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Darius Crosby,CD0100,Republican,A03,NA
+1,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Townsend,TG0049,Republican,A03,1857
+2,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Crocheron,CH0097,Republican,A03,1857
+3,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Townsend,TW0061,Federalist,A01,518
+4,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Cornelius Bedell,BC0061,Federalist,A01,518
+5,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter H. Wendover,WP0068,Republican,A03,NA
+6,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Irving,IW0014,Republican,A03,NA
+7,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Arthur,AJ0177,null,null,NA
+8,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Lorillard,LJ0241,Federalist,A01,NA
+9,Suffolk,ny.uscongress1.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Darius Crosby,CD0100,Republican,A03,1

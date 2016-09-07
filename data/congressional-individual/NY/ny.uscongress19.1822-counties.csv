@@ -1,0 +1,45 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Richards,RJ0233,Republican,A03,837
+2,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,635
+3,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+4,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Horatio Buell,BH0134,null,null,NA
+5,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben W. Walworth,WR0100,null,null,NA
+6,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Lynde,LJ0353,null,null,1
+7,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Luther Adgate,AL0013,null,null,NA
+8,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph Richards,RJ0349,null,null,NA
+9,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Doe,DJ0232,null,null,NA
+10,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,NA
+11,Clinton,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph C. Yates,YJ0018,null,null,NA
+1,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Richards,RJ0233,Republican,A03,472
+2,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,698
+3,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,80
+4,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Horatio Buell,BH0134,null,null,NA
+5,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben W. Walworth,WR0100,null,null,NA
+6,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Lynde,LJ0353,null,null,NA
+7,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Luther Adgate,AL0013,null,null,1
+8,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph Richards,RJ0349,null,null,1
+9,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Doe,DJ0232,null,null,NA
+10,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,NA
+11,Essex,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph C. Yates,YJ0018,null,null,NA
+1,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Richards,RJ0233,Republican,A03,261
+2,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,330
+3,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+4,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Horatio Buell,BH0134,null,null,NA
+5,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben W. Walworth,WR0100,null,null,NA
+6,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Lynde,LJ0353,null,null,NA
+7,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Luther Adgate,AL0013,null,null,NA
+8,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph Richards,RJ0349,null,null,NA
+9,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Doe,DJ0232,null,null,NA
+10,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,NA
+11,Franklin,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph C. Yates,YJ0018,null,null,NA
+1,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Richards,RJ0233,Republican,A03,664
+2,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Ezra C. Gross,GE0070,Clintonian/Federalist,A05,299
+3,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben Sanford,SR0165,null,null,NA
+4,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Horatio Buell,BH0134,null,null,4
+5,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Reuben W. Walworth,WR0100,null,null,4
+6,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Lynde,LJ0353,null,null,NA
+7,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Luther Adgate,AL0013,null,null,NA
+8,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph Richards,RJ0349,null,null,NA
+9,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Doe,DJ0232,null,null,1
+10,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,1
+11,Warren,ny.uscongress19.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Joseph C. Yates,YJ0018,null,null,1

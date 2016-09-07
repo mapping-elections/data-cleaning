@@ -1,0 +1,76 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Rochester,RW0109,Republican,A03,2170
+2,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Woodcock,WD0058,Republican,A03,2133
+3,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Clintonian/Federalist,A05,2313
+4,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Herman Camp,CH0103,Clintonian/Federalist,A05,2287
+5,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,NA
+6,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,NA
+7,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,NA
+8,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Gratton H. Wheeler,WG0067,null,null,NA
+9,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Amos Peabody,PA0078,null,null,NA
+10,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Asa Lee Davison,DA0068,null,null,NA
+11,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Woods,WW0171,null,null,NA
+12,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Trepeck,TD0049,null,null,NA
+13,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Hudson Jennings,JH0022,null,null,NA
+14,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"Peter Hagar, II",HP0020,null,null,NA
+15,Cayuga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Samuel Crittenden,CS0135,null,null,NA
+1,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Rochester,RW0109,Republican,A03,1459
+2,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Woodcock,WD0058,Republican,A03,841
+3,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Clintonian/Federalist,A05,1316
+4,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Herman Camp,CH0103,Clintonian/Federalist,A05,957
+5,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,3
+6,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,3
+7,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,1
+8,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Gratton H. Wheeler,WG0067,null,null,NA
+9,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Amos Peabody,PA0078,null,null,NA
+10,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Asa Lee Davison,DA0068,null,null,NA
+11,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Woods,WW0171,null,null,NA
+12,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Trepeck,TD0049,null,null,NA
+13,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Hudson Jennings,JH0022,null,null,NA
+14,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"Peter Hagar, II",HP0020,null,null,NA
+15,Seneca,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Samuel Crittenden,CS0135,null,null,NA
+1,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Rochester,RW0109,Republican,A03,1255
+2,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Woodcock,WD0058,Republican,A03,1013
+3,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Clintonian/Federalist,A05,804
+4,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Herman Camp,CH0103,Clintonian/Federalist,A05,910
+5,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,2
+6,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,2
+7,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,NA
+8,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Gratton H. Wheeler,WG0067,null,null,2
+9,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Amos Peabody,PA0078,null,null,2
+10,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Asa Lee Davison,DA0068,null,null,1
+11,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Woods,WW0171,null,null,1
+12,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Trepeck,TD0049,null,null,1
+13,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Hudson Jennings,JH0022,null,null,NA
+14,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"Peter Hagar, II",HP0020,null,null,NA
+15,Steuben,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Samuel Crittenden,CS0135,null,null,NA
+1,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Rochester,RW0109,Republican,A03,1215
+2,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Woodcock,WD0058,Republican,A03,1121
+3,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Clintonian/Federalist,A05,722
+4,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Herman Camp,CH0103,Clintonian/Federalist,A05,690
+5,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,4
+6,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,NA
+7,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,NA
+8,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Gratton H. Wheeler,WG0067,null,null,NA
+9,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Amos Peabody,PA0078,null,null,NA
+10,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Asa Lee Davison,DA0068,null,null,NA
+11,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Woods,WW0171,null,null,NA
+12,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Trepeck,TD0049,null,null,NA
+13,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Hudson Jennings,JH0022,null,null,NA
+14,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"Peter Hagar, II",HP0020,null,null,NA
+15,Tioga,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Samuel Crittenden,CS0135,null,null,NA
+1,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Rochester,RW0109,Republican,A03,1452
+2,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Woodcock,WD0058,Republican,A03,1198
+3,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Clintonian/Federalist,A05,949
+4,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Herman Camp,CH0103,Clintonian/Federalist,A05,725
+5,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James MacCall,MJ0507,null,null,NA
+6,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Henry Seymour,SH0093,null,null,NA
+7,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Stephen Bates,BS0202,null,null,NA
+8,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Gratton H. Wheeler,WG0067,null,null,NA
+9,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Amos Peabody,PA0078,null,null,NA
+10,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Asa Lee Davison,DA0068,null,null,NA
+11,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,William Woods,WW0171,null,null,NA
+12,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,David Trepeck,TD0049,null,null,NA
+13,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Hudson Jennings,JH0022,null,null,5
+14,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"Peter Hagar, II",HP0020,null,null,4
+15,Tompkins,ny.uscongress20.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Samuel Crittenden,CS0135,null,null,1

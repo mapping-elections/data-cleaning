@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress17.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Thomas H. Hubbard,HT0120,Republican,A03,1,Seventeen,3235
+ny.uscongress17.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,David Woods,WD0056,Clintonian/Federalist,A05,2,Seventeen,3103
+ny.uscongress17.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Rutherford Barker,BR0073,null,null,3,Seventeen,2
+ny.uscongress17.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Philo M. Hackley,HP0019,null,null,4,Seventeen,1

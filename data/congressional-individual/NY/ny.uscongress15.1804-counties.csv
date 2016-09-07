@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathan Williams,WN0088,Republican,A03,1264
+2,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,562
+3,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,2
+4,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Broome,BJ0669,null,null,1
+5,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jonathan Burkin,BJ0902,null,null,NA
+6,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Coffin,CH0024,null,null,NA
+7,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert R. Gold,GR0042,null,null,1
+8,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,1
+9,Herkimer,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jedediah Peck,PJ0209,null,null,1
+1,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Nathan Williams,WN0088,Republican,A03,2369
+2,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas R. Gold,GT0056,Federalist,A01,2134
+3,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,3
+4,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Broome,BJ0669,null,null,NA
+5,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jonathan Burkin,BJ0902,null,null,1
+6,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Henry Coffin,CH0024,null,null,1
+7,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert R. Gold,GR0042,null,null,NA
+8,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Morgan Lewis,LM0044,null,null,NA
+9,Oneida,ny.uscongress15.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Jedediah Peck,PJ0209,null,null,NA

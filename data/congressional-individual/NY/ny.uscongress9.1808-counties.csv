@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Federalist,A01,2643
+2,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Herkimer,HJ0524,Republican,A03,1512
+3,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John MacCarthy,MJ0497,null,null,3
+4,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Richard Dodge,DR0029,null,null,1
+5,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Harper,HS0142,null,null,1
+6,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Sammons,SD0106,null,null,1
+7,Montgomery,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry F. Yates,YH0011,null,null,1
+1,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Sammons,ST0168,Federalist,A01,999
+2,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Herkimer,HJ0524,Republican,A03,604
+3,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John MacCarthy,MJ0497,null,null,NA
+4,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Richard Dodge,DR0029,null,null,NA
+5,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Harper,HS0142,null,null,NA
+6,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Sammons,SD0106,null,null,NA
+7,Schoharie,ny.uscongress9.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry F. Yates,YH0011,null,null,NA

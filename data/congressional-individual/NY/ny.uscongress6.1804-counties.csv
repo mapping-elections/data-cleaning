@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel C. Verplanck,VD0005,Republican,A03,2291
+2,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Benjamin Akin,AB0028,Federalist,A01,1659
+3,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Akin,AJ0181,null,null,2
+4,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Akin,AD0069,null,null,1
+5,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Isaac Akin,AI0020,null,null,1
+6,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Colegrove,CW0267,null,null,1
+7,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Lansing,LJ0213,null,null,1
+8,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Morgan,MJ1357,null,null,1
+9,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Oliver Phelps,PO0023,null,null,1
+10,Dutchess,ny.uscongress6.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Peter Van Ness,VP0037,null,null,1

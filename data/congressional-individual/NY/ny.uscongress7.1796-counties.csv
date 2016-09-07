@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress7.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Glenn,GH0039,Federalist,A01,313
+2,Albany,ny.uscongress7.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Swart,SP0063,Republican,A03,NA
+1,Schoharie,ny.uscongress7.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Glenn,GH0039,Federalist,A01,29
+2,Schoharie,ny.uscongress7.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Swart,SP0063,Republican,A03,138

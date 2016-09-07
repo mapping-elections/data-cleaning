@@ -1,0 +1,18 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Henry R. Storrs,SH0095,Federalist,A01,2818
+2,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Nathan Williams,WN0088,Republican,A03,2540
+3,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Abram Camp,CA0102,null,null,4
+4,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Martin Hawley,HM0048,null,null,4
+5,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,David Ambler,AD0034,null,null,4
+6,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Newton Marsh,MN0030,null,null,4
+7,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Wheeler Barnes,BW0210,null,null,4
+8,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Henry Huntington,HH0042,null,null,3
+9,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Brayton,BG0082,null,null,3
+10,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Thomas Walker,WT0031,null,null,3
+11,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Asahel Curtiss,CA0115,null,null,3
+12,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Peter Pratt,PP0026,null,null,3
+13,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Theodore Sill,ST0183,null,null,1
+14,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Valentine Brother,BV0008,null,null,1
+15,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Federalist,A01,1
+16,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Tracy,TW0094,null,null,1
+17,Oneida,ny.uscongress16.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Thomas,TD0045,Republican,A03,2218
+2,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Williams,WJ0409,Federalist,A01,1243
+3,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Russell,RE0047,Federalist,A01,20
+4,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Ebenezer Clark,CE0141,null,null,4
+5,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,David Hopkins,HD0052,null,null,1
+6,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Edward Savage,SE0051,null,null,1
+7,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Chancey Stuart,SC0142,null,null,1
+8,Washington,ny.uscongress12.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Starling Waters,WS0086,null,null,1

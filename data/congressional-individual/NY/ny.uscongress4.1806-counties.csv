@@ -1,0 +1,45 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,229
+2,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Augustus Jay,JP0004,Federalist,A01,NA
+3,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Tallman,TP0036,Republican,A03,1
+4,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel L. Smith,SS0152,Lewisite,A08,110
+5,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,NA
+6,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Azra Lockwood,LA0055,null,null,NA
+7,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Marvine,MS0102,null,null,NA
+8,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Osias Osborn,OO0000,null,null,NA
+9,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Caleb Tompkins,TC0045,null,null,NA
+10,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,NA
+11,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,NA
+12,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Gone,GS0053,null,null,NA
+13,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,NA
+14,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel G. Verbryck,VS0012,null,null,2
+15,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Will Barker,BW0181,null,null,NA
+16,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Cole,CJ0392,null,null,1
+17,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Isaacs,IB0001,null,null,NA
+18,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Jay Munro,MP0077,null,null,NA
+19,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Odell,OA0031,null,null,NA
+20,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Purdy,PJ0283,null,null,NA
+21,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham H. Schenck,SA0125,null,null,1
+22,Rockland,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Wilkin,WJ0459,null,null,1
+1,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,740
+2,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Augustus Jay,JP0004,Federalist,A01,854
+3,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Tallman,TP0036,Republican,A03,133
+4,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel L. Smith,SS0152,Lewisite,A08,17
+5,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,null,null,5
+6,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Azra Lockwood,LA0055,null,null,4
+7,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Marvine,MS0102,null,null,4
+8,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Osias Osborn,OO0000,null,null,4
+9,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Caleb Tompkins,TC0045,null,null,4
+10,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Morris,MJ0473,null,null,3
+11,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jonathan Ward,WJ0457,null,null,3
+12,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Gone,GS0053,null,null,2
+13,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Jones,JS0049,null,null,2
+14,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel G. Verbryck,VS0012,null,null,NA
+15,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Will Barker,BW0181,null,null,1
+16,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Cole,CJ0392,null,null,NA
+17,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Isaacs,IB0001,null,null,1
+18,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Jay Munro,MP0077,null,null,1
+19,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Odell,OA0031,null,null,1
+20,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Purdy,PJ0283,null,null,1
+21,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham H. Schenck,SA0125,null,null,NA
+22,Westchester,ny.uscongress4.1806,1806,1806,General,"New York 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Wilkin,WJ0459,null,null,NA

@@ -1,0 +1,41 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,1538
+2,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Hezekiah L. Hosmer,HH0037,Federalist,A01,17
+3,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Truesdell,TT0042,null,null,13
+4,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Bill Hydorn,HB0068,null,null,3
+5,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Durfree,DW0086,null,null,2
+6,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Harris Kellogg,KH0006,null,null,2
+7,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Bishop,BJ0477,null,null,1
+8,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Beaman Brockway,BB0100,null,null,1
+9,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Chamberlain,CD0111,null,null,1
+10,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Hachaliah Dulittle,DH0030,null,null,1
+11,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Gayer Gardner,GG0032,null,null,1
+12,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Knapp,KD0039,null,null,1
+13,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas MacIntyre,MN0031,null,null,1
+14,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Bill Mallery,MB0049,null,null,1
+15,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Killiam Miller,MK0001,null,null,1
+16,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Nicholas,ND0013,null,null,1
+17,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Ten Broeck,TS0137,null,null,1
+18,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James J. Van Alen,VJ0201,null,null,1
+19,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jacob R. Van Rensselaer,VJ0183,Federalist,A01,1
+20,Columbia,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Adam Wolfram,WA0101,null,null,1
+1,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,487
+2,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Hezekiah L. Hosmer,HH0037,Federalist,A01,NA
+3,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Truesdell,TT0042,null,null,NA
+4,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Bill Hydorn,HB0068,null,null,NA
+5,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Durfree,DW0086,null,null,NA
+6,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Harris Kellogg,KH0006,null,null,NA
+7,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Bishop,BJ0477,null,null,NA
+8,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Beaman Brockway,BB0100,null,null,NA
+9,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Chamberlain,CD0111,null,null,NA
+10,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Hachaliah Dulittle,DH0030,null,null,NA
+11,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Gayer Gardner,GG0032,null,null,NA
+12,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Knapp,KD0039,null,null,NA
+13,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas MacIntyre,MN0031,null,null,NA
+14,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Bill Mallery,MB0049,null,null,NA
+15,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Killiam Miller,MK0001,null,null,NA
+16,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Nicholas,ND0013,null,null,NA
+17,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Ten Broeck,TS0137,null,null,NA
+18,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James J. Van Alen,VJ0201,null,null,NA
+19,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jacob R. Van Rensselaer,VJ0183,Federalist,A01,NA
+20,Dutchess,ny.uscongress5.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Adam Wolfram,WA0101,null,null,NA

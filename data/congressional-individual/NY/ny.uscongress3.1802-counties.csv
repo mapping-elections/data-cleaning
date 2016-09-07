@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Mitchell,MS0108,Republican,A03,719
+2,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joshua Sands,SJ0646,Federalist,A01,26
+3,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Broome,BJ0669,null,null,14
+4,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Morton,MJ0446,null,null,3
+5,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David Heckel,HD0123,null,null,1
+6,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Laziliel,LA0061,null,null,1
+7,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezekiel Robbins,RE0015,null,null,1
+8,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Bernardus Swartwout,SB0106,null,null,1
+9,New York,ny.uscongress3.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Woolsey,WW0007,null,null,1

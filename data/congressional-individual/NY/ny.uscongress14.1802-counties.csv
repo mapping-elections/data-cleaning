@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Root,RE0049,Republican,A03,636
+2,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benjamin Gilbert,GB0024,Federalist,A01,313
+3,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Coenrad Edward Elmendorf,EC0014,null,null,4
+4,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Moss Kent,KM0021,null,null,NA
+5,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,William Sammons,SW0260,null,null,NA
+6,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Sluman Wattels,WS0139,null,null,NA
+7,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Abraham Adriance,AA0055,null,null,1
+8,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Billi Cooper,CB0051,null,null,NA
+9,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Lamb,LJ0224,null,null,1
+10,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Chauncy Lawrence,LC0036,null,null,1
+11,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Peter Maker,MP0044,null,null,NA
+12,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jedediah Peck,PJ0209,null,null,NA
+13,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Luther Rich,RL0003,null,null,NA
+14,Delaware,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Solomon Sutherland,SS0174,null,null,1
+1,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Erastus Root,RE0049,Republican,A03,1143
+2,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Benjamin Gilbert,GB0024,Federalist,A01,1007
+3,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Coenrad Edward Elmendorf,EC0014,null,null,NA
+4,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Moss Kent,KM0021,null,null,3
+5,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,William Sammons,SW0260,null,null,3
+6,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Sluman Wattels,WS0139,null,null,2
+7,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Abraham Adriance,AA0055,null,null,NA
+8,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Billi Cooper,CB0051,null,null,1
+9,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Lamb,LJ0224,null,null,NA
+10,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Chauncy Lawrence,LC0036,null,null,NA
+11,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Peter Maker,MP0044,null,null,1
+12,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jedediah Peck,PJ0209,null,null,1
+13,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Luther Rich,RL0003,null,null,1
+14,Otsego,ny.uscongress14.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Solomon Sutherland,SS0174,null,null,NA

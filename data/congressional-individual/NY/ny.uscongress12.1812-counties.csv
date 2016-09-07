@@ -1,0 +1,61 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,325
+2,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,325
+3,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,Republican,A03,NA
+4,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,361
+5,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Livingston,LW0107,Republican,A03,368
+6,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,null,null,NA
+7,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,"John Daniels, Jr.",DJ0381,null,null,NA
+8,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,NA
+9,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha J. Shipherd,SE0157,null,null,NA
+10,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+11,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Grissell,GR0044,null,null,NA
+12,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Skinner,SM0056,null,null,NA
+13,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Wheeler,WM0057,null,null,NA
+14,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Mattison,MH0067,null,null,NA
+15,Clinton,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Abel Wood,WA0162,null,null,NA
+1,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,547
+2,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,480
+3,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,Republican,A03,494
+4,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,587
+5,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Livingston,LW0107,Republican,A03,143
+6,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,null,null,NA
+7,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,"John Daniels, Jr.",DJ0381,null,null,4
+8,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,NA
+9,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha J. Shipherd,SE0157,null,null,NA
+10,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+11,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Grissell,GR0044,null,null,NA
+12,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Skinner,SM0056,null,null,NA
+13,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Wheeler,WM0057,null,null,NA
+14,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Mattison,MH0067,null,null,NA
+15,Essex,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Abel Wood,WA0162,null,null,NA
+1,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,333
+2,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,334
+3,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,Republican,A03,105
+4,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,110
+5,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Livingston,LW0107,Republican,A03,1
+6,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,null,null,7
+7,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,"John Daniels, Jr.",DJ0381,null,null,NA
+8,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,NA
+9,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha J. Shipherd,SE0157,null,null,NA
+10,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,NA
+11,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Grissell,GR0044,null,null,1
+12,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Skinner,SM0056,null,null,NA
+13,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Wheeler,WM0057,null,null,NA
+14,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Mattison,MH0067,null,null,NA
+15,Franklin,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Abel Wood,WA0162,null,null,NA
+1,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Zebulon R. Shipherd,SZ0012,Federalist,A01,2776
+2,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha I. Winter,WE0098,Federalist,A01,2773
+3,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Smith,SM0083,Republican,A03,2278
+4,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Skinner,SR0156,Republican,A03,2143
+5,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Livingston,LW0107,Republican,A03,260
+6,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Savage,SJ0737,null,null,NA
+7,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,"John Daniels, Jr.",DJ0381,null,null,NA
+8,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas P. Grosvenor,GT0059,Federalist,A01,NA
+9,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Elisha J. Shipherd,SE0157,null,null,2
+10,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Alexander Livingston,LA0088,null,null,2
+11,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Roger Grissell,GR0044,null,null,NA
+12,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Skinner,SM0056,null,null,1
+13,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Melancton Wheeler,WM0057,null,null,1
+14,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Henry Mattison,MH0067,null,null,1
+15,Washington,ny.uscongress12.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Abel Wood,WA0162,null,null,1

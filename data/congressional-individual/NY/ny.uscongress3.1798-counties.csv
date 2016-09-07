@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rockland,ny.uscongress3.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Pierre Van Cortlandt,VP0039,Republican,A03,419
+2,Rockland,ny.uscongress3.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Mordecai Hale,HM0045,Federalist,A01,NA
+1,Westchester,ny.uscongress3.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Pierre Van Cortlandt,VP0039,Republican,A03,973
+2,Westchester,ny.uscongress3.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Mordecai Hale,HM0045,Federalist,A01,402

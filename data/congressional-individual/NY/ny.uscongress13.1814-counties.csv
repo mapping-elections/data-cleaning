@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Schenectady,ny.uscongress13.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John B. Yates,YJ0021,Republican,A03,782
+2,Schenectady,ny.uscongress13.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lawrence Vrooman,VL0000,Federalist,A01,638
+1,Schoharie,ny.uscongress13.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John B. Yates,YJ0021,Republican,A03,1362
+2,Schoharie,ny.uscongress13.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lawrence Vrooman,VL0000,Federalist,A01,928

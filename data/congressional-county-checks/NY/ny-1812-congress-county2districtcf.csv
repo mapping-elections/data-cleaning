@@ -1,0 +1,165 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress14.1812,1812,Jacob Markell,MJ0491,Federalist,A01,2490,NA,-2490,1.0
+ny.uscongress14.1812,1812,James MacIntyre,MJ0465,Republican,A03,1987,NA,-1987,1.0
+ny.uscongress12.1812,1812,William Livingston,LW0107,Republican,A03,772,404,-368,0.48
+ny.uscongress12.1812,1812,Melancton Smith,SM0083,Republican,A03,2877,3238,361,0.11
+ny.uscongress21.1812,1812,Samuel M. Hopkins,HS0156,Federalist,A01,4522,4422,-100,0.02
+ny.uscongress21.1812,1812,Nathaniel W. Howell,HN0037,Federalist,A01,4427,4436,9,0.0
+ny.uscongress12.1812,1812,Roger Skinner,SR0156,Republican,A03,3201,3208,7,0.0
+ny.uscongress12.1812,1812,Thomas P. Grosvenor,GT0059,Federalist,A01,0,4,4,1.0
+ny.uscongress1.1812,1812,Ebenezer Sage,SE0063,Republican,A03,3509,3508,-1,0.0
+ny.uscongress15.1812,1812,Amos Patterson,PA0076,Republican,A03,3916,3917,1,0.0
+ny.uscongress19.1812,1812,William Cook,CW0165,null,null,1,NA,-1,1.0
+ny.uscongress19.1812,1812,William Mallery,MW0219,null,null,1,2,1,0.5
+ny.uscongress20.1812,1812,Vincent Matthews,MV0004,Federalist,A01,2356,2355,-1,0.0
+ny.uscongress21.1812,1812,Stephen Baker,BS0150,null,null,2,1,-1,0.5
+ny.uscongress1.1812,1812,Benjamin B. Blydenburg,BB0047,Federalist,A01,3437,3437,0,0.0
+ny.uscongress1.1812,1812,Benjamin Brewster,BB0136,null,null,1,1,0,0.0
+ny.uscongress1.1812,1812,Egbert Benson,BE0171,Federalist,A01,12,12,0,0.0
+ny.uscongress1.1812,1812,John Ferguson,FJ0208,Republican,A03,5,5,0,0.0
+ny.uscongress1.1812,1812,John Lefferts,LJ0236,Republican,A03,3515,3515,0,0.0
+ny.uscongress1.1812,1812,John V.D. Jacobson,JJ0117,null,null,1,1,0,0.0
+ny.uscongress1.1812,1812,Joseph Cubbley,CJ0562,null,null,1,1,0,0.0
+ny.uscongress1.1812,1812,"Jotham Post, Jr.",PJ0366,Federalist,A01,12,12,0,0.0
+ny.uscongress1.1812,1812,Peter A. Jay,JP0004,Federalist,A01,3446,3446,0,0.0
+ny.uscongress1.1812,1812,William Irving,IW0014,Republican,A03,5,5,0,0.0
+ny.uscongress10.1812,1812,Anthony Cronkhite,CA0159,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Asa Mann,MA0116,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Bartholomew Harvey,HB0087,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Benjamin Covill,CB0042,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Benjamin Smith,SB0053,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Eleazer Peck,PE0095,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Hosea Moffit,MH0061,Federalist,A01,2147,2147,0,0.0
+ny.uscongress10.1812,1812,James Dole,DJ0004,null,null,2,2,0,0.0
+ny.uscongress10.1812,1812,John Moshure,MJ0539,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,John N.V. Carmerhorn,VJ0140,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,John Thomas,TJ0201,null,null,21,21,0,0.0
+ny.uscongress10.1812,1812,John W. Schermerhorn,SJ0644,null,null,9,9,0,0.0
+ny.uscongress10.1812,1812,Marcus Williams,WM0039,null,null,1,1,0,0.0
+ny.uscongress10.1812,1812,Peter Crandell,CP0087,null,null,14,14,0,0.0
+ny.uscongress10.1812,1812,Simeon Viele,VS0024,null,null,2,2,0,0.0
+ny.uscongress10.1812,1812,Smith Filkins,FS0055,null,null,5,5,0,0.0
+ny.uscongress10.1812,1812,Thomas P. Grosvenor,GT0059,Federalist,A01,5,5,0,0.0
+ny.uscongress11.1812,1812,John W. Taylor,TJ0328,Republican,A03,2229,2229,0,0.0
+ny.uscongress11.1812,1812,Samuel Stewart,SS0206,Federalist,A01,1974,1974,0,0.0
+ny.uscongress12.1812,1812,Abel Wood,WA0162,null,null,1,1,0,0.0
+ny.uscongress12.1812,1812,Alexander Livingston,LA0088,null,null,2,2,0,0.0
+ny.uscongress12.1812,1812,Elisha I. Winter,WE0098,Federalist,A01,3912,3912,0,0.0
+ny.uscongress12.1812,1812,Elisha J. Shipherd,SE0157,null,null,2,2,0,0.0
+ny.uscongress12.1812,1812,Henry Mattison,MH0067,null,null,1,1,0,0.0
+ny.uscongress12.1812,1812,"John Daniels, Jr.",DJ0381,null,null,4,4,0,0.0
+ny.uscongress12.1812,1812,John Savage,SJ0737,null,null,7,7,0,0.0
+ny.uscongress12.1812,1812,Melancton Skinner,SM0056,null,null,1,1,0,0.0
+ny.uscongress12.1812,1812,Melancton Wheeler,WM0057,null,null,1,1,0,0.0
+ny.uscongress12.1812,1812,Roger Grissell,GR0044,null,null,1,1,0,0.0
+ny.uscongress12.1812,1812,Zebulon R. Shipherd,SZ0012,Federalist,A01,3981,3981,0,0.0
+ny.uscongress13.1812,1812,Alexander Boyd,BA0140,Federalist,A01,1722,1722,0,0.0
+ny.uscongress13.1812,1812,David Boyd,BD0086,null,null,1,1,0,0.0
+ny.uscongress13.1812,1812,Jesse Shephard,SJ0731,Republican,A03,208,208,0,0.0
+ny.uscongress13.1812,1812,John Gebhard,GJ0283,Republican,A03,1434,1434,0,0.0
+ny.uscongress15.1812,1812,Arunah Metcalf,MA0129,null,null,5,5,0,0.0
+ny.uscongress15.1812,1812,Francis Henry,HF0029,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,James Patterson,PJ0365,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,Joel Dowse,DJ0380,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,Joel Thompson,TJ0323,Federalist,A01,4479,4479,0,0.0
+ny.uscongress15.1812,1812,Jonathan Roseboom,RJ0369,null,null,4,4,0,0.0
+ny.uscongress15.1812,1812,Nathaniel Waldron,WN0090,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,Robert Patterson,PR0079,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,Robert Rosebloom,RR0035,Republican,A03,3943,3943,0,0.0
+ny.uscongress15.1812,1812,Stephen O. Runyon,RS0055,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,Tom Skinner,ST0178,null,null,1,1,0,0.0
+ny.uscongress15.1812,1812,William Dowse,DW0088,Federalist,A01,4417,4417,0,0.0
+ny.uscongress15.1812,1812,William M. Price,PW0095,null,null,1,1,0,0.0
+ny.uscongress16.1812,1812,George Brayton,BG0082,Republican,A03,1573,1573,0,0.0
+ny.uscongress16.1812,1812,Morris S. Miller,MM0033,Federalist,A01,2710,2710,0,0.0
+ny.uscongress17.1812,1812,Hubbard Smith,SH0090,Republican,A03,1972,1972,0,0.0
+ny.uscongress17.1812,1812,William S. Smith,SW0140,Federalist,A01,2605,2605,0,0.0
+ny.uscongress18.1812,1812,Chandler Otis,OC0010,null,null,4,4,0,0.0
+ny.uscongress18.1812,1812,Elisha Camp,CE0112,null,null,1,1,0,0.0
+ny.uscongress18.1812,1812,Jacob Brown,BJ0752,Republican,A03,1369,1369,0,0.0
+ny.uscongress18.1812,1812,John Stafford,SJ0693,null,null,1,1,0,0.0
+ny.uscongress18.1812,1812,Moss Kent,KM0021,Federalist,A01,2194,2194,0,0.0
+ny.uscongress18.1812,1812,Solomon Brown,BS0152,null,null,1,1,0,0.0
+ny.uscongress19.1812,1812,James Geddes,GJ0280,Federalist,A01,1634,1634,0,0.0
+ny.uscongress19.1812,1812,John Miller,MJ0472,Republican,A03,1297,1297,0,0.0
+ny.uscongress2.1812,1812,Benjamin B. Blydenburg,BB0047,Federalist,A01,5,5,0,0.0
+ny.uscongress2.1812,1812,Ebenezer Sage,SE0063,Republican,A03,2,2,0,0.0
+ny.uscongress2.1812,1812,Egbert Benson,BE0171,Federalist,A01,3938,3938,0,0.0
+ny.uscongress2.1812,1812,George Gardner,GG0059,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,Gurdon S. Mumford,MG0050,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,Isaac M. Ely,EI0001,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,James Townsend,TJ0196,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,John Bingham,BJ0751,null,null,2,2,0,0.0
+ny.uscongress2.1812,1812,John C. Mott,MJ0690,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,John Ferguson,FJ0208,Republican,A03,3737,3737,0,0.0
+ny.uscongress2.1812,1812,John Lefferts,LJ0236,Republican,A03,2,2,0,0.0
+ny.uscongress2.1812,1812,Jotham Post,PJ0293,Federalist,A01,3922,3922,0,0.0
+ny.uscongress2.1812,1812,Michael Cashman,CM0086,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,Nicholas Fish,FN0016,Federalist,A01,1,1,0,0.0
+ny.uscongress2.1812,1812,Peter A. Jay,JP0004,Federalist,A01,5,5,0,0.0
+ny.uscongress2.1812,1812,Pierre Van Wyck,VP0032,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,Robert Benson,BR0135,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,Thomas Williams,WT0110,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,William Henderson,HW0220,null,null,1,1,0,0.0
+ny.uscongress2.1812,1812,William Irving,IW0014,Republican,A03,3732,3732,0,0.0
+ny.uscongress2.1812,1812,William Somerville,SW0331,null,null,1,1,0,0.0
+ny.uscongress20.1812,1812,Daniel Avery,AD0015,Republican,A03,4323,4323,0,0.0
+ny.uscongress20.1812,1812,Elijah C. Comstock,CE0091,null,null,1,1,0,0.0
+ny.uscongress20.1812,1812,Elijah Miller,ME0078,Federalist,A01,2359,2359,0,0.0
+ny.uscongress20.1812,1812,Oliver Comstock,CO0016,Republican,A03,4347,4347,0,0.0
+ny.uscongress20.1812,1812,Venien Mather,MV0003,null,null,1,1,0,0.0
+ny.uscongress21.1812,1812,Alexander Smith,SA0171,null,null,1,1,0,0.0
+ny.uscongress21.1812,1812,Chauncey Bates,BC0127,null,null,1,1,0,0.0
+ny.uscongress21.1812,1812,Chauncey Loomis,LC0023,Republican,A03,3618,3618,0,0.0
+ny.uscongress21.1812,1812,Micah Brooks,BM0060,Republican,A03,74,74,0,0.0
+ny.uscongress21.1812,1812,Moses Atwater,AM0019,null,null,1,1,0,0.0
+ny.uscongress21.1812,1812,Nathaniel W. Hopkins,AA0000,null,null,4,4,0,0.0
+ny.uscongress21.1812,1812,Samuel M. Howell,HS0178,null,null,1,1,0,0.0
+ny.uscongress21.1812,1812,Silas Taylor,TS0109,null,null,1,1,0,0.0
+ny.uscongress21.1812,1812,Stephen Bates,BS0202,Republican,A03,3511,3511,0,0.0
+ny.uscongress21.1812,1812,William Loomis,LW0098,null,null,1,1,0,0.0
+ny.uscongress3.1812,1812,Peter DeNoyelles,DP0026,Republican,A03,1404,1404,0,0.0
+ny.uscongress3.1812,1812,"Pierre Van Cortlandt, Jr.",VP0039,Republican,A03,569,569,0,0.0
+ny.uscongress3.1812,1812,Richard Valentine Morris,MR0070,Federalist,A01,1307,1307,0,0.0
+ny.uscongress4.1812,1812,Theodorus R. Van Wyck,VT0016,Republican,A03,1489,1489,0,0.0
+ny.uscongress4.1812,1812,Thomas J. Oakley,OT0003,Federalist,A01,2000,2000,0,0.0
+ny.uscongress5.1812,1812,Adam Wolfram,WA0101,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Beaman Brockway,BB0100,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Bill Hydorn,HB0068,null,null,3,3,0,0.0
+ny.uscongress5.1812,1812,Bill Mallery,MB0049,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,David Chamberlain,CD0111,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,David Knapp,KD0039,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,David Nicholas,ND0013,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Gayer Gardner,GG0032,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Hachaliah Dulittle,DH0030,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Harris Kellogg,KH0006,null,null,2,2,0,0.0
+ny.uscongress5.1812,1812,Hezekiah L. Hosmer,HH0037,Federalist,A01,17,17,0,0.0
+ny.uscongress5.1812,1812,Jacob R. Van Rensselaer,VJ0183,Federalist,A01,1,1,0,0.0
+ny.uscongress5.1812,1812,James J. Van Alen,VJ0201,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,John Bishop,BJ0477,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Killiam Miller,MK0001,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Nicholas MacIntyre,MN0031,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Samuel Ten Broeck,TS0137,null,null,1,1,0,0.0
+ny.uscongress5.1812,1812,Thomas P. Grosvenor,GT0059,Federalist,A01,2025,2025,0,0.0
+ny.uscongress5.1812,1812,Thomas Truesdell,TT0042,null,null,13,13,0,0.0
+ny.uscongress5.1812,1812,William Durfree,DW0086,null,null,2,2,0,0.0
+ny.uscongress6.1812,1812,Anthony Davis,DA0060,Republican,A03,435,435,0,0.0
+ny.uscongress6.1812,1812,John Bradner,BJ0673,Federalist,A01,664,664,0,0.0
+ny.uscongress6.1812,1812,Jonathan Fisk,FJ0199,Republican,A03,1322,1322,0,0.0
+ny.uscongress7.1812,1812,Abraham Hasbrouck,HA0085,Republican,A03,1631,1631,0,0.0
+ny.uscongress7.1812,1812,Abraham Te DeWitt,DA0058,Federalist,A01,1486,1486,0,0.0
+ny.uscongress7.1812,1812,"Andries Davis, Jr.",DA0109,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,Abijah Paine,PA0063,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,Ebenezer Merritt,ME0066,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,Henry C. Houghtaling,HH0057,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,Isaac Burr,BI0071,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,John Ely,EJ0115,Republican,A03,1990,1990,0,0.0
+ny.uscongress8.1812,1812,Jonathan Keyes,KJ0197,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,Peter Bogart,BP0093,null,null,1,1,0,0.0
+ny.uscongress8.1812,1812,Samuel Sherwood,SS0183,Federalist,A01,2303,2303,0,0.0
+ny.uscongress8.1812,1812,William Avery,AW0086,null,null,1,1,0,0.0
+ny.uscongress9.1812,1812,"Adam Dietz, Jr.",DA0053,null,null,2,2,0,0.0
+ny.uscongress9.1812,1812,Daniel Woolford,WD0091,null,null,1,1,0,0.0
+ny.uscongress9.1812,1812,John Lovett,LJ0221,Federalist,A01,1253,1253,0,0.0
+ny.uscongress9.1812,1812,John Roll,RJ0368,null,null,4,4,0,0.0
+ny.uscongress9.1812,1812,Simion Bellamy,BS0149,null,null,1,1,0,0.0

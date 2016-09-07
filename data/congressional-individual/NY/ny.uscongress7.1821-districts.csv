@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress7.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Charles H. Ruggles,RC0069,Clintonian/Federalist,A05,1,Seven,2577
+ny.uscongress7.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Gillespie,GW0087,Republican,A03,2,Seven,2139
+ny.uscongress7.1821,1821,1821,General,"New York 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Gillespie,GJ0307,null,null,3,Seven,2

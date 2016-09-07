@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Van Gaasbeck,VP0015,Federalist,A01,104
+2,Orange,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Republican,A03,762
+3,Orange,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Carpenter,CJ0462,Republican,A03,72
+4,Orange,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Cornelius C. Schoonmaker,SC0076,Republican,A03,32
+5,Orange,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Thompson,TW0052,Republican,A03,39
+6,Orange,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jesse Woodhull,WJ0407,Republican,A03,19
+1,Ulster,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Van Gaasbeck,VP0015,Federalist,A01,1360
+2,Ulster,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Republican,A03,686
+3,Ulster,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Carpenter,CJ0462,Republican,A03,NA
+4,Ulster,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Cornelius C. Schoonmaker,SC0076,Republican,A03,21
+5,Ulster,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Thompson,TW0052,Republican,A03,1
+6,Ulster,ny.uscongress4.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jesse Woodhull,WJ0407,Republican,A03,NA

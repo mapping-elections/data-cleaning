@@ -1,13 +1,7 @@
-# Just the NY congressional elections
-NYCONG := $(wildcard data-raw/nnv-xml/ny.uscongress*.xml)
-NYCONG := $(patsubst data-raw/nnv-xml/%, data/congressional/%, $(NYCONG))
-NYCONG := $(patsubst %.xml, %.csv, $(NYCONG))
+all : data/congressional-elections-list.csv data
 
-all : $(NYCONG) data
-
-data/congressional/%.csv : data-raw/nnv-xml/%.xml 
-	@mkdir -p data/congressional
-	./scripts/xml2table.R $^ -u town -o $@
+data/congressional-elections-list.csv :
+	./scripts/list-congressional-elections.R
 
 # Download and unzip raw data
 # -------------------------------------------------------------------
@@ -58,7 +52,6 @@ data-raw/nnv-party/party-authority.xml :
 # -------------------------------------------------------------------
 setup :
 	@mkdir -p R
-	@mkdir -p notebooks
 	@mkdir -p data
 	@mkdir -p data-raw
 	@mkdir -p output
@@ -72,3 +65,4 @@ clobber : clean
 	rm -rf output/*
 
 .PHONY : all setup clean clobber data
+

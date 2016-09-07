@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jefferson,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David A. Ogden,OD0006,Federalist,A01,1326
+2,Jefferson,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Ela Collins,CE0108,Republican,A03,1394
+3,Jefferson,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,1
+4,Jefferson,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,1
+1,Lewis,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David A. Ogden,OD0006,Federalist,A01,333
+2,Lewis,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Ela Collins,CE0108,Republican,A03,473
+3,Lewis,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,NA
+4,Lewis,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA
+1,Saint Lawrence,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,David A. Ogden,OD0006,Federalist,A01,732
+2,Saint Lawrence,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Ela Collins,CE0108,Republican,A03,482
+3,Saint Lawrence,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Rufus King,KR0003,Federalist,A01,NA
+4,Saint Lawrence,ny.uscongress18.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,George Tibbits,TG0044,Federalist,A01,NA

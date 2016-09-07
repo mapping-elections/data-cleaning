@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress7.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Josiah Hasbrouck,HJ0528,Republican,A03,1,1826
+ny.uscongress7.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Sudam,SJ0733,Federalist,A01,2,1703
+ny.uscongress7.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel S. Freer,FS0031,null,null,3,1
+ny.uscongress7.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John C. Hansen,HJ0526,null,null,4,1
+ny.uscongress7.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Jacob R. Hardenburgh,HJ0523,null,null,5,1

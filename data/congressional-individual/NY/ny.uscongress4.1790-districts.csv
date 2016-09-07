@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Cornelius C. Schoonmaker,SC0076,Anti-Federalist,A02,1,Four,898
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Van Gaesbeck,VP0015,Federalist,A01,2,Four,753
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Federalist,A01,3,Four,61
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Christopher Tappen,TC0039,Anti-Federalist,A02,4,Four,13
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Arnold,AW0049,null,null,5,Four,1
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,P. Tappen,TP0033,null,null,6,Four,1
+ny.uscongress4.1790,1790,1790,General,"New York 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,W. Thompson,TW0052,null,null,7,Four,1

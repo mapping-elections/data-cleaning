@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Onondaga,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cooper,CW0154,Federalist,A01,467
+2,Onondaga,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Moss Kent,KM0021,Republican,A03,565
+1,Ontario,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cooper,CW0154,Federalist,A01,119
+2,Ontario,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Moss Kent,KM0021,Republican,A03,282
+1,Otsego,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cooper,CW0154,Federalist,A01,1301
+2,Otsego,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Moss Kent,KM0021,Republican,A03,404
+1,Steuben,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cooper,CW0154,Federalist,A01,25
+2,Steuben,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Moss Kent,KM0021,Republican,A03,131
+1,Tioga,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cooper,CW0154,Federalist,A01,126
+2,Tioga,ny.uscongress10.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Moss Kent,KM0021,Republican,A03,483

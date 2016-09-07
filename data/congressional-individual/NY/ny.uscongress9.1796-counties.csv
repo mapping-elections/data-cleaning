@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Saratoga,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,Federalist,A01,234
+2,Saratoga,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Gordon,GJ0267,Federalist,A01,479
+3,Saratoga,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Douw I. Fonda,FD0017,Republican,A03,209
+4,Saratoga,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ebenezer Russell,RE0047,Federalist,A01,NA
+1,Washington,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Williams,WJ0409,Federalist,A01,1084
+2,Washington,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Gordon,GJ0267,Federalist,A01,96
+3,Washington,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Douw I. Fonda,FD0017,Republican,A03,NA
+4,Washington,ny.uscongress9.1796,1796,1796,General,"New York 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ebenezer Russell,RE0047,Federalist,A01,17

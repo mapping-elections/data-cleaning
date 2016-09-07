@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cayuga,ny.uscongress24.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Rowland Day,DR0036,Republican,A03,2622
+2,Cayuga,ny.uscongress24.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Clintonian/Federalist,A05,1804
+3,Cayuga,ny.uscongress24.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,John MacFadden,MJ0374,null,null,1
+4,Cayuga,ny.uscongress24.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 24",U.S. House of Representatives,ON125,Enoch Porter,PE0075,null,null,1

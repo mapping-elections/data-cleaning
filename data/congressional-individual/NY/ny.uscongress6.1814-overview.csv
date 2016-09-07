@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress6.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jonathan Fisk,FJ0199,Republican,A03,1,2345
+ny.uscongress6.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jonas Storey,SJ0738,Federalist,A01,2,660
+ny.uscongress6.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas R. Cornell,CT0057,null,null,3,1
+ny.uscongress6.1814,1814,1814,General,"New York 1814 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jonas Stera,SJ0576,null,null,4,1

@@ -1,0 +1,13 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ny.uscongress6.1789,1789,Jeremiah Van Rensselaer,VJ0189,Anti-Federalist,A02,0,1456,1456,1.0
+ny.uscongress6.1789,1789,Abraham Ten Broeck,TA0014,Federalist,A01,0,1215,1215,1.0
+ny.uscongress1.1789,1789,William Floyd,FW0034,Anti-Federalist,A02,0,894,894,1.0
+ny.uscongress3.1789,1789,Egbert Benson,BE0171,Federalist,A01,0,584,584,1.0
+ny.uscongress3.1789,1789,Theodorus Bailey,BT0171,Anti-Federalist,A02,0,574,574,1.0
+ny.uscongress2.1789,1789,John Broome,BJ0669,Anti-Federalist,A02,372,372,0,0.0
+ny.uscongress2.1789,1789,John Laurence,LJ0218,Federalist,A01,2542,2542,0,0.0
+ny.uscongress2.1789,1789,Philip Pell,PP0007,Anti-Federalist,A02,33,33,0,0.0
+ny.uscongress4.1789,1789,John Hathorn,HJ0485,Anti-Federalist,A02,0,NA,0,NaN
+ny.uscongress5.1789,1789,John Williams,WJ0409,Anti-Federalist,A02,50,50,0,0.0
+ny.uscongress5.1789,1789,Matthew Adgate,AM0007,Anti-Federalist,A02,1501,1501,0,0.0
+ny.uscongress5.1789,1789,Peter Sylvester,SP0060,Federalist,A01,1628,1628,0,0.0

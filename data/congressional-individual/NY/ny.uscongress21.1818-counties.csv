@@ -1,0 +1,463 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel Allen,AN0004,Republican,A03,193
+2,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Tracey,TA0015,Republican,A03,194
+3,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles G. Olmsted,OC0011,null,null,NA
+4,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,NA
+5,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Caleb Baker,BC0064,Republican,A03,66
+6,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Republican,A03,66
+7,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hastings R. Bender,BH0054,Republican,A03,NA
+8,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Anson House,HA0098,Republican,A03,NA
+9,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enos Pomeroy,PE0076,Republican,A03,NA
+10,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,NA
+11,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Rew,PE0077,Republican,A03,NA
+12,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Simeon Cummings,CS0138,Republican,A03,NA
+13,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David C. Miller,MD0114,Republican,A03,NA
+14,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Republican,A03,NA
+15,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Republican,A03,NA
+16,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John A. Stevens,SJ0537,null,null,NA
+17,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philo Orton,OP0005,null,null,NA
+18,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,NA
+19,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Cleveland,CG0086,null,null,NA
+20,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Hosmer,HG0078,null,null,NA
+21,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,null,null,NA
+22,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Osborn,OE0012,null,null,NA
+23,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,NA
+24,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Septimus Evans,ES0028,null,null,NA
+25,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enoch Nobles,NE0022,null,null,NA
+26,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert Bacus,BA0103,null,null,NA
+27,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,A. H. Pickets,PA0137,null,null,NA
+28,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Rickets,RA0091,null,null,NA
+29,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon Granger,GG0020,null,null,NA
+30,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Wardsworth,WJ0485,null,null,NA
+31,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,NA
+32,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Isaac Phelps, Jr",PI0022,null,null,NA
+33,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gilbert Howell,HG0068,null,null,NA
+34,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,null,null,NA
+35,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Abraham Matterson, Jr.",MA0138,null,null,NA
+36,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William H. Maynard,MW0128,null,null,NA
+37,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Harvey Montgomery,MH0082,null,null,NA
+38,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Isaac Southerland,SI0066,null,null,NA
+39,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ethan B. Allen,AE0042,null,null,NA
+40,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Francis Brown,BF0032,null,null,NA
+41,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Powel Carpenter,CP0092,null,null,NA
+42,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"William Carwell, Jr.",CW0247,null,null,NA
+43,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Israel Chapin,CI0019,null,null,NA
+44,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Child,CJ0406,null,null,NA
+45,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Churchill,CJ0411,null,null,NA
+46,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Cruger,CD0115,null,null,1
+47,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joel Dorman,DJ0222,null,null,NA
+48,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Christopher Douglass,DC0068,null,null,NA
+49,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Ellicott,EJ0028,null,null,NA
+50,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lebeus Ellicott,EL0007,null,null,NA
+51,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Filbe,FW0084,null,null,NA
+52,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dunkirk Gurnsey,GD0078,null,null,NA
+53,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob W. Hallet,HJ0454,null,null,1
+54,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Hill,HC0068,null,null,NA
+55,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Myron Holly,HM0051,null,null,NA
+56,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elijah Holt,HE0084,null,null,NA
+57,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Hustier,HT0103,null,null,NA
+58,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Jackson,JJ0122,null,null,NA
+59,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon T. Jenkins,JG0027,null,null,NA
+60,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Q. Leake,LQ0001,null,null,NA
+61,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,1
+62,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ezra Ludden,LE0062,null,null,NA
+63,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George MacGunigle,MG0052,null,null,NA
+64,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Wolhelmus Mynderse,MW0216,null,null,NA
+65,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+66,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ralph Parker,PR0070,null,null,NA
+67,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Persons,PW0124,null,null,NA
+68,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,null,null,NA
+69,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benedict Robinson,RB0024,null,null,NA
+70,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Rufus R. Robinson,RR0073,null,null,NA
+71,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey L. Shelden,SC0063,null,null,NA
+72,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+73,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Spencer,SJ0777,null,null,NA
+74,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George W. Stewart,SG0119,null,null,NA
+75,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob Teeples,TJ0039,null,null,NA
+76,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Abraham Wagener,WA0174,null,null,NA
+77,Allegany,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Walter Wolcott,WW0200,null,null,NA
+1,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel Allen,AN0004,Republican,A03,39
+2,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Tracey,TA0015,Republican,A03,39
+3,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles G. Olmsted,OC0011,null,null,NA
+4,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,NA
+5,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Caleb Baker,BC0064,Republican,A03,NA
+6,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Republican,A03,NA
+7,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hastings R. Bender,BH0054,Republican,A03,NA
+8,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Anson House,HA0098,Republican,A03,NA
+9,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enos Pomeroy,PE0076,Republican,A03,NA
+10,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,NA
+11,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Rew,PE0077,Republican,A03,NA
+12,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Simeon Cummings,CS0138,Republican,A03,NA
+13,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David C. Miller,MD0114,Republican,A03,NA
+14,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Republican,A03,NA
+15,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Republican,A03,NA
+16,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John A. Stevens,SJ0537,null,null,NA
+17,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philo Orton,OP0005,null,null,NA
+18,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,NA
+19,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Cleveland,CG0086,null,null,NA
+20,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Hosmer,HG0078,null,null,NA
+21,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,null,null,NA
+22,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Osborn,OE0012,null,null,NA
+23,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,NA
+24,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Septimus Evans,ES0028,null,null,NA
+25,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enoch Nobles,NE0022,null,null,NA
+26,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert Bacus,BA0103,null,null,NA
+27,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,A. H. Pickets,PA0137,null,null,NA
+28,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Rickets,RA0091,null,null,NA
+29,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon Granger,GG0020,null,null,NA
+30,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Wardsworth,WJ0485,null,null,NA
+31,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,NA
+32,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Isaac Phelps, Jr",PI0022,null,null,NA
+33,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gilbert Howell,HG0068,null,null,NA
+34,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,null,null,NA
+35,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Abraham Matterson, Jr.",MA0138,null,null,NA
+36,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William H. Maynard,MW0128,null,null,NA
+37,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Harvey Montgomery,MH0082,null,null,NA
+38,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Isaac Southerland,SI0066,null,null,NA
+39,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ethan B. Allen,AE0042,null,null,NA
+40,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Francis Brown,BF0032,null,null,NA
+41,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Powel Carpenter,CP0092,null,null,NA
+42,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"William Carwell, Jr.",CW0247,null,null,NA
+43,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Israel Chapin,CI0019,null,null,NA
+44,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Child,CJ0406,null,null,NA
+45,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Churchill,CJ0411,null,null,NA
+46,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Cruger,CD0115,null,null,NA
+47,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joel Dorman,DJ0222,null,null,NA
+48,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Christopher Douglass,DC0068,null,null,NA
+49,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Ellicott,EJ0028,null,null,NA
+50,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lebeus Ellicott,EL0007,null,null,NA
+51,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Filbe,FW0084,null,null,NA
+52,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dunkirk Gurnsey,GD0078,null,null,NA
+53,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob W. Hallet,HJ0454,null,null,NA
+54,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Hill,HC0068,null,null,NA
+55,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Myron Holly,HM0051,null,null,NA
+56,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elijah Holt,HE0084,null,null,NA
+57,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Hustier,HT0103,null,null,NA
+58,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Jackson,JJ0122,null,null,NA
+59,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon T. Jenkins,JG0027,null,null,NA
+60,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Q. Leake,LQ0001,null,null,NA
+61,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,NA
+62,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ezra Ludden,LE0062,null,null,NA
+63,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George MacGunigle,MG0052,null,null,NA
+64,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Wolhelmus Mynderse,MW0216,null,null,NA
+65,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+66,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ralph Parker,PR0070,null,null,NA
+67,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Persons,PW0124,null,null,NA
+68,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,null,null,NA
+69,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benedict Robinson,RB0024,null,null,NA
+70,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Rufus R. Robinson,RR0073,null,null,NA
+71,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey L. Shelden,SC0063,null,null,NA
+72,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+73,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Spencer,SJ0777,null,null,NA
+74,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George W. Stewart,SG0119,null,null,NA
+75,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob Teeples,TJ0039,null,null,NA
+76,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Abraham Wagener,WA0174,null,null,NA
+77,Cattaraugus,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Walter Wolcott,WW0200,null,null,NA
+1,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel Allen,AN0004,Republican,A03,599
+2,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Tracey,TA0015,Republican,A03,347
+3,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles G. Olmsted,OC0011,null,null,NA
+4,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,89
+5,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Caleb Baker,BC0064,Republican,A03,NA
+6,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Republican,A03,NA
+7,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hastings R. Bender,BH0054,Republican,A03,NA
+8,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Anson House,HA0098,Republican,A03,NA
+9,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enos Pomeroy,PE0076,Republican,A03,NA
+10,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,10
+11,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Rew,PE0077,Republican,A03,NA
+12,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Simeon Cummings,CS0138,Republican,A03,NA
+13,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David C. Miller,MD0114,Republican,A03,NA
+14,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Republican,A03,NA
+15,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Republican,A03,NA
+16,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John A. Stevens,SJ0537,null,null,NA
+17,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philo Orton,OP0005,null,null,4
+18,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,NA
+19,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Cleveland,CG0086,null,null,NA
+20,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Hosmer,HG0078,null,null,NA
+21,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,null,null,6
+22,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Osborn,OE0012,null,null,4
+23,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,NA
+24,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Septimus Evans,ES0028,null,null,NA
+25,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enoch Nobles,NE0022,null,null,NA
+26,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert Bacus,BA0103,null,null,NA
+27,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,A. H. Pickets,PA0137,null,null,NA
+28,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Rickets,RA0091,null,null,NA
+29,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon Granger,GG0020,null,null,NA
+30,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Wardsworth,WJ0485,null,null,NA
+31,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,NA
+32,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Isaac Phelps, Jr",PI0022,null,null,1
+33,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gilbert Howell,HG0068,null,null,NA
+34,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,null,null,NA
+35,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Abraham Matterson, Jr.",MA0138,null,null,NA
+36,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William H. Maynard,MW0128,null,null,NA
+37,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Harvey Montgomery,MH0082,null,null,NA
+38,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Isaac Southerland,SI0066,null,null,NA
+39,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ethan B. Allen,AE0042,null,null,NA
+40,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Francis Brown,BF0032,null,null,NA
+41,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Powel Carpenter,CP0092,null,null,NA
+42,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"William Carwell, Jr.",CW0247,null,null,NA
+43,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Israel Chapin,CI0019,null,null,NA
+44,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Child,CJ0406,null,null,NA
+45,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Churchill,CJ0411,null,null,NA
+46,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Cruger,CD0115,null,null,NA
+47,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joel Dorman,DJ0222,null,null,NA
+48,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Christopher Douglass,DC0068,null,null,NA
+49,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Ellicott,EJ0028,null,null,NA
+50,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lebeus Ellicott,EL0007,null,null,NA
+51,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Filbe,FW0084,null,null,NA
+52,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dunkirk Gurnsey,GD0078,null,null,1
+53,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob W. Hallet,HJ0454,null,null,NA
+54,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Hill,HC0068,null,null,1
+55,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Myron Holly,HM0051,null,null,NA
+56,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elijah Holt,HE0084,null,null,NA
+57,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Hustier,HT0103,null,null,NA
+58,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Jackson,JJ0122,null,null,1
+59,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon T. Jenkins,JG0027,null,null,NA
+60,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Q. Leake,LQ0001,null,null,NA
+61,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,NA
+62,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ezra Ludden,LE0062,null,null,NA
+63,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George MacGunigle,MG0052,null,null,1
+64,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Wolhelmus Mynderse,MW0216,null,null,NA
+65,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+66,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ralph Parker,PR0070,null,null,NA
+67,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Persons,PW0124,null,null,NA
+68,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,null,null,NA
+69,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benedict Robinson,RB0024,null,null,NA
+70,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Rufus R. Robinson,RR0073,null,null,NA
+71,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey L. Shelden,SC0063,null,null,NA
+72,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+73,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Spencer,SJ0777,null,null,NA
+74,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George W. Stewart,SG0119,null,null,NA
+75,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob Teeples,TJ0039,null,null,NA
+76,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Abraham Wagener,WA0174,null,null,NA
+77,Chautauque,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Walter Wolcott,WW0200,null,null,NA
+1,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel Allen,AN0004,Republican,A03,4391
+2,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Tracey,TA0015,Republican,A03,4299
+3,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles G. Olmsted,OC0011,null,null,NA
+4,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,66
+5,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Caleb Baker,BC0064,Republican,A03,NA
+6,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Republican,A03,NA
+7,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hastings R. Bender,BH0054,Republican,A03,63
+8,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Anson House,HA0098,Republican,A03,39
+9,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enos Pomeroy,PE0076,Republican,A03,23
+10,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,3
+11,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Rew,PE0077,Republican,A03,NA
+12,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Simeon Cummings,CS0138,Republican,A03,13
+13,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David C. Miller,MD0114,Republican,A03,13
+14,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Republican,A03,1
+15,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Republican,A03,NA
+16,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John A. Stevens,SJ0537,null,null,NA
+17,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philo Orton,OP0005,null,null,NA
+18,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,2
+19,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Cleveland,CG0086,null,null,NA
+20,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Hosmer,HG0078,null,null,NA
+21,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,null,null,1
+22,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Osborn,OE0012,null,null,NA
+23,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,1
+24,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Septimus Evans,ES0028,null,null,NA
+25,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enoch Nobles,NE0022,null,null,NA
+26,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert Bacus,BA0103,null,null,5
+27,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,A. H. Pickets,PA0137,null,null,NA
+28,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Rickets,RA0091,null,null,NA
+29,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon Granger,GG0020,null,null,NA
+30,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Wardsworth,WJ0485,null,null,NA
+31,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,NA
+32,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Isaac Phelps, Jr",PI0022,null,null,NA
+33,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gilbert Howell,HG0068,null,null,2
+34,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,null,null,1
+35,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Abraham Matterson, Jr.",MA0138,null,null,2
+36,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William H. Maynard,MW0128,null,null,2
+37,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Harvey Montgomery,MH0082,null,null,2
+38,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Isaac Southerland,SI0066,null,null,2
+39,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ethan B. Allen,AE0042,null,null,1
+40,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Francis Brown,BF0032,null,null,1
+41,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Powel Carpenter,CP0092,null,null,1
+42,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"William Carwell, Jr.",CW0247,null,null,NA
+43,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Israel Chapin,CI0019,null,null,NA
+44,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Child,CJ0406,null,null,1
+45,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Churchill,CJ0411,null,null,1
+46,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Cruger,CD0115,null,null,NA
+47,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joel Dorman,DJ0222,null,null,NA
+48,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Christopher Douglass,DC0068,null,null,NA
+49,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Ellicott,EJ0028,null,null,1
+50,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lebeus Ellicott,EL0007,null,null,1
+51,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Filbe,FW0084,null,null,NA
+52,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dunkirk Gurnsey,GD0078,null,null,NA
+53,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob W. Hallet,HJ0454,null,null,NA
+54,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Hill,HC0068,null,null,NA
+55,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Myron Holly,HM0051,null,null,1
+56,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elijah Holt,HE0084,null,null,NA
+57,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Hustier,HT0103,null,null,NA
+58,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Jackson,JJ0122,null,null,NA
+59,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon T. Jenkins,JG0027,null,null,1
+60,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Q. Leake,LQ0001,null,null,NA
+61,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,NA
+62,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ezra Ludden,LE0062,null,null,1
+63,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George MacGunigle,MG0052,null,null,NA
+64,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Wolhelmus Mynderse,MW0216,null,null,NA
+65,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+66,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ralph Parker,PR0070,null,null,1
+67,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Persons,PW0124,null,null,1
+68,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,null,null,NA
+69,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benedict Robinson,RB0024,null,null,NA
+70,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Rufus R. Robinson,RR0073,null,null,NA
+71,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey L. Shelden,SC0063,null,null,1
+72,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+73,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Spencer,SJ0777,null,null,1
+74,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George W. Stewart,SG0119,null,null,NA
+75,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob Teeples,TJ0039,null,null,1
+76,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Abraham Wagener,WA0174,null,null,NA
+77,Genesee,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Walter Wolcott,WW0200,null,null,NA
+1,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel Allen,AN0004,Republican,A03,1671
+2,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Tracey,TA0015,Republican,A03,952
+3,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles G. Olmsted,OC0011,null,null,280
+4,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,NA
+5,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Caleb Baker,BC0064,Republican,A03,NA
+6,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Republican,A03,NA
+7,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hastings R. Bender,BH0054,Republican,A03,NA
+8,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Anson House,HA0098,Republican,A03,NA
+9,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enos Pomeroy,PE0076,Republican,A03,NA
+10,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,1
+11,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Rew,PE0077,Republican,A03,NA
+12,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Simeon Cummings,CS0138,Republican,A03,NA
+13,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David C. Miller,MD0114,Republican,A03,NA
+14,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Republican,A03,NA
+15,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Republican,A03,1
+16,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John A. Stevens,SJ0537,null,null,NA
+17,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philo Orton,OP0005,null,null,5
+18,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,1
+19,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Cleveland,CG0086,null,null,NA
+20,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Hosmer,HG0078,null,null,NA
+21,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,null,null,NA
+22,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Osborn,OE0012,null,null,3
+23,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,NA
+24,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Septimus Evans,ES0028,null,null,NA
+25,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enoch Nobles,NE0022,null,null,NA
+26,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert Bacus,BA0103,null,null,NA
+27,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,A. H. Pickets,PA0137,null,null,5
+28,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Rickets,RA0091,null,null,5
+29,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon Granger,GG0020,null,null,NA
+30,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Wardsworth,WJ0485,null,null,NA
+31,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,2
+32,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Isaac Phelps, Jr",PI0022,null,null,2
+33,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gilbert Howell,HG0068,null,null,NA
+34,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,null,null,NA
+35,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Abraham Matterson, Jr.",MA0138,null,null,NA
+36,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William H. Maynard,MW0128,null,null,NA
+37,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Harvey Montgomery,MH0082,null,null,NA
+38,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Isaac Southerland,SI0066,null,null,NA
+39,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ethan B. Allen,AE0042,null,null,NA
+40,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Francis Brown,BF0032,null,null,NA
+41,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Powel Carpenter,CP0092,null,null,NA
+42,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"William Carwell, Jr.",CW0247,null,null,NA
+43,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Israel Chapin,CI0019,null,null,NA
+44,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Child,CJ0406,null,null,NA
+45,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Churchill,CJ0411,null,null,NA
+46,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Cruger,CD0115,null,null,NA
+47,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joel Dorman,DJ0222,null,null,NA
+48,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Christopher Douglass,DC0068,null,null,1
+49,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Ellicott,EJ0028,null,null,NA
+50,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lebeus Ellicott,EL0007,null,null,NA
+51,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Filbe,FW0084,null,null,1
+52,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dunkirk Gurnsey,GD0078,null,null,NA
+53,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob W. Hallet,HJ0454,null,null,NA
+54,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Hill,HC0068,null,null,NA
+55,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Myron Holly,HM0051,null,null,NA
+56,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elijah Holt,HE0084,null,null,NA
+57,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Hustier,HT0103,null,null,1
+58,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Jackson,JJ0122,null,null,NA
+59,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon T. Jenkins,JG0027,null,null,NA
+60,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Q. Leake,LQ0001,null,null,1
+61,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,NA
+62,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ezra Ludden,LE0062,null,null,NA
+63,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George MacGunigle,MG0052,null,null,NA
+64,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Wolhelmus Mynderse,MW0216,null,null,NA
+65,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,1
+66,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ralph Parker,PR0070,null,null,NA
+67,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Persons,PW0124,null,null,NA
+68,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,null,null,NA
+69,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benedict Robinson,RB0024,null,null,NA
+70,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Rufus R. Robinson,RR0073,null,null,1
+71,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey L. Shelden,SC0063,null,null,NA
+72,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,NA
+73,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Spencer,SJ0777,null,null,NA
+74,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George W. Stewart,SG0119,null,null,NA
+75,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob Teeples,TJ0039,null,null,NA
+76,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Abraham Wagener,WA0174,null,null,NA
+77,Niagara,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Walter Wolcott,WW0200,null,null,NA
+1,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel Allen,AN0004,Republican,A03,3612
+2,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Tracey,TA0015,Republican,A03,3545
+3,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles G. Olmsted,OC0011,null,null,NA
+4,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benjamin Ellicott,EB0013,Republican,A03,NA
+5,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Caleb Baker,BC0064,Republican,A03,NA
+6,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Richmond,RJ0230,Republican,A03,NA
+7,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Hastings R. Bender,BH0054,Republican,A03,2
+8,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Anson House,HA0098,Republican,A03,2
+9,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enos Pomeroy,PE0076,Republican,A03,NA
+10,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David E. Evans,ED0012,null,null,4
+11,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lot Rew,PE0077,Republican,A03,17
+12,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Simeon Cummings,CS0138,Republican,A03,NA
+13,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,David C. Miller,MD0114,Republican,A03,NA
+14,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel M. Hopkins,HS0156,Republican,A03,10
+15,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Nathaniel W. Howell,HN0037,Republican,A03,10
+16,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John A. Stevens,SJ0537,null,null,10
+17,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Philo Orton,OP0005,null,null,NA
+18,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gamaliel H. Barstow,BG0083,null,null,5
+19,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Cleveland,CG0086,null,null,8
+20,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George Hosmer,HG0078,null,null,7
+21,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John C. Spencer,SJ0745,null,null,NA
+22,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elias Osborn,OE0012,null,null,NA
+23,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Perry G. Childs,CP0041,null,null,5
+24,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Septimus Evans,ES0028,null,null,6
+25,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Enoch Nobles,NE0022,null,null,6
+26,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert Bacus,BA0103,null,null,NA
+27,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,A. H. Pickets,PA0137,null,null,NA
+28,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Albert H. Rickets,RA0091,null,null,NA
+29,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon Granger,GG0020,null,null,4
+30,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,James Wardsworth,WJ0485,null,null,4
+31,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Samuel Payne,PS0058,null,null,1
+32,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Isaac Phelps, Jr",PI0022,null,null,NA
+33,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gilbert Howell,HG0068,null,null,NA
+34,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dudley Marvin,MD0116,null,null,1
+35,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"Abraham Matterson, Jr.",MA0138,null,null,NA
+36,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William H. Maynard,MW0128,null,null,NA
+37,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Harvey Montgomery,MH0082,null,null,NA
+38,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Isaac Southerland,SI0066,null,null,NA
+39,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ethan B. Allen,AE0042,null,null,NA
+40,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Francis Brown,BF0032,null,null,NA
+41,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Powel Carpenter,CP0092,null,null,NA
+42,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,"William Carwell, Jr.",CW0247,null,null,1
+43,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Israel Chapin,CI0019,null,null,1
+44,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jonathan Child,CJ0406,null,null,NA
+45,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Churchill,CJ0411,null,null,NA
+46,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel Cruger,CD0115,null,null,NA
+47,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joel Dorman,DJ0222,null,null,1
+48,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Christopher Douglass,DC0068,null,null,NA
+49,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Ellicott,EJ0028,null,null,NA
+50,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Lebeus Ellicott,EL0007,null,null,NA
+51,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Filbe,FW0084,null,null,NA
+52,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Dunkirk Gurnsey,GD0078,null,null,NA
+53,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob W. Hallet,HJ0454,null,null,NA
+54,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Charles Hill,HC0068,null,null,NA
+55,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Myron Holly,HM0051,null,null,NA
+56,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Elijah Holt,HE0084,null,null,1
+57,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Hustier,HT0103,null,null,NA
+58,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,John Jackson,JJ0122,null,null,NA
+59,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Gideon T. Jenkins,JG0027,null,null,NA
+60,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Q. Leake,LQ0001,null,null,NA
+61,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Daniel W. Lewis,LD0014,null,null,NA
+62,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ezra Ludden,LE0062,null,null,NA
+63,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George MacGunigle,MG0052,null,null,NA
+64,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Wolhelmus Mynderse,MW0216,null,null,1
+65,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ebenezer F. Norton,NE0010,null,null,NA
+66,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Ralph Parker,PR0070,null,null,NA
+67,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Persons,PW0124,null,null,NA
+68,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Peter B. Porter,PP0008,null,null,1
+69,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Benedict Robinson,RB0024,null,null,1
+70,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Rufus R. Robinson,RR0073,null,null,NA
+71,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Chauncey L. Shelden,SC0063,null,null,NA
+72,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Richard Smith,SR0163,null,null,1
+73,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Spencer,SJ0777,null,null,NA
+74,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,George W. Stewart,SG0119,null,null,1
+75,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Jacob Teeples,TJ0039,null,null,NA
+76,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Abraham Wagener,WA0174,null,null,1
+77,Ontario,ny.uscongress21.1818,1818,1818,General,"New York 1818 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Walter Wolcott,WW0200,null,null,1

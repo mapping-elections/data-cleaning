@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chenango,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,523
+2,Chenango,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Smith,SP0070,Republican,A03,548
+1,Herkimer,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,303
+2,Herkimer,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Smith,SP0070,Republican,A03,364
+1,Montgomery,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,937
+2,Montgomery,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Smith,SP0070,Republican,A03,1594
+1,Oneida,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Jonas Platt,PJ0297,Federalist,A01,1117
+2,Oneida,ny.uscongress9.1798,1798,1798,General,"New York 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Peter Smith,SP0070,Republican,A03,242

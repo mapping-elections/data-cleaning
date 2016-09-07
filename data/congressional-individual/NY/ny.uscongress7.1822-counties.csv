@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sullivan,ny.uscongress7.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Lemuel Jenkins,JL0010,Republican,A03,766
+2,Sullivan,ny.uscongress7.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Charles H. Ruggles,RC0069,Clintonian/Federalist,A05,613
+3,Sullivan,ny.uscongress7.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,David Hammond,HD0102,null,null,1
+1,Ulster,ny.uscongress7.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Lemuel Jenkins,JL0010,Republican,A03,2098
+2,Ulster,ny.uscongress7.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Charles H. Ruggles,RC0069,Clintonian/Federalist,A05,1640
+3,Ulster,ny.uscongress7.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,David Hammond,HD0102,null,null,NA

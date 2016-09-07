@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jefferson,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Moss Kent,KM0021,Federalist,A01,1216
+2,Jefferson,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Jacob Brown,BJ0752,Republican,A03,966
+3,Jefferson,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Chandler Otis,OC0010,null,null,NA
+4,Jefferson,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Solomon Brown,BS0152,null,null,NA
+5,Jefferson,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Elisha Camp,CE0112,null,null,1
+6,Jefferson,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John Stafford,SJ0693,null,null,NA
+1,Lewis,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Moss Kent,KM0021,Federalist,A01,299
+2,Lewis,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Jacob Brown,BJ0752,Republican,A03,166
+3,Lewis,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Chandler Otis,OC0010,null,null,4
+4,Lewis,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Solomon Brown,BS0152,null,null,NA
+5,Lewis,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Elisha Camp,CE0112,null,null,NA
+6,Lewis,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John Stafford,SJ0693,null,null,1
+1,Saint Lawrence,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Moss Kent,KM0021,Federalist,A01,679
+2,Saint Lawrence,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Jacob Brown,BJ0752,Republican,A03,237
+3,Saint Lawrence,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Chandler Otis,OC0010,null,null,NA
+4,Saint Lawrence,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Solomon Brown,BS0152,null,null,1
+5,Saint Lawrence,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Elisha Camp,CE0112,null,null,NA
+6,Saint Lawrence,ny.uscongress18.1812,1812,1812,General,"New York 1812 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John Stafford,SJ0693,null,null,NA

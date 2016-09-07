@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Queens,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Eliphalet Wickes,WE0088,Republican,A03,191
+2,Queens,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Riker,RS0063,Republican,A03,646
+3,Queens,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0653,Federalist,A01,462
+4,Queens,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Hibbee Raynor,RH0080,null,null,NA
+5,Queens,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ0654,null,null,NA
+6,Queens,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Selah Strong,SS0176,null,null,NA
+1,Suffolk,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Eliphalet Wickes,WE0088,Republican,A03,861
+2,Suffolk,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Riker,RS0063,Republican,A03,398
+3,Suffolk,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Smith,SJ0653,Federalist,A01,339
+4,Suffolk,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Hibbee Raynor,RH0080,null,null,1
+5,Suffolk,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ0654,null,null,1
+6,Suffolk,ny.uscongress1.1804,1804,1804,General,"New York 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Selah Strong,SS0176,null,null,1

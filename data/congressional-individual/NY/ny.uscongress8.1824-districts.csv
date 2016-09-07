@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress8.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Strong,SJ0778,Clintonian/Federalist,A05,1,Eight,3130
+ny.uscongress8.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert L. Livingston,LR0024,Republican,A03,2,Eight,2089
+ny.uscongress8.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Alexander Coffin,CA0107,null,null,3,Eight,1
+ny.uscongress8.1824,1824,1824,General,"New York 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Sampson,null,null,null,4,Eight,1

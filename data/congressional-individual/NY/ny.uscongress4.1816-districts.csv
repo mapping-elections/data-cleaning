@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry B. Lee,LH0038,Republican,A03,1,Four,2530
+ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry A. Livingston,LH0039,Federalist,A01,2,Four,2271
+ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James J. Van Alen,VJ0071,null,null,3,Four,6
+ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rowland Baily,BR0071,null,null,4,Four,2
+ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"James Tallmadge, Jr.",TJ0360,null,null,5,Four,1
+ny.uscongress4.1816,1816,1816,General,"New York 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Edward Smith, Jr.",SE0099,null,null,6,Four,1

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ny.uscongress2.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jacob Tyson,TJ0357,Republican,A03,1,Two,1754
+ny.uscongress2.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jacob Patchen,PJ0332,Clintonian/Federalist,A05,2,Two,174

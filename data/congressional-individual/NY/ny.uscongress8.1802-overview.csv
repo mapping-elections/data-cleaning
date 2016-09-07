@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ny.uscongress8.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry W. Livingston,LH0032,Federalist,A01,1,1622
+ny.uscongress8.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John P. Van Ness,VJ0182,Republican,A03,2,1525
+ny.uscongress8.1802,1802,1802,General,"New York 1802 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,George Lawrence,LG0038,null,null,3,1

@@ -1,0 +1,28 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,Republican,A03,397
+2,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin B. Blydenburgh,BB0047,Federalist,A01,387
+3,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John W. Seaman,SJ0684,Republican,A03,1
+4,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Israel Carll,CI0017,null,null,NA
+5,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,Republican,A03,NA
+6,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William W. Gilbert,GW0078,Republican,A03,NA
+7,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin W. Seaman,SB0074,null,null,NA
+8,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Strong,SS0176,null,null,NA
+9,Kings,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Amos Taber,TA0039,null,null,NA
+1,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,Republican,A03,111
+2,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin B. Blydenburgh,BB0047,Federalist,A01,875
+3,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John W. Seaman,SJ0684,Republican,A03,680
+4,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Israel Carll,CI0017,null,null,NA
+5,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,Republican,A03,NA
+6,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William W. Gilbert,GW0078,Republican,A03,NA
+7,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin W. Seaman,SB0074,null,null,NA
+8,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Strong,SS0176,null,null,NA
+9,Queens,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Amos Taber,TA0039,null,null,NA
+1,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ebenezer Sage,SE0063,Republican,A03,1137
+2,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin B. Blydenburgh,BB0047,Federalist,A01,365
+3,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John W. Seaman,SJ0684,Republican,A03,294
+4,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Israel Carll,CI0017,null,null,1
+5,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Coe,CB0069,Republican,A03,1
+6,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William W. Gilbert,GW0078,Republican,A03,1
+7,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin W. Seaman,SB0074,null,null,1
+8,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Selah Strong,SS0176,null,null,1
+9,Suffolk,ny.uscongress1.1808,1808,1808,General,"New York 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Amos Taber,TA0039,null,null,1

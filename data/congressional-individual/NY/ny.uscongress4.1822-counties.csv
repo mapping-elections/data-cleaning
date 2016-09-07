@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Putnam,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joel Frost,FJ0195,Republican,A03,469
+2,Putnam,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Smith,SA0150,Clintonian/Federalist,A05,290
+3,Putnam,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter A. Jay,JP0004,Clintonian/Federalist,A05,42
+4,Putnam,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Gilbert Brown,BG0065,null,null,NA
+5,Putnam,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Guion,GJ0318,null,null,NA
+6,Putnam,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Snider,SS0144,null,null,NA
+1,Westchester,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joel Frost,FJ0195,Republican,A03,1745
+2,Westchester,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abraham Smith,SA0150,Clintonian/Federalist,A05,388
+3,Westchester,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter A. Jay,JP0004,Clintonian/Federalist,A05,291
+4,Westchester,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Gilbert Brown,BG0065,null,null,1
+5,Westchester,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Guion,GJ0318,null,null,1
+6,Westchester,ny.uscongress4.1822,1822,1822,General,"New York 1822 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Snider,SS0144,null,null,1

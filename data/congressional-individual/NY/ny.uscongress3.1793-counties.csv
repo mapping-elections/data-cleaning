@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Richmond,ny.uscongress3.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,123
+2,Richmond,ny.uscongress3.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hatfield,HR0118,Federalist,A01,100
+1,Westchester,ny.uscongress3.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Philip Van Cortlandt,VP0041,Republican,A03,850
+2,Westchester,ny.uscongress3.1793,1793,1793,General,"New York 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hatfield,HR0118,Federalist,A01,708

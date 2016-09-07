@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Republican,A03,862
+2,Orange,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Conrad E. Elmendorf,EC0014,Federalist,A01,40
+3,Orange,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Thompson,TW0052,Federalist,A01,37
+4,Orange,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Gansevoort,GP0027,Republican,A03,NA
+1,Ulster,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Hathorn,HJ0485,Republican,A03,657
+2,Ulster,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Conrad E. Elmendorf,EC0014,Federalist,A01,543
+3,Ulster,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Thompson,TW0052,Federalist,A01,4
+4,Ulster,ny.uscongress5.1794,1794,1794,General,"New York 1794 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Gansevoort,GP0027,Republican,A03,2
