@@ -9,7 +9,7 @@ suppressPackageStartupMessages(library(dplyr))
 suppressPackageStartupMessages(library(purrr))
 suppressPackageStartupMessages(library(docopt))
 
-"Check for problems in aggregate votes of congressional elections 
+"Check for problems in aggregate votes of congressional elections
 
 Usage: check-election-aggregates.R --input <input> --year <year> --state <state> --output <output>
 
@@ -36,7 +36,7 @@ counties_csvs <- list.files(opt$input, pattern =
 
 spec_district <- cols(
   election_id = col_character(),
-  election_date = col_integer(),
+  election_date = col_character(),
   election_year = col_integer(),
   election_type = col_character(),
   election_label = col_character(),
@@ -55,7 +55,7 @@ spec_counties <- cols(
   candidate_num = col_integer(),
   county = col_character(),
   election_id = col_character(),
-  election_date = col_integer(),
+  election_date = col_character(),
   election_year = col_integer(),
   election_type = col_character(),
   election_label = col_character(),
