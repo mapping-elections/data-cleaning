@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Nansemond,va.uscongress.20.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,339
+2,Nansemond,va.uscongress.20.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Tayler,TR0086,Federalist,A01,68
+1,Norfolk,va.uscongress.20.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,575
+2,Norfolk,va.uscongress.20.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Tayler,TR0086,Federalist,A01,437
+1,Princess Anne,va.uscongress.20.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,137
+2,Princess Anne,va.uscongress.20.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Tayler,TR0086,Federalist,A01,194

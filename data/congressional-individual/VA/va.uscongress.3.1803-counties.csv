@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,va.uscongress.3.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,793
+2,Frederick,va.uscongress.3.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Sexton,SJ1476,Republican,A03,163
+1,Shenandoah,va.uscongress.3.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,652
+2,Shenandoah,va.uscongress.3.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Sexton,SJ1476,Republican,A03,NA

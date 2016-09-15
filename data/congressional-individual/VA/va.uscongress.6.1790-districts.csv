@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.6.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,1,NA,NA
+va.uscongress.6.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Charles Lintch,LC0069,null,null,2,NA,NA
+va.uscongress.6.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Charles Clay,CC0130,null,null,3,NA,NA

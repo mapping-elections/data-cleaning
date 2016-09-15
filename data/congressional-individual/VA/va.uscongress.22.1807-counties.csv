@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Charles City,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,88
+2,Charles City,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Peyton Randolph,RP0059,Quid,A04,64
+1,Hanover,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,239
+2,Hanover,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Peyton Randolph,RP0059,Quid,A04,175
+1,Henrico,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,225
+2,Henrico,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Peyton Randolph,RP0059,Quid,A04,262
+1,New Kent,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,NA
+2,New Kent,va.uscongress.22.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Peyton Randolph,RP0059,Quid,A04,NA

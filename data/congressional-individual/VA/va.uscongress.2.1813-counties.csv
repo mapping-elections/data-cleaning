@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.uscongress.2.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Francis White,WF0027,Federalist,A01,148
+1,Hampshire,va.uscongress.2.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Francis White,WF0027,Federalist,A01,NA
+1,Hardy,va.uscongress.2.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Francis White,WF0027,Federalist,A01,NA
+1,Jefferson,va.uscongress.2.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Francis White,WF0027,Federalist,A01,209

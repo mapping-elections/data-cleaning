@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,124
+2,Fairfax,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Love,LJ0561,Republican,A03,167
+3,Fairfax,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,W. Henderson,HW0389,null,null,NA
+4,Fairfax,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,B. W. Lee,LB0063,null,null,NA
+1,Loudoun,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,495
+2,Loudoun,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Love,LJ0561,Republican,A03,166
+3,Loudoun,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,W. Henderson,HW0389,null,null,NA
+4,Loudoun,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,B. W. Lee,LB0063,null,null,NA
+1,Prince William,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,64
+2,Prince William,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Love,LJ0561,Republican,A03,166
+3,Prince William,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,W. Henderson,HW0389,null,null,1
+4,Prince William,va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,B. W. Lee,LB0063,null,null,NA

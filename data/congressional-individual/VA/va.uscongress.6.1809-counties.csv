@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Grayson,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,210
+2,Grayson,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,113
+1,Lee,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,158
+2,Lee,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,23
+1,Montgomery,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,299
+2,Montgomery,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,97
+1,Russell,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,367
+2,Russell,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,297
+1,Tazewell,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,120
+2,Tazewell,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,53
+1,Washington,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,228
+2,Washington,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,215
+1,Wythe,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,280
+2,Wythe,va.uscongress.6.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Francis Preston,PF0010,Republican,A03,37

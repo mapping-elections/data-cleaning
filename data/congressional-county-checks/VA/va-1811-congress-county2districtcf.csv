@@ -1,0 +1,41 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.4.1811,1811,Samuel Blackburn,BS0314,Federalist,A01,1026,NA,-1026,1.0
+va.uscongress.4.1811,1811,William MacCoy,MW0392,Republican,A03,727,NA,-727,1.0
+va.uscongress.3.1811,1811,John Smith,SJ1530,Republican,A03,716,NA,-716,1.0
+va.uscongress.5.1811,1811,Thomas L. Preston,PT0104,Republican,A03,636,NA,-636,1.0
+va.uscongress.19.1811,1811,Edwin Gray,GE0059,Federalist,A01,617,NA,-617,1.0
+va.uscongress.20.1811,1811,Thomas Newton,NT0024,Republican,A03,552,NA,-552,1.0
+va.uscongress.1.1811,1811,William MacKinley,MW0394,Republican,A03,487,NA,-487,1.0
+va.uscongress.5.1811,1811,James Breckinridge,BJ1431,Federalist,A01,453,NA,-453,1.0
+va.uscongress.1.1811,1811,Thomas Wilson,WT0140,Federalist,A01,445,NA,-445,1.0
+va.uscongress.9.1811,1811,Aylett Hawes,HA0190,Republican,A03,383,NA,-383,1.0
+va.uscongress.19.1811,1811,Samuel Butler,BS0325,Republican,A03,371,NA,-371,1.0
+va.uscongress.12.1811,1811,Burwell Bassett,BB0099,Republican,A03,270,NA,-270,1.0
+va.uscongress.16.1811,1811,James Pleasants,PJ0579,Republican,A03,195,NA,-195,1.0
+va.uscongress.9.1811,1811,George F. Strother,SG0190,Republican,A03,144,NA,-144,1.0
+va.uscongress.12.1811,1811,John Eyre,EJ0307,Federalist,A01,124,NA,-124,1.0
+va.uscongress.11.1811,1811,John Roane,RJ0605,Republican,A03,69,NA,-69,1.0
+va.uscongress.20.1811,1811,Robert B. Taylor,TR0086,Federalist,A01,13,NA,-13,1.0
+va.uscongress.11.1811,1811,James Hunter,HJ1334,null,null,4,NA,-4,1.0
+va.uscongress.12.1811,1811,scattering,null,null,null,4,NA,-4,1.0
+va.uscongress.11.1811,1811,James M. Garnett,GJ0658,null,null,1,NA,-1,1.0
+va.uscongress.11.1811,1811,James Webb,WJ0991,null,null,1,NA,-1,1.0
+va.uscongress.11.1811,1811,John Daingerfield,DJ0584,null,null,1,NA,-1,1.0
+va.uscongress.10.1811,1811,John Dawson,DJ0582,Republican,A03,0,NA,0,NaN
+va.uscongress.13.1811,1811,William A. Burwell,BW0451,Republican,A03,0,NA,0,NaN
+va.uscongress.14.1811,1811,John Kerr,KJ0364,Republican,A03,0,NA,0,NaN
+va.uscongress.14.1811,1811,Matthew Clay,CM0108,Republican,A03,0,NA,0,NaN
+va.uscongress.15.1811,1811,John Randolph,RJ0610,Federalist/Quid,A04,1080,1080,0,0.0
+va.uscongress.15.1811,1811,John W. Eppes,EJ0283,Republican,A03,514,514,0,0.0
+va.uscongress.17.1811,1811,Thomas Gholson,GT0098,Republican,A03,0,NA,0,NaN
+va.uscongress.18.1811,1811,Peterson Goodwyn,GP0075,Republican,A03,0,NA,0,NaN
+va.uscongress.21.1811,1811,Hugh Nelson,NH0015,Republican,A03,0,NA,0,NaN
+va.uscongress.2.1811,1811,Daniel Morgan,MD0090,Republican,A03,639,639,0,0.0
+va.uscongress.2.1811,1811,John Baker,BJ1509,Federalist,A01,829,829,0,0.0
+va.uscongress.22.1811,1811,John Clopton,CJ1097,Republican,A03,0,NA,0,NaN
+va.uscongress.6.1811,1811,Daniel Sheffey,SD0212,Federalist,A01,0,NA,0,NaN
+va.uscongress.7.1811,1811,John Love,LJ0561,Republican,A03,131,131,0,0.0
+va.uscongress.7.1811,1811,Joseph Lewis,LJ0458,Federalist,A01,527,527,0,0.0
+va.uscongress.7.1811,1811,Sampson Blencoe,BS0327,null,null,1,1,0,0.0
+va.uscongress.8.1811,1811,John P. Hungerford,HJ1310,Republican,A03,769,769,0,0.0
+va.uscongress.8.1811,1811,John Taliaferro,TJ0538,Republican,A03,763,763,0,0.0

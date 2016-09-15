@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Thomas Newton, Jr.",NT0024,Republican,A03,1,Eleven,905
+va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Niveson,NJ0182,Federalist,A01,2,Eleven,55
+va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,3,Eleven,7

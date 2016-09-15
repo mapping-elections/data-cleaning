@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.7.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,121
+2,Fairfax,va.uscongress.7.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Littlejohn,LJ0556,Republican,A03,157
+1,Loudoun,va.uscongress.7.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,463
+2,Loudoun,va.uscongress.7.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Littlejohn,LJ0556,Republican,A03,232
+1,Prince William,va.uscongress.7.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,151
+2,Prince William,va.uscongress.7.1807,1807-04,1807,General,"Virginia 1807 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Littlejohn,LJ0556,Republican,A03,81

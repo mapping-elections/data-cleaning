@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Buckingham,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John W. Eppes,EJ0283,Republican,A03,509
+2,Buckingham,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Federalist,A01,141
+1,Charlotte,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John W. Eppes,EJ0283,Republican,A03,177
+2,Charlotte,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Federalist,A01,345
+1,Cumberland,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John W. Eppes,EJ0283,Republican,A03,206
+2,Cumberland,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Federalist,A01,147
+1,Prince Edward,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John W. Eppes,EJ0283,Republican,A03,218
+2,Prince Edward,va.uscongress.16.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Federalist,A01,303

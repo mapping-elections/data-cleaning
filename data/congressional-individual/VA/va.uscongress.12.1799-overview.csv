@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.12.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas Evans,ET0046,Federalist,A01,1,1172
+va.uscongress.12.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,2,709
+va.uscongress.12.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,"John Teackle, Jr.",TJ0570,null,null,3,NA
+va.uscongress.12.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James Spires,SJ0273,null,null,4,NA

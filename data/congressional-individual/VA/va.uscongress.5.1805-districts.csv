@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,1,Five,786
+va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,2,Five,510

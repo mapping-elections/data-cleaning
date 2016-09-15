@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brooke,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,NA
+2,Brooke,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,NA
+1,Harrison,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,NA
+2,Harrison,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,NA
+1,Monongalia,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,254
+2,Monongalia,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,344
+1,Ohio,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,233
+2,Ohio,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,101
+1,Randolph,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,NA
+2,Randolph,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,NA
+1,Wood,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,NA
+2,Wood,va.uscongress.1.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,NA

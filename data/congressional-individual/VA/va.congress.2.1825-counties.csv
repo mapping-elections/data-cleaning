@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Greensville,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Trezvant,TJ0532,Republican,A03,77
+2,Greensville,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Eppes,ER0057,Republican,A03,94
+1,Isle of Wight,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Trezvant,TJ0532,Republican,A03,246
+2,Isle of Wight,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Eppes,ER0057,Republican,A03,99
+1,Prince George,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Trezvant,TJ0532,Republican,A03,260
+2,Prince George,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Eppes,ER0057,Republican,A03,40
+1,Southampton,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Trezvant,TJ0532,Republican,A03,342
+2,Southampton,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Eppes,ER0057,Republican,A03,0
+1,Surry,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Trezvant,TJ0532,Republican,A03,161
+2,Surry,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Eppes,ER0057,Republican,A03,1
+1,Sussex,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Trezvant,TJ0532,Republican,A03,64
+2,Sussex,va.congress.2.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Eppes,ER0057,Republican,A03,235

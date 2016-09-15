@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.uscongress.2.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Morrow,MJ1223,Republican,A03,206
+1,Hampshire,va.uscongress.2.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Morrow,MJ1223,Republican,A03,NA
+1,Jefferson,va.uscongress.2.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Morrow,MJ1223,Republican,A03,NA

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.3.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Jackson,JG0032,Republican,A03,1,NA
+va.uscongress.3.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan J. Jacobs,JJ0284,Federalist,A01,2,NA
+va.uscongress.3.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Skidmore,null,Federalist,A01,3,NA

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brunswick,va.uscongress.17.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John Claiborne,CJ1099,Republican,A03,798
+2,Brunswick,va.uscongress.17.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Mark Alexander,AM0013,Republican,A03,6
+1,Lunenburg,va.uscongress.17.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John Claiborne,CJ1099,Republican,A03,NA
+2,Lunenburg,va.uscongress.17.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Mark Alexander,AM0013,Republican,A03,NA
+1,Mecklenburg,va.uscongress.17.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John Claiborne,CJ1099,Republican,A03,150
+2,Mecklenburg,va.uscongress.17.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Mark Alexander,AM0013,Republican,A03,350

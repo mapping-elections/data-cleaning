@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Buckingham,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,264
+2,Buckingham,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Archibald Austin,AA0056,Republican,A03,288
+1,Charlotte,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,NA
+2,Charlotte,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Archibald Austin,AA0056,Republican,A03,NA
+1,Cumberland,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,185
+2,Cumberland,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Archibald Austin,AA0056,Republican,A03,8
+1,Prince Edward,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,201
+2,Prince Edward,va.uscongress.16.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Archibald Austin,AA0056,Republican,A03,0

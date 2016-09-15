@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.16.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Anthony New,NA0009,Republican,A03,1,Sixteen,942
+va.uscongress.16.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,"Carter Braxton, Jr.",BC0134,Federalist,A01,2,Sixteen,391
+va.uscongress.16.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Robert P. Waring,WR0113,null,null,3,NA,NA

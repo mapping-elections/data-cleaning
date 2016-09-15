@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.18.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Mark Alexander,AM0013,Republican,A03,1,Eighteen,613
+va.uscongress.18.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Theo Field,FT0091,Republican,A03,2,Eighteen,290
+va.uscongress.18.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,James Wyche,WJ1041,Republican,A03,3,Eighteen,199

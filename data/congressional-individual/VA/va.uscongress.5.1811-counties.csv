@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,91
+2,Botetourt,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,377
+1,Cabell,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,NA
+2,Cabell,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,NA
+1,Giles,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,NA
+2,Giles,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,NA
+1,Greenbrier,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,NA
+2,Greenbrier,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,NA
+1,Kanawha,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,NA
+2,Kanawha,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,NA
+1,Mason,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,100
+2,Mason,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,17
+1,Monroe,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,NA
+2,Monroe,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,NA
+1,Rockbridge,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,262
+2,Rockbridge,va.uscongress.5.1811,1811-04,1811,General,"Virginia 1811 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas L. Preston,PT0104,Republican,A03,242

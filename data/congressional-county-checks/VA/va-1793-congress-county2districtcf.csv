@@ -1,0 +1,42 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.7.1793,1793,Abraham B. Venable,VA0029,null,null,636,NA,-636,1.0
+va.uscongress.8.1793,1793,Thomas Claiborne,CT0181,null,null,361,NA,-361,1.0
+va.uscongress.10.1793,1793,John H. Briggs,BJ1440,null,null,291,NA,-291,1.0
+va.uscongress.18.1793,1793,William Pickett,PW0234,null,null,270,NA,-270,1.0
+va.uscongress.11.1793,1793,Josiah Parker,PJ0725,Republican,A03,232,NA,-232,1.0
+va.uscongress.16.1793,1793,John Roane,RJ0605,null,null,173,NA,-173,1.0
+va.uscongress.18.1793,1793,John Nicholas,NJ0072,null,null,146,NA,-146,1.0
+va.uscongress.19.1793,1793,Walter Jones,JW0100,null,null,137,NA,-137,1.0
+va.uscongress.16.1793,1793,Anthony New,NA0009,null,null,126,NA,-126,1.0
+va.uscongress.10.1793,1793,Carter B. Harrison,HC0136,null,null,101,NA,-101,1.0
+va.uscongress.9.1793,1793,William B. Giles,GW0186,null,null,97,NA,-97,1.0
+va.uscongress.19.1793,1793,John Heath,HJ1299,null,null,95,NA,-95,1.0
+va.uscongress.16.1793,1793,Francis Corbin,CF0032,null,null,94,NA,-94,1.0
+va.uscongress.7.1793,1793,Joseph Wyatt,WJ0975,null,null,89,NA,-89,1.0
+va.uscongress.3.1793,1793,George Jackson,JG0032,null,null,84,NA,-84,1.0
+va.uscongress.3.1793,1793,Joseph Neville,NJ0172,Federalist,A01,83,NA,-83,1.0
+va.uscongress.15.1793,1793,James Madison,MJ1315,null,null,75,NA,-75,1.0
+va.uscongress.7.1793,1793,Thomas Scott,ST0135,Federalist,A01,68,NA,-68,1.0
+va.uscongress.11.1793,1793,John Neirson,NJ0170,null,null,34,NA,-34,1.0
+va.uscongress.8.1793,1793,Richard Kennon,KR0025,null,null,28,NA,-28,1.0
+va.uscongress.3.1793,1793,Jeremiah Jacobs,JJ0043,null,null,18,NA,-18,1.0
+va.uscongress.8.1793,1793,Jesse Brown,BJ1441,null,null,10,NA,-10,1.0
+va.uscongress.7.1793,1793,Tarlton Woodson,WT0187,Federalist,A01,3,NA,-3,1.0
+va.uscongress.19.1793,1793,Francis L. Lee,LF0014,null,null,2,NA,-2,1.0
+va.uscongress.9.1793,1793,Robert Bolling,BR0158,null,null,2,NA,-2,1.0
+va.uscongress.8.1793,1793,J. Nicholson,NJ0173,null,null,1,NA,-1,1.0
+va.uscongress.12.1793,1793,John Page,PJ0728,null,null,0,NA,0,NaN
+va.uscongress.13.1793,1793,Samuel Griffin,GS0114,Federalist,A01,0,NA,0,NaN
+va.uscongress.14.1793,1793,Francis Walker,WF0049,null,null,0,NA,0,NaN
+va.uscongress.17.1793,1793,Richard B. Lee,LR0090,null,null,0,NA,0,NaN
+va.uscongress.1793,1793,Alexander White,WA0166,Federalist,A01,276,276,0,0.0
+va.uscongress.1793,1793,John Smith,SJ1530,Republican,A03,403,403,0,0.0
+va.uscongress.1793,1793,Robert Rutherford,RR0071,Federalist,A01,886,886,0,0.0
+va.uscongress.2.1793,1793,Andrew Moore,MA0281,null,null,0,NA,0,NaN
+va.uscongress.3.1793,1793,William MacCleery,MW0052,null,null,0,NA,0,NaN
+va.uscongress.4.1793,1793,Abraham Trigg,TA0080,null,null,0,NA,0,NaN
+va.uscongress.4.1793,1793,Francis Preston,PF0010,Federalist,A01,0,NA,0,NaN
+va.uscongress.5.1793,1793,Calohill Minnis,MC0082,null,null,109,109,0,0.0
+va.uscongress.5.1793,1793,Charles Clay,CC0130,null,null,654,654,0,0.0
+va.uscongress.5.1793,1793,George Hancock,HG0163,Federalist,A01,1198,1198,0,0.0
+va.uscongress.6.1793,1793,Isaac Coles,CI0035,null,null,0,NA,0,NaN

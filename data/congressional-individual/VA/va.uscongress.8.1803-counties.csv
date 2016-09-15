@@ -1,0 +1,31 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,162
+2,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Ball,BJ1460,Federalist,A01,13
+3,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Carpenter,CJ1109,null,null,4
+4,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Elias Edmonds,EE0051,null,null,4
+5,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Martin Sherman,SM0111,null,null,4
+6,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Gibson,GW0127,null,null,3
+7,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,2
+8,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Warner Hewit,HW0346,null,null,2
+9,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joseph Chinn,CJ1121,null,null,1
+10,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Chowning,CJ1110,null,null,1
+11,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Downing,DT0111,null,null,1
+12,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Shipton,SJ1550,null,null,1
+13,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,W. Slaughter,SW0355,null,null,1
+14,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Taylor,TT0082,null,null,1
+15,Lancaster,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Unreadable,null,null,null,1
+1,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,158
+2,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Ball,BJ1460,Federalist,A01,NA
+3,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Carpenter,CJ1109,null,null,NA
+4,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Elias Edmonds,EE0051,null,null,NA
+5,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Martin Sherman,SM0111,null,null,NA
+6,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Gibson,GW0127,null,null,NA
+7,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,NA
+8,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Warner Hewit,HW0346,null,null,NA
+9,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joseph Chinn,CJ1121,null,null,NA
+10,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Chowning,CJ1110,null,null,NA
+11,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Downing,DT0111,null,null,NA
+12,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Shipton,SJ1550,null,null,NA
+13,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,W. Slaughter,SW0355,null,null,NA
+14,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Taylor,TT0082,null,null,NA
+15,Westmoreland,va.uscongress.8.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Unreadable,null,null,null,NA

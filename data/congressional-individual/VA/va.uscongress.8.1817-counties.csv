@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,113
+2,Fairfax,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Armistead T. Mason,MA0249,Republican,A03,184
+3,Fairfax,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Loudoun,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,592
+2,Loudoun,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Armistead T. Mason,MA0249,Republican,A03,321
+3,Loudoun,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Prince William,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,77
+2,Prince William,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Armistead T. Mason,MA0249,Republican,A03,201
+3,Prince William,va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA

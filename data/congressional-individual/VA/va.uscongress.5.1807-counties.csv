@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,262
+2,Botetourt,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,20
+3,Botetourt,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,74
+4,Botetourt,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Giles,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,146
+2,Giles,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,4
+3,Giles,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,17
+4,Giles,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Greenbrier,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,155
+2,Greenbrier,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,NA
+3,Greenbrier,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,55
+4,Greenbrier,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Kanawha,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,131
+2,Kanawha,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,355
+3,Kanawha,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,59
+4,Kanawha,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Mason,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,74
+2,Mason,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,11
+3,Mason,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,NA
+4,Mason,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Monroe,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,106
+2,Monroe,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,44
+3,Monroe,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,152
+4,Monroe,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Rockbridge,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,219
+2,Rockbridge,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Oliver Towles,TO0001,Republican,A03,15
+3,Rockbridge,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,12
+4,Rockbridge,va.uscongress.5.1807,1807,1807,General,"Virginia 1807 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,5

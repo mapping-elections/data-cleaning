@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Isle of Wight,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,269
+2,Isle of Wight,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,46
+1,Southampton,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,91
+2,Southampton,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,409
+1,Surry,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,145
+2,Surry,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,121
+1,Sussex,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,218
+2,Sussex,va.uscongress.20.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,86

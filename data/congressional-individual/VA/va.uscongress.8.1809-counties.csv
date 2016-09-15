@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,NA
+2,King George,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,NA
+3,King George,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Talaver,TJ0535,Republican,A03,NA
+4,King George,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Barnes,BR0184,Federalist,A01,NA
+1,Lancaster,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,179
+2,Lancaster,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,34
+3,Lancaster,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Talaver,TJ0535,Republican,A03,NA
+4,Lancaster,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Barnes,BR0184,Federalist,A01,NA
+1,Northumberland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,275
+2,Northumberland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,59
+3,Northumberland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Talaver,TJ0535,Republican,A03,NA
+4,Northumberland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Barnes,BR0184,Federalist,A01,NA
+1,Richmond,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,103
+2,Richmond,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,91
+3,Richmond,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Talaver,TJ0535,Republican,A03,1
+4,Richmond,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Barnes,BR0184,Federalist,A01,1
+1,Westmoreland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,123
+2,Westmoreland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,168
+3,Westmoreland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Talaver,TJ0535,Republican,A03,NA
+4,Westmoreland,va.uscongress.8.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Barnes,BR0184,Federalist,A01,NA

@@ -1,0 +1,42 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.12.1801,1801,John Stratton,SJ1478,Federalist,A01,612,NA,-612,1.0
+va.uscongress.18.1801,1801,Philip Rootes Thompson,TP0042,Republican,A03,530,NA,-530,1.0
+va.uscongress.17.1801,1801,Leven Powell,PL0031,Federalist,A01,325,NA,-325,1.0
+va.uscongress.17.1801,1801,Richard Brent,BR0163,Republican,A03,323,NA,-323,1.0
+va.uscongress.16.1801,1801,Anthony New,NA0009,Republican,A03,307,NA,-307,1.0
+va.uscongress.3.1801,1801,George Jackson,JG0032,Republican,A03,297,NA,-297,1.0
+va.uscongress.10.1801,1801,Nicholas Faulcon,FN0034,Republican,A03,254,NA,-254,1.0
+va.uscongress.10.1801,1801,Edwin Gray,GE0059,Federalist,A01,249,NA,-249,1.0
+va.uscongress.7.1801,1801,John Randolph,RJ0610,Republican,A03,237,NA,-237,1.0
+va.uscongress.13.1801,1801,John Clopton,CJ1097,Republican,A03,224,NA,-224,1.0
+va.uscongress.13.1801,1801,Samuel Tyler,TS0114,Republican,A03,217,NA,-217,1.0
+va.uscongress.12.1801,1801,John Page,PJ0728,Republican,A03,203,NA,-203,1.0
+va.uscongress.15.1801,1801,John Mercer,MJ0201,Republican,A03,197,NA,-197,1.0
+va.uscongress.15.1801,1801,John Dawson,DJ0582,Republican,A03,168,NA,-168,1.0
+va.uscongress.3.1801,1801,Jonathan J. Jacobs,JJ0284,Federalist,A01,119,NA,-119,1.0
+va.uscongress.2.1801,1801,David Holmes,HD0041,Republican,A03,110,NA,-110,1.0
+va.uscongress.3.1801,1801,Skidmore,null,Federalist,A01,13,NA,-13,1.0
+va.uscongress.17.1801,1801,Joseph Lane,LJ0552,null,null,11,NA,-11,1.0
+va.uscongress.18.1801,1801,John Blackwell,BJ1448,Federalist,A01,10,NA,-10,1.0
+va.uscongress.7.1801,1801,Abraham Venable,VA0029,null,null,3,NA,-3,1.0
+va.uscongress.16.1801,1801,Carter Braxton,BC0134,null,null,2,NA,-2,1.0
+va.uscongress.17.1801,1801,Samuel Clapham,CS0236,null,null,2,NA,-2,1.0
+va.uscongress.16.1801,1801,Andrew Monroe,MA0280,null,null,1,NA,-1,1.0
+va.uscongress.16.1801,1801,Archibald Petetrie,PA0122,null,null,1,NA,-1,1.0
+va.uscongress.16.1801,1801,James M. Garnett,GJ0658,null,null,1,NA,-1,1.0
+va.uscongress.16.1801,1801,Richard Banks,BR0154,null,null,1,NA,-1,1.0
+va.uscongress.16.1801,1801,Tunstall Banks,BT0259,null,null,1,NA,-1,1.0
+va.uscongress.11.1801,1801,John Niveson,NJ0182,Federalist,A01,55,55,0,0.0
+va.uscongress.11.1801,1801,Josiah Parker,PJ0725,Federalist,A01,7,7,0,0.0
+va.uscongress.11.1801,1801,"Thomas Newton, Jr.",NT0024,Republican,A03,905,905,0,0.0
+va.uscongress.1.1801,1801,John Smith,SJ1530,Republican,A03,783,783,0,0.0
+va.uscongress.1.1801,1801,Philip C. Pendleton,PP0046,Federalist,A01,538,538,0,0.0
+va.uscongress.14.1801,1801,Samuel J. Cabell,CS0229,Republican,A03,0,NA,0,NaN
+va.uscongress.19.1801,1801,"John Taliaferro, Jr.",TJ0538,Republican,A03,710,710,0,0.0
+va.uscongress.19.1801,1801,John Taylor,TJ0589,Federalist,A01,417,417,0,0.0
+va.uscongress.2.1801,1801,Alexander Sinclair,SA0280,Federalist,A01,205,205,0,0.0
+va.uscongress.4.1801,1801,Abraham Trigg,TA0080,Republican,A03,0,NA,0,NaN
+va.uscongress.5.1801,1801,John Trigg,TJ0571,Republican,A03,0,NA,0,NaN
+va.uscongress.6.1801,1801,Matthew Clay,CM0108,Republican,A03,0,NA,0,NaN
+va.uscongress.8.1801,1801,Thomas Claiborne,CT0181,Republican,A03,0,NA,0,NaN
+va.uscongress.9.1801,1801,William B. Giles,GW0186,Republican,A03,0,NA,0,NaN

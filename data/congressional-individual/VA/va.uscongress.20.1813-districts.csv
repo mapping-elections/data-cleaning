@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,1,Twenty,877
+va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,2,Twenty,426
+va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,H. Bow,BH0039,null,null,3,NA,NA
+va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,J. Gee,GJ0439,null,null,4,NA,NA
+va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"S. Calvert, Jr.",CS0045,null,null,5,NA,NA
+va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Griffin Stith,SG0189,null,null,6,NA,NA

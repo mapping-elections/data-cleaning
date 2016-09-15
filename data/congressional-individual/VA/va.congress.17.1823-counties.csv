@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,va.congress.17.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Jared Williams,WJ1022,Republican,A03,104
+2,Frederick,va.congress.17.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Alfred H. Powell,PA0123,Federalist,A01,580
+3,Frederick,va.congress.17.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Kercheval,KS0046,Republican,A03,159
+1,Shenandoah,va.congress.17.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Jared Williams,WJ1022,Republican,A03,707
+2,Shenandoah,va.congress.17.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Alfred H. Powell,PA0123,Federalist,A01,81
+3,Shenandoah,va.congress.17.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Kercheval,KS0046,Republican,A03,17

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jabez Leftwich,LJ0553,Republican,A03,857
+2,Bedford,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Calloway,CJ0986,Republican,A03,60
+1,Franklin,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jabez Leftwich,LJ0553,Republican,A03,NA
+2,Franklin,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Calloway,CJ0986,Republican,A03,NA
+1,Henry,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jabez Leftwich,LJ0553,Republican,A03,NA
+2,Henry,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Calloway,CJ0986,Republican,A03,NA
+1,Patrick,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Jabez Leftwich,LJ0553,Republican,A03,NA
+2,Patrick,va.uscongress.14.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,James Calloway,CJ0986,Republican,A03,NA

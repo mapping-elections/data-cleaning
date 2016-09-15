@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Louisa,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,310
+2,Louisa,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Barbour,BJ1485,Quid,A04,139
+1,Madison,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,NA
+2,Madison,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Barbour,BJ1485,Quid,A04,NA
+1,Orange,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,103
+2,Orange,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Barbour,BJ1485,Quid,A04,302
+1,Spotsylvania,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,473
+2,Spotsylvania,va.uscongress.10.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Barbour,BJ1485,Quid,A04,12

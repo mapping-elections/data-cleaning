@@ -1,0 +1,51 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.1.1821,1821,Edward B. Jackson,JE0044,Republican,A03,1524,NA,-1524,1.0
+va.uscongress.12.1821,1821,Robert Garnett,GR0068,Republican,A03,933,NA,-933,1.0
+va.uscongress.23.1821,1821,Andrew Stevenson,SA0291,Republican,A03,901,NA,-901,1.0
+va.uscongress.14.1821,1821,Jabez Leftwich,LJ0553,Republican,A03,857,NA,-857,1.0
+va.uscongress.6.1821,1821,Alexander Smyth,SA0299,Republican,A03,805,NA,-805,1.0
+va.uscongress.16.1821,1821,John Randolph,RJ0610,Republican,A03,650,NA,-650,1.0
+va.uscongress.11.1821,1821,Philip P. Barbour,BP0115,Republican,A03,640,NA,-640,1.0
+va.uscongress.4.1821,1821,William MacCoy,MW0392,Republican,A03,597,NA,-597,1.0
+va.uscongress.9.1821,1821,William Lee Ball,BW0447,Republican,A03,593,NA,-593,1.0
+va.uscongress.19.1821,1821,James Jones,JJ0276,Republican,A03,534,NA,-534,1.0
+va.uscongress.1.1821,1821,Thomas Wilson,WT0140,Federalist,A01,502,NA,-502,1.0
+va.uscongress.5.1821,1821,John Floyd,FJ0482,Republican,A03,502,NA,-502,1.0
+va.uscongress.10.1821,1821,Thomas L. Moore,MT0196,Republican,A03,383,NA,-383,1.0
+va.uscongress.16.1821,1821,Archibald Austin,AA0056,Republican,A03,296,NA,-296,1.0
+va.uscongress.10.1821,1821,Mark A. Chilton,CM0114,Republican,A03,159,NA,-159,1.0
+va.uscongress.14.1821,1821,James Calloway,CJ0986,Republican,A03,60,NA,-60,1.0
+va.uscongress.21.1821,1821,scattering,null,null,null,43,NA,-43,1.0
+va.uscongress.9.1821,1821,John P. Hungerford,HJ1310,Federalist,A01,32,NA,-32,1.0
+va.uscongress.13.1821,1821,Burwell Bassett,BB0099,Republican,A03,1158,1181,23,0.02
+va.uscongress.9.1821,1821,William Middleton,MW0437,null,null,5,NA,-5,1.0
+va.uscongress.9.1821,1821,William Taliaferro,TW0154,null,null,5,NA,-5,1.0
+va.uscongress.9.1821,1821,Moore F. Brockenbrough,BM0097,null,null,4,NA,-4,1.0
+va.uscongress.13.1821,1821,Brazure W. Pryor,PB0095,Federalist,A01,57,60,3,0.05
+va.uscongress.13.1821,1821,John Patterson,PJ0643,Federalist,A01,528,531,3,0.01
+va.uscongress.12.1821,1821,Richard Rowzee,RR0078,null,null,2,NA,-2,1.0
+va.uscongress.12.1821,1821,scattering,null,null,null,1,NA,-1,1.0
+va.uscongress.13.1821,1821,Henry H. Shields,SH0178,Federalist,A01,1,NA,-1,1.0
+va.uscongress.13.1821,1821,scattering,null,null,null,1,NA,-1,1.0
+va.uscongress.13.1821,1821,William Brown,BW0476,Federalist,A01,1,NA,-1,1.0
+va.uscongress.9.1821,1821,David Garland,GD0072,null,null,1,NA,-1,1.0
+va.uscongress.9.1821,1821,Griffin Edwards,EG0026,null,null,1,NA,-1,1.0
+va.uscongress.9.1821,1821,Lawrence Berry,BL0089,null,null,1,NA,-1,1.0
+va.uscongress.15.1821,1821,George Tucker,TG0062,Republican,A03,1454,1454,0,0.0
+va.uscongress.15.1821,1821,William R. Roane,RW0197,Federalist,A01,207,207,0,0.0
+va.uscongress.17.1821,1821,William S. Archer,AW0165,Republican,A03,1306,1306,0,0.0
+va.uscongress.18.1821,1821,Mark Alexander,AM0013,Republican,A03,643,643,0,0.0
+va.uscongress.20.1821,1821,Arthur Smith,SA0289,Republican,A03,992,992,0,0.0
+va.uscongress.20.1821,1821,John C. Gray,GJ0669,Republican,A03,652,652,0,0.0
+va.uscongress.21.1821,1821,Thomas Newton,NT0024,Republican,A03,770,770,0,0.0
+va.uscongress.2.1821,1821,Robert Bailey,BR0183,Republican,A03,290,290,0,0.0
+va.uscongress.2.1821,1821,Thomas Van Swearingen,VT0017,Federalist,A01,1437,1437,0,0.0
+va.uscongress.22.1821,1821,Hugh Nelson,NH0015,Republican,A03,1145,1145,0,0.0
+va.uscongress.3.1821,1821,Jared Williams,WJ1022,Republican,A03,1064,1064,0,0.0
+va.uscongress.3.1821,1821,William Steinbergen,SW0374,Republican,A03,616,616,0,0.0
+va.uscongress.7.1821,1821,James Wilson,WJ1060,Republican,A03,1124,1124,0,0.0
+va.uscongress.7.1821,1821,William Smith,SW0387,Federalist,A01,1276,1276,0,0.0
+va.uscongress.8.1821,1821,Bushrod,null,Federalist,A01,1,1,0,0.0
+va.uscongress.8.1821,1821,Charles F. Mercer,MC0088,Federalist,A01,704,704,0,0.0
+va.uscongress.8.1821,1821,John Washington,WJ1051,Republican,A03,1,1,0,0.0
+va.uscongress.8.1821,1821,Sydnor Bailey,BS0272,Republican,A03,573,573,0,0.0

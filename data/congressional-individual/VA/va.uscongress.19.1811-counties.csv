@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Isle of Wight,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,66
+2,Isle of Wight,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Butler,BS0325,Republican,A03,255
+1,Southampton,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,394
+2,Southampton,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Butler,BS0325,Republican,A03,52
+1,Surry,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,NA
+2,Surry,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Butler,BS0325,Republican,A03,NA
+1,Sussex,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,157
+2,Sussex,va.uscongress.19.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Samuel Butler,BS0325,Republican,A03,64

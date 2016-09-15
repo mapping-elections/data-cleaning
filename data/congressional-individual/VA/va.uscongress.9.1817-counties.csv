@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,52
+2,King George,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,64
+3,King George,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Lee Jr.,LH0065,Federalist,A01,41
+1,Lancaster,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,134
+2,Lancaster,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,33
+3,Lancaster,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Lee Jr.,LH0065,Federalist,A01,11
+1,Northumberland,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,144
+2,Northumberland,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,107
+3,Northumberland,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Lee Jr.,LH0065,Federalist,A01,9
+1,Richmond,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,92
+2,Richmond,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,95
+3,Richmond,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Lee Jr.,LH0065,Federalist,A01,19
+1,Stafford,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,115
+2,Stafford,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,23
+3,Stafford,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Lee Jr.,LH0065,Federalist,A01,87
+1,Westmoreland,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,18
+2,Westmoreland,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,187
+3,Westmoreland,va.uscongress.9.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Lee Jr.,LH0065,Federalist,A01,14

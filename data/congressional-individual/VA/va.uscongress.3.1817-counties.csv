@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,va.uscongress.3.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Saint George Tucker,TH0063,Republican,A03,719
+2,Frederick,va.uscongress.3.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Carson,CW0371,Republican,A03,31
+1,Shenandoah,va.uscongress.3.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Saint George Tucker,TH0063,Republican,A03,184
+2,Shenandoah,va.uscongress.3.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Carson,CW0371,Republican,A03,397

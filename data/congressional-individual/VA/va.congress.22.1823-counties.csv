@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Grayson,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,270
+2,Grayson,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,206
+1,Lee,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,135
+2,Lee,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,113
+1,Russell,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,52
+2,Russell,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,299
+1,Scott,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,179
+2,Scott,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,195
+1,Tazewell,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,229
+2,Tazewell,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,53
+1,Washington,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,350
+2,Washington,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,371
+1,Wythe,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,385
+2,Wythe,va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,40

@@ -1,0 +1,42 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.8.1795,1795,Thomas Claiborne,CT0181,null,null,586,NA,-586,1.0
+va.uscongress.8.1795,1795,Jesse Brown,BJ1441,null,null,365,NA,-365,1.0
+va.uscongress.13.1795,1795,Miles Selden,SM0110,null,null,255,NA,-255,1.0
+va.uscongress.16.1795,1795,Anthony New,NA0009,null,null,185,NA,-185,1.0
+va.uscongress.5.1795,1795,George Hancock,HG0163,null,null,128,NA,-128,1.0
+va.uscongress.3.1795,1795,George Jackson,JG0032,Republican,A03,102,NA,-102,1.0
+va.uscongress.13.1795,1795,John Clopton,CJ1097,null,null,96,NA,-96,1.0
+va.uscongress.13.1795,1795,Burwell Bassett,BB0099,null,null,74,NA,-74,1.0
+va.uscongress.6.1795,1795,Simon Crae MacMahon,MS0250,null,null,69,NA,-69,1.0
+va.uscongress.6.1795,1795,Isaac Coles,CI0035,null,null,68,NA,-68,1.0
+va.uscongress.2.1795,1795,Andrew Moore,MA0281,null,null,64,NA,-64,1.0
+va.uscongress.6.1795,1795,Matthew Clay,CM0108,null,null,48,NA,-48,1.0
+va.uscongress.9.1795,1795,William B. Giles,GW0186,Federalist,A01,47,NA,-47,1.0
+va.uscongress.10.1795,1795,Carter B. Harrison,HC0136,null,null,32,NA,-32,1.0
+va.uscongress.3.1795,1795,Joseph Nevill,NJ0172,null,null,30,NA,-30,1.0
+va.uscongress.13.1795,1795,Meriweather Jones,JM0015,null,null,14,NA,-14,1.0
+va.uscongress.3.1795,1795,Thomas Wilson,WT0140,null,null,5,NA,-5,1.0
+va.uscongress.16.1795,1795,Francis T. Brooke,BF0063,null,null,3,NA,-3,1.0
+va.uscongress.8.1795,1795,Samuel Hopkins,HS0260,null,null,2,NA,-2,1.0
+va.uscongress.16.1795,1795,Francis Corbin,CF0032,null,null,1,NA,-1,1.0
+va.uscongress.3.1795,1795,John Skidmore,SJ0270,null,null,1,NA,-1,1.0
+va.uscongress.7.1795,1795,William Wilson,WW0030,null,null,1,NA,-1,1.0
+va.uscongress.8.1795,1795,Samuel Goode,GS0120,Federalist,A01,1,NA,-1,1.0
+va.uscongress.8.1795,1795,Sterling Edmunds,ES0061,null,null,1,NA,-1,1.0
+va.uscongress.11.1795,1795,Josiah Parker,PJ0725,null,null,0,NA,0,NaN
+va.uscongress.11.1795,1795,Robert Cowper,CR0168,null,null,0,NA,0,NaN
+va.uscongress.1.1795,1795,Daniel Morgan,MD0085,null,null,0,NA,0,NaN
+va.uscongress.1.1795,1795,Robert Rutherford,RR0071,null,null,0,NA,0,NaN
+va.uscongress.12.1795,1795,John Page,PJ0728,null,null,0,NA,0,NaN
+va.uscongress.14.1795,1795,Samuel Jordan Cabell,CS0229,null,null,0,NA,0,NaN
+va.uscongress.15.1795,1795,James Madison,MJ1315,null,null,0,NA,0,NaN
+va.uscongress.17.1795,1795,Richard B. Lee,LR0090,null,null,0,NA,0,NaN
+va.uscongress.17.1795,1795,Richard Brent,BR0163,null,null,0,NA,0,NaN
+va.uscongress.18.1795,1795,John Nicholas,NJ0072,null,null,0,NA,0,NaN
+va.uscongress.19.1795,1795,John Heath,HJ1299,null,null,0,NA,0,NaN
+va.uscongress.4.1795,1795,Arthur Campbell,CA0220,null,null,0,NA,0,NaN
+va.uscongress.4.1795,1795,Francis Preston,PF0010,Federalist,A01,0,NA,0,NaN
+va.uscongress.7.1795,1795,Abraham B. Venable,VA0029,null,null,761,761,0,0.0
+va.uscongress.7.1795,1795,Joseph Wyatt,WJ0975,null,null,236,236,0,0.0
+va.uscongress.7.1795,1795,Peter Johnson,JP0026,null,null,2,2,0,0.0
+va.uscongress.7.1795,1795,Thomas Woodson,WT0167,null,null,247,247,0,0.0

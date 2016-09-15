@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.3.1792,1792,Francis Preston,PF0010,null,null,296,NA,-296,1.0
+va.uscongress.3.1792,1792,Zachariah Johnston,JZ0001,null,null,111,NA,-111,1.0
+va.uscongress.3.1792,1792,Arthur Campbell,CA0220,null,null,47,NA,-47,1.0
+va.uscongress.3.1792,1792,Mathews,null,null,null,5,NA,-5,1.0

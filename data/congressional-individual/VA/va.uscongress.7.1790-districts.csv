@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.7.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Page,PJ0728,null,null,1,NA,NA
+va.uscongress.7.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Meriwether Smith,SM0119,null,null,2,NA,NA
+va.uscongress.7.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Francis Corbin,CF0032,null,null,3,NA,NA
+va.uscongress.7.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Lee,LH0064,null,null,4,NA,NA

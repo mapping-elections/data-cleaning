@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.12.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Roane,RJ0605,Republican,A03,1,Twelve,716
+va.uscongress.12.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James Hunter,HJ1334,Federalist,A01,2,Twelve,263
+va.uscongress.12.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Joseph Jones,JJ0283,null,null,3,Twelve,1
+va.uscongress.12.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Daingerfield,DJ0584,null,null,4,Twelve,1

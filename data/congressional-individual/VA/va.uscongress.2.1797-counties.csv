@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Augusta,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,David Holmes,HD0041,Republican,A03,39
+2,Augusta,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Steele,SJ1563,Federalist,A01,392
+3,Augusta,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Bowyer,BJ0163,Republican,A03,28
+1,Bath,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,David Holmes,HD0041,Republican,A03,2
+2,Bath,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Steele,SJ1563,Federalist,A01,24
+3,Bath,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Bowyer,BJ0163,Republican,A03,10
+1,Rockbridge,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,David Holmes,HD0041,Republican,A03,1
+2,Rockbridge,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Steele,SJ1563,Federalist,A01,169
+3,Rockbridge,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Bowyer,BJ0163,Republican,A03,231
+1,Rockingham,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,David Holmes,HD0041,Republican,A03,563
+2,Rockingham,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Steele,SJ1563,Federalist,A01,9
+3,Rockingham,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Bowyer,BJ0163,Republican,A03,1
+1,Shenandoah,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,David Holmes,HD0041,Republican,A03,745
+2,Shenandoah,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Steele,SJ1563,Federalist,A01,NA
+3,Shenandoah,va.uscongress.2.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Bowyer,BJ0163,Republican,A03,21

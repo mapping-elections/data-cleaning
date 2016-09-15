@@ -1,0 +1,45 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.5.1809,1809,James Breckinridge,BJ1431,Federalist,A01,755,NA,-755,1.0
+va.uscongress.8.1809,1809,Walter Jones,JW0100,Republican,A03,680,NA,-680,1.0
+va.uscongress.5.1809,1809,Alexander Wilson,WA0179,Republican,A03,576,NA,-576,1.0
+va.uscongress.11.1809,1809,John T. Woodford,WJ1019,Federalist,A01,361,NA,-361,1.0
+va.uscongress.22.1809,1809,John Clopton,CJ1097,Republican,A03,355,NA,-355,1.0
+va.uscongress.8.1809,1809,John P. Hungerford,HJ1310,Federalist,A01,352,NA,-352,1.0
+va.uscongress.11.1809,1809,John Roane,RJ0605,Republican,A03,311,NA,-311,1.0
+va.uscongress.17.1809,1809,"Thomas Gholson, Jr.",GT0098,Republican,A03,280,NA,-280,1.0
+va.uscongress.16.1809,1809,John W. Eppes,EJ0283,Republican,A03,190,NA,-190,1.0
+va.uscongress.22.1809,1809,Charles Dabney,DC0063,Quid,A04,85,NA,-85,1.0
+va.uscongress.12.1809,1809,Burwell Bassett,BB0099,Republican,A03,1142,1172,30,0.03
+va.uscongress.17.1809,1809,Jarvis Northampton,NJ0185,Federalist,A01,15,NA,-15,1.0
+va.uscongress.12.1809,1809,John Eyre,EJ0307,Federalist,A01,864,869,5,0.01
+va.uscongress.11.1809,1809,James Webb,WJ0991,null,null,1,NA,-1,1.0
+va.uscongress.11.1809,1809,John Daingerfield,DJ0584,null,null,1,NA,-1,1.0
+va.uscongress.11.1809,1809,Sthuskley Rennolds,RS0128,null,null,1,NA,-1,1.0
+va.uscongress.8.1809,1809,John Talaver,TJ0535,Republican,A03,1,NA,-1,1.0
+va.uscongress.8.1809,1809,Richard Barnes,BR0184,Federalist,A01,1,NA,-1,1.0
+va.uscongress.10.1809,1809,John Dawson,DJ0582,Republican,A03,0,NA,0,NaN
+va.uscongress.1.1809,1809,John G. Jackson,JJ0287,Republican,A03,1326,1326,0,0.0
+va.uscongress.1.1809,1809,Noah Linsley,LN0023,Federalist,A01,872,872,0,0.0
+va.uscongress.13.1809,1809,William A. Burwell,BW0451,Republican,A03,0,NA,0,NaN
+va.uscongress.14.1809,1809,Matthew Clay,CM0108,Republican,A03,0,NA,0,NaN
+va.uscongress.15.1809,1809,Jerman Baker,BJ1470,Republican,A03,492,492,0,0.0
+va.uscongress.15.1809,1809,John Randolph,RJ0610,Federalist/Quid,A04,1243,1243,0,0.0
+va.uscongress.18.1809,1809,John Pegram,PJ0565,Federalist,A01,280,280,0,0.0
+va.uscongress.18.1809,1809,Peterson Goodwyn,GP0075,Republican,A03,670,670,0,0.0
+va.uscongress.19.1809,1809,Edwin Gray,GE0059,Federalist,A01,1003,1003,0,0.0
+va.uscongress.19.1809,1809,Richard Byrd,BR0192,Republican,A03,689,689,0,0.0
+va.uscongress.19.1809,1809,William Massenburg,MW0409,Republican,A03,147,147,0,0.0
+va.uscongress.20.1809,1809,Robert B. Tayler,TR0086,Federalist,A01,699,699,0,0.0
+va.uscongress.20.1809,1809,Thomas Newton,NT0024,Republican,A03,1051,1051,0,0.0
+va.uscongress.21.1809,1809,Wilson C. Nicholas,NW0043,Republican,A03,0,NA,0,NaN
+va.uscongress.2.1809,1809,James Stephenson,SJ1474,Federalist,A01,876,876,0,0.0
+va.uscongress.2.1809,1809,John Morrow,MJ1223,Republican,A03,645,645,0,0.0
+va.uscongress.3.1809,1809,John Smith,SJ1530,Republican,A03,1085,1085,0,0.0
+va.uscongress.3.1809,1809,Robert Page,PR0096,Federalist,A01,163,163,0,0.0
+va.uscongress.4.1809,1809,Daniel Smith,SD0213,Republican,A03,1181,1181,0,0.0
+va.uscongress.4.1809,1809,Jacob Swoope,SJ1411,Federalist,A01,1369,1369,0,0.0
+va.uscongress.6.1809,1809,Daniel Sheffey,SD0212,Federalist,A01,1662,1662,0,0.0
+va.uscongress.6.1809,1809,Francis Preston,PF0010,Republican,A03,835,835,0,0.0
+va.uscongress.7.1809,1809,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,760,760,0,0.0
+va.uscongress.7.1809,1809,William Tyler,TW0150,Republican,A03,465,465,0,0.0
+va.uscongress.9.1809,1809,John Love,LJ0561,Republican,A03,0,NA,0,NaN

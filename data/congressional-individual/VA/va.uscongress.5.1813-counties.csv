@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,343
+2,Botetourt,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Martin MacFerrand,MM0096,Republican,A03,196
+1,Giles,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,85
+2,Giles,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Martin MacFerrand,MM0096,Republican,A03,79
+1,Montgomery,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,212
+2,Montgomery,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Martin MacFerrand,MM0096,Republican,A03,210
+1,Rockbridge,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,252
+2,Rockbridge,va.uscongress.5.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Martin MacFerrand,MM0096,Republican,A03,290

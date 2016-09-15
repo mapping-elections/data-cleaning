@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,1,782
+va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Armistead T. Mason,MA0249,Republican,A03,2,706
+va.uscongress.8.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA

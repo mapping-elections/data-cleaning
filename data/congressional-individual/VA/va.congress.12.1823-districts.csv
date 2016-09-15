@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.12.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert S. Garnett,GR0068,Republican,A03,1,Twelve,1092
+va.congress.12.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Edwin Upshaw,UE0002,Federalist,A01,2,Twelve,358
+va.congress.12.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Abner Cox,CA0237,null,null,3,NA,NA

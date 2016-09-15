@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,167
+2,Fairfax,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,80
+3,Fairfax,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Washington,WJ1051,Republican,A03,NA
+4,Fairfax,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Bushrod,null,Federalist,A01,NA
+1,Loudoun,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,394
+2,Loudoun,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,378
+3,Loudoun,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Washington,WJ1051,Republican,A03,1
+4,Loudoun,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Bushrod,null,Federalist,A01,1
+1,Prince William,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,143
+2,Prince William,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,115
+3,Prince William,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Washington,WJ1051,Republican,A03,NA
+4,Prince William,va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Bushrod,null,Federalist,A01,NA

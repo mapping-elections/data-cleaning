@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.1.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,1,One,783
+va.uscongress.1.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip C. Pendleton,PP0046,Federalist,A01,2,One,538

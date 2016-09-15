@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Campbell,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Mathew Clay,CM0108,Republican,A03,111
+2,Campbell,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John W. Kerr,KJ0364,Republican,A03,178
+3,Campbell,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Rice,RW0214,Federalist,A01,179
+4,Campbell,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,White,null,Federalist,A01,12
+1,Halifax,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Mathew Clay,CM0108,Republican,A03,216
+2,Halifax,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John W. Kerr,KJ0364,Republican,A03,295
+3,Halifax,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Rice,RW0214,Federalist,A01,176
+4,Halifax,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,White,null,Federalist,A01,5
+1,Pittsylvania,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Mathew Clay,CM0108,Republican,A03,509
+2,Pittsylvania,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John W. Kerr,KJ0364,Republican,A03,198
+3,Pittsylvania,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Rice,RW0214,Federalist,A01,45
+4,Pittsylvania,va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,White,null,Federalist,A01,45

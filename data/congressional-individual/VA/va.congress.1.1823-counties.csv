@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Elizabeth City,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,126
+2,Elizabeth City,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Loyall,LG0080,Republican,A03,26
+3,Elizabeth City,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Lively,LR0091,Republican,A03,3
+4,Elizabeth City,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Colton,CS0244,Republican,A03,1
+5,Elizabeth City,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Murray,MD0160,Republican,A03,1
+6,Elizabeth City,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Hope,HG0132,Republican,A03,1
+1,Norfolk,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,237
+2,Norfolk,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Loyall,LG0080,Republican,A03,NA
+3,Norfolk,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Lively,LR0091,Republican,A03,NA
+4,Norfolk,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Colton,CS0244,Republican,A03,NA
+5,Norfolk,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Murray,MD0160,Republican,A03,NA
+6,Norfolk,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Hope,HG0132,Republican,A03,NA
+1,Princess Anne,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,NA
+2,Princess Anne,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Loyall,LG0080,Republican,A03,NA
+3,Princess Anne,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Lively,LR0091,Republican,A03,NA
+4,Princess Anne,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Colton,CS0244,Republican,A03,NA
+5,Princess Anne,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Murray,MD0160,Republican,A03,NA
+6,Princess Anne,va.congress.1.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Hope,HG0132,Republican,A03,NA

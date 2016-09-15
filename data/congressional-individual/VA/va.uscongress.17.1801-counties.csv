@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Richard Brent,BR0163,Republican,A03,165
+2,Fairfax,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Leven Powell,PL0031,Federalist,A01,78
+3,Fairfax,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Joseph Lane,LJ0552,null,null,NA
+4,Fairfax,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Clapham,CS0236,null,null,NA
+1,Loudoun,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Richard Brent,BR0163,Republican,A03,158
+2,Loudoun,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Leven Powell,PL0031,Federalist,A01,247
+3,Loudoun,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Joseph Lane,LJ0552,null,null,11
+4,Loudoun,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Clapham,CS0236,null,null,2
+1,Prince William,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Richard Brent,BR0163,Republican,A03,NA
+2,Prince William,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Leven Powell,PL0031,Federalist,A01,NA
+3,Prince William,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Joseph Lane,LJ0552,null,null,NA
+4,Prince William,va.uscongress.17.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Clapham,CS0236,null,null,NA

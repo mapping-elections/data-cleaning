@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Buckingham,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,NA
+2,Buckingham,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Wyatt,WJ0975,null,null,NA
+3,Buckingham,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Scott,ST0135,Federalist,A01,NA
+4,Buckingham,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Tarlton Woodson,WT0187,Federalist,A01,NA
+1,Charlotte,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,NA
+2,Charlotte,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Wyatt,WJ0975,null,null,NA
+3,Charlotte,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Scott,ST0135,Federalist,A01,NA
+4,Charlotte,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Tarlton Woodson,WT0187,Federalist,A01,NA
+1,Cumberland,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,201
+2,Cumberland,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Wyatt,WJ0975,null,null,NA
+3,Cumberland,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Scott,ST0135,Federalist,A01,NA
+4,Cumberland,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Tarlton Woodson,WT0187,Federalist,A01,3
+1,Powhatan,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,127
+2,Powhatan,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Wyatt,WJ0975,null,null,89
+3,Powhatan,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Scott,ST0135,Federalist,A01,61
+4,Powhatan,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Tarlton Woodson,WT0187,Federalist,A01,NA
+1,Prince Edward,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,308
+2,Prince Edward,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Wyatt,WJ0975,null,null,NA
+3,Prince Edward,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Scott,ST0135,Federalist,A01,7
+4,Prince Edward,va.uscongress.7.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Tarlton Woodson,WT0187,Federalist,A01,NA

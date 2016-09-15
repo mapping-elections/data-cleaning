@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Lee,LH0064,Federalist,A01,104
+2,King George,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,60
+1,Lancaster,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Lee,LH0064,Federalist,A01,92
+2,Lancaster,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,124
+1,Northumberland,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Lee,LH0064,Federalist,A01,106
+2,Northumberland,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,218
+1,Richmond,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Lee,LH0064,Federalist,A01,82
+2,Richmond,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,135
+1,Westmoreland,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Henry Lee,LH0064,Federalist,A01,233
+2,Westmoreland,va.uscongress.19.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Walter Jones,JW0100,Republican,A03,47

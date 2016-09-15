@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Nansemond,va.uscongress.21.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,140
+2,Nansemond,va.uscongress.21.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Norfolk,va.uscongress.21.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,355
+2,Norfolk,va.uscongress.21.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,scattering,null,null,null,33
+1,Princess Anne,va.uscongress.21.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,275
+2,Princess Anne,va.uscongress.21.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,scattering,null,null,null,10

@@ -1,0 +1,45 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.congress.18.1825,1825,Joseph Johnson,JJ0298,Republican,A03,1683,NA,-1683,1.0
+va.congress.21.1825,1825,Joseph Lovell,LJ0589,Republican,A03,1316,NA,-1316,1.0
+va.congress.22.1825,1825,Benjamin Estill,EB0023,Federalist,A01,626,1816,1190,0.66
+va.congress.7.1825,1825,Jabez Leftwich,LJ0553,Republican,A03,1170,NA,-1170,1.0
+va.congress.21.1825,1825,William Smith,SW0387,Federalist,A01,1067,NA,-1067,1.0
+va.congress.18.1825,1825,Philip Doddridge,DP0050,Federalist,A01,1031,NA,-1031,1.0
+va.congress.7.1825,1825,Nathaniel H. Claiborne,CN0061,Republican,A03,820,NA,-820,1.0
+va.congress.13.1825,1825,John Taliaferro,TJ0538,Republican,A03,747,NA,-747,1.0
+va.congress.11.1825,1825,Robert Taylor,TR0090,Republican,A03,593,1294,701,0.54
+va.congress.9.1825,1825,Andrew Stevenson,SA0291,Republican,A03,1135,1734,599,0.35
+va.congress.10.1825,1825,William C. Rives,RW0192,Republican,A03,540,NA,-540,1.0
+va.congress.20.1825,1825,John Floyd,FJ0482,Republican,A03,488,NA,-488,1.0
+va.congress.13.1825,1825,John Hooe,HJ1192,Federalist,A01,433,NA,-433,1.0
+va.congress.22.1825,1825,Joseph Crockett,CJ0930,Republican,A03,689,987,298,0.3
+va.congress.22.1825,1825,William A. Graham,GW0126,Republican,A03,68,281,213,0.76
+va.congress.3.1825,1825,William S. Archer,AW0165,Republican,A03,160,NA,-160,1.0
+va.congress.20.1825,1825,Allen Taylor,TA0075,Federalist,A01,88,NA,-88,1.0
+va.congress.8.1825,1825,Burwell Bassett,BB0099,Republican,A03,1177,1221,44,0.04
+va.congress.11.1825,1825,scattering,null,null,null,20,NA,-20,1.0
+va.congress.8.1825,1825,Servant Jones,JS0047,Republican,A03,50,58,8,0.14
+va.congress.1.1825,1825,Thomas Newton,NT0024,Republican,A03,0,NA,0,NaN
+va.congress.12.1825,1825,John H. Upshaw,UJ0017,Federalist,A01,439,439,0,0.0
+va.congress.12.1825,1825,Robert S. Garnett,GR0068,Republican,A03,955,955,0,0.0
+va.congress.14.1825,1825,Charles F. Mercer,MC0088,Federalist,A01,0,NA,0,NaN
+va.congress.15.1825,1825,John S. Barbour,BJ1516,Republican,A03,621,621,0,0.0
+va.congress.15.1825,1825,Thomas Marshall,MT0187,Federalist,A01,536,536,0,0.0
+va.congress.16.1825,1825,Edward Colston,CE0182,Federalist,A01,788,788,0,0.0
+va.congress.16.1825,1825,William Armstrong,AW0172,Republican,A03,1050,1050,0,0.0
+va.congress.17.1825,1825,Alfred H. Powell,PA0123,Federalist,A01,805,805,0,0.0
+va.congress.17.1825,1825,Augustine C. Smith,SA0316,Republican,A03,390,390,0,0.0
+va.congress.17.1825,1825,Robert Allen,AR0064,Republican,A03,49,49,0,0.0
+va.congress.17.1825,1825,Samuel Kercheval,KS0046,Republican,A03,261,261,0,0.0
+va.congress.17.1825,1825,William Steenbergen,SW0374,Republican,A03,412,412,0,0.0
+va.congress.19.1825,1825,Daniel Sheffey,SD0212,Federalist,A01,529,529,0,0.0
+va.congress.19.1825,1825,William MacCoy,MW0392,Republican,A03,1481,1481,0,0.0
+va.congress.2.1825,1825,James Trezvant,TJ0532,Republican,A03,1150,1150,0,0.0
+va.congress.2.1825,1825,Richard Eppes,ER0057,Republican,A03,469,469,0,0.0
+va.congress.4.1825,1825,Mark Alexander,AM0013,Republican,A03,0,NA,0,NaN
+va.congress.5.1825,1825,John Randolph,RJ0610,Republican,A03,890,890,0,0.0
+va.congress.6.1825,1825,Barzillai Graves,GB0071,null,null,303,303,0,0.0
+va.congress.6.1825,1825,James Lanier,LJ0598,null,null,422,422,0,0.0
+va.congress.6.1825,1825,John D. Urquhart,UJ1066,null,null,135,135,0,0.0
+va.congress.6.1825,1825,Thomas Davenport,DT0114,null,null,1004,1004,0,0.0
+va.congress.8.1825,1825,Reuben Washer,WR0127,Republican,A03,2,2,0,0.0

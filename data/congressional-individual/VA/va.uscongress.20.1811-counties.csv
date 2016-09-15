@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Nansemond,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,316
+2,Nansemond,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Taylor,TR0086,Federalist,A01,9
+1,Norfolk County,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,236
+2,Norfolk County,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Taylor,TR0086,Federalist,A01,4
+1,Norfolk Borough,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,NA
+2,Norfolk Borough,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Taylor,TR0086,Federalist,A01,NA
+1,Princess Anne,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,NA
+2,Princess Anne,va.uscongress.20.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Robert B. Taylor,TR0086,Federalist,A01,NA

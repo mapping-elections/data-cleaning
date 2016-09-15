@@ -1,0 +1,44 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.5.1815,1815,James Breckinridge,BJ1431,Federalist,A01,902,NA,-902,1.0
+va.uscongress.5.1815,1815,John Floyd,FJ0482,Republican,A03,848,NA,-848,1.0
+va.uscongress.1.1815,1815,John G. Jackson,JJ0287,Republican,A03,535,NA,-535,1.0
+va.uscongress.22.1815,1815,Hugh Nelson,NH0015,Republican,A03,415,NA,-415,1.0
+va.uscongress.18.1815,1815,Thomas Gholson,GT0098,Republican,A03,333,NA,-333,1.0
+va.uscongress.11.1815,1815,John Mercer,MJ0201,Republican,A03,265,NA,-265,1.0
+va.uscongress.17.1815,1815,James Pleasants,PJ0579,Republican,A03,185,NA,-185,1.0
+va.uscongress.18.1815,1815,John C. Goode,GJ0630,Federalist,A01,45,NA,-45,1.0
+va.uscongress.13.1815,1815,Burwell Bassett,BB0099,Republican,A03,927,958,31,0.03
+va.uscongress.1.1815,1815,scattering,null,null,null,30,NA,-30,1.0
+va.uscongress.11.1815,1815,Philip Barbour,BP0115,Republican,A03,18,NA,-18,1.0
+va.uscongress.13.1815,1815,John Eyre,EJ0307,Federalist,A01,858,862,4,0.0
+va.uscongress.12.1815,1815,James M. Garnett,GJ0658,Federalist,A01,244,241,-3,0.01
+va.uscongress.12.1815,1815,John Taylor,TJ0625,null,null,1,NA,-1,1.0
+va.uscongress.10.1815,1815,Aylett Hawes,HA0190,Republican,A03,808,808,0,0.0
+va.uscongress.10.1815,1815,John Scott,SJ1412,Federalist,A01,552,552,0,0.0
+va.uscongress.12.1815,1815,William H. Roane,RW0213,Republican,A03,857,857,0,0.0
+va.uscongress.14.1815,1815,William A. Burwell,BW0451,Republican,A03,0,NA,0,NaN
+va.uscongress.15.1815,1815,John W. Kerr,KJ0364,Republican,A03,671,671,0,0.0
+va.uscongress.15.1815,1815,Mathew Clay,CM0108,Republican,A03,836,836,0,0.0
+va.uscongress.15.1815,1815,White,null,Federalist,A01,62,62,0,0.0
+va.uscongress.15.1815,1815,William Rice,RW0214,Federalist,A01,400,400,0,0.0
+va.uscongress.16.1815,1815,John Randolph,RJ0610,Federalist,A01,971,971,0,0.0
+va.uscongress.16.1815,1815,John W. Eppes,EJ0283,Republican,A03,911,911,0,0.0
+va.uscongress.19.1815,1815,Peterson Goodwyn,GP0075,Republican,A03,0,NA,0,NaN
+va.uscongress.20.1815,1815,Edwin Gray,GE0059,Federalist,A01,662,662,0,0.0
+va.uscongress.20.1815,1815,James Johnson,JJ0282,Republican,A03,723,723,0,0.0
+va.uscongress.21.1815,1815,Thomas Newton,NT0024,Republican,A03,0,NA,0,NaN
+va.uscongress.2.1815,1815,Francis White,WF0027,Federalist,A01,420,420,0,0.0
+va.uscongress.2.1815,1815,Magnus Tate,TM0041,Federalist,A01,726,726,0,0.0
+va.uscongress.23.1815,1815,John Clopton,CJ1097,Republican,A03,0,NA,0,NaN
+va.uscongress.3.1815,1815,Griffin Taylor,TG0061,Federalist,A01,388,388,0,0.0
+va.uscongress.3.1815,1815,Henry Saint George Tucker,TH0063,Republican,A03,1006,1006,0,0.0
+va.uscongress.3.1815,1815,Robert Bailey,BR0183,Federalist,A01,13,13,0,0.0
+va.uscongress.4.1815,1815,Robert Porterfield,PR0095,Federalist,A01,1165,1165,0,0.0
+va.uscongress.4.1815,1815,William MacCoy,MW0392,Republican,A03,1213,1213,0,0.0
+va.uscongress.6.1815,1815,Daniel Sheffey,SD0212,Federalist,A01,0,NA,0,NaN
+va.uscongress.7.1815,1815,Ballard Smith,SB0133,Republican,A03,0,NA,0,NaN
+va.uscongress.7.1815,1815,John Matthews,MJ1187,Federalist,A01,0,NA,0,NaN
+va.uscongress.8.1815,1815,Armistead T. Mason,MA0249,Republican,A03,730,730,0,0.0
+va.uscongress.8.1815,1815,Joseph Lewis,LJ0458,Federalist,A01,791,791,0,0.0
+va.uscongress.9.1815,1815,John P. Hungerford,HJ1310,Federalist,A01,690,690,0,0.0
+va.uscongress.9.1815,1815,William Brent,BW0463,Republican,A03,523,523,0,0.0

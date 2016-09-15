@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.7.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,Republican,A03,1,NA,NA
+va.uscongress.7.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,W. Wilson,WW0385,null,null,2,NA,NA
+va.uscongress.7.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Richard Wilson,WR0166,null,null,3,NA,NA

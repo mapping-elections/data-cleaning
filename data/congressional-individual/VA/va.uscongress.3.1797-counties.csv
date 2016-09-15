@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Pendleton,va.uscongress.3.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Machir,MJ1261,Federalist,A01,255
+2,Pendleton,va.uscongress.3.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Jackson,JG0032,Republican,A03,3
+3,Pendleton,va.uscongress.3.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Mitchell,MJ1263,Republican,A03,26
+4,Pendleton,va.uscongress.3.1797,1797,1797,General,"Virginia 1797 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,Federalist,A01,2

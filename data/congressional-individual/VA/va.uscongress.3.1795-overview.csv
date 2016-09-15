@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.3.1795,1795,1795,General,"Virginia 1795 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Jackson,JG0032,Republican,A03,1,NA
+va.uscongress.3.1795,1795,1795,General,"Virginia 1795 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Nevill,NJ0172,null,null,2,NA
+va.uscongress.3.1795,1795,1795,General,"Virginia 1795 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Wilson,WT0140,null,null,3,NA
+va.uscongress.3.1795,1795,1795,General,"Virginia 1795 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Skidmore,SJ0270,null,null,4,NA

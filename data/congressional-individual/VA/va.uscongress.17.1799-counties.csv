@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.17.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Leven Powell,PL0031,Federalist,A01,290
+2,Fairfax,va.uscongress.17.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Roger West,WR0115,Republican,A03,259
+1,Loudoun,va.uscongress.17.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Leven Powell,PL0031,Federalist,A01,546
+2,Loudoun,va.uscongress.17.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Roger West,WR0115,Republican,A03,80
+1,Prince William,va.uscongress.17.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Leven Powell,PL0031,Federalist,A01,81
+2,Prince William,va.uscongress.17.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Roger West,WR0115,Republican,A03,181

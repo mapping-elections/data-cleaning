@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Francis Preston,PF0010,null,null,104
+2,Botetourt,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Zachariah Johnston,JZ0001,null,null,68
+3,Botetourt,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur Campbell,CA0220,null,null,NA
+4,Botetourt,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Mathews,null,null,null,5
+1,Washington,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Francis Preston,PF0010,null,null,192
+2,Washington,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Zachariah Johnston,JZ0001,null,null,43
+3,Washington,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur Campbell,CA0220,null,null,47
+4,Washington,va.uscongress.3.1792,1792,1792,General,"Virginia 1792 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Mathews,null,null,null,NA

@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Alfred H. Powell,PA0123,Federalist,A01,697
+2,Frederick,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Steenbergen,SW0374,Republican,A03,18
+3,Frederick,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Augustine C. Smith,SA0316,Republican,A03,150
+4,Frederick,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Kercheval,KS0046,Republican,A03,160
+5,Frederick,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Robert Allen,AR0064,Republican,A03,49
+1,Shenandoah,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Alfred H. Powell,PA0123,Federalist,A01,108
+2,Shenandoah,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Steenbergen,SW0374,Republican,A03,394
+3,Shenandoah,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Augustine C. Smith,SA0316,Republican,A03,240
+4,Shenandoah,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Kercheval,KS0046,Republican,A03,101
+5,Shenandoah,va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Robert Allen,AR0064,Republican,A03,NA

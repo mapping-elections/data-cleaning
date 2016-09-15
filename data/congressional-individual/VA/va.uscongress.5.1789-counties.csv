@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albemarle,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,174
+2,Albemarle,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,105
+1,Amherst,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,145
+2,Amherst,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,246
+1,Culpepper,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,256
+2,Culpepper,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,103
+1,Fluvanna,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,42
+2,Fluvanna,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,63
+1,Goochland,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,132
+2,Goochland,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,133
+1,Louisa,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,228
+2,Louisa,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,124
+1,Orange,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,216
+2,Orange,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,9
+1,Spotsylvania,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Madison,MJ1315,null,null,189
+2,Spotsylvania,va.uscongress.5.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Monroe,MJ1316,null,null,115

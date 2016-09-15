@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.3.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Jackson,JG0032,Republican,A03,1,1404
+va.uscongress.3.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Haymond,HJ1319,Federalist,A01,2,1199
+va.uscongress.3.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hill,HJ1320,null,null,3,2
+va.uscongress.3.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Archibald Woods,WA0176,null,null,4,1

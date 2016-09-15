@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.15.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,1,NA
+va.uscongress.15.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Paul Carrington,CP0070,Federalist,A01,2,NA
+va.uscongress.15.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abraham B. Venable,VA0029,null,null,3,NA
+va.uscongress.15.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Ischaxner Woodson,WI0050,null,null,4,NA

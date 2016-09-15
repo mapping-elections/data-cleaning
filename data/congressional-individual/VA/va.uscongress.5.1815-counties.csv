@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,414
+2,Botetourt,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,181
+1,Giles,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,81
+2,Giles,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,101
+1,Montgomery,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,188
+2,Montgomery,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,281
+1,Rockbridge,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Breckinridge,BJ1431,Federalist,A01,219
+2,Rockbridge,va.uscongress.5.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,285

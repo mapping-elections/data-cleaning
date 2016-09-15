@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.uscongress.1.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Page,PR0096,Federalist,A01,585
+2,Berkeley,va.uscongress.1.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,325
+1,Frederick,va.uscongress.1.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Page,PR0096,Federalist,A01,356
+2,Frederick,va.uscongress.1.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,467

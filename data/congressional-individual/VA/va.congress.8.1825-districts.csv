@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.8.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Burwell Bassett,BB0099,Republican,A03,1,Eight,1221
+va.congress.8.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Servant Jones,JS0047,Republican,A03,2,Eight,58
+va.congress.8.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Reuben Washer,WR0127,Republican,A03,3,Eight,2

@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Charles City,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Marshall,MJ1321,Federalist,A01,NA
+2,Charles City,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,NA
+1,Hanover,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Marshall,MJ1321,Federalist,A01,310
+2,Hanover,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,317
+1,Henrico,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Marshall,MJ1321,Federalist,A01,299
+2,Henrico,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,251
+1,James City,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Marshall,MJ1321,Federalist,A01,NA
+2,James City,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,NA
+1,New Kent,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Marshall,MJ1321,Federalist,A01,162
+2,New Kent,va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,137

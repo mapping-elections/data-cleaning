@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William H. Roane,RW0213,Republican,A03,252
+2,Caroline,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James M. Garnett,GJ0658,Federalist,A01,131
+3,Caroline,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Taylor,TJ0625,null,null,NA
+1,Essex,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William H. Roane,RW0213,Republican,A03,161
+2,Essex,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James M. Garnett,GJ0658,Federalist,A01,59
+3,Essex,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Taylor,TJ0625,null,null,1
+1,King and Queen,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William H. Roane,RW0213,Republican,A03,253
+2,King and Queen,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James M. Garnett,GJ0658,Federalist,A01,41
+3,King and Queen,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Taylor,TJ0625,null,null,NA
+1,King William,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William H. Roane,RW0213,Republican,A03,191
+2,King William,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,James M. Garnett,GJ0658,Federalist,A01,13
+3,King William,va.uscongress.12.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Taylor,TJ0625,null,null,NA

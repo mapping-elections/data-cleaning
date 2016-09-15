@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cabell,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,59
+2,Cabell,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,329
+1,Greenbrier,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,NA
+2,Greenbrier,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,NA
+1,Kanawha,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,22
+2,Kanawha,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,261
+1,Lewis,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,212
+2,Lewis,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,42
+1,Logan,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,104
+2,Logan,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,70
+1,Mason,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,71
+2,Mason,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,220
+1,Monroe,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,274
+2,Monroe,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,87
+1,Nicholas,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,195
+2,Nicholas,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,62
+1,Randolph,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,NA
+2,Randolph,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,NA
+1,Wood,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,130
+2,Wood,va.congress.21.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Joseph Lovell,LJ0589,Republican,A03,245

@@ -1,0 +1,35 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.8.1789,1789,Josiah Parker,PJ0725,null,null,186,976,790,0.81
+va.uscongress.8.1789,1789,Thomas Mathews,MT0214,null,null,244,805,561,0.7
+va.uscongress.3.1789,1789,George Hancock,HG0163,null,null,372,NA,-372,1.0
+va.uscongress.9.1789,1789,Theodorick Bland,BT0254,null,null,334,NA,-334,1.0
+va.uscongress.4.1789,1789,Richard Bland Lee,LR0090,null,null,329,NA,-329,1.0
+va.uscongress.7.1789,1789,John Page,PJ0728,null,null,165,NA,-165,1.0
+va.uscongress.4.1789,1789,John Pope,PJ0723,null,null,151,NA,-151,1.0
+va.uscongress.5.1789,1789,James Madison,MJ1315,null,null,1382,1308,-74,0.05
+va.uscongress.5.1789,1789,James Monroe,MJ1316,null,null,898,972,74,0.08
+va.uscongress.3.1789,1789,Andrew Moore,MA0281,null,null,70,NA,-70,1.0
+va.uscongress.9.1789,1789,Edward Carrington,CE0159,Federalist,A01,66,NA,-66,1.0
+va.uscongress.7.1789,1789,Spencer Roane,RS0122,null,null,46,NA,-46,1.0
+va.uscongress.7.1789,1789,Meriwether Smith,SM0119,null,null,44,NA,-44,1.0
+va.uscongress.8.1789,1789,Isaac Avery,AI0028,null,null,223,246,23,0.09
+va.uscongress.9.1789,1789,Thomas Rivers,RT0018,null,null,17,NA,-17,1.0
+va.uscongress.7.1789,1789,Arthur Lee,LA0122,null,null,2,NA,-2,1.0
+va.uscongress.9.1789,1789,Creed Taylor,TC0072,null,null,2,NA,-2,1.0
+va.uscongress.9.1789,1789,Sterling Edmunds,ES0061,null,null,2,NA,-2,1.0
+va.uscongress.7.1789,1789,Francis Corbin,CF0032,null,null,1,NA,-1,1.0
+va.uscongress.8.1789,1789,Frederick Boush,BF0009,null,null,1,NA,-1,1.0
+va.uscongress.8.1789,1789,Henry Lee,LH0064,null,null,1,NA,-1,1.0
+va.uscongress.8.1789,1789,Matthew Godfrey,GM0002,null,null,1,NA,-1,1.0
+va.uscongress.8.1789,1789,Thomas Lawson,LT0119,null,null,1,NA,-1,1.0
+va.uscongress.8.1789,1789,Thomas Newton,NT0024,null,null,1,NA,-1,1.0
+va.uscongress.9.1789,1789,Charles B. Jones,JC0036,null,null,1,NA,-1,1.0
+va.uscongress.9.1789,1789,Thomas Stith,ST0133,null,null,1,NA,-1,1.0
+va.uscongress.9.1789,1789,William Macon,MW0406,null,null,1,NA,-1,1.0
+va.uscongress.9.1789,1789,William Ronald,RW0237,null,null,1,NA,-1,1.0
+va.uscongress.10.1789,1789,Benjamin Harrison,HB0152,null,null,0,NA,0,NaN
+va.uscongress.10.1789,1789,"Miles Selden, Jr.",SM0110,null,null,0,NA,0,NaN
+va.uscongress.10.1789,1789,Samuel Griffin,GS0114,null,null,0,NA,0,NaN
+va.uscongress.1.1789,1789,Alexander White,WA0166,null,null,0,NA,0,NaN
+va.uscongress.2.1789,1789,John Brown,BJ0175,null,null,0,NA,0,NaN
+va.uscongress.6.1789,1789,Isaac Coles,CI0035,null,null,0,NA,0,NaN

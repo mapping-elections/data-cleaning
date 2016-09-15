@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Campbell,va.uscongress.15.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George Tucker,TG0062,Republican,A03,462
+2,Campbell,va.uscongress.15.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William R. Roane,RW0197,Federalist,A01,159
+1,Halifax,va.uscongress.15.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George Tucker,TG0062,Republican,A03,404
+2,Halifax,va.uscongress.15.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William R. Roane,RW0197,Federalist,A01,18
+1,Pittsylvania,va.uscongress.15.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,George Tucker,TG0062,Republican,A03,588
+2,Pittsylvania,va.uscongress.15.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William R. Roane,RW0197,Federalist,A01,30

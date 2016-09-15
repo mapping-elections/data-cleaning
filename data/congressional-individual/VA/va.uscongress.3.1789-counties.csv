@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Augusta,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Augusta,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA
+1,Botetourt,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,49
+2,Botetourt,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,239
+1,Greenbrier,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Greenbrier,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA
+1,Montgomery,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,21
+2,Montgomery,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,133
+1,Pendleton,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Pendleton,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA
+1,Rockbridge,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Rockbridge,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA
+1,Rockingham,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Rockingham,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA
+1,Russell,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Russell,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA
+1,Washington,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Andrew Moore,MA0281,null,null,NA
+2,Washington,va.uscongress.3.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Hancock,HG0163,null,null,NA

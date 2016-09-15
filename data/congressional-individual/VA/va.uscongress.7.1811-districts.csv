@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.7.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Lewis,LJ0458,Federalist,A01,1,Seven,527
+va.uscongress.7.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Love,LJ0561,Republican,A03,2,Seven,131
+va.uscongress.7.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Sampson Blencoe,BS0327,null,null,3,Seven,1

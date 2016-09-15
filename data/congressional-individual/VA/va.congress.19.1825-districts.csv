@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,1,Nineteen,1481
+va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,2,Nineteen,529

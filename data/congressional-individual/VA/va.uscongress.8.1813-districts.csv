@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,1,Eight,683
+va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Love,LJ0561,Republican,A03,2,Eight,499
+va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,W. Henderson,HW0389,null,null,3,NA,NA
+va.uscongress.8.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,B. W. Lee,LB0063,null,null,4,NA,NA

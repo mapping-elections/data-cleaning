@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.uscongress.7.1805,1805-04,1805,General,"Virginia 1805 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,130
+2,Fairfax,va.uscongress.7.1805,1805-04,1805,General,"Virginia 1805 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Ellzey,EW0051,Republican,A03,150
+1,Loudoun,va.uscongress.7.1805,1805-04,1805,General,"Virginia 1805 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,515
+2,Loudoun,va.uscongress.7.1805,1805-04,1805,General,"Virginia 1805 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Ellzey,EW0051,Republican,A03,277
+1,Prince William,va.uscongress.7.1805,1805-04,1805,General,"Virginia 1805 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,74
+2,Prince William,va.uscongress.7.1805,1805-04,1805,General,"Virginia 1805 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Ellzey,EW0051,Republican,A03,179

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Prince George,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,192
+2,Prince George,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Nicholas Faulcon,FN0034,Republican,A03,11
+1,Southampton,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,NA
+2,Southampton,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Nicholas Faulcon,FN0034,Republican,A03,NA
+1,Surrey,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,NA
+2,Surrey,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Nicholas Faulcon,FN0034,Republican,A03,NA
+1,Sussex,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,57
+2,Sussex,va.uscongress.10.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Nicholas Faulcon,FN0034,Republican,A03,243
