@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Rutherford,RR0071,Federalist,A01,550
+2,Berkeley,va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,126
+3,Berkeley,va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander White,WA0166,Federalist,A01,150
+1,Frederick,va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Rutherford,RR0071,Federalist,A01,336
+2,Frederick,va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,277
+3,Frederick,va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander White,WA0166,Federalist,A01,126

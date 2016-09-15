@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Isle of Wight,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,157
+2,Isle of Wight,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,151
+1,Nansemond,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,198
+2,Nansemond,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,186
+1,Norfolk,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,490
+2,Norfolk,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,379
+1,Princess Anne,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,298
+2,Princess Anne,va.uscongress.11.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,174

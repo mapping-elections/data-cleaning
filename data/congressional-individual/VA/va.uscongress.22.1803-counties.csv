@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Charles City,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,NA
+2,Charles City,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,James Rind,RJ0617,Federalist,A01,NA
+3,Charles City,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Hanover,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,NA
+2,Hanover,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,James Rind,RJ0617,Federalist,A01,NA
+3,Hanover,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Henrico,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,363
+2,Henrico,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,James Rind,RJ0617,Federalist,A01,NA
+3,Henrico,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,New Kent,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,155
+2,New Kent,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,James Rind,RJ0617,Federalist,A01,65
+3,New Kent,va.uscongress.22.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,scattering,null,null,null,20

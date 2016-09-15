@@ -1,0 +1,39 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.3.1797,1797,James Machir,MJ1261,Federalist,A01,255,1066,811,0.76
+va.uscongress.3.1797,1797,George Jackson,JG0032,Republican,A03,3,674,671,1.0
+va.uscongress.15.1797,1797,John Dawson,DJ0582,Republican,A03,555,NA,-555,1.0
+va.uscongress.3.1797,1797,John Mitchell,MJ1263,Republican,A03,26,472,446,0.94
+va.uscongress.1.1797,1797,Robert Rutherford,RR0071,Republican,A03,439,NA,-439,1.0
+va.uscongress.7.1797,1797,Abraham B. Venable,VA0029,Republican,A03,303,NA,-303,1.0
+va.uscongress.13.1797,1797,John Clopton,CJ1097,Republican,A03,286,NA,-286,1.0
+va.uscongress.15.1797,1797,Thomas Posey,PT0081,Federalist,A01,275,NA,-275,1.0
+va.uscongress.1.1797,1797,Daniel Morgan,MD0085,Federalist,A01,237,NA,-237,1.0
+va.uscongress.18.1797,1797,John Nicholas,NJ0072,Republican,A03,232,NA,-232,1.0
+va.uscongress.3.1797,1797,Thomas Wilson,WT0140,Federalist,A01,2,134,132,0.99
+va.uscongress.19.1797,1797,Walter Jones,JW0100,Republican,A03,127,NA,-127,1.0
+va.uscongress.13.1797,1797,Burwell Bassett,BB0099,Federalist,A01,109,NA,-109,1.0
+va.uscongress.9.1797,1797,William B. Giles,GW0186,Republican,A03,86,NA,-86,1.0
+va.uscongress.19.1797,1797,Burgess Ball,BB0101,Federalist,A01,70,NA,-70,1.0
+va.uscongress.18.1797,1797,John Blackwell,BJ1448,Federalist,A01,60,NA,-60,1.0
+va.uscongress.18.1797,1797,William Fitzhugh,FW0133,Federalist,A01,35,NA,-35,1.0
+va.uscongress.5.1797,1797,John Trigg,TJ0571,Republican,A03,30,NA,-30,1.0
+va.uscongress.2.1797,1797,John Bowyer,BJ0163,Republican,A03,291,270,-21,0.07
+va.uscongress.2.1797,1797,John Steele,SJ1563,Federalist,A01,594,615,21,0.03
+va.uscongress.17.1797,1797,Richard Brent,BR0163,Republican,A03,424,414,-10,0.02
+va.uscongress.7.1797,1797,W. Wilson,WW0385,null,null,3,NA,-3,1.0
+va.uscongress.16.1797,1797,Robert P. Waring,WR0113,null,null,1,NA,-1,1.0
+va.uscongress.7.1797,1797,Richard Wilson,WR0166,null,null,1,NA,-1,1.0
+va.uscongress.10.1797,1797,Carter B. Harrison,HC0136,Republican,A03,261,261,0,0.0
+va.uscongress.10.1797,1797,Edwin Gray,GE0059,Federalist,A01,210,210,0,0.0
+va.uscongress.11.1797,1797,Josiah Parker,PJ0725,Federalist,A01,0,NA,0,NaN
+va.uscongress.12.1797,1797,John Page,PJ0728,Republican,A03,0,NA,0,NaN
+va.uscongress.12.1797,1797,Thomas Evans,ET0046,Federalist,A01,0,NA,0,NaN
+va.uscongress.14.1797,1797,Samuel J. Cabell,CS0229,Republican,A03,0,NA,0,NaN
+va.uscongress.16.1797,1797,Anthony New,NA0009,Republican,A03,942,942,0,0.0
+va.uscongress.16.1797,1797,"Carter Braxton, Jr.",BC0134,Federalist,A01,391,391,0,0.0
+va.uscongress.17.1797,1797,Leven Powell,PL0031,Federalist,A01,0,NA,0,NaN
+va.uscongress.2.1797,1797,David Holmes,HD0041,Republican,A03,1350,1350,0,0.0
+va.uscongress.4.1797,1797,Abraham Trigg,TA0080,Republican,A03,0,NA,0,NaN
+va.uscongress.6.1797,1797,Matthew Clay,CM0108,Republican,A03,0,NA,0,NaN
+va.uscongress.8.1797,1797,Jesse Browne,BJ1441,Federalist,A01,461,461,0,0.0
+va.uscongress.8.1797,1797,Thomas Claiborne,CT0181,Republican,A03,761,761,0,0.0

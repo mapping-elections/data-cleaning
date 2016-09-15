@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Culpeper,va.uscongress.9.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Aylett Hawes,HA0190,Republican,A03,383
+2,Culpeper,va.uscongress.9.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George F. Strother,SG0190,Republican,A03,144
+1,Fauquier,va.uscongress.9.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Aylett Hawes,HA0190,Republican,A03,NA
+2,Fauquier,va.uscongress.9.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George F. Strother,SG0190,Republican,A03,NA

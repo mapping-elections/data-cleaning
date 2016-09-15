@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George F. Strother,SG0190,Republican,A03,1,Ten,581
+va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Shackleford,SJ1433,Federalist,A01,2,Ten,9
+va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Wharton,WJ1040,Republican,A03,3,Ten,541

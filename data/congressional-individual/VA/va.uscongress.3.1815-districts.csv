@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.3.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Saint George Tucker,TH0063,Republican,A03,1,Three,1006
+va.uscongress.3.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Griffin Taylor,TG0061,Federalist,A01,2,Three,388
+va.uscongress.3.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Federalist,A01,3,Three,13

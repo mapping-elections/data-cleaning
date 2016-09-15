@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.18.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,1,Eighteen,1679
+va.congress.18.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Phillip Doddridge,DP0050,Federalist,A01,2,Eighteen,1104
+va.congress.18.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Edwin S. Duncan,DE0083,Republican,A03,3,Eighteen,71
+va.congress.18.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Jeremiah Browning,BJ1399,Republican,A03,4,Eighteen,30

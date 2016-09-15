@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.9.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William B. Giles,GW0186,null,null,1,Nine,2097
+va.uscongress.9.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Edmonds,ET0047,null,null,2,Nine,1435
+va.uscongress.9.1790,1790,1790,General,"Virginia 1790 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Mason,MJ1314,null,null,3,NA,NA

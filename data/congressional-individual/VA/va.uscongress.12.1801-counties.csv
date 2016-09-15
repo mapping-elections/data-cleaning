@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Accomack,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,455
+2,Accomack,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,16
+1,Elizabeth City,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,5
+2,Elizabeth City,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,77
+1,Gloucester,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,NA
+2,Gloucester,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,NA
+1,Mathews,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,NA
+2,Mathews,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,NA
+1,Northampton,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,143
+2,Northampton,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,23
+1,Warwick,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,NA
+2,Warwick,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,NA
+1,York,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Stratton,SJ1478,Federalist,A01,9
+2,York,va.uscongress.12.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Page,PJ0728,Republican,A03,87

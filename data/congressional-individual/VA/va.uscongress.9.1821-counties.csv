@@ -1,0 +1,49 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,NA
+2,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,NA
+3,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Lawrence Berry,BL0089,null,null,NA
+4,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Griffin Edwards,EG0026,null,null,NA
+5,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Moore F. Brockenbrough,BM0097,null,null,NA
+6,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Garland,GD0072,null,null,NA
+7,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Taliaferro,TW0154,null,null,NA
+8,King George,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Middleton,MW0437,null,null,NA
+1,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,159
+2,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,NA
+3,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Lawrence Berry,BL0089,null,null,1
+4,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Griffin Edwards,EG0026,null,null,1
+5,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Moore F. Brockenbrough,BM0097,null,null,NA
+6,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Garland,GD0072,null,null,NA
+7,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Taliaferro,TW0154,null,null,NA
+8,Lancaster,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Middleton,MW0437,null,null,NA
+1,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,159
+2,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,NA
+3,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Lawrence Berry,BL0089,null,null,NA
+4,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Griffin Edwards,EG0026,null,null,NA
+5,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Moore F. Brockenbrough,BM0097,null,null,NA
+6,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Garland,GD0072,null,null,NA
+7,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Taliaferro,TW0154,null,null,NA
+8,Northumberland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Middleton,MW0437,null,null,NA
+1,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,161
+2,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,NA
+3,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Lawrence Berry,BL0089,null,null,NA
+4,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Griffin Edwards,EG0026,null,null,NA
+5,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Moore F. Brockenbrough,BM0097,null,null,4
+6,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Garland,GD0072,null,null,1
+7,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Taliaferro,TW0154,null,null,NA
+8,Richmond,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Middleton,MW0437,null,null,NA
+1,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,NA
+2,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,NA
+3,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Lawrence Berry,BL0089,null,null,NA
+4,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Griffin Edwards,EG0026,null,null,NA
+5,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Moore F. Brockenbrough,BM0097,null,null,NA
+6,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Garland,GD0072,null,null,NA
+7,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Taliaferro,TW0154,null,null,NA
+8,Stafford,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Middleton,MW0437,null,null,NA
+1,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,114
+2,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John P. Hungerford,HJ1310,Federalist,A01,32
+3,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Lawrence Berry,BL0089,null,null,NA
+4,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Griffin Edwards,EG0026,null,null,NA
+5,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Moore F. Brockenbrough,BM0097,null,null,NA
+6,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Garland,GD0072,null,null,NA
+7,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Taliaferro,TW0154,null,null,5
+8,Westmoreland,va.uscongress.9.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Middleton,MW0437,null,null,5

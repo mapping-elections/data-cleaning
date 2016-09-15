@@ -1,0 +1,37 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Theodorick Bland,BT0254,null,null,122
+2,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Edward Carrington,CE0159,Federalist,A01,NA
+3,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Rivers,RT0018,null,null,NA
+4,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Sterling Edmunds,ES0061,null,null,2
+5,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Stith,ST0133,null,null,1
+6,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Charles B. Jones,JC0036,null,null,1
+7,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Creed Taylor,TC0072,null,null,NA
+8,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Ronald,RW0237,null,null,NA
+9,Brunswick,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Macon,MW0406,null,null,NA
+1,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Theodorick Bland,BT0254,null,null,150
+2,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Edward Carrington,CE0159,Federalist,A01,31
+3,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Rivers,RT0018,null,null,NA
+4,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Sterling Edmunds,ES0061,null,null,NA
+5,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Stith,ST0133,null,null,NA
+6,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Charles B. Jones,JC0036,null,null,NA
+7,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Creed Taylor,TC0072,null,null,2
+8,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Ronald,RW0237,null,null,1
+9,Cumberland,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Macon,MW0406,null,null,1
+1,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Theodorick Bland,BT0254,null,null,38
+2,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Edward Carrington,CE0159,Federalist,A01,8
+3,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Rivers,RT0018,null,null,14
+4,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Sterling Edmunds,ES0061,null,null,NA
+5,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Stith,ST0133,null,null,NA
+6,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Charles B. Jones,JC0036,null,null,NA
+7,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Creed Taylor,TC0072,null,null,NA
+8,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Ronald,RW0237,null,null,NA
+9,Greensville,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Macon,MW0406,null,null,NA
+1,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Theodorick Bland,BT0254,null,null,24
+2,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Edward Carrington,CE0159,Federalist,A01,27
+3,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Rivers,RT0018,null,null,3
+4,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Sterling Edmunds,ES0061,null,null,NA
+5,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Stith,ST0133,null,null,NA
+6,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Charles B. Jones,JC0036,null,null,NA
+7,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Creed Taylor,TC0072,null,null,NA
+8,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Ronald,RW0237,null,null,NA
+9,Powhatan,va.uscongress.9.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Macon,MW0406,null,null,NA

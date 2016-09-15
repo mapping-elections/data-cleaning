@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Charles City,va.congress.9.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Stevenson,SA0291,Republican,A03,NA
+1,Hanover,va.congress.9.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Stevenson,SA0291,Republican,A03,NA
+1,Henrico,va.congress.9.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Stevenson,SA0291,Republican,A03,285
+1,New Kent,va.congress.9.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Stevenson,SA0291,Republican,A03,236

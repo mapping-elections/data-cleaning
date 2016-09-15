@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brunswick,va.uscongress.17.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,"Thomas Gholson, Jr.",GT0098,Republican,A03,280
+2,Brunswick,va.uscongress.17.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Jarvis Northampton,NJ0185,Federalist,A01,15
+1,Lunenburg,va.uscongress.17.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,"Thomas Gholson, Jr.",GT0098,Republican,A03,NA
+2,Lunenburg,va.uscongress.17.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Jarvis Northampton,NJ0185,Federalist,A01,NA
+1,Mecklenburg,va.uscongress.17.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,"Thomas Gholson, Jr.",GT0098,Republican,A03,NA
+2,Mecklenburg,va.uscongress.17.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Jarvis Northampton,NJ0185,Federalist,A01,NA

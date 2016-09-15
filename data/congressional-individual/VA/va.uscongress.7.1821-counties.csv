@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cabell,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,119
+2,Cabell,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,381
+1,Greenbrier,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,290
+2,Greenbrier,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,9
+1,Kanawha,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,24
+2,Kanawha,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,161
+1,Mason,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,42
+2,Mason,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,224
+1,Monroe,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,304
+2,Monroe,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,41
+1,Nicholas,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,125
+2,Nicholas,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,14
+1,Randolph,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,225
+2,Randolph,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,95
+1,Wood,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0387,Federalist,A01,147
+2,Wood,va.uscongress.7.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Wilson,WJ1060,Republican,A03,199

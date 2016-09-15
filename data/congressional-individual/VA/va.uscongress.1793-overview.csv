@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Rutherford,RR0071,Federalist,A01,1,886
+va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,2,403
+va.uscongress.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander White,WA0166,Federalist,A01,3,276

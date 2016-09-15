@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Mathew Clay,CM0108,Republican,A03,1,Fifteen,836
+va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,John W. Kerr,KJ0364,Republican,A03,2,Fifteen,671
+va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Rice,RW0214,Federalist,A01,3,Fifteen,400
+va.uscongress.15.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,White,null,Federalist,A01,4,Fifteen,62

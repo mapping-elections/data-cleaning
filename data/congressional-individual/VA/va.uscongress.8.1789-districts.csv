@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,null,null,1,Eight,976
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Mathews,MT0214,null,null,2,Eight,805
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Isaac Avery,AI0028,null,null,3,Eight,246
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Frederick Boush,BF0009,null,null,4,NA,NA
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry Lee,LH0064,null,null,5,NA,NA
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Lawson,LT0119,null,null,6,NA,NA
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Newton,NT0024,null,null,7,NA,NA
+va.uscongress.8.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Matthew Godfrey,GM0002,null,null,8,NA,NA

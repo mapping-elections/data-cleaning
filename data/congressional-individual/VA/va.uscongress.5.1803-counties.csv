@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Moore,MA0281,Republican,A03,277
+2,Botetourt,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Lewis,LT0108,Federalist,A01,132
+3,Botetourt,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Woodward,WJ1007,Federalist,A01,12
+1,Greenbrier,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Moore,MA0281,Republican,A03,71
+2,Greenbrier,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Lewis,LT0108,Federalist,A01,337
+3,Greenbrier,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Woodward,WJ1007,Federalist,A01,9
+1,Kenawha,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Moore,MA0281,Republican,A03,1
+2,Kenawha,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Lewis,LT0108,Federalist,A01,71
+3,Kenawha,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Woodward,WJ1007,Federalist,A01,96
+1,Monroe,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Moore,MA0281,Republican,A03,58
+2,Monroe,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Lewis,LT0108,Federalist,A01,48
+3,Monroe,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Woodward,WJ1007,Federalist,A01,303
+1,Rockbridge,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Moore,MA0281,Republican,A03,301
+2,Rockbridge,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Lewis,LT0108,Federalist,A01,61
+3,Rockbridge,va.uscongress.5.1803,1803-04,1803,General,"Virginia 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Woodward,WJ1007,Federalist,A01,3

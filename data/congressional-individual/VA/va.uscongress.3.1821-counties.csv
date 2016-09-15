@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,va.uscongress.3.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jared Williams,WJ1022,Republican,A03,604
+2,Frederick,va.uscongress.3.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Steinbergen,SW0374,Republican,A03,411
+1,Shenandoah,va.uscongress.3.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jared Williams,WJ1022,Republican,A03,460
+2,Shenandoah,va.uscongress.3.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Steinbergen,SW0374,Republican,A03,205

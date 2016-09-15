@@ -1,0 +1,26 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,NA
+2,King George,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clowning,CJ0974,null,null,NA
+3,King George,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,NA
+4,King George,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John W. Hungerford,HJ1317,null,null,NA
+5,King George,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Lancaster,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,152
+2,Lancaster,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clowning,CJ0974,null,null,1
+3,Lancaster,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,NA
+4,Lancaster,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John W. Hungerford,HJ1317,null,null,2
+5,Lancaster,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Richmond,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,166
+2,Richmond,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clowning,CJ0974,null,null,NA
+3,Richmond,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,NA
+4,Richmond,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John W. Hungerford,HJ1317,null,null,NA
+5,Richmond,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Stafford,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,149
+2,Stafford,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clowning,CJ0974,null,null,NA
+3,Stafford,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,65
+4,Stafford,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John W. Hungerford,HJ1317,null,null,NA
+5,Stafford,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Westmoreland,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,William Lee Ball,BW0447,Republican,A03,103
+2,Westmoreland,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clowning,CJ0974,null,null,NA
+3,Westmoreland,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Ellyson Currie,CE0166,null,null,NA
+4,Westmoreland,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John W. Hungerford,HJ1317,null,null,NA
+5,Westmoreland,va.congress.13.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,2

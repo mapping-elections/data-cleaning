@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+va.uscongress.19.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,1,1003
+va.uscongress.19.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Richard Byrd,BR0192,Republican,A03,2,689
+va.uscongress.19.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William Massenburg,MW0409,Republican,A03,3,147

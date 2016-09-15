@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Isle of Wight,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Thomas Newton, Jr.",NT0024,Republican,A03,NA
+2,Isle of Wight,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Niveson,NJ0182,Federalist,A01,16
+3,Isle of Wight,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,4
+1,Nansemond,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Thomas Newton, Jr.",NT0024,Republican,A03,279
+2,Nansemond,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Niveson,NJ0182,Federalist,A01,NA
+3,Nansemond,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,NA
+1,Norfolk,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Thomas Newton, Jr.",NT0024,Republican,A03,416
+2,Norfolk,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Niveson,NJ0182,Federalist,A01,4
+3,Norfolk,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,3
+1,Princess Anne,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,"Thomas Newton, Jr.",NT0024,Republican,A03,210
+2,Princess Anne,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Niveson,NJ0182,Federalist,A01,35
+3,Princess Anne,va.uscongress.11.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Josiah Parker,PJ0725,Federalist,A01,NA

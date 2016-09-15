@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brooke,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,NA
+2,Brooke,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Doddridge,DP0050,Federalist,A01,NA
+1,Harrison,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,558
+2,Harrison,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Doddridge,DP0050,Federalist,A01,227
+1,Monongalia,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,550
+2,Monongalia,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Doddridge,DP0050,Federalist,A01,413
+1,Ohio,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,278
+2,Ohio,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Doddridge,DP0050,Federalist,A01,185
+1,Preston,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,197
+2,Preston,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Doddridge,DP0050,Federalist,A01,68
+1,Tyler,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Joseph Johnson,JJ0298,Republican,A03,100
+2,Tyler,va.congress.18.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Doddridge,DP0050,Federalist,A01,138

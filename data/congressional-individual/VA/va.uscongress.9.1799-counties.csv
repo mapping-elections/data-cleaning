@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Amelia,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Joseph Eggleston,EJ0301,Republican,A03,284
+2,Amelia,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander MacRae,MA0245,Federalist,A01,46
+1,Chesterfield,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Joseph Eggleston,EJ0301,Republican,A03,286
+2,Chesterfield,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander MacRae,MA0245,Federalist,A01,344
+1,Dinwiddie,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Joseph Eggleston,EJ0301,Republican,A03,258
+2,Dinwiddie,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander MacRae,MA0245,Federalist,A01,197
+1,Nottoway,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Joseph Eggleston,EJ0301,Republican,A03,230
+2,Nottoway,va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander MacRae,MA0245,Federalist,A01,29

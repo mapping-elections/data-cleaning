@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Louisa,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,NA
+2,Louisa,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stapleton Crutchfield,CS0240,null,null,NA
+3,Louisa,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Mercer,MJ0201,null,null,NA
+4,Louisa,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Robert Tayler,TR0090,null,null,NA
+1,Madison,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,NA
+2,Madison,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stapleton Crutchfield,CS0240,null,null,NA
+3,Madison,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Mercer,MJ0201,null,null,NA
+4,Madison,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Robert Tayler,TR0090,null,null,NA
+1,Orange,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,NA
+2,Orange,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stapleton Crutchfield,CS0240,null,null,NA
+3,Orange,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Mercer,MJ0201,null,null,NA
+4,Orange,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Robert Tayler,TR0090,null,null,NA
+1,Spotsylvania,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Dawson,DJ0582,Republican,A03,418
+2,Spotsylvania,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Stapleton Crutchfield,CS0240,null,null,5
+3,Spotsylvania,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Mercer,MJ0201,null,null,5
+4,Spotsylvania,va.uscongress.11.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Robert Tayler,TR0090,null,null,1

@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brooke,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,NA
+2,Brooke,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,NA
+1,Harrison,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,617
+2,Harrison,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,95
+1,Lewis,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,190
+2,Lewis,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,143
+1,Monongalia,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,349
+2,Monongalia,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,16
+1,Ohio,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,100
+2,Ohio,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,175
+1,Preston,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,173
+2,Preston,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,27
+1,Tyler,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Pindall,PJ0569,Federalist,A01,144
+2,Tyler,va.uscongress.1.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William MacKinley,MW0394,Republican,A03,10

@@ -1,0 +1,36 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.1.1819,1819,James Pindall,PJ0569,Federalist,A01,1573,NA,-1573,1.0
+va.uscongress.20.1819,1819,James Johnson,JJ0282,Republican,A03,1559,NA,-1559,1.0
+va.uscongress.11.1819,1819,Philip P. Barbour,BP0115,Republican,A03,1224,NA,-1224,1.0
+va.uscongress.13.1819,1819,Severen E. Parker,PS0152,Republican,A03,825,NA,-825,1.0
+va.uscongress.6.1819,1819,Alexander Smyth,SA0299,Republican,A03,665,NA,-665,1.0
+va.uscongress.19.1819,1819,James Jones,JJ0276,Republican,A03,581,NA,-581,1.0
+va.uscongress.10.1819,1819,John Shackleford,SJ1433,Federalist,A01,541,9,-532,0.98
+va.uscongress.10.1819,1819,John Wharton,WJ1040,Republican,A03,9,541,532,0.98
+va.uscongress.1.1819,1819,William MacKinley,MW0394,Republican,A03,466,NA,-466,1.0
+va.uscongress.8.1819,1819,Charles F. Mercer,MC0088,Federalist,A01,465,NA,-465,1.0
+va.uscongress.12.1819,1819,Robert S. Garnett,GR0068,Republican,A03,387,NA,-387,1.0
+va.uscongress.21.1819,1819,Thomas Newton,NT0024,Republican,A03,281,NA,-281,1.0
+va.uscongress.7.1819,1819,Ballard Smith,SB0133,Republican,A03,257,NA,-257,1.0
+va.uscongress.19.1819,1819,John Pegram,PJ0565,Republican,A03,242,NA,-242,1.0
+va.uscongress.17.1819,1819,James Pleasants,PJ0579,Republican,A03,138,NA,-138,1.0
+va.uscongress.13.1819,1819,John Drury,DJ0062,null,null,1,NA,-1,1.0
+va.uscongress.10.1819,1819,George F. Strother,SG0190,Republican,A03,581,581,0,0.0
+va.uscongress.14.1819,1819,William A. Burwell,BW0451,Republican,A03,0,NA,0,NaN
+va.uscongress.15.1819,1819,George Tucker,TG0062,Republican,A03,1221,1221,0,0.0
+va.uscongress.15.1819,1819,John Kerr,KJ0364,Republican,A03,471,471,0,0.0
+va.uscongress.16.1819,1819,Archibald Austin,AA0056,Republican,A03,253,253,0,0.0
+va.uscongress.16.1819,1819,John Randolph,RJ0610,Republican,A03,681,681,0,0.0
+va.uscongress.18.1819,1819,James Wyche,WJ1041,Republican,A03,199,199,0,0.0
+va.uscongress.18.1819,1819,Mark Alexander,AM0013,Republican,A03,613,613,0,0.0
+va.uscongress.18.1819,1819,Theo Field,FT0091,Republican,A03,290,290,0,0.0
+va.uscongress.2.1819,1819,Edward Colston,CE0182,Federalist,A01,644,644,0,0.0
+va.uscongress.2.1819,1819,Thomas Van Swearingen,VT0017,Federalist,A01,810,810,0,0.0
+va.uscongress.22.1819,1819,Hugh Nelson,NH0015,Republican,A03,0,NA,0,NaN
+va.uscongress.23.1819,1819,John Tyler,TJ0537,Republican,A03,0,NA,0,NaN
+va.uscongress.3.1819,1819,Jared Williams,WJ1022,Republican,A03,839,839,0,0.0
+va.uscongress.3.1819,1819,John Smith,SJ1530,Republican,A03,389,389,0,0.0
+va.uscongress.4.1819,1819,William MacCoy,MW0392,Republican,A03,0,NA,0,NaN
+va.uscongress.5.1819,1819,John Floyd,FJ0482,Republican,A03,0,NA,0,NaN
+va.uscongress.9.1819,1819,John P. Hungerford,HJ1310,Federalist,A01,558,558,0,0.0
+va.uscongress.9.1819,1819,William Lee Ball,BW0447,Republican,A03,639,639,0,0.0

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Taliaferro,TJ0538,Republican,A03,64
+2,King George,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Hooe,HJ1192,Federalist,A01,92
+1,Lancaster,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Taliaferro,TJ0538,Republican,A03,177
+2,Lancaster,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Hooe,HJ1192,Federalist,A01,4
+1,Northumberland,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Taliaferro,TJ0538,Republican,A03,171
+2,Northumberland,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Hooe,HJ1192,Federalist,A01,72
+1,Richmond,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Taliaferro,TJ0538,Republican,A03,97
+2,Richmond,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Hooe,HJ1192,Federalist,A01,82
+1,Stafford,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Taliaferro,TJ0538,Republican,A03,131
+2,Stafford,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Hooe,HJ1192,Federalist,A01,93
+1,Westmoreland,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Taliaferro,TJ0538,Republican,A03,107
+2,Westmoreland,va.congress.13.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Hooe,HJ1192,Federalist,A01,90

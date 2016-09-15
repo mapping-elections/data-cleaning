@@ -1,0 +1,58 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.14.1803,1803,Matthew Clay,CM0108,Republican,A03,2067,NA,-2067,1.0
+va.uscongress.15.1803,1803,John Randolph,RJ0610,Republican,A03,1477,NA,-1477,1.0
+va.uscongress.4.1803,1803,David Holmes,HD0041,Republican,A03,1133,NA,-1133,1.0
+va.uscongress.17.1803,1803,Thomas Claiborne,CT0181,Republican,A03,898,NA,-898,1.0
+va.uscongress.17.1803,1803,Richard Field,FR0060,Federalist,A01,851,NA,-851,1.0
+va.uscongress.22.1803,1803,John Clopton,CJ1097,Republican,A03,518,NA,-518,1.0
+va.uscongress.16.1803,1803,John W. Eppes,EJ0283,Republican,A03,484,NA,-484,1.0
+va.uscongress.4.1803,1803,Isaac Van Meter,VI0019,Federalist,A01,476,NA,-476,1.0
+va.uscongress.10.1803,1803,John Dawson,DJ0582,Republican,A03,464,NA,-464,1.0
+va.uscongress.8.1803,1803,Walter Jones,JW0100,Republican,A03,320,NA,-320,1.0
+va.uscongress.14.1803,1803,James Hurt,HJ1339,Federalist,A01,258,NA,-258,1.0
+va.uscongress.19.1803,1803,Edwin Gray,GE0059,Republican,A03,132,NA,-132,1.0
+va.uscongress.22.1803,1803,James Rind,RJ0617,Federalist,A01,65,NA,-65,1.0
+va.uscongress.10.1803,1803,William I. Callis,CW0385,Federalist,A01,28,NA,-28,1.0
+va.uscongress.12.1803,1803,Thomas Griffin,GT0058,Federalist,A01,1069,1089,20,0.02
+va.uscongress.22.1803,1803,scattering,null,null,null,20,NA,-20,1.0
+va.uscongress.12.1803,1803,Burwell Bassett,BB0099,Republican,A03,1040,1056,16,0.02
+va.uscongress.8.1803,1803,James Ball,BJ1460,Federalist,A01,13,NA,-13,1.0
+va.uscongress.8.1803,1803,Elias Edmonds,EE0051,null,null,4,NA,-4,1.0
+va.uscongress.8.1803,1803,John Carpenter,CJ1109,null,null,4,NA,-4,1.0
+va.uscongress.8.1803,1803,Martin Sherman,SM0111,null,null,4,NA,-4,1.0
+va.uscongress.15.1803,1803,Abraham B. Venable,VA0029,null,null,3,NA,-3,1.0
+va.uscongress.16.1803,1803,scattering,null,Republican,A03,3,NA,-3,1.0
+va.uscongress.8.1803,1803,William Gibson,GW0127,null,null,3,NA,-3,1.0
+va.uscongress.15.1803,1803,Paul Carrington,CP0070,Federalist,A01,2,NA,-2,1.0
+va.uscongress.8.1803,1803,Ellyson Currie,CE0166,null,null,2,NA,-2,1.0
+va.uscongress.8.1803,1803,Warner Hewit,HW0346,null,null,2,NA,-2,1.0
+va.uscongress.15.1803,1803,Ischaxner Woodson,WI0050,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,John Chowning,CJ1110,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,John Shipton,SJ1550,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,Joseph Chinn,CJ1121,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,Thomas Downing,DT0111,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,Thomas Taylor,TT0082,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,Unreadable,null,null,null,1,NA,-1,1.0
+va.uscongress.8.1803,1803,W. Slaughter,SW0355,null,null,1,NA,-1,1.0
+va.uscongress.11.1803,1803,Anthony New,NA0009,Republican,A03,907,907,0,0.0
+va.uscongress.11.1803,1803,John Taylor,TJ0625,Republican,A03,364,364,0,0.0
+va.uscongress.1.1803,1803,John G. Jackson,JJ0287,Republican,A03,0,NA,0,NaN
+va.uscongress.1.1803,1803,Thomas Wilson,WT0140,Federalist,A01,0,NA,0,NaN
+va.uscongress.13.1803,1803,John Trigg,TJ0571,Republican,A03,0,NA,0,NaN
+va.uscongress.18.1803,1803,James Jones,JJ0276,Republican,A03,415,415,0,0.0
+va.uscongress.18.1803,1803,Peterson Goodwyn,GP0075,Republican,A03,839,839,0,0.0
+va.uscongress.20.1803,1803,Alexander Martin,MA0260,null,null,0,NA,0,NaN
+va.uscongress.20.1803,1803,"Thomas Newton, Jr.",NT0024,Republican,A03,1157,1157,0,0.0
+va.uscongress.21.1803,1803,Samuel J. Cabell,CS0229,Republican,A03,0,NA,0,NaN
+va.uscongress.21.1803,1803,Thomas M. Randolph,RT0122,Republican,A03,0,NA,0,NaN
+va.uscongress.2.1803,1803,James Stephenson,SJ1474,Federalist,A01,984,984,0,0.0
+va.uscongress.2.1803,1803,Osborn Sprigg,SO0017,Republican,A03,853,853,0,0.0
+va.uscongress.3.1803,1803,John Smith,SJ1530,Republican,A03,1445,1445,0,0.0
+va.uscongress.3.1803,1803,Joseph Sexton,SJ1476,Republican,A03,163,163,0,0.0
+va.uscongress.5.1803,1803,Andrew Moore,MA0281,Republican,A03,708,708,0,0.0
+va.uscongress.5.1803,1803,John Woodward,WJ1007,Federalist,A01,423,423,0,0.0
+va.uscongress.5.1803,1803,Thomas Lewis,LT0108,Federalist,A01,649,649,0,0.0
+va.uscongress.6.1803,1803,Abram Trigg,TA0080,Republican,A03,0,NA,0,NaN
+va.uscongress.7.1803,1803,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,687,687,0,0.0
+va.uscongress.7.1803,1803,Richard Brent,BR0163,Republican,A03,529,529,0,0.0
+va.uscongress.9.1803,1803,Philip R. Thompson,TP0042,Republican,A03,0,NA,0,NaN

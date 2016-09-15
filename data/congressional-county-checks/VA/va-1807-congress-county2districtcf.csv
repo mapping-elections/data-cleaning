@@ -1,0 +1,46 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.20.1807,1807,Thomas Newton Jr.,NT0024,Republican,A03,929,NA,-929,1.0
+va.uscongress.19.1807,1807,Edwin Gray,GE0059,Quid,A04,635,NA,-635,1.0
+va.uscongress.22.1807,1807,John Clopton,CJ1097,Republican,A03,552,NA,-552,1.0
+va.uscongress.22.1807,1807,Peyton Randolph,RP0059,Quid,A04,501,NA,-501,1.0
+va.uscongress.15.1807,1807,John Randolph,RJ0610,Quid,A04,482,NA,-482,1.0
+va.uscongress.3.1807,1807,John Smith,SJ1530,Republican,A03,424,NA,-424,1.0
+va.uscongress.1.1807,1807,John G. Jackson,JJ0287,Republican,A03,404,NA,-404,1.0
+va.uscongress.8.1807,1807,Walter Jones,JW0100,Republican,A03,404,NA,-404,1.0
+va.uscongress.1.1807,1807,Noah Linsley,LN0023,Federalist,A01,282,NA,-282,1.0
+va.uscongress.10.1807,1807,John Dawson,DJ0582,Republican,A03,270,NA,-270,1.0
+va.uscongress.3.1807,1807,James Singleton,SJ1557,Federalist,A01,248,NA,-248,1.0
+va.uscongress.11.1807,1807,James M. Garnett,GJ0658,Republican,A03,230,NA,-230,1.0
+va.uscongress.2.1807,1807,John Morrow,MJ1223,Republican,A03,206,NA,-206,1.0
+va.uscongress.16.1807,1807,John W. Eppes,EJ0283,Republican,A03,187,NA,-187,1.0
+va.uscongress.10.1807,1807,John Mercer,MJ0201,Quid,A04,180,NA,-180,1.0
+va.uscongress.11.1807,1807,Larkin Smith,SL0067,Republican,A03,134,NA,-134,1.0
+va.uscongress.9.1807,1807,John Love,LJ0561,Republican,A03,895,794,-101,0.11
+va.uscongress.9.1807,1807,Philip R. Thompson,TP0042,Republican,A03,417,518,101,0.19
+va.uscongress.7.1807,1807,John Littlejohn,LJ0556,Republican,A03,470,540,70,0.13
+va.uscongress.7.1807,1807,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,735,665,-70,0.1
+va.uscongress.8.1807,1807,Richard Barnes,BR0184,Federalist,A01,25,NA,-25,1.0
+va.uscongress.8.1807,1807,Rawl M. Downman,DR0080,null,null,9,NA,-9,1.0
+va.uscongress.8.1807,1807,William Yerby,YW0012,Republican,A03,8,NA,-8,1.0
+va.uscongress.8.1807,1807,James Ball,BJ1460,Federalist,A01,6,NA,-6,1.0
+va.uscongress.8.1807,1807,James Towles,TJ0581,null,null,4,NA,-4,1.0
+va.uscongress.8.1807,1807,W. Shearman,SW0357,Republican,A03,4,NA,-4,1.0
+va.uscongress.8.1807,1807,William Kirk,KW0091,Federalist,A01,3,NA,-3,1.0
+va.uscongress.8.1807,1807,James MacClearson,MJ1222,Republican,A03,1,NA,-1,1.0
+va.uscongress.8.1807,1807,Joseph Shearman,SJ1408,Federalist,A01,1,NA,-1,1.0
+va.uscongress.8.1807,1807,William Breye,BW0452,null,null,1,NA,-1,1.0
+va.uscongress.8.1807,1807,William Gibson,GW0127,Federalist,A01,1,NA,-1,1.0
+va.uscongress.12.1807,1807,Burwell Bassett,BB0099,Republican,A03,0,NA,0,NaN
+va.uscongress.13.1807,1807,William A. Burwell,BW0451,Republican,A03,0,NA,0,NaN
+va.uscongress.14.1807,1807,Matthew Clay,CM0108,Republican,A03,2017,2017,0,0.0
+va.uscongress.14.1807,1807,scattering,null,null,null,10,10,0,0.0
+va.uscongress.17.1807,1807,John Claiborne,CJ1099,Republican,A03,0,NA,0,NaN
+va.uscongress.18.1807,1807,Peterson Goodwyn,GP0075,Republican,A03,0,NA,0,NaN
+va.uscongress.21.1807,1807,Wilson C. Nicholas,NW0043,Republican,A03,0,NA,0,NaN
+va.uscongress.4.1807,1807,David Holmes,HD0041,Republican,A03,0,NA,0,NaN
+va.uscongress.5.1807,1807,Alexander Wilson,WA0179,Republican,A03,1093,1093,0,0.0
+va.uscongress.5.1807,1807,Oliver Towles,TO0001,Republican,A03,449,449,0,0.0
+va.uscongress.5.1807,1807,Robert Bailey,BR0183,Quid,A04,369,369,0,0.0
+va.uscongress.5.1807,1807,scattering,null,null,null,5,5,0,0.0
+va.uscongress.6.1807,1807,Abraham Trigg,TA0080,Republican,A03,0,NA,0,NaN
+va.uscongress.6.1807,1807,Daniel Sheffey,SD0212,Quid,A04,0,NA,0,NaN

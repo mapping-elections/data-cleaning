@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Augusta,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,301
+2,Augusta,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,325
+1,Bath,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,260
+2,Bath,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,44
+1,Pendleton,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,363
+2,Pendleton,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,12
+1,Pocahontas,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,140
+2,Pocahontas,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,22
+1,Rockingham,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,417
+2,Rockingham,va.congress.19.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Daniel Sheffey,SD0212,Federalist,A01,126

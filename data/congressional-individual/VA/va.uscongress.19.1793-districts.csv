@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.19.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Heath,HJ1299,null,null,1,NA,NA
+va.uscongress.19.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Walter Jones,JW0100,null,null,2,NA,NA
+va.uscongress.19.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,Francis L. Lee,LF0014,null,null,3,NA,NA

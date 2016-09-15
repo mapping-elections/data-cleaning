@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Amelia,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William B. Giles,GW0186,null,null,97
+2,Amelia,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Bolling,BR0158,null,null,2
+1,Chesterfield,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William B. Giles,GW0186,null,null,NA
+2,Chesterfield,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Bolling,BR0158,null,null,NA
+1,Dinwiddie,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William B. Giles,GW0186,null,null,NA
+2,Dinwiddie,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Bolling,BR0158,null,null,NA
+1,Nottoway,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William B. Giles,GW0186,null,null,NA
+2,Nottoway,va.uscongress.9.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Bolling,BR0158,null,null,NA

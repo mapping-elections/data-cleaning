@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Armstrong,AW0172,Republican,A03,189
+2,Berkeley,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,314
+1,Hampshire,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Armstrong,AW0172,Republican,A03,464
+2,Hampshire,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,66
+1,Hardy,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Armstrong,AW0172,Republican,A03,161
+2,Hardy,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,124
+1,Jefferson,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Armstrong,AW0172,Republican,A03,161
+2,Jefferson,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,154
+1,Morgan,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,William Armstrong,AW0172,Republican,A03,75
+2,Morgan,va.congress.16.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,130

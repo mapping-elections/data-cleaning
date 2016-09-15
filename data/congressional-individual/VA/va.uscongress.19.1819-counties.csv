@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dinwiddie,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Jones,JJ0276,Republican,A03,NA
+2,Dinwiddie,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Pegram,PJ0565,Republican,A03,NA
+1,Greensville,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Jones,JJ0276,Republican,A03,86
+2,Greensville,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Pegram,PJ0565,Republican,A03,105
+1,Nottoway,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Jones,JJ0276,Republican,A03,246
+2,Nottoway,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Pegram,PJ0565,Republican,A03,13
+1,Petersburg City,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Jones,JJ0276,Republican,A03,87
+2,Petersburg City,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Pegram,PJ0565,Republican,A03,59
+1,Prince George,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,James Jones,JJ0276,Republican,A03,162
+2,Prince George,va.uscongress.19.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Pegram,PJ0565,Republican,A03,65

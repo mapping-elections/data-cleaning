@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,King George,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,"John Taliaferro, Jr.",TJ0538,Republican,A03,127
+2,King George,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Taylor,TJ0589,Federalist,A01,36
+1,Lancaster,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,"John Taliaferro, Jr.",TJ0538,Republican,A03,129
+2,Lancaster,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Taylor,TJ0589,Federalist,A01,71
+1,Northumberland,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,"John Taliaferro, Jr.",TJ0538,Republican,A03,242
+2,Northumberland,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Taylor,TJ0589,Federalist,A01,59
+1,Richmond,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,"John Taliaferro, Jr.",TJ0538,Republican,A03,104
+2,Richmond,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Taylor,TJ0589,Federalist,A01,99
+1,Westmoreland,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,"John Taliaferro, Jr.",TJ0538,Republican,A03,108
+2,Westmoreland,va.uscongress.19.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 19",U.S. House of Representatives,ON125,John Taylor,TJ0589,Federalist,A01,152

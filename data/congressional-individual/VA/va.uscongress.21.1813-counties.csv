@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Nansemond,va.uscongress.21.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,247
+2,Nansemond,va.uscongress.21.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Swepson Whitehead,WS0229,Federalist,A01,71
+1,Norfolk,va.uscongress.21.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,492
+2,Norfolk,va.uscongress.21.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Swepson Whitehead,WS0229,Federalist,A01,200
+1,Princess Anne,va.uscongress.21.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Thomas Newton,NT0024,Republican,A03,108
+2,Princess Anne,va.uscongress.21.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 21",U.S. House of Representatives,ON125,Swepson Whitehead,WS0229,Federalist,A01,189

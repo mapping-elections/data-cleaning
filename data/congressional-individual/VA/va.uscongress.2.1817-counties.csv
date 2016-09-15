@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,261
+2,Berkeley,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Daniel Morgan,MD0090,Republican,A03,211
+3,Berkeley,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Republican,A03,30
+1,Hampshire,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,186
+2,Hampshire,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Daniel Morgan,MD0090,Republican,A03,34
+3,Hampshire,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Republican,A03,16
+1,Hardy,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,105
+2,Hardy,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Daniel Morgan,MD0090,Republican,A03,9
+3,Hardy,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Republican,A03,15
+1,Jefferson,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Edward Colston,CE0182,Federalist,A01,135
+2,Jefferson,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Daniel Morgan,MD0090,Republican,A03,93
+3,Jefferson,va.uscongress.2.1817,1817,1817,General,"Virginia 1817 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Republican,A03,28

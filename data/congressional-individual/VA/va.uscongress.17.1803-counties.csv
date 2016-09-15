@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Brunswick,va.uscongress.17.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Thomas Claiborne,CT0181,Republican,A03,462
+2,Brunswick,va.uscongress.17.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Richard Field,FR0060,Federalist,A01,418
+1,Lunenburg,va.uscongress.17.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Thomas Claiborne,CT0181,Republican,A03,266
+2,Lunenburg,va.uscongress.17.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Richard Field,FR0060,Federalist,A01,129
+1,Mecklenburg,va.uscongress.17.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Thomas Claiborne,CT0181,Republican,A03,170
+2,Mecklenburg,va.uscongress.17.1803,1803,1803,General,"Virginia 1803 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Richard Field,FR0060,Federalist,A01,304

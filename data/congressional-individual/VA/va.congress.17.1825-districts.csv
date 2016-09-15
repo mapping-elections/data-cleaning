@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Alfred H. Powell,PA0123,Federalist,A01,1,Seventeen,805
+va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,William Steenbergen,SW0374,Republican,A03,2,Seventeen,412
+va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Augustine C. Smith,SA0316,Republican,A03,3,Seventeen,390
+va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Samuel Kercheval,KS0046,Republican,A03,4,Seventeen,261
+va.congress.17.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,Robert Allen,AR0064,Republican,A03,5,Seventeen,49

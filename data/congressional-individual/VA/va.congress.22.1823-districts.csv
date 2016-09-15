@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Alexander Smyth,SA0299,Republican,A03,1,Twenty Two,1600
+va.congress.22.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,2,Twenty Two,1277

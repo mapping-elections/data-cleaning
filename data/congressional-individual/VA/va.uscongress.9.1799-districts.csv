@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Joseph Eggleston,EJ0301,Republican,A03,1,Nine,1058
+va.uscongress.9.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander MacRae,MA0245,Federalist,A01,2,Nine,616

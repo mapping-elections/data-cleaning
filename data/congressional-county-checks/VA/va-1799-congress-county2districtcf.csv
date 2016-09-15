@@ -1,0 +1,46 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.13.1799,1799,John Marshall,MJ1321,Federalist,A01,771,NA,-771,1.0
+va.uscongress.13.1799,1799,John Clopton,CJ1097,Republican,A03,705,NA,-705,1.0
+va.uscongress.5.1799,1799,George Hancock,HG0163,Federalist,A01,700,NA,-700,1.0
+va.uscongress.18.1799,1799,John Blackwell,BJ1448,Federalist,A01,594,NA,-594,1.0
+va.uscongress.2.1799,1799,Robert Porterfield,PR0095,Federalist,A01,498,NA,-498,1.0
+va.uscongress.18.1799,1799,John Nicholas,NJ0072,Republican,A03,392,NA,-392,1.0
+va.uscongress.16.1799,1799,Anthony New,NA0009,Republican,A03,254,NA,-254,1.0
+va.uscongress.10.1799,1799,John Mason Jr.,MJ1314,Republican,A03,170,NA,-170,1.0
+va.uscongress.4.1799,1799,Abraham Trigg,TA0080,Republican,A03,2034,1873,-161,0.08
+va.uscongress.10.1799,1799,Robert Booth,BR0160,Republican,A03,148,NA,-148,1.0
+va.uscongress.2.1799,1799,David Holmes,HD0041,Republican,A03,98,NA,-98,1.0
+va.uscongress.10.1799,1799,Edwin Gray,GE0059,Federalist,A01,63,NA,-63,1.0
+va.uscongress.16.1799,1799,Benjamin Temple,TB0051,Federalist,A01,52,NA,-52,1.0
+va.uscongress.5.1799,1799,John Trigg,TJ0571,Republican,A03,12,NA,-12,1.0
+va.uscongress.12.1799,1799,"John Teackle, Jr.",TJ0570,null,null,3,NA,-3,1.0
+va.uscongress.10.1799,1799,Benjamin Harrison,HB0152,Republican,A03,2,NA,-2,1.0
+va.uscongress.7.1799,1799,Powhatan Bolling,BP0106,Federalist,A01,786,784,-2,0.0
+va.uscongress.10.1799,1799,Wood Heath,HW0342,Federalist,A01,1,NA,-1,1.0
+va.uscongress.12.1799,1799,James Spires,SJ0273,null,null,1,NA,-1,1.0
+va.uscongress.11.1799,1799,Josiah Parker,PJ0725,Federalist,A01,1143,1143,0,0.0
+va.uscongress.11.1799,1799,Thomas Newton,NT0024,Republican,A03,890,890,0,0.0
+va.uscongress.1.1799,1799,John Smith,SJ1530,Republican,A03,792,792,0,0.0
+va.uscongress.1.1799,1799,Robert Page,PR0096,Federalist,A01,941,941,0,0.0
+va.uscongress.12.1799,1799,John Page,PJ0728,Republican,A03,709,709,0,0.0
+va.uscongress.12.1799,1799,Thomas Evans,ET0046,Federalist,A01,1172,1172,0,0.0
+va.uscongress.14.1799,1799,John Nicholas,NJ0073,Federalist,A03,243,243,0,0.0
+va.uscongress.14.1799,1799,Samuel J. Cabell,CS0229,Republican,A03,1497,1497,0,0.0
+va.uscongress.15.1799,1799,John Dawson,DJ0582,Republican,A03,0,NA,0,NaN
+va.uscongress.17.1799,1799,Leven Powell,PL0031,Federalist,A01,917,917,0,0.0
+va.uscongress.17.1799,1799,Roger West,WR0115,Republican,A03,520,520,0,0.0
+va.uscongress.19.1799,1799,Henry Lee,LH0064,Federalist,A01,617,617,0,0.0
+va.uscongress.19.1799,1799,Walter Jones,JW0100,Republican,A03,584,584,0,0.0
+va.uscongress.3.1799,1799,Archibald Woods,WA0176,null,null,1,1,0,0.0
+va.uscongress.3.1799,1799,George Jackson,JG0032,Republican,A03,1404,1404,0,0.0
+va.uscongress.3.1799,1799,John Haymond,HJ1319,Federalist,A01,1199,1199,0,0.0
+va.uscongress.3.1799,1799,John Hill,HJ1320,null,null,2,2,0,0.0
+va.uscongress.4.1799,1799,William Preston,PW0230,Federalist,A01,244,244,0,0.0
+va.uscongress.6.1799,1799,Isaac Coles,CI0035,Republican,A03,0,NA,0,NaN
+va.uscongress.6.1799,1799,Matthew Clay,CM0108,Republican,A03,0,NA,0,NaN
+va.uscongress.7.1799,1799,Clement Carrington,CC0132,Federalist,A01,373,373,0,0.0
+va.uscongress.7.1799,1799,John Randolph,RJ0610,Republican,A03,789,789,0,0.0
+va.uscongress.8.1799,1799,Samuel Goode,GS0120,Federalist,A01,1131,1131,0,0.0
+va.uscongress.8.1799,1799,Thomas Claiborne,CT0181,Republican,A03,1024,1024,0,0.0
+va.uscongress.9.1799,1799,Alexander MacRae,MA0245,Federalist,A01,616,616,0,0.0
+va.uscongress.9.1799,1799,Joseph Eggleston,EJ0301,Republican,A03,1058,1058,0,0.0

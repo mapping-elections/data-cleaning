@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.congress.8.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Burwell Bassett,BB0099,Republican,A03,1,Eight,1051
+va.congress.8.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Abel P. Upshur,UA0004,Federalist,A01,2,Eight,749
+va.congress.8.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Anderson,AR0063,Federalist,A01,3,Eight,4
+va.congress.8.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,4,Eight,2

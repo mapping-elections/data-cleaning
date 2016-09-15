@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.3.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Smith,SJ1530,Republican,A03,1,Three,739
+va.uscongress.3.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Page,PR0096,Federalist,A01,2,Three,153

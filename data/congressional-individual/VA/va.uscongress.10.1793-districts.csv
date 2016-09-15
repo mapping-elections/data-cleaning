@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.10.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Carter B. Harrison,HC0136,null,null,1,NA,NA
+va.uscongress.10.1793,1793,1793,General,"Virginia 1793 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John H. Briggs,BJ1440,null,null,2,NA,NA

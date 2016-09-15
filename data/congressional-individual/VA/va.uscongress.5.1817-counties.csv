@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,232
+2,Botetourt,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Elijah MacClannahan,ME0144,Federalist,A01,340
+1,Giles,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,NA
+2,Giles,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Elijah MacClannahan,ME0144,Federalist,A01,NA
+1,Montgomery,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,319
+2,Montgomery,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Elijah MacClannahan,ME0144,Federalist,A01,107
+1,Rockbridge,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Floyd,FJ0482,Republican,A03,252
+2,Rockbridge,va.uscongress.5.1817,1817-04,1817,General,"Virginia 1817 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Elijah MacClannahan,ME0144,Federalist,A01,144

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Culpeper,va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George F. Strother,SG0190,Republican,A03,289
+2,Culpeper,va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Shackleford,SJ1433,Federalist,A01,228
+3,Culpeper,va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Wharton,WJ1040,Republican,A03,9
+1,Fauquier,va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George F. Strother,SG0190,Republican,A03,292
+2,Fauquier,va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Shackleford,SJ1433,Federalist,A01,313
+3,Fauquier,va.uscongress.10.1819,1819,1819,General,"Virginia 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Wharton,WJ1040,Republican,A03,NA

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Augusta,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,296
+2,Augusta,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Porterfield,PR0095,Federalist,A01,669
+1,Bath,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,160
+2,Bath,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Porterfield,PR0095,Federalist,A01,139
+1,Pendleton,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,193
+2,Pendleton,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Porterfield,PR0095,Federalist,A01,200
+1,Rockingham,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William MacCoy,MW0392,Republican,A03,564
+2,Rockingham,va.uscongress.4.1815,1815,1815,General,"Virginia 1815 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Porterfield,PR0095,Federalist,A01,157

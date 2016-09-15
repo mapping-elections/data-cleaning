@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.12.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Burwell Bassett,BB0099,Republican,A03,1,NA,NA
+va.uscongress.12.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Eyre,EJ0307,Federalist,A01,2,NA,NA
+va.uscongress.12.1811,1811,1811,General,"Virginia 1811 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA,NA

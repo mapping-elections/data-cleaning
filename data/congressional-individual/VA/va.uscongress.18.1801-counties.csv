@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Culpeper,va.uscongress.18.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Rootes Thompson,TP0042,Republican,A03,NA
+2,Culpeper,va.uscongress.18.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John Blackwell,BJ1448,Federalist,A01,NA
+1,Fauquier,va.uscongress.18.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Rootes Thompson,TP0042,Republican,A03,530
+2,Fauquier,va.uscongress.18.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John Blackwell,BJ1448,Federalist,A01,10
+1,Stafford,va.uscongress.18.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,Philip Rootes Thompson,TP0042,Republican,A03,NA
+2,Stafford,va.uscongress.18.1801,1801,1801,General,"Virginia 1801 U.S. House of Representatives, District 18",U.S. House of Representatives,ON125,John Blackwell,BJ1448,Federalist,A01,NA

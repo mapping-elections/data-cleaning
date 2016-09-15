@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albermarle,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel J. Cabell,CS0229,Republican,A03,416
+2,Albermarle,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Nicholas,NJ0073,Federalist,A03,125
+1,Amherst,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel J. Cabell,CS0229,Republican,A03,615
+2,Amherst,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Nicholas,NJ0073,Federalist,A03,90
+1,Fluvanna,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel J. Cabell,CS0229,Republican,A03,219
+2,Fluvanna,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Nicholas,NJ0073,Federalist,A03,13
+1,Goochland,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel J. Cabell,CS0229,Republican,A03,247
+2,Goochland,va.uscongress.14.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Nicholas,NJ0073,Federalist,A03,15

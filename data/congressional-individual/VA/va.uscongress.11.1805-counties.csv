@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,va.uscongress.11.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James M. Garnett,GJ0658,Republican,A03,258
+2,Essex,va.uscongress.11.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Carter Braxton,BC0134,null,null,3
+3,Essex,va.uscongress.11.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Roane,RJ0605,null,null,2
+4,Essex,va.uscongress.11.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Smith,SJ1532,null,null,2
+5,Essex,va.uscongress.11.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Archibald Ritchie,RA0134,null,null,1

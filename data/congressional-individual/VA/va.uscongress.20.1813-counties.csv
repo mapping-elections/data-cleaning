@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Isle of Wight,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,278
+2,Isle of Wight,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,25
+3,Isle of Wight,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,H. Bow,BH0039,null,null,NA
+4,Isle of Wight,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,J. Gee,GJ0439,null,null,NA
+5,Isle of Wight,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"S. Calvert, Jr.",CS0045,null,null,NA
+6,Isle of Wight,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Griffin Stith,SG0189,null,null,NA
+1,Southampton,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,137
+2,Southampton,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,324
+3,Southampton,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,H. Bow,BH0039,null,null,5
+4,Southampton,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,J. Gee,GJ0439,null,null,3
+5,Southampton,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"S. Calvert, Jr.",CS0045,null,null,1
+6,Southampton,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Griffin Stith,SG0189,null,null,1
+1,Surry,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,239
+2,Surry,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,37
+3,Surry,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,H. Bow,BH0039,null,null,NA
+4,Surry,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,J. Gee,GJ0439,null,null,NA
+5,Surry,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"S. Calvert, Jr.",CS0045,null,null,NA
+6,Surry,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Griffin Stith,SG0189,null,null,NA
+1,Sussex,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,James Johnson,JJ0282,Republican,A03,223
+2,Sussex,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Edwin Gray,GE0059,Federalist,A01,40
+3,Sussex,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,H. Bow,BH0039,null,null,NA
+4,Sussex,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,J. Gee,GJ0439,null,null,NA
+5,Sussex,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,"S. Calvert, Jr.",CS0045,null,null,NA
+6,Sussex,va.uscongress.20.1813,1813,1813,General,"Virginia 1813 U.S. House of Representatives, District 20",U.S. House of Representatives,ON125,Griffin Stith,SG0189,null,null,NA

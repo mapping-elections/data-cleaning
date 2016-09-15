@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfax,va.congress.14.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,163
+2,Fairfax,va.congress.14.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,124
+1,Loudoun,va.congress.14.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,481
+2,Loudoun,va.congress.14.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,450
+1,Prince William,va.congress.14.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,130
+2,Prince William,va.congress.14.1823,1823,1823,General,"Virginia 1823 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,146

@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Grayson,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,131
+2,Grayson,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,342
+3,Grayson,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,34
+1,Lee,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,NA
+2,Lee,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,NA
+3,Lee,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,NA
+1,Russell,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,369
+2,Russell,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,2
+3,Russell,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,20
+1,Scott,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,NA
+2,Scott,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,NA
+3,Scott,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,NA
+1,Tazewell,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,NA
+2,Tazewell,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,NA
+3,Tazewell,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,NA
+1,Washington,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,NA
+2,Washington,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,NA
+3,Washington,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,NA
+1,Wythe,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Benjamin Estill,EB0023,Federalist,A01,126
+2,Wythe,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,Joseph Crockett,CJ0930,Republican,A03,345
+3,Wythe,va.congress.22.1825,1825,1825,General,"Virginia 1825 U.S. House of Representatives, District 22",U.S. House of Representatives,ON125,William A. Graham,GW0126,Republican,A03,14

@@ -1,0 +1,52 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.congress.16.1823,1823,James Stephenson,SJ1474,Federalist,A01,1390,NA,-1390,1.0
+va.congress.4.1823,1823,Mark Alexander,AM0013,Republican,A03,1216,NA,-1216,1.0
+va.congress.19.1823,1823,William MacCoy,MW0392,Republican,A03,1203,NA,-1203,1.0
+va.congress.2.1823,1823,Arthur Smith,SA0289,Republican,A03,951,NA,-951,1.0
+va.congress.6.1823,1823,George Tucker,TG0062,Republican,A03,752,NA,-752,1.0
+va.congress.10.1823,1823,William C. Rives,RW0192,Republican,A03,660,NA,-660,1.0
+va.congress.13.1823,1823,William Lee Ball,BW0447,Republican,A03,570,NA,-570,1.0
+va.congress.9.1823,1823,Andrew Stevenson,SA0291,Republican,A03,521,NA,-521,1.0
+va.congress.1.1823,1823,Thomas Newton,NT0024,Republican,A03,363,NA,-363,1.0
+va.congress.5.1823,1823,John Randolph,RJ0610,Republican,A03,320,NA,-320,1.0
+va.congress.20.1823,1823,John Floyd,FJ0482,Republican,A03,123,NA,-123,1.0
+va.congress.3.1823,1823,William S. Archer,AW0165,Republican,A03,115,NA,-115,1.0
+va.congress.13.1823,1823,Ellyson Currie,CE0166,null,null,65,NA,-65,1.0
+va.congress.8.1823,1823,Burwell Bassett,BB0099,Republican,A03,1015,1051,36,0.03
+va.congress.1.1823,1823,George Loyall,LG0080,Republican,A03,26,NA,-26,1.0
+va.congress.16.1823,1823,scattering,null,null,null,15,NA,-15,1.0
+va.congress.8.1823,1823,Abel P. Upshur,UA0004,Federalist,A01,745,749,4,0.01
+va.congress.1.1823,1823,Robert Lively,LR0091,Republican,A03,3,NA,-3,1.0
+va.congress.8.1823,1823,Robert Anderson,AR0063,Federalist,A01,1,4,3,0.75
+va.congress.13.1823,1823,John W. Hungerford,HJ1317,null,null,2,NA,-2,1.0
+va.congress.13.1823,1823,scattering,null,null,null,2,NA,-2,1.0
+va.congress.1.1823,1823,David Murray,MD0160,Republican,A03,1,NA,-1,1.0
+va.congress.1.1823,1823,George Hope,HG0132,Republican,A03,1,NA,-1,1.0
+va.congress.1.1823,1823,Samuel Colton,CS0244,Republican,A03,1,NA,-1,1.0
+va.congress.12.1823,1823,Abner Cox,CA0237,null,null,1,NA,-1,1.0
+va.congress.13.1823,1823,John Clowning,CJ0974,null,null,1,NA,-1,1.0
+va.congress.11.1823,1823,Philip P. Barbour,BP0115,Republican,A03,0,NA,0,NaN
+va.congress.12.1823,1823,Edwin Upshaw,UE0002,Federalist,A01,358,358,0,0.0
+va.congress.12.1823,1823,Robert S. Garnett,GR0068,Republican,A03,1092,1092,0,0.0
+va.congress.14.1823,1823,Charles F. Mercer,MC0088,Federalist,A01,774,774,0,0.0
+va.congress.14.1823,1823,Sydnor Bailey,BS0272,Republican,A03,720,720,0,0.0
+va.congress.15.1823,1823,John S. Barbour,BJ1516,Republican,A03,578,578,0,0.0
+va.congress.15.1823,1823,Thomas Brown,BT0207,Republican,A03,206,206,0,0.0
+va.congress.15.1823,1823,Thomas Marshall,MT0187,Federalist,A01,535,535,0,0.0
+va.congress.17.1823,1823,Alfred H. Powell,PA0123,Federalist,A01,661,661,0,0.0
+va.congress.17.1823,1823,Jared Williams,WJ1022,Republican,A03,811,811,0,0.0
+va.congress.17.1823,1823,Samuel Kercheval,KS0046,Republican,A03,176,176,0,0.0
+va.congress.18.1823,1823,Edwin S. Duncan,DE0083,Republican,A03,71,71,0,0.0
+va.congress.18.1823,1823,Jeremiah Browning,BJ1399,Republican,A03,30,30,0,0.0
+va.congress.18.1823,1823,Joseph Johnson,JJ0298,Republican,A03,1679,1679,0,0.0
+va.congress.18.1823,1823,Phillip Doddridge,DP0050,Federalist,A01,1104,1104,0,0.0
+va.congress.21.1823,1823,Isaac Morris,MI0068,Republican,A03,261,261,0,0.0
+va.congress.21.1823,1823,James M. Beale,BJ1396,Republican,A03,937,937,0,0.0
+va.congress.21.1823,1823,John Haymond,HJ1164,Republican,A03,29,29,0,0.0
+va.congress.21.1823,1823,Robert Bailey,BR0179,Republican,A03,92,92,0,0.0
+va.congress.21.1823,1823,William Smith,SW0387,Federalist,A01,1648,1648,0,0.0
+va.congress.22.1823,1823,Alexander Smyth,SA0299,Republican,A03,1600,1600,0,0.0
+va.congress.22.1823,1823,Benjamin Estill,EB0023,Federalist,A01,1277,1277,0,0.0
+va.congress.7.1823,1823,Jabez Leftwich,LJ0553,Republican,A03,1463,1463,0,0.0
+va.congress.7.1823,1823,Nathaniel H. Claiborne,CN0061,Republican,A03,1144,1144,0,0.0
+va.congress.8.1823,1823,scattering,null,null,null,2,2,0,0.0

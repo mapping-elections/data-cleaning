@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Marshall,MJ1321,Federalist,A01,1,NA,NA
+va.uscongress.13.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Clopton,CJ1097,Republican,A03,2,NA,NA

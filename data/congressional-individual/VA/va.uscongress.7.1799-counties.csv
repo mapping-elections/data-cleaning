@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Buckingham,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,62
+2,Buckingham,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Powhatan Bolling,BP0106,Federalist,A01,490
+3,Buckingham,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Clement Carrington,CC0132,Federalist,A01,2
+1,Charlotte,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,129
+2,Charlotte,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Powhatan Bolling,BP0106,Federalist,A01,47
+3,Charlotte,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Clement Carrington,CC0132,Federalist,A01,230
+1,Cumberland,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,198
+2,Cumberland,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Powhatan Bolling,BP0106,Federalist,A01,121
+3,Cumberland,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Clement Carrington,CC0132,Federalist,A01,42
+1,Powhatan,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,161
+2,Powhatan,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Powhatan Bolling,BP0106,Federalist,A01,10
+3,Powhatan,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Clement Carrington,CC0132,Federalist,A01,39
+1,Prince Edward,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Randolph,RJ0610,Republican,A03,239
+2,Prince Edward,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Powhatan Bolling,BP0106,Federalist,A01,118
+3,Prince Edward,va.uscongress.7.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Clement Carrington,CC0132,Federalist,A01,60

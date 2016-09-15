@@ -1,0 +1,42 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.1.1805,1805,John G. Jackson,JJ0287,Republican,A03,1031,NA,-1031,1.0
+va.uscongress.17.1805,1805,John Claiborne,CJ1099,Republican,A03,948,NA,-948,1.0
+va.uscongress.10.1805,1805,John Dawson,DJ0582,Republican,A03,886,NA,-886,1.0
+va.uscongress.4.1805,1805,David Holmes,HD0041,Republican,A03,842,NA,-842,1.0
+va.uscongress.1.1805,1805,Thomas Wilson,WT0140,Federalist,A01,771,NA,-771,1.0
+va.uscongress.18.1805,1805,Peterson Goodwyn,GP0075,Republican,A03,730,NA,-730,1.0
+va.uscongress.8.1805,1805,Walter Jones,JW0100,Republican,A03,510,NA,-510,1.0
+va.uscongress.15.1805,1805,John Randolph,RJ0610,Quid,A04,482,NA,-482,1.0
+va.uscongress.10.1805,1805,James Barbour,BJ1485,Quid,A04,453,NA,-453,1.0
+va.uscongress.17.1805,1805,Mark Alexander,AM0013,Republican,A03,356,NA,-356,1.0
+va.uscongress.19.1805,1805,Edwin Gray,GE0059,Quid,A04,329,NA,-329,1.0
+va.uscongress.12.1805,1805,Burwell Bassett,BB0099,Republican,A03,283,NA,-283,1.0
+va.uscongress.2.1805,1805,James Stephenson,SJ1474,Federalist,A01,276,NA,-276,1.0
+va.uscongress.2.1805,1805,John Morrow,MJ1223,Republican,A03,267,NA,-267,1.0
+va.uscongress.11.1805,1805,James M. Garnett,GJ0658,Republican,A03,258,NA,-258,1.0
+va.uscongress.16.1805,1805,John W. Eppes,EJ0283,Republican,A03,191,NA,-191,1.0
+va.uscongress.12.1805,1805,Thomas Griffin,GT0058,Federalist,A01,152,NA,-152,1.0
+va.uscongress.8.1805,1805,Richard Barnes,BR0184,Federalist,A01,8,NA,-8,1.0
+va.uscongress.8.1805,1805,Henry Lee,LH0064,Federalist,A01,4,NA,-4,1.0
+va.uscongress.11.1805,1805,Carter Braxton,BC0134,null,null,3,NA,-3,1.0
+va.uscongress.12.1805,1805,John Shepherd,SJ0272,null,null,3,NA,-3,1.0
+va.uscongress.11.1805,1805,John Roane,RJ0605,null,null,2,NA,-2,1.0
+va.uscongress.11.1805,1805,John Smith,SJ1532,null,null,2,NA,-2,1.0
+va.uscongress.12.1805,1805,Thomas Evans,ET0046,Federalist,A01,2,NA,-2,1.0
+va.uscongress.11.1805,1805,Archibald Ritchie,RA0134,null,null,1,NA,-1,1.0
+va.uscongress.8.1805,1805,John Taylor,TJ0589,Federalist,A01,1,NA,-1,1.0
+va.uscongress.8.1805,1805,Landon Carter,CL0054,null,null,1,NA,-1,1.0
+va.uscongress.13.1805,1805,Christopher Clark,CC0134,Republican,A03,0,NA,0,NaN
+va.uscongress.14.1805,1805,Mathew Clay,CM0108,Republican,A03,1833,1833,0,0.0
+va.uscongress.14.1805,1805,William Lewis,LW0165,Federalist,A01,230,230,0,0.0
+va.uscongress.20.1805,1805,"Thomas Newton, Jr.",NT0024,Republican,A03,1542,1542,0,0.0
+va.uscongress.21.1805,1805,Thomas M. Randolph,RT0122,Republican,A03,1175,1175,0,0.0
+va.uscongress.21.1805,1805,Walter Leake,LW0166,Quid,A04,670,670,0,0.0
+va.uscongress.22.1805,1805,John Clopton,CJ1097,Republican,A03,0,NA,0,NaN
+va.uscongress.3.1805,1805,John Smith,SJ1530,Republican,A03,0,NA,0,NaN
+va.uscongress.5.1805,1805,Alexander Wilson,WA0179,Republican,A03,786,786,0,0.0
+va.uscongress.5.1805,1805,Robert Bailey,BR0183,Quid,A04,510,510,0,0.0
+va.uscongress.6.1805,1805,Abraham Trigg,TA0080,Republican,A03,0,NA,0,NaN
+va.uscongress.7.1805,1805,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,719,719,0,0.0
+va.uscongress.7.1805,1805,William Ellzey,EW0051,Republican,A03,606,606,0,0.0
+va.uscongress.9.1805,1805,Philip R. Thompson,TP0042,Republican,A03,0,NA,0,NaN

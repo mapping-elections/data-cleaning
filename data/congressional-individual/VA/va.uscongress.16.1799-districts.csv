@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.16.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Anthony New,NA0009,Republican,A03,1,NA,NA
+va.uscongress.16.1799,1799,1799,General,"Virginia 1799 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Benjamin Temple,TB0051,Federalist,A01,2,NA,NA

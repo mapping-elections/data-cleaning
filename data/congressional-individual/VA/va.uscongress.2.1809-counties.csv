@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkeley,va.uscongress.2.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Stephenson,SJ1474,Federalist,A01,330
+2,Berkeley,va.uscongress.2.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Morrow,MJ1223,Republican,A03,203
+1,Hampshire,va.uscongress.2.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Stephenson,SJ1474,Federalist,A01,310
+2,Hampshire,va.uscongress.2.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Morrow,MJ1223,Republican,A03,238
+1,Jefferson,va.uscongress.2.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Stephenson,SJ1474,Federalist,A01,236
+2,Jefferson,va.uscongress.2.1809,1809,1809,General,"Virginia 1809 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Morrow,MJ1223,Republican,A03,204

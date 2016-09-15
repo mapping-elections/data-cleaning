@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Botetourt,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,273
+2,Botetourt,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,9
+1,Greenbrier,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,NA
+2,Greenbrier,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,NA
+1,Kenhawa,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,50
+2,Kenhawa,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,267
+1,Mason,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,45
+2,Mason,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,1
+1,Monroe,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,167
+2,Monroe,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,202
+1,Rockbridge,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Wilson,WA0179,Republican,A03,251
+2,Rockbridge,va.uscongress.5.1805,1805,1805,General,"Virginia 1805 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Bailey,BR0183,Quid,A04,31

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles F. Mercer,MC0088,Federalist,A01,1,Eight,704
+va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Sydnor Bailey,BS0272,Republican,A03,2,Eight,573
+va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Washington,WJ1051,Republican,A03,3,Eight,1
+va.uscongress.8.1821,1821,1821,General,"Virginia 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Bushrod,null,Federalist,A01,4,Eight,1

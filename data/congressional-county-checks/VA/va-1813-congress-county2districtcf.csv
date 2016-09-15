@@ -1,0 +1,52 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+va.uscongress.4.1813,1813,William MacCoy,MW0392,Republican,A03,1145,NA,-1145,1.0
+va.uscongress.4.1813,1813,Samuel Blackburn,BS0314,Federalist,A01,860,NA,-860,1.0
+va.uscongress.21.1813,1813,Thomas Newton,NT0024,Republican,A03,847,NA,-847,1.0
+va.uscongress.15.1813,1813,John Kerr,KJ0364,Republican,A03,153,933,780,0.84
+va.uscongress.22.1813,1813,Hugh Nelson,NH0015,Republican,A03,568,NA,-568,1.0
+va.uscongress.15.1813,1813,Mathew Clay,CM0108,Republican,A03,205,683,478,0.7
+va.uscongress.21.1813,1813,Swepson Whitehead,WS0229,Federalist,A01,460,NA,-460,1.0
+va.uscongress.10.1813,1813,Aylett Hawes,HA0190,Republican,A03,455,NA,-455,1.0
+va.uscongress.11.1813,1813,John Dawson,DJ0582,Republican,A03,418,NA,-418,1.0
+va.uscongress.2.1813,1813,Francis White,WF0027,Federalist,A01,357,NA,-357,1.0
+va.uscongress.18.1813,1813,Thomas Gholson,GT0098,Republican,A03,262,NA,-262,1.0
+va.uscongress.15.1813,1813,William Rice,RW0214,Federalist,A01,154,394,240,0.61
+va.uscongress.10.1813,1813,Philip R. Thompson,TP0042,Republican,A03,45,NA,-45,1.0
+va.uscongress.13.1813,1813,Burwell Bassett,BB0099,Republican,A03,991,1015,24,0.02
+va.uscongress.13.1813,1813,Thomas M. Bayly,BT0255,Federalist,A01,1066,1072,6,0.01
+va.uscongress.11.1813,1813,John Mercer,MJ0201,null,null,5,NA,-5,1.0
+va.uscongress.11.1813,1813,Stapleton Crutchfield,CS0240,null,null,5,NA,-5,1.0
+va.uscongress.20.1813,1813,H. Bow,BH0039,null,null,5,NA,-5,1.0
+va.uscongress.20.1813,1813,J. Gee,GJ0439,null,null,3,NA,-3,1.0
+va.uscongress.11.1813,1813,Robert Tayler,TR0090,null,null,1,NA,-1,1.0
+va.uscongress.20.1813,1813,Griffin Stith,SG0189,null,null,1,NA,-1,1.0
+va.uscongress.20.1813,1813,"S. Calvert, Jr.",CS0045,null,null,1,NA,-1,1.0
+va.uscongress.8.1813,1813,W. Henderson,HW0389,null,null,1,NA,-1,1.0
+va.uscongress.1.1813,1813,John G. Jackson,JJ0287,Republican,A03,1141,1141,0,0.0
+va.uscongress.1.1813,1813,Thomas Wilson,WT0140,Federalist,A01,754,754,0,0.0
+va.uscongress.12.1813,1813,James Hunter,HJ1334,Federalist,A01,263,263,0,0.0
+va.uscongress.12.1813,1813,John Daingerfield,DJ0584,null,null,1,1,0,0.0
+va.uscongress.12.1813,1813,John Roane,RJ0605,Republican,A03,716,716,0,0.0
+va.uscongress.12.1813,1813,Joseph Jones,JJ0283,null,null,1,1,0,0.0
+va.uscongress.14.1813,1813,William A. Burwell,BW0451,Republican,A03,0,NA,0,NaN
+va.uscongress.16.1813,1813,John Randolph,RJ0610,Federalist,A01,936,936,0,0.0
+va.uscongress.16.1813,1813,John W. Eppes,EJ0283,Republican,A03,1110,1110,0,0.0
+va.uscongress.17.1813,1813,James Pleasants,PJ0579,Republican,A03,0,NA,0,NaN
+va.uscongress.19.1813,1813,Peterson Goodwyn,GP0075,Republican,A03,0,NA,0,NaN
+va.uscongress.20.1813,1813,Edwin Gray,GE0059,Federalist,A01,426,426,0,0.0
+va.uscongress.20.1813,1813,James Johnson,JJ0282,Republican,A03,877,877,0,0.0
+va.uscongress.23.1813,1813,John Clopton,CJ1097,Republican,A03,869,869,0,0.0
+va.uscongress.23.1813,1813,Richard M. Morris,MR0216,Federalist,A01,507,507,0,0.0
+va.uscongress.3.1813,1813,John Smith,SJ1530,Republican,A03,739,739,0,0.0
+va.uscongress.3.1813,1813,Robert Page,PR0096,Federalist,A01,153,153,0,0.0
+va.uscongress.5.1813,1813,James Breckinridge,BJ1431,Federalist,A01,892,892,0,0.0
+va.uscongress.5.1813,1813,Martin MacFerrand,MM0096,Republican,A03,775,775,0,0.0
+va.uscongress.6.1813,1813,Daniel Sheffey,SD0212,Federalist,A01,1254,1254,0,0.0
+va.uscongress.6.1813,1813,Edward Campbell,CE0179,Republican,A03,434,434,0,0.0
+va.uscongress.7.1813,1813,Ballard Smith,SB0133,Republican,A03,775,775,0,0.0
+va.uscongress.7.1813,1813,Hugh Caperton,CH0072,Federalist,A01,904,904,0,0.0
+va.uscongress.8.1813,1813,B. W. Lee,LB0063,null,null,0,NA,0,NaN
+va.uscongress.8.1813,1813,John Love,LJ0561,Republican,A03,499,499,0,0.0
+va.uscongress.8.1813,1813,"Joseph Lewis, Jr.",LJ0458,Federalist,A01,683,683,0,0.0
+va.uscongress.9.1813,1813,John P. Hungerford,HJ1310,Federalist,A01,717,717,0,0.0
+va.uscongress.9.1813,1813,John Taliaferro,TJ0538,Republican,A03,693,693,0,0.0
