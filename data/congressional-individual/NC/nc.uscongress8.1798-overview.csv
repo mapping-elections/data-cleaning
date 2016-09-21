@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress8.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,David Stone,SD0075,Federalist,A01,1,1645
+nc.uscongress8.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Johnson,JC0019,Federalist,A01,2,1270
+nc.uscongress8.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Dempsey Burgess,BD0099,Republican,A03,3,1195

@@ -1,0 +1,36 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress12.1813,1813,Israel Pickens,PI0001,Republican,A03,418,NA,-418,1.0
+nc.uscongress7.1813,1813,John Culpepper,CJ0545,Federalist,A01,2572,2752,180,0.07
+nc.uscongress12.1813,1813,Felix Walker,WF0041,null,null,59,NA,-59,1.0
+nc.uscongress12.1813,1813,Joseph Hamilton,HJ0157,null,null,18,NA,-18,1.0
+nc.uscongress12.1813,1813,R. H. Burton,BR0189,null,null,7,NA,-7,1.0
+nc.uscongress12.1813,1813,Joseph Carson,CJ0555,null,null,3,NA,-3,1.0
+nc.uscongress4.1813,1813,Black,null,null,null,1,NA,-1,1.0
+nc.uscongress4.1813,1813,Donald,null,null,null,1,NA,-1,1.0
+nc.uscongress4.1813,1813,V. Allen,AV0000,null,null,1,NA,-1,1.0
+nc.uscongress10.1813,1813,Alexander Gray,GA0046,Republican,A03,2333,2333,0,0.0
+nc.uscongress10.1813,1813,Joseph Pearson,PJ0335,Federalist,A01,2754,2754,0,0.0
+nc.uscongress11.1813,1813,John Phifer,PJ0345,Federalist,A01,1834,1834,0,0.0
+nc.uscongress11.1813,1813,Peter Forney,FP0016,Republican,A03,1870,1870,0,0.0
+nc.uscongress1.1813,1813,Joseph Reddick,RJ0255,Republican,A03,573,573,0,0.0
+nc.uscongress1.1813,1813,Lemuel Sawyer,SL0032,Republican,A03,529,529,0,0.0
+nc.uscongress1.1813,1813,William Hinton,HW0244,Republican,A03,306,306,0,0.0
+nc.uscongress1.1813,1813,William Murfree,MW0233,Republican,A03,1181,1181,0,0.0
+nc.uscongress13.1813,1813,Edmund Jones,JE0025,Federalist,A01,1001,1001,0,0.0
+nc.uscongress13.1813,1813,Lewis Williams,WL0047,Federalist,A01,952,952,0,0.0
+nc.uscongress13.1813,1813,Meshack Franklin,FM0021,Republican,A03,1199,1199,0,0.0
+nc.uscongress2.1813,1813,Daniel Mason,MD0123,Federalist,A01,1146,1146,0,0.0
+nc.uscongress2.1813,1813,Willis Alston,AW0047,Republican,A03,1458,1458,0,0.0
+nc.uscongress3.1813,1813,Robert Williams,WR0105,Federalist,A01,1100,1100,0,0.0
+nc.uscongress3.1813,1813,William Kennedy,KW0059,Republican,A03,1428,1428,0,0.0
+nc.uscongress4.1813,1813,William Blackledge,BW0216,Republican,A03,943,943,0,0.0
+nc.uscongress4.1813,1813,William Gaston,GW0095,Federalist,A01,2763,2763,0,0.0
+nc.uscongress5.1813,1813,William R. King,KW0001,Republican,A03,0,NA,0,NaN
+nc.uscongress6.1813,1813,Nathaniel Macon,MN0068,Republican,A03,0,NA,0,NaN
+nc.uscongress7.1813,1813,Duncan MacFarland,MD0119,Republican,A03,520,520,0,0.0
+nc.uscongress7.1813,1813,John A. Cameron,CJ0542,Federalist,A01,2006,2006,0,0.0
+nc.uscongress8.1813,1813,Duncan Cameron,CD0126,null,null,5,5,0,0.0
+nc.uscongress8.1813,1813,James Mebane,MJ0546,Republican,A03,1548,1548,0,0.0
+nc.uscongress8.1813,1813,Richard Stanford,SR0175,Federalist,A01,2497,2497,0,0.0
+nc.uscongress9.1813,1813,Bartlett Yancey,YB0003,Republican,A03,2811,2811,0,0.0
+nc.uscongress9.1813,1813,James Martin,MJ0541,Federalist,A01,1787,1787,0,0.0

@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Buncombe,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,114
+2,Buncombe,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,368
+3,Buncombe,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles MacDowell,MC0076,null,null,NA
+4,Buncombe,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Arthur Graham,GA0011,null,null,NA
+1,Burke,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,257
+2,Burke,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,316
+3,Burke,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles MacDowell,MC0076,null,null,NA
+4,Burke,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Arthur Graham,GA0011,null,null,NA
+1,Lincoln,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,1010
+2,Lincoln,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,48
+3,Lincoln,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles MacDowell,MC0076,null,null,2
+4,Lincoln,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Arthur Graham,GA0011,null,null,1
+1,Rutherford,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,407
+2,Rutherford,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,564
+3,Rutherford,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles MacDowell,MC0076,null,null,NA
+4,Rutherford,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Arthur Graham,GA0011,null,null,NA
+1,Wilkes,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,310
+2,Wilkes,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,409
+3,Wilkes,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles MacDowell,MC0076,null,null,NA
+4,Wilkes,nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Arthur Graham,GA0011,null,null,NA

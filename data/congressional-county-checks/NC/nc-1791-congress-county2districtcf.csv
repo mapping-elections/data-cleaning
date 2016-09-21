@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress5.1791,1791,William B. Grove,GW0091,Federalist,A01,2068,NA,-2068,1.0
+nc.uscongress5.1791,1791,Timothy Bloodworth,BT0199,Anti-Federalist,A02,1098,NA,-1098,1.0
+nc.uscongress4.1791,1791,Charles Johnson,JC0019,Federalist,A01,721,NA,-721,1.0
+nc.uscongress4.1791,1791,Hugh Williamson,WH0019,Federalist,A01,626,NA,-626,1.0
+nc.uscongress1.1791,1791,Joseph MacDowell,MJ0540,Federalist,A01,255,NA,-255,1.0
+nc.uscongress1.1791,1791,John Steele,SJ0192,Anti-Federalist,A02,251,NA,-251,1.0
+nc.uscongress2.1791,1791,Alexander Mebane,MA0149,Anti-Federalist,A02,234,NA,-234,1.0
+nc.uscongress2.1791,1791,Nathaniel Macon,MN0068,Anti-Federalist,A02,178,NA,-178,1.0
+nc.uscongress5.1791,1791,Benjamin Smith,SB0058,Federalist,A01,7,NA,-7,1.0
+nc.uscongress3.1791,1791,John Baptist Ashe,AJ0212,Anti-Federalist,A02,0,NA,0,NaN

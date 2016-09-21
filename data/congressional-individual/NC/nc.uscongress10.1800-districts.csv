@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress10.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Stanly,SJ0834,Federalist,A01,1,Ten,2555
+nc.uscongress10.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Richard D. Spaight,SR0164,Republican,A03,2,Ten,1699

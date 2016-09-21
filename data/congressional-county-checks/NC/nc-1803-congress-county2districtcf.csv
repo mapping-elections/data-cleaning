@@ -1,0 +1,45 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress7.1803,1803,Samuel Purviance,PS0066,Federalist,A01,2196,31,-2165,0.99
+nc.uscongress7.1803,1803,Samuel Purviance,PS0066,Federalist,A01,2196,139,-2057,0.94
+nc.uscongress7.1803,1803,Samuel Purviance,PS0066,Federalist,A01,2196,143,-2053,0.93
+nc.uscongress2.1803,1803,Willis Alston,AW0047,Republican,A03,1986,54,-1932,0.97
+nc.uscongress7.1803,1803,Duncan MacFarland,MD0119,Republican,A03,1710,2,-1708,1.0
+nc.uscongress7.1803,1803,Duncan MacFarland,MD0119,Republican,A03,1710,66,-1644,0.96
+nc.uscongress7.1803,1803,Duncan MacFarland,MD0119,Republican,A03,1710,133,-1577,0.92
+nc.uscongress7.1803,1803,Isaac Lanier,LI0016,Federalist,A01,1226,NA,-1226,1.0
+nc.uscongress2.1803,1803,William R. Davie,DW0110,Federalist,A01,1163,89,-1074,0.92
+nc.uscongress1.1803,1803,Thomas Wynns,WT0142,Republican,A03,310,NA,-310,1.0
+nc.uscongress7.1803,1803,John Hay,HJ0601,Republican,A03,56,2,-54,0.96
+nc.uscongress12.1803,1803,George Houser,HG0081,Republican,A03,455,475,20,0.04
+nc.uscongress12.1803,1803,Mussendine Matthews,MM0040,Federalist,A01,475,455,-20,0.04
+nc.uscongress10.1803,1803,Basil Gaither,GB0036,Federalist,A01,1559,1559,0,0.0
+nc.uscongress10.1803,1803,Nathaniel Alexander,AN0006,Republican,A03,1966,1966,0,0.0
+nc.uscongress11.1803,1803,James Holland,HJ0602,Republican,A03,3052,3052,0,0.0
+nc.uscongress11.1803,1803,William Tate,TW0079,Federalist,A01,1266,1266,0,0.0
+nc.uscongress12.1803,1803,Joseph Winston,WJ0494,Republican,A03,1451,1451,0,0.0
+nc.uscongress12.1803,1803,Meshack Franklin,FM0021,Republican,A03,1401,1401,0,0.0
+nc.uscongress12.1803,1803,William Lenoir,LW0115,Republican,A03,1115,1115,0,0.0
+nc.uscongress2.1803,1803,William R. Davie,DW0110,Federalist,A01,1163,1163,0,0.0
+nc.uscongress2.1803,1803,Willis Alston,AW0047,Republican,A03,1986,1986,0,0.0
+nc.uscongress3.1803,1803,Thomas Blount,BT0194,Republican,A03,1608,1608,0,0.0
+nc.uscongress3.1803,1803,William Kennedy,KW0059,Republican,A03,1678,1678,0,0.0
+nc.uscongress4.1803,1803,John Stanly,SJ0834,Federalist,A01,1776,1776,0,0.0
+nc.uscongress4.1803,1803,William Blackledge,BW0216,Republican,A03,2653,2653,0,0.0
+nc.uscongress5.1803,1803,Alexander D. Moore,MA0151,Federalist,A01,1544,1544,0,0.0
+nc.uscongress5.1803,1803,James Gillespie,GJ0328,Republican,A03,2087,2087,0,0.0
+nc.uscongress6.1803,1803,John Haywood,HJ0621,null,null,1,1,0,0.0
+nc.uscongress6.1803,1803,Kemp Plummer,PK0000,null,null,1,1,0,0.0
+nc.uscongress6.1803,1803,Nathaniel Macon,MN0068,Republican,A03,2396,2396,0,0.0
+nc.uscongress6.1803,1803,Robert Parke,PR0035,null,null,1,1,0,0.0
+nc.uscongress6.1803,1803,Solomon Green,GS0059,null,null,1,1,0,0.0
+nc.uscongress6.1803,1803,Thomas Taylor,TT0079,null,null,1,1,0,0.0
+nc.uscongress7.1803,1803,Duncan MacFarland,MD0119,Republican,A03,1710,1710,0,0.0
+nc.uscongress7.1803,1803,Isaac Lanier,LI0016,Federalist,A01,1226,1226,0,0.0
+nc.uscongress7.1803,1803,John Hay,HJ0601,Republican,A03,56,56,0,0.0
+nc.uscongress7.1803,1803,Samuel Purviance,PS0066,Federalist,A01,2196,2196,0,0.0
+nc.uscongress8.1803,1803,Nathaniel Jones,JN0005,Federalist,A01,838,838,0,0.0
+nc.uscongress8.1803,1803,Richard Stanford,SR0175,Republican,A03,2529,2529,0,0.0
+nc.uscongress9.1803,1803,Anton Brown,BA0157,Federalist,A01,102,102,0,0.0
+nc.uscongress9.1803,1803,Marmaduke Williams,WM0000,Republican,A03,2292,2292,0,0.0
+nc.uscongress9.1803,1803,Theophilus Lacy,LT0067,Republican,A03,1205,1205,0,0.0
+nc.uscongress9.1803,1803,William Nash,NW0023,Republican,A03,659,659,0,0.0

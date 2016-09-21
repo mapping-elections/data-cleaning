@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bertie,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Willis Alston,AW0047,Republican,A03,433
+2,Bertie,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Binford,BJ0791,Federalist,A01,92
+3,Bertie,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William R. Davie,DW0110,Federalist,A01,40
+4,Bertie,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathon Jaycocks,JJ0084,null,null,NA
+1,Halifax,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Willis Alston,AW0047,Republican,A03,962
+2,Halifax,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Binford,BJ0791,Federalist,A01,145
+3,Halifax,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William R. Davie,DW0110,Federalist,A01,57
+4,Halifax,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathon Jaycocks,JJ0084,null,null,NA
+1,Martin,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Willis Alston,AW0047,Republican,A03,256
+2,Martin,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Binford,BJ0791,Federalist,A01,9
+3,Martin,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William R. Davie,DW0110,Federalist,A01,257
+4,Martin,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathon Jaycocks,JJ0084,null,null,NA
+1,Northampton,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Willis Alston,AW0047,Republican,A03,218
+2,Northampton,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Binford,BJ0791,Federalist,A01,334
+3,Northampton,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William R. Davie,DW0110,Federalist,A01,4
+4,Northampton,nc.uscongress2.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathon Jaycocks,JJ0084,null,null,NA

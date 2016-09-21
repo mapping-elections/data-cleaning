@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress6.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Gillespie,GJ0328,Republican,A03,1,NA,NA
+nc.uscongress6.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Henry Hill,HW0233,Federalist,A01,2,NA,NA
+nc.uscongress6.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Keenan,KJ0122,null,null,3,NA,NA
+nc.uscongress6.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Holmes,HG0080,null,null,4,NA,NA

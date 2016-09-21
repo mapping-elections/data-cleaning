@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,nc.uscongress8.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Crudup,CJ0586,Republican,A03,NA
+2,Orange,nc.uscongress8.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Scott,SJ0859,Federalist,A01,NA
+1,Person,nc.uscongress8.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Crudup,CJ0586,Republican,A03,NA
+2,Person,nc.uscongress8.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Scott,SJ0859,Federalist,A01,NA
+1,Wake,nc.uscongress8.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Crudup,CJ0586,Republican,A03,197
+2,Wake,nc.uscongress8.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Scott,SJ0859,Federalist,A01,159

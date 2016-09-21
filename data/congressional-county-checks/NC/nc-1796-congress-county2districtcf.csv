@@ -1,0 +1,28 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress2.1796,1796,Matthew Locke,LM0052,Republican,A03,0,1864,1864,1.0
+nc.uscongress3.1796,1796,Jesse Franklin,FJ0228,Republican,A03,1077,NA,-1077,1.0
+nc.uscongress3.1796,1796,Robert Williams,WR0105,Republican,A03,957,NA,-957,1.0
+nc.uscongress2.1796,1796,Nathaniel Alexander,AN0006,Republican,A03,0,886,886,1.0
+nc.uscongress4.1796,1796,Richard Stanford,SR0175,Republican,A03,637,NA,-637,1.0
+nc.uscongress9.1796,1796,Willis Alston,AW0047,Federalist,A01,578,NA,-578,1.0
+nc.uscongress2.1796,1796,Robert Irwin,IR0010,Federalist,A01,0,519,519,1.0
+nc.uscongress4.1796,1796,William Sheppard,SW0147,Federalist,A01,429,NA,-429,1.0
+nc.uscongress8.1796,1796,Dempsey Burgess,BD0099,Republican,A03,355,NA,-355,1.0
+nc.uscongress4.1796,1796,Absalom Tatom,TA0018,Republican,A03,336,NA,-336,1.0
+nc.uscongress6.1796,1796,James Gillespie,GJ0328,Republican,A03,245,NA,-245,1.0
+nc.uscongress5.1796,1796,Nathaniel Macon,MN0068,Republican,A03,210,NA,-210,1.0
+nc.uscongress6.1796,1796,William Henry Hill,HW0233,Federalist,A01,182,NA,-182,1.0
+nc.uscongress4.1796,1796,Stephen Moore,MS0117,Federalist,A01,137,NA,-137,1.0
+nc.uscongress9.1796,1796,Thomas Blount,BT0194,Republican,A03,83,NA,-83,1.0
+nc.uscongress8.1796,1796,James Gregory,GJ0332,Federalist,A01,45,NA,-45,1.0
+nc.uscongress10.1796,1796,Richard D. Spaight,SR0164,Federalist,A01,1758,1748,-10,0.01
+nc.uscongress2.1796,1796,scattering,null,null,null,0,6,6,1.0
+nc.uscongress8.1796,1796,Joseph Riddick,RJ0255,Republican,A03,5,NA,-5,1.0
+nc.uscongress8.1796,1796,James Brown,BJ0785,Federalist,A01,2,NA,-2,1.0
+nc.uscongress10.1796,1796,Nathan Bryan,BN0074,Republican,A03,2058,2058,0,0.0
+nc.uscongress1.1796,1796,James Holland,HJ0602,Republican,A03,0,NA,0,NaN
+nc.uscongress1.1796,1796,Joseph MacDowell,MJ0540,Republican,A03,0,NA,0,NaN
+nc.uscongress6.1796,1796,Gabriel Holmes,HG0080,null,null,0,NA,0,NaN
+nc.uscongress6.1796,1796,James Keenan,KJ0122,null,null,0,NA,0,NaN
+nc.uscongress7.1796,1796,Duncan MacFarland,MD0119,Republican,A03,1068,1068,0,0.0
+nc.uscongress7.1796,1796,William B. Grove,GW0091,Federalist,A01,2950,2950,0,0.0

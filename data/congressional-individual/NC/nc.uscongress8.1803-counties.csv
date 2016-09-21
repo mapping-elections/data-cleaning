@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chatham,nc.uscongress8.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,993
+2,Chatham,nc.uscongress8.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Nathaniel Jones,JN0005,Federalist,A01,88
+1,Orange,nc.uscongress8.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,1204
+2,Orange,nc.uscongress8.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Nathaniel Jones,JN0005,Federalist,A01,368
+1,Wake,nc.uscongress8.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,332
+2,Wake,nc.uscongress8.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Nathaniel Jones,JN0005,Federalist,A01,382

@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chatham,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,NA
+2,Chatham,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Duncan Cameron,CD0126,null,null,NA
+3,Chatham,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Archibald D. Murphey,MA0168,null,null,NA
+4,Chatham,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Hinton Jr.,HJ0664,null,null,NA
+5,Chatham,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Orange,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,NA
+2,Orange,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Duncan Cameron,CD0126,null,null,NA
+3,Orange,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Archibald D. Murphey,MA0168,null,null,NA
+4,Orange,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Hinton Jr.,HJ0664,null,null,NA
+5,Orange,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Wake,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,943
+2,Wake,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Duncan Cameron,CD0126,null,null,40
+3,Wake,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Archibald D. Murphey,MA0168,null,null,1
+4,Wake,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Hinton Jr.,HJ0664,null,null,1
+5,Wake,nc.uscongress8.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,4

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Federalist,A01,482
+2,Beaufort,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,348
+1,Edgecombe,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Federalist,A01,88
+2,Edgecombe,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,1112
+1,Hyde,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Federalist,A01,332
+2,Hyde,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,280
+1,Pitt,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Federalist,A01,718
+2,Pitt,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,232
+1,Tyrrell,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Federalist,A01,334
+2,Tyrrell,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,58
+1,Washington,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Federalist,A01,318
+2,Washington,nc.uscongress3.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,66

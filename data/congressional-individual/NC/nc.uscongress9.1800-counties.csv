@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Willis Alston,AW0047,Federalist,A01,17
+2,Beaufort,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,557
+1,Edgecombe,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Willis Alston,AW0047,Federalist,A01,119
+2,Edgecombe,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,595
+1,Halifax,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Willis Alston,AW0047,Federalist,A01,952
+2,Halifax,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,60
+1,Martin,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Willis Alston,AW0047,Federalist,A01,462
+2,Martin,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,53
+1,Northampton,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Willis Alston,AW0047,Federalist,A01,480
+2,Northampton,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,178
+1,Pitt,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Willis Alston,AW0047,Federalist,A01,270
+2,Pitt,nc.uscongress9.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,219

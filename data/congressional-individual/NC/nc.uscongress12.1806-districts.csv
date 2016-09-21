@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress12.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,1,Twelve,3155
+nc.uscongress12.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Lenoir,LW0115,Republican,A03,2,Twelve,1625
+nc.uscongress12.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Peter Eaton,EP0019,Republican,A03,3,Twelve,219

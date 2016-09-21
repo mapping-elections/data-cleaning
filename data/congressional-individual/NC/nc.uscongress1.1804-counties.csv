@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Camden,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,NA
+2,Camden,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,NA
+1,Chowan,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,271
+2,Chowan,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,NA
+1,Currituck,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,NA
+2,Currituck,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,NA
+1,Gates,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,NA
+2,Gates,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,NA
+1,Hertford,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,NA
+2,Hertford,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,NA
+1,Pasquotank,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,NA
+2,Pasquotank,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,NA
+1,Perquimans,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Wynns,WT0142,Republican,A03,140
+2,Perquimans,nc.uscongress1.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Harvey,HT0023,null,null,94

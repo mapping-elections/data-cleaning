@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress11.1810,1810-08,1810,General,"North Carolina 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Israel Pickens,PI0001,Republican,A03,1,Eleven,2976
+nc.uscongress11.1810,1810-08,1810,General,"North Carolina 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Felix Walker,WF0041,Republican,A03,2,Eleven,2342
+nc.uscongress11.1810,1810-08,1810,General,"North Carolina 1810 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Stevelie,SJ0819,Republican,A03,3,Eleven,570

@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James S. Smith,SJ0849,Republican,A03,1268
+2,Orange,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Dickens,DS0131,Federalist,A01,990
+3,Orange,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jesse Bird,BJ0842,null,null,NA
+4,Orange,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Wilkins,WR0165,null,null,40
+5,Orange,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Person,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James S. Smith,SJ0849,Republican,A03,354
+2,Person,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Dickens,DS0131,Federalist,A01,401
+3,Person,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jesse Bird,BJ0842,null,null,NA
+4,Person,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Wilkins,WR0165,null,null,NA
+5,Person,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Wake,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James S. Smith,SJ0849,Republican,A03,803
+2,Wake,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Dickens,DS0131,Federalist,A01,785
+3,Wake,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Jesse Bird,BJ0842,null,null,NA
+4,Wake,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Wilkins,WR0165,null,null,NA
+5,Wake,nc.uscongress8.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA

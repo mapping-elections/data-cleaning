@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress11.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,1,Eleven,2352
+nc.uscongress11.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Felix Walker,WF0041,Republican,A03,2,Eleven,1506
+nc.uscongress11.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John MacClain,MJ0560,Federalist,A01,3,Eleven,455
+nc.uscongress11.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Tate,TW0079,Federalist,A01,4,Eleven,385
+nc.uscongress11.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Porter,PW0175,Federalist,A01,5,Eleven,135

@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cabarrus,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Joseph Pearson,PJ0335,Federalist,A01,448
+2,Cabarrus,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert Locke,LR0030,Republican,A03,127
+3,Cabarrus,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Evan S. Alexander,AE0024,null,null,NA
+1,Mecklenburg,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Joseph Pearson,PJ0335,Federalist,A01,313
+2,Mecklenburg,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert Locke,LR0030,Republican,A03,686
+3,Mecklenburg,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Evan S. Alexander,AE0024,null,null,NA
+1,Rowan,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Joseph Pearson,PJ0335,Federalist,A01,1697
+2,Rowan,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert Locke,LR0030,Republican,A03,582
+3,Rowan,nc.uscongress10.1808,1808-08,1808,General,"North Carolina 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Evan S. Alexander,AE0024,null,null,1

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress6.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Gillespie,GJ0328,Republican,A03,1,NA
+nc.uscongress6.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Henry Hill,HW0233,Federalist,A01,2,NA
+nc.uscongress6.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Benjamin Smith,SB0058,null,null,3,NA

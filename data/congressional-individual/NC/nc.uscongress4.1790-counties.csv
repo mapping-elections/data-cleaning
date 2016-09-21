@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Stokes,nc.uscongress4.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Steele,SJ0192,Anti-Federalist,A02,54
+2,Stokes,nc.uscongress4.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joseph MacDowell,MJ0540,Federalist,A01,141
+3,Stokes,nc.uscongress4.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Waightstill Avery,AW0018,null,null,1
+1,Surry,nc.uscongress4.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Steele,SJ0192,Anti-Federalist,A02,33
+2,Surry,nc.uscongress4.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joseph MacDowell,MJ0540,Federalist,A01,72
+3,Surry,nc.uscongress4.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Waightstill Avery,AW0018,null,null,NA

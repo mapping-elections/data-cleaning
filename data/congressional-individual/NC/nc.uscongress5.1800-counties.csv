@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,421
+2,Franklin,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Granville,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,456
+2,Granville,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Nash,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,415
+2,Nash,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Wake,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,819
+2,Wake,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Warren,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,525
+2,Warren,nc.uscongress5.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,scattering,null,null,null,NA

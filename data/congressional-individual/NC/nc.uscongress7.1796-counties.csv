@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anson,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William B. Grove,GW0091,Federalist,A01,701
+2,Anson,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,1
+1,Cumberland,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William B. Grove,GW0091,Federalist,A01,640
+2,Cumberland,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,213
+1,Moore,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William B. Grove,GW0091,Federalist,A01,358
+2,Moore,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,196
+1,Richmond,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William B. Grove,GW0091,Federalist,A01,890
+2,Richmond,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,277
+1,Robeson,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William B. Grove,GW0091,Federalist,A01,361
+2,Robeson,nc.uscongress7.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,381

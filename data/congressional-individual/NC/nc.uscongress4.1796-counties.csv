@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chatham,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,386
+2,Chatham,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Absalom Tatom,TA0018,Republican,A03,233
+3,Chatham,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Sheppard,SW0147,Federalist,A01,125
+4,Chatham,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,136
+1,Orange,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,NA
+2,Orange,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Absalom Tatom,TA0018,Republican,A03,NA
+3,Orange,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Sheppard,SW0147,Federalist,A01,NA
+4,Orange,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,NA
+1,Person,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,NA
+2,Person,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Absalom Tatom,TA0018,Republican,A03,NA
+3,Person,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Sheppard,SW0147,Federalist,A01,NA
+4,Person,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,NA
+1,Randolph,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,251
+2,Randolph,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Absalom Tatom,TA0018,Republican,A03,103
+3,Randolph,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Sheppard,SW0147,Federalist,A01,304
+4,Randolph,nc.uscongress4.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,1

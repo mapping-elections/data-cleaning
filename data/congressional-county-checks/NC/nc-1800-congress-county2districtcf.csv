@@ -1,0 +1,23 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress1.1800,1800,James Holland,HJ0602,Republican,A03,0,2445,2445,1.0
+nc.uscongress3.1800,1800,Robert Williams,WR0105,Republican,A03,667,2985,2318,0.78
+nc.uscongress1.1800,1800,Joseph Dickson,DJ0351,Federalist,A01,0,1570,1570,1.0
+nc.uscongress3.1800,1800,John Hamilton,HJ0611,Federalist,A01,360,990,630,0.64
+nc.uscongress8.1800,1800,David Stone,SD0075,Republican,A03,621,NA,-621,1.0
+nc.uscongress5.1800,1800,scattering,null,null,null,0,70,70,1.0
+nc.uscongress10.1800,1800,John Stanly,SJ0834,Federalist,A01,2555,2555,0,0.0
+nc.uscongress10.1800,1800,Richard D. Spaight,SR0164,Republican,A03,1699,1699,0,0.0
+nc.uscongress2.1800,1800,Archibald Henderson,HA0107,Federalist,A01,1922,1922,0,0.0
+nc.uscongress2.1800,1800,Matthew Locke,LM0052,Republican,A03,845,845,0,0.0
+nc.uscongress2.1800,1800,Mussendine Matthews,MM0040,Federalist,A01,1131,1131,0,0.0
+nc.uscongress4.1800,1800,Richard Stanford,SR0175,Republican,A03,2337,2337,0,0.0
+nc.uscongress4.1800,1800,William Strudwick,SW0148,Federalist,A01,1455,1455,0,0.0
+nc.uscongress5.1800,1800,Nathaniel Macon,MN0068,Republican,A03,2636,2636,0,0.0
+nc.uscongress6.1800,1800,James Gillespie,GJ0328,Republican,A03,1008,1008,0,0.0
+nc.uscongress6.1800,1800,William H. Hill,HW0233,Federalist,A01,1892,1892,0,0.0
+nc.uscongress7.1800,1800,Samuel Purivance,PS0066,Republican,A03,880,880,0,0.0
+nc.uscongress7.1800,1800,William B. Grove,GW0091,Federalist,A01,3077,3077,0,0.0
+nc.uscongress8.1800,1800,John H. Jaycocks,JJ0135,Federalist,A01,0,NA,0,NaN
+nc.uscongress8.1800,1800,John White,WJ0166,null,null,0,NA,0,NaN
+nc.uscongress9.1800,1800,Thomas Blount,BT0194,Republican,A03,1662,1662,0,0.0
+nc.uscongress9.1800,1800,Willis Alston,AW0047,Federalist,A01,2300,2300,0,0.0

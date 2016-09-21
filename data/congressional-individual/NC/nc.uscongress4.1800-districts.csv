@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress4.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Republican,A03,1,Four,2337
+nc.uscongress4.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Strudwick,SW0148,Federalist,A01,2,Four,1455

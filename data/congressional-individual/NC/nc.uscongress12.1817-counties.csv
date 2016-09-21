@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Buncombe,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Felix Walker,WF0041,Republican,A03,636
+2,Buncombe,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Paxton,PJ0356,Republican,A03,205
+3,Buncombe,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Porter,PW0175,Republican,A03,117
+1,Burke,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Felix Walker,WF0041,Republican,A03,78
+2,Burke,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Paxton,PJ0356,Republican,A03,374
+3,Burke,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Porter,PW0175,Republican,A03,195
+1,Haywood,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Felix Walker,WF0041,Republican,A03,NA
+2,Haywood,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Paxton,PJ0356,Republican,A03,NA
+3,Haywood,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Porter,PW0175,Republican,A03,NA
+1,Rutherford,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Felix Walker,WF0041,Republican,A03,NA
+2,Rutherford,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Paxton,PJ0356,Republican,A03,NA
+3,Rutherford,nc.uscongress12.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,William Porter,PW0175,Republican,A03,NA

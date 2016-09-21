@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress7.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,1,Seven,2750
+nc.uscongress7.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,2,Seven,2701
+nc.uscongress7.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Hay,HJ0601,Federalist,A01,3,Seven,214
+nc.uscongress7.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Sanders,SJ0806,Republican,A03,4,Seven,58

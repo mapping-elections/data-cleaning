@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress5.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William B. Grove,GW0091,Federalist,A01,1,NA
+nc.uscongress5.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Timothy Bloodworth,BT0199,Anti-Federalist,A02,2,NA
+nc.uscongress5.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Smith,SB0058,Federalist,A01,3,NA

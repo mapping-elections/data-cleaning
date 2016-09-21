@@ -1,0 +1,52 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,NA,-3037,1.0
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,4,-3033,1.0
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,8,-3029,1.0
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,8,-3029,1.0
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,12,-3025,1.0
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,16,-3021,0.99
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,17,-3020,0.99
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,21,-3016,0.99
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,25,-3012,0.99
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,26,-3011,0.99
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,44,-2993,0.99
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,47,-2990,0.98
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,15,-2120,0.99
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,18,-2117,0.99
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,18,-2117,0.99
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,31,-2104,0.99
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,37,-2098,0.98
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,38,-2097,0.98
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,42,-2093,0.98
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,48,-2087,0.98
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,58,-2077,0.97
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,64,-2071,0.97
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,64,-2071,0.97
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,67,-2068,0.97
+nc.uscongress9.1817,1817,Thomas Settle,ST0194,Republican,A03,1557,3593,2036,0.57
+nc.uscongress9.1817,1817,Romulus M. Saunders,SR0176,Republican,A03,142,990,848,0.86
+nc.uscongress12.1817,1817,Felix Walker,WF0041,Republican,A03,714,NA,-714,1.0
+nc.uscongress12.1817,1817,John Paxton,PJ0356,Republican,A03,579,NA,-579,1.0
+nc.uscongress12.1817,1817,William Porter,PW0175,Republican,A03,312,NA,-312,1.0
+nc.uscongress8.1817,1817,Richard Wilkins,WR0165,null,null,40,NA,-40,1.0
+nc.uscongress10.1817,1817,George Mumford,MG0056,Republican,A03,2059,2059,0,0.0
+nc.uscongress10.1817,1817,John L. Henderson,HJ0672,Federalist,A01,1759,1759,0,0.0
+nc.uscongress11.1817,1817,Daniel M. Forney,FD0022,Republican,A03,0,NA,0,NaN
+nc.uscongress1.1817,1817,Henry Skinner,SH0112,Federalist,A01,1044,1044,0,0.0
+nc.uscongress1.1817,1817,Joseph Ferebee,FJ0269,Republican,A03,1193,1193,0,0.0
+nc.uscongress1.1817,1817,Lemuel Sawyer,SL0032,Republican,A03,1371,1371,0,0.0
+nc.uscongress13.1817,1817,Lewis Williams,WL0047,Federalist,A01,0,NA,0,NaN
+nc.uscongress2.1817,1817,Joseph H. Bryan,BJ0827,Republican,A03,0,NA,0,NaN
+nc.uscongress3.1817,1817,Thomas H. Hall,HT0135,Republican,A03,0,NA,0,NaN
+nc.uscongress4.1817,1817,Henry J. G. Ruffin,RH0040,Republican,A03,1776,1776,0,0.0
+nc.uscongress4.1817,1817,Jesse Slocumb,SJ0848,Federalist,A01,2089,2089,0,0.0
+nc.uscongress5.1817,1817,Charles Hooks,HC0086,Republican,A03,2238,2238,0,0.0
+nc.uscongress5.1817,1817,James Owens,OJ0091,Republican,A03,2782,2782,0,0.0
+nc.uscongress6.1817,1817,Solomon Green,GS0059,Federalist,A01,606,606,0,0.0
+nc.uscongress6.1817,1817,Welden N. Edwards,EW0066,Republican,A03,2501,2501,0,0.0
+nc.uscongress7.1817,1817,Alexander MacMillan,MA0167,Federalist,A01,3037,3037,0,0.0
+nc.uscongress7.1817,1817,John Culpepper,CJ0545,Federalist,A01,2135,2135,0,0.0
+nc.uscongress8.1817,1817,James S. Smith,SJ0849,Republican,A03,2425,2425,0,0.0
+nc.uscongress8.1817,1817,Jesse Bird,BJ0842,null,null,0,NA,0,NaN
+nc.uscongress8.1817,1817,Samuel Dickens,DS0131,Federalist,A01,2176,2176,0,0.0
+nc.uscongress8.1817,1817,scattering,null,null,null,0,NA,0,NaN

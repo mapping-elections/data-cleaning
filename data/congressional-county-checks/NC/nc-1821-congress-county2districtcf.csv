@@ -1,0 +1,36 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress12.1821,1821,Felix Walker,WF0041,Republican,A03,1635,NA,-1635,1.0
+nc.uscongress10.1821,1821,John Long,LJ0271,Republican,A03,1335,NA,-1335,1.0
+nc.uscongress2.1821,1821,Hutchins G. Burton,BH0084,Republican,A03,768,1844,1076,0.58
+nc.uscongress12.1821,1821,Robert B. Vance,VR0007,Republican,A03,990,NA,-990,1.0
+nc.uscongress8.1821,1821,Josiah Crudup,CJ0586,Republican,A03,197,NA,-197,1.0
+nc.uscongress8.1821,1821,John Scott,SJ0859,Federalist,A01,159,NA,-159,1.0
+nc.uscongress10.1821,1821,John L. Henderson,HJ0672,Federalist,A01,30,NA,-30,1.0
+nc.uscongress6.1821,1821,William Miller,MW0232,null,null,3,2,-1,0.33
+nc.uscongress11.1821,1821,blank,null,null,null,19,19,0,0.0
+nc.uscongress11.1821,1821,Henry W. Conner,CH0119,Republican,A03,1879,1879,0,0.0
+nc.uscongress11.1821,1821,William Davidson,DW0128,Federalist,A01,1676,1676,0,0.0
+nc.uscongress1.1821,1821,James Iredell,IJ0081,Federalist,A01,1116,1116,0,0.0
+nc.uscongress1.1821,1821,Lemuel Sawyer,SL0032,Republican,A03,2875,2875,0,0.0
+nc.uscongress1.1821,1821,Thomas Williams,WT0154,Republican,A03,537,537,0,0.0
+nc.uscongress13.1821,1821,Lewis Williams,WL0047,Federalist,A01,0,NA,0,NaN
+nc.uscongress3.1821,1821,Thomas H. Hall,HT0135,Republican,A03,2432,2432,0,0.0
+nc.uscongress3.1821,1821,William Clarke,CW0182,Federalist,A01,2154,2154,0,0.0
+nc.uscongress4.1821,1821,John P. Daves,DJ0364,Federalist,A01,1930,1930,0,0.0
+nc.uscongress4.1821,1821,William Blackledge,BW0216,Republican,A03,3077,3077,0,0.0
+nc.uscongress5.1821,1821,Charles Hooks,HC0086,Republican,A03,2808,2808,0,0.0
+nc.uscongress5.1821,1821,Daniel Glisson,GD0044,Federalist,A01,1490,1490,0,0.0
+nc.uscongress6.1821,1821,Andrew Jackson,JA0024,null,null,6,6,0,0.0
+nc.uscongress6.1821,1821,Dennis O. Bryan,OD0010,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,Gideon M. Green,GG0034,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,H. Terrel,TH0033,null,null,3,3,0,0.0
+nc.uscongress6.1821,1821,James Dickson,DJ0365,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,Peter Mitchell,MP0080,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,Richard Bullock,BR0216,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,Solomon Green,GS0059,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,Vincent Allen,AV0002,null,null,1,1,0,0.0
+nc.uscongress6.1821,1821,Weldon N. Edwards,EW0066,Republican,A03,3123,3123,0,0.0
+nc.uscongress6.1821,1821,William Williams,WW0180,null,null,1,1,0,0.0
+nc.uscongress7.1821,1821,Archibald MacNeill,MA0181,Federalist,A01,3353,3353,0,0.0
+nc.uscongress7.1821,1821,John Culpepper,CJ0545,Federalist,A01,3045,3045,0,0.0
+nc.uscongress9.1821,1821,Romulus M. Saunders,SR0176,Republican,A03,0,NA,0,NaN

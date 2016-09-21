@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress4.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Gaston,GW0095,Federalist,A01,1,Four,2763
+nc.uscongress4.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Blackledge,BW0216,Republican,A03,2,Four,943
+nc.uscongress4.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Black,null,null,null,3,NA,NA
+nc.uscongress4.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Donald,null,null,null,4,NA,NA
+nc.uscongress4.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,V. Allen,AV0000,null,null,5,NA,NA

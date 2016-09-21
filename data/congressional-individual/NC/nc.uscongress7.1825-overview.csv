@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress7.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Archibald MacNeill,MA0181,Anti-Caucus,A03,1,3086
+nc.uscongress7.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Caucus,A07,2,2905
+nc.uscongress7.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Barrott,null,null,null,3,3
+nc.uscongress7.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,scattering,null,null,null,4,7

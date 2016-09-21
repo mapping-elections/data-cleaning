@@ -1,0 +1,23 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress9.1819,1819,Thomas Settle,ST0194,Republican,A03,1040,3461,2421,0.7
+nc.uscongress5.1819,1819,Charles Hooks,HC0086,Republican,A03,382,2745,2363,0.86
+nc.uscongress5.1819,1819,Samuel Stanford,SS0230,Federalist,A01,303,1906,1603,0.84
+nc.uscongress6.1819,1819,Welden N. Edwards,EW0066,Republican,A03,907,NA,-907,1.0
+nc.uscongress12.1819,1819,Felix Walker,WF0041,Republican,A03,906,NA,-906,1.0
+nc.uscongress12.1819,1819,Joseph M. D. Carson,CJ0555,Republican,A03,272,NA,-272,1.0
+nc.uscongress1.1819,1819,Lemuel Sawyer,SL0032,Republican,A03,189,NA,-189,1.0
+nc.uscongress9.1819,1819,William Snow,SW0165,Republican,A03,40,NA,-40,1.0
+nc.uscongress1.1819,1819,Voight,null,null,null,16,NA,-16,1.0
+nc.uscongress9.1819,1819,Joshua Cox,CJ0541,null,null,3,NA,-3,1.0
+nc.uscongress9.1819,1819,Sanders,null,null,null,1,NA,-1,1.0
+nc.uscongress10.1819,1819,Charles Fisher,FC0020,Republican,A03,2991,2991,0,0.0
+nc.uscongress10.1819,1819,Wiley Jones,JW0060,Federalist,A01,1605,1605,0,0.0
+nc.uscongress13.1819,1819,Lewis Williams,WL0047,Federalist,A01,0,NA,0,NaN
+nc.uscongress2.1819,1819,Hutchins G. Burton,BH0084,Republican,A03,0,NA,0,NaN
+nc.uscongress3.1819,1819,John Holland,HJ0665,Federalist,A01,717,717,0,0.0
+nc.uscongress3.1819,1819,Thomas H. Hall,HT0135,Republican,A03,2565,2565,0,0.0
+nc.uscongress4.1819,1819,Jesse Slocumb,SJ0848,Federalist,A01,0,NA,0,NaN
+nc.uscongress7.1819,1819,James Stewart,SJ0842,Republican,A03,2549,2549,0,0.0
+nc.uscongress7.1819,1819,John Culpepper,CJ0545,Federalist,A01,2758,2758,0,0.0
+nc.uscongress8.1819,1819,James S. Smith,SJ0849,Republican,A03,2554,2554,0,0.0
+nc.uscongress8.1819,1819,Samuel Dickens,DS0131,Federalist,A01,2126,2126,0,0.0

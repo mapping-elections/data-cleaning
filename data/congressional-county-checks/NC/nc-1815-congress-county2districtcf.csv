@@ -1,0 +1,53 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress7.1815,1815,John Winslow,WJ0157,null,null,26,27,1,0.04
+nc.uscongress10.1815,1815,Joseph Pearson,PJ0335,Federalist,A01,2437,2437,0,0.0
+nc.uscongress10.1815,1815,William C. Love,LW0125,Republican,A03,2763,2763,0,0.0
+nc.uscongress11.1815,1815,Daniel M. Forney,FD0022,Republican,A03,2185,2185,0,0.0
+nc.uscongress11.1815,1815,Joseph Graham,GJ0342,Federalist,A01,1939,1939,0,0.0
+nc.uscongress1.1815,1815,James Iredell,IJ0081,null,null,12,12,0,0.0
+nc.uscongress1.1815,1815,Joseph Riddick,RJ0255,Republican,A03,6,6,0,0.0
+nc.uscongress1.1815,1815,Lemuel Sawyer,SL0032,Republican,A03,1284,1284,0,0.0
+nc.uscongress1.1815,1815,William Murfree,MW0233,Republican,A03,1977,1977,0,0.0
+nc.uscongress1.1815,1815,William S. Hinton,HW0244,Republican,A03,187,187,0,0.0
+nc.uscongress12.1815,1815,Felix Walker,WF0041,Republican,A03,2117,2117,0,0.0
+nc.uscongress12.1815,1815,Israel Pickens,PI0001,Republican,A03,2276,2276,0,0.0
+nc.uscongress13.1815,1815,Lewis Williams,WL0047,Federalist,A01,2397,2397,0,0.0
+nc.uscongress13.1815,1815,Meshack Franklin,FM0021,Republican,A03,1796,1796,0,0.0
+nc.uscongress2.1815,1815,Joseph H. Bryan,BJ0827,Republican,A03,1943,1943,0,0.0
+nc.uscongress2.1815,1815,Thomas Burgess,BT0221,Federalist,A01,1781,1781,0,0.0
+nc.uscongress3.1815,1815,James B. Haughton,HJ0669,Federalist,A01,2050,2050,0,0.0
+nc.uscongress3.1815,1815,James W. Clark,CJ0556,Republican,A03,2341,2341,0,0.0
+nc.uscongress4.1815,1815,William Gaston,GW0095,Federalist,A01,0,NA,0,NaN
+nc.uscongress5.1815,1815,William R. King,KW0001,Republican,A03,0,NA,0,NaN
+nc.uscongress6.1815,1815,Nathaniel Macon,MN0068,Republican,A03,2520,2520,0,0.0
+nc.uscongress6.1815,1815,William Person,PW0184,Federalist,A01,1000,1000,0,0.0
+nc.uscongress7.1815,1815,Alexander MacMillan,MA0167,null,null,3,3,0,0.0
+nc.uscongress7.1815,1815,Andrew Jackson,JA0024,null,null,15,15,0,0.0
+nc.uscongress7.1815,1815,Archibald MacBryde,MA0162,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,Benjamin Robinson,RB0013,null,null,79,79,0,0.0
+nc.uscongress7.1815,1815,Bryant Best,BB0015,null,null,2,2,0,0.0
+nc.uscongress7.1815,1815,Duncan MacFarland,MD0119,null,null,25,25,0,0.0
+nc.uscongress7.1815,1815,Gold,null,null,null,2,2,0,0.0
+nc.uscongress7.1815,1815,G. W. Cole,CG0009,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,Henry Harrington,HH0003,null,null,12,12,0,0.0
+nc.uscongress7.1815,1815,John Culpepper,CJ0545,Federalist,A01,2284,2284,0,0.0
+nc.uscongress7.1815,1815,John Hawthorne,HJ0155,null,null,24,24,0,0.0
+nc.uscongress7.1815,1815,John Oliver,OJ0038,null,null,2,2,0,0.0
+nc.uscongress7.1815,1815,Joseph Pickett,PJ0334,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,MacDougald,null,null,null,3,3,0,0.0
+nc.uscongress7.1815,1815,MacKinzer,null,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,Matthew Powers,PM0010,null,null,7,7,0,0.0
+nc.uscongress7.1815,1815,Munn,null,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,Peter H. Cole,CP0048,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,Richard Powell,PR0013,null,null,94,94,0,0.0
+nc.uscongress7.1815,1815,Robertson,null,null,null,3,3,0,0.0
+nc.uscongress7.1815,1815,Thomas Davis,DT0094,null,null,25,25,0,0.0
+nc.uscongress7.1815,1815,William B. Grove,GW0091,null,null,23,23,0,0.0
+nc.uscongress7.1815,1815,William Deese,DW0187,null,null,1,1,0,0.0
+nc.uscongress7.1815,1815,Will Manyon,MW0308,null,null,1,1,0,0.0
+nc.uscongress8.1815,1815,Richard Stanford,SR0175,Federalist,A01,2013,2013,0,0.0
+nc.uscongress8.1815,1815,Roger Tillman,TR0056,Republican,A03,1820,1820,0,0.0
+nc.uscongress8.1815,1815,scattering,null,null,null,15,15,0,0.0
+nc.uscongress9.1815,1815,Alexander Sneed,SA0153,Federalist,A01,736,736,0,0.0
+nc.uscongress9.1815,1815,Bartlett Yancey,YB0003,Republican,A03,3139,3139,0,0.0
+nc.uscongress9.1815,1815,John Caldwell,CJ0577,Federalist,A01,1355,1355,0,0.0

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress10.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Joseph Pearson,PJ0335,Federalist,A01,1,Ten,2754
+nc.uscongress10.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Alexander Gray,GA0046,Republican,A03,2,Ten,2333

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress2.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Hugh Williamson,WH0019,Federalist,A01,1,2150
+nc.uscongress2.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Stephen Cabarrus,CS0145,Anti-Federalist,A02,2,757
+nc.uscongress2.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Cullin Polok,PC0031,null,null,3,1

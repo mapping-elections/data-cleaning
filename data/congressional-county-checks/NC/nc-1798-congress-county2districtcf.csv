@@ -1,0 +1,33 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress7.1798,1798,William B. Grove,GW0091,Federalist,A01,0,2500,2500,1.0
+nc.uscongress4.1798,1798,Richard Stanford,SR0175,Republican,A03,389,2005,1616,0.81
+nc.uscongress4.1798,1798,Samuel Benton,BS0217,Federalist,A01,115,1675,1560,0.93
+nc.uscongress9.1798,1798,Willis Alston,AW0047,Federalist,A01,1553,170,-1383,0.89
+nc.uscongress8.1798,1798,Dempsey Burgess,BD0099,Republican,A03,14,1195,1181,0.99
+nc.uscongress8.1798,1798,David Stone,SD0075,Federalist,A01,616,1645,1029,0.63
+nc.uscongress8.1798,1798,Charles Johnson,JC0019,Federalist,A01,302,1270,968,0.76
+nc.uscongress10.1798,1798,Richard D. Spaight,SR0164,Federalist,A01,244,1047,803,0.77
+nc.uscongress10.1798,1798,George E. Badger,BG0091,Federalist,A01,103,527,424,0.8
+nc.uscongress10.1798,1798,Richard D. Spaight,SR0164,Federalist,A01,244,559,315,0.56
+nc.uscongress10.1798,1798,Richard D. Spaight,SR0164,Federalist,A01,244,79,-165,0.68
+nc.uscongress10.1798,1798,George E. Badger,BG0091,Federalist,A01,103,209,106,0.51
+nc.uscongress10.1798,1798,Richard D. Spaight,SR0164,Federalist,A01,244,165,-79,0.32
+nc.uscongress10.1798,1798,George E. Badger,BG0091,Federalist,A01,103,108,5,0.05
+nc.uscongress10.1798,1798,George E. Badger,BG0091,Federalist,A01,103,107,4,0.04
+nc.uscongress1.1798,1798,Arthur Graham,GA0011,null,null,1,1,0,0.0
+nc.uscongress1.1798,1798,Charles MacDowell,MC0076,null,null,2,2,0,0.0
+nc.uscongress1.1798,1798,James Holland,HJ0602,Republican,A03,1705,1705,0,0.0
+nc.uscongress1.1798,1798,Joseph Dickson,DJ0351,Federalist,A01,2098,2098,0,0.0
+nc.uscongress2.1798,1798,Archibald Henderson,HA0107,Federalist,A01,3167,3167,0,0.0
+nc.uscongress2.1798,1798,Basil Gaither,GB0036,Federalist,A01,356,356,0,0.0
+nc.uscongress2.1798,1798,Matthew Locke,LM0052,Republican,A03,228,228,0,0.0
+nc.uscongress3.1798,1798,James Martin,MJ0541,Federalist,A01,1174,1174,0,0.0
+nc.uscongress3.1798,1798,Robert Williams,WR0105,Republican,A03,2711,2711,0,0.0
+nc.uscongress5.1798,1798,Nathaniel Macon,MN0068,Republican,A03,0,NA,0,NaN
+nc.uscongress6.1798,1798,Alexander D. Moore,MA0151,Federalist,A01,278,278,0,0.0
+nc.uscongress6.1798,1798,James Gillespie,GJ0328,Republican,A03,1091,1091,0,0.0
+nc.uscongress6.1798,1798,William H. Hill,HW0233,Federalist,A01,1372,1372,0,0.0
+nc.uscongress9.1798,1798,John Binford,BJ0791,Federalist,A01,370,370,0,0.0
+nc.uscongress9.1798,1798,Thomas Blount,BT0194,Republican,A03,1207,1207,0,0.0
+nc.uscongress9.1798,1798,William Kennedy,KW0059,Federalist,A01,1019,1019,0,0.0
+nc.uscongress9.1798,1798,Willis Alston,AW0047,Federalist,A01,1553,1553,0,0.0

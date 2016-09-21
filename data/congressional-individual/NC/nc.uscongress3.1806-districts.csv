@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress3.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Blount,BT0194,Republican,A03,1,Three,2056
+nc.uscongress3.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,2,Three,2050

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress1.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,1,One,NA
+nc.uscongress1.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Voight,null,null,null,2,One,NA

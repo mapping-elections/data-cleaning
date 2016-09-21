@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,314
+2,Beaufort,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clark,CW0182,Federalist,A01,814
+1,Edgecombe,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,1224
+2,Edgecombe,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clark,CW0182,Federalist,A01,31
+1,Hyde,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,206
+2,Hyde,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clark,CW0182,Federalist,A01,314
+1,Pitt,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,356
+2,Pitt,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clark,CW0182,Federalist,A01,689
+1,Tyrrell,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,130
+2,Tyrrell,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clark,CW0182,Federalist,A01,223
+1,Washington,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,253
+2,Washington,nc.uscongress3.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clark,CW0182,Federalist,A01,202

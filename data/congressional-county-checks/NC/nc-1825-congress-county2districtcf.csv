@@ -1,0 +1,40 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress9.1825,1825,Romulus M. Saunders,SR0176,Caucus,A07,621,NA,-621,1.0
+nc.uscongress9.1825,1825,scattering,null,Anti-Caucus,A03,432,NA,-432,1.0
+nc.uscongress10.1825,1825,John Giles,GJ0347,Anti-Caucus,A03,2889,2889,0,0.0
+nc.uscongress10.1825,1825,"John Long, Jr.",LJ0271,Caucus,A07,3246,3246,0,0.0
+nc.uscongress11.1825,1825,blank,null,null,null,21,21,0,0.0
+nc.uscongress11.1825,1825,Conrad,null,null,null,4,4,0,0.0
+nc.uscongress11.1825,1825,D. Forney,FD0003,null,null,6,6,0,0.0
+nc.uscongress11.1825,1825,Henry W. Conner,CH0119,Anti-Caucus,A03,2693,2693,0,0.0
+nc.uscongress11.1825,1825,Jacob Ingle,IJ0017,null,null,1,1,0,0.0
+nc.uscongress11.1825,1825,J. Z.,null,null,null,1,1,0,0.0
+nc.uscongress11.1825,1825,M. R.,null,null,null,1,1,0,0.0
+nc.uscongress11.1825,1825,P. Forney,FP0017,null,null,1,1,0,0.0
+nc.uscongress11.1825,1825,Samuel Henderson,HS0045,null,null,3,3,0,0.0
+nc.uscongress11.1825,1825,Shipp,null,null,null,2,2,0,0.0
+nc.uscongress11.1825,1825,T. Hunt,HT0022,null,null,250,250,0,0.0
+nc.uscongress11.1825,1825,William Davidson,DW0128,null,null,1,1,0,0.0
+nc.uscongress1.1825,1825,Alfred M. Gatlin,GA0047,Caucus,A07,1671,1671,0,0.0
+nc.uscongress1.1825,1825,Lemuel Sawyer,SL0032,Anti-Caucus,A03,2483,2483,0,0.0
+nc.uscongress12.1825,1825,James Graham,GJ0348,Anti-Caucus,A03,1903,1903,0,0.0
+nc.uscongress12.1825,1825,Robert B. Vance,VR0007,Caucus,A07,1924,1924,0,0.0
+nc.uscongress12.1825,1825,Samuel P. Carson,CS0161,Anti-Caucus,A03,2081,2081,0,0.0
+nc.uscongress13.1825,1825,Lewis Williams,WL0047,Caucus,A07,3102,3102,0,0.0
+nc.uscongress13.1825,1825,Meshack Franklin,FM0021,Anti-Caucus,A03,1901,1901,0,0.0
+nc.uscongress2.1825,1825,George B. Outlaw,OG0010,Caucus,A07,978,978,0,0.0
+nc.uscongress2.1825,1825,James Grant,GJ0349,Anti-Caucus,A03,837,837,0,0.0
+nc.uscongress2.1825,1825,Willis Alston,AW0047,Anti-Caucus,A03,1321,1321,0,0.0
+nc.uscongress3.1825,1825,Richard Hines,HR0171,Anti-Caucus,A03,2607,2607,0,0.0
+nc.uscongress3.1825,1825,Thomas H. Hall,HT0135,Caucus,A07,2343,2343,0,0.0
+nc.uscongress4.1825,1825,John H. Bryan,BJ0862,Anti-Caucus,A03,2488,2488,0,0.0
+nc.uscongress4.1825,1825,Richard D. Spaight,SR0172,Caucus,A07,2392,2392,0,0.0
+nc.uscongress5.1825,1825,Charles Hooks,HC0086,Caucus,A07,1982,1982,0,0.0
+nc.uscongress5.1825,1825,Gabriel Holmes,HG0080,Anti-Caucus,A03,3347,3347,0,0.0
+nc.uscongress6.1825,1825,Weldon N. Edwards,EW0066,Caucus,A07,2804,2804,0,0.0
+nc.uscongress7.1825,1825,Archibald MacNeill,MA0181,Anti-Caucus,A03,3086,3086,0,0.0
+nc.uscongress7.1825,1825,Barrott,null,null,null,3,3,0,0.0
+nc.uscongress7.1825,1825,John Culpepper,CJ0545,Caucus,A07,2905,2905,0,0.0
+nc.uscongress7.1825,1825,scattering,null,null,null,7,7,0,0.0
+nc.uscongress8.1825,1825,Josiah Crudup,CJ0586,Anti-Caucus,A03,2243,2243,0,0.0
+nc.uscongress8.1825,1825,Willie P. Mangum,MW0251,Caucus,A07,2301,2301,0,0.0

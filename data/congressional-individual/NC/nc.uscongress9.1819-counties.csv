@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Stokes,nc.uscongress9.1819,1819,1819,General,"North Carolina 1819 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Settle,ST0194,Republican,A03,1040
+2,Stokes,nc.uscongress9.1819,1819,1819,General,"North Carolina 1819 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Snow,SW0165,Republican,A03,40
+3,Stokes,nc.uscongress9.1819,1819,1819,General,"North Carolina 1819 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Joshua Cox,CJ0541,null,null,3
+4,Stokes,nc.uscongress9.1819,1819,1819,General,"North Carolina 1819 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Sanders,null,null,null,1

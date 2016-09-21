@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,425
+2,Franklin,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,NA
+3,Franklin,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Taylor,TT0079,null,null,NA
+4,Franklin,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Parke,PR0035,null,null,NA
+5,Franklin,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Solomon Green,GS0059,null,null,NA
+6,Franklin,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Kemp Plummer,PK0000,null,null,NA
+1,Granville,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,721
+2,Granville,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,1
+3,Granville,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Taylor,TT0079,null,null,1
+4,Granville,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Parke,PR0035,null,null,NA
+5,Granville,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Solomon Green,GS0059,null,null,NA
+6,Granville,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Kemp Plummer,PK0000,null,null,NA
+1,Nash,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,509
+2,Nash,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,NA
+3,Nash,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Taylor,TT0079,null,null,NA
+4,Nash,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Parke,PR0035,null,null,NA
+5,Nash,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Solomon Green,GS0059,null,null,NA
+6,Nash,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Kemp Plummer,PK0000,null,null,NA
+1,Warren,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,741
+2,Warren,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,NA
+3,Warren,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Taylor,TT0079,null,null,NA
+4,Warren,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Parke,PR0035,null,null,1
+5,Warren,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Solomon Green,GS0059,null,null,1
+6,Warren,nc.uscongress6.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Kemp Plummer,PK0000,null,null,1

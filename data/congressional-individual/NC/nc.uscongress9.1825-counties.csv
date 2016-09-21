@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caswell,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Romulus M. Saunders,SR0176,Caucus,A07,NA
+2,Caswell,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,scattering,null,Anti-Caucus,A03,NA
+1,Guilford,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Romulus M. Saunders,SR0176,Caucus,A07,NA
+2,Guilford,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,scattering,null,Anti-Caucus,A03,NA
+1,Rockingham,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Romulus M. Saunders,SR0176,Caucus,A07,NA
+2,Rockingham,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,scattering,null,Anti-Caucus,A03,NA
+1,Stokes,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Romulus M. Saunders,SR0176,Caucus,A07,621
+2,Stokes,nc.uscongress9.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,scattering,null,Anti-Caucus,A03,432
