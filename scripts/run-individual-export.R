@@ -1,4 +1,4 @@
-# Temporary script to call other scripts for exporting individual data,
+# Interactive script to call other scripts for exporting individual data,
 # then checking it
 library(readr)
 library(dplyr)
@@ -6,7 +6,7 @@ library(stringr)
 library(purrr)
 
 # Set the state you are working on here
-STATE <- "MA"
+STATE <- "SC"
 
 # Export individual elections
 elections <- read_csv("data/congressional-elections-list.csv")
