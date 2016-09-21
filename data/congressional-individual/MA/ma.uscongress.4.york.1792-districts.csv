@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.4.york.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 4, Candidate from York County",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,1,Four,1319
+ma.uscongress.4.york.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 4, Candidate from York County",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,2,Four,808
+ma.uscongress.4.york.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 4, Candidate from York County",U.S. House of Representatives,ON125,Tristram Jordan,JT0039,null,null,3,Four,158

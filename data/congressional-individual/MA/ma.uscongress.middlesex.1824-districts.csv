@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.middlesex.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Edward Everett,EE0018,Republican,A03,1,Middlesex,1905
+ma.uscongress.middlesex.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Edward Everett,EE0018,Republican,A03,1,Boxboro,8
+ma.uscongress.middlesex.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,John Keyes,KJ0100,null,null,2,Middlesex,1357
+ma.uscongress.middlesex.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,John Keyes,KJ0100,null,null,2,Boxboro,28
+ma.uscongress.middlesex.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Levi Thaxter,TL0017,null,null,3,Middlesex,46
+ma.uscongress.middlesex.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,scattering,null,null,null,4,Middlesex,50

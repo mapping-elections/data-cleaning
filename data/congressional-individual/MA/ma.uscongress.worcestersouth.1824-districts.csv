@@ -1,0 +1,10 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,John Davis,DJ0190,Federalist,A01,1,Worcester South,1517
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Jonas Sibley,SJ0437,Republican,A03,2,Worcester South,1080
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Sumner Bastow,BS0117,Republican,A03,3,Worcester South,649
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,"Bezaleel Taft, Jr.",TB0029,Federalist,A01,4,Worcester South,212
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Otis Corbett,CO0014,null,null,5,Worcester South,3
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Thomas Chamberlain,CT0200,null,null,6,Worcester South,1
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Samuel Eastman,ES0007,null,null,7,Worcester South,1
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Richard George,GR0067,null,null,8,Worcester South,1
+ma.uscongress.worcestersouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,scattering,null,null,null,9,Worcester South,8

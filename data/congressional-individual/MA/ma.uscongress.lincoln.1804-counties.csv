@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Orchard Cook,CO0004,Republican,A03,185
+2,Hancock,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Samuel Thacher,TS0035,Federalist,A01,53
+3,Hancock,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Peleg Tallman,TP0017,null,null,NA
+4,Hancock,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,William King,KW0033,null,null,NA
+1,Lincoln,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Orchard Cook,CO0004,Republican,A03,1063
+2,Lincoln,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Samuel Thacher,TS0035,Federalist,A01,985
+3,Lincoln,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Peleg Tallman,TP0017,null,null,12
+4,Lincoln,ma.uscongress.lincoln.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,William King,KW0033,null,null,1

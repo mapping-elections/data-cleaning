@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,John Wilson,WJ0313,Federalist,A01,1051
+2,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Francis Carr,CF0012,Republican,A03,824
+3,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,William D. Williamson,WW0135,null,null,11
+4,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Stephen Carr,CS0109,null,null,1
+5,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Martin Kingsley,KM0013,null,null,1
+6,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Jacob MacGaw,MJ0025,null,null,1
+7,Hancock,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Joseph Willson,WJ0420,null,null,NA
+1,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,John Wilson,WJ0313,Federalist,A01,305
+2,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Francis Carr,CF0012,Republican,A03,172
+3,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,William D. Williamson,WW0135,null,null,1
+4,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Stephen Carr,CS0109,null,null,NA
+5,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Martin Kingsley,KM0013,null,null,NA
+6,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Jacob MacGaw,MJ0025,null,null,NA
+7,Washington,ma.uscongress.eastern5.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Joseph Willson,WJ0420,null,null,1

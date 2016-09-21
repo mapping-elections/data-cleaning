@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.essexsouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Timothy Pickering,PT0078,Federalist,A01,1,Essex South,1261
+ma.uscongress.essexsouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Timothy Pickering,PT0078,Federalist,A01,1,Lynnfield,35
+ma.uscongress.essexsouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Daniel Kilham,KD0021,Republican,A03,2,Essex South,152
+ma.uscongress.essexsouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,scattering,null,null,null,3,Essex South,17

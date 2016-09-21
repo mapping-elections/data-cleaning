@@ -1,0 +1,53 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.8.ballot3.1791,1791,George Thacher,TG0012,Federalist,A01,1137,1153,16,0.01
+ma.uscongress.8.ballot3.1791,1791,"William Lithgow, Jr.",LW0054,null,null,927,929,2,0.0
+ma.uscongress.6.ballot3.1791,1791,David Cobb,CD0056,null,null,146,146,0,0.0
+ma.uscongress.6.ballot3.1791,1791,George Leonard,LG0029,null,null,213,213,0,0.0
+ma.uscongress.6.ballot3.1791,1791,"Peleg Coffin, Jr.",CP0027,null,null,603,603,0,0.0
+ma.uscongress.6.ballot3.1791,1791,Phanuel Bishop,BP0031,null,null,852,852,0,0.0
+ma.uscongress.6.ballot3.1791,1791,Walter Spooner,SW0151,null,null,711,711,0,0.0
+ma.uscongress.6.ballot4.1791,1791,David Cobb,CD0056,null,null,39,39,0,0.0
+ma.uscongress.6.ballot4.1791,1791,George Leonard,LG0029,null,null,143,143,0,0.0
+ma.uscongress.6.ballot4.1791,1791,"Peleg Coffin, Jr.",CP0027,null,null,420,420,0,0.0
+ma.uscongress.6.ballot4.1791,1791,Phanuel Bishop,BP0031,null,null,1039,1039,0,0.0
+ma.uscongress.6.ballot4.1791,1791,Walter Spooner,SW0151,null,null,1038,1038,0,0.0
+ma.uscongress.6.ballot5.1791,1791,David Cobb,CD0056,null,null,23,23,0,0.0
+ma.uscongress.6.ballot5.1791,1791,George Leonard,LG0029,null,null,355,355,0,0.0
+ma.uscongress.6.ballot5.1791,1791,"Peleg Coffin, Jr.",CP0027,null,null,364,364,0,0.0
+ma.uscongress.6.ballot5.1791,1791,Phanuel Bishop,BP0031,null,null,579,579,0,0.0
+ma.uscongress.6.ballot5.1791,1791,Walter Spooner,SW0151,null,null,310,310,0,0.0
+ma.uscongress.6.ballot6.1791,1791,David Cobb,CD0056,null,null,2,2,0,0.0
+ma.uscongress.6.ballot6.1791,1791,George Leonard,LG0029,null,null,555,555,0,0.0
+ma.uscongress.6.ballot6.1791,1791,Josiah Davis,DJ0153,null,null,3,3,0,0.0
+ma.uscongress.6.ballot6.1791,1791,"Peleg Coffin, Jr.",CP0027,null,null,412,412,0,0.0
+ma.uscongress.6.ballot6.1791,1791,Phanuel Bishop,BP0031,null,null,801,801,0,0.0
+ma.uscongress.6.ballot6.1791,1791,Walter Spooner,SW0151,null,null,124,124,0,0.0
+ma.uscongress.6.ballot7.1791,1791,George Leonard,LG0029,null,null,795,795,0,0.0
+ma.uscongress.6.ballot7.1791,1791,"Peleg Coffin, Jr.",CP0027,null,null,310,310,0,0.0
+ma.uscongress.6.ballot7.1791,1791,Phanuel Bishop,BP0031,null,null,806,806,0,0.0
+ma.uscongress.6.ballot7.1791,1791,Walter Spooner,SW0151,null,null,32,32,0,0.0
+ma.uscongress.6.ballot8.1791,1791,David Cobb,CD0056,null,null,25,25,0,0.0
+ma.uscongress.6.ballot8.1791,1791,George Leonard,LG0029,null,null,983,983,0,0.0
+ma.uscongress.6.ballot8.1791,1791,Nathan Tingley,TN0009,null,null,1,1,0,0.0
+ma.uscongress.6.ballot8.1791,1791,"Peleg Coffin, Jr.",CP0027,null,null,484,484,0,0.0
+ma.uscongress.6.ballot8.1791,1791,Phanuel Bishop,BP0031,null,null,690,690,0,0.0
+ma.uscongress.8.ballot3.1791,1791,Charles Chauncey,CC0032,null,null,3,3,0,0.0
+ma.uscongress.8.ballot3.1791,1791,Henry Dearborn,DH0026,null,null,1,1,0,0.0
+ma.uscongress.8.ballot3.1791,1791,John Gardner,GJ0180,null,null,21,21,0,0.0
+ma.uscongress.8.ballot3.1791,1791,Josiah Thacher,TJ0159,null,null,10,10,0,0.0
+ma.uscongress.8.ballot3.1791,1791,Nathaniel Wells,WN0011,null,null,259,259,0,0.0
+ma.uscongress.8.ballot3.1791,1791,Thomas Rice,RT0039,null,null,1,1,0,0.0
+ma.uscongress.8.ballot3.1791,1791,Thomas Watstor,WT0060,null,null,1,1,0,0.0
+ma.uscongress.8.ballot3.1791,1791,William Martin,MW0097,null,null,20,20,0,0.0
+ma.uscongress.8.ballot4.1791,1791,David Mitchell,MD0024,null,null,4,4,0,0.0
+ma.uscongress.8.ballot4.1791,1791,Dummer Sewall,SD0057,null,null,2,2,0,0.0
+ma.uscongress.8.ballot4.1791,1791,George Lewis,LG0036,null,null,1,1,0,0.0
+ma.uscongress.8.ballot4.1791,1791,George Thacher,TG0012,Federalist,A01,2738,2738,0,0.0
+ma.uscongress.8.ballot4.1791,1791,Henry Dearborn,DH0026,null,null,21,21,0,0.0
+ma.uscongress.8.ballot4.1791,1791,John Gardner,GJ0180,null,null,22,22,0,0.0
+ma.uscongress.8.ballot4.1791,1791,Joshua B. Osgood,OJ0065,null,null,2,2,0,0.0
+ma.uscongress.8.ballot4.1791,1791,Josiah Thacher,TJ0159,null,null,26,26,0,0.0
+ma.uscongress.8.ballot4.1791,1791,Nathaniel Wells,WN0011,null,null,347,347,0,0.0
+ma.uscongress.8.ballot4.1791,1791,Robert Dyer,DR0034,null,null,1,1,0,0.0
+ma.uscongress.8.ballot4.1791,1791,"William Lithgow, Jr.",LW0054,null,null,2178,2178,0,0.0
+ma.uscongress.8.ballot4.1791,1791,William Wedgery,WW0129,null,null,1,1,0,0.0

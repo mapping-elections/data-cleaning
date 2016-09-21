@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,48
+2,Cumberland,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Richard Cutts,CR0035,Republican,A03,12
+3,Cumberland,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,John Lord,LJ0185,Federalist,A01,NA
+4,Cumberland,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,John Woodman,WJ0153,Republican,A03,1
+5,Cumberland,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,2
+6,Cumberland,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Robert Jenkins,JR0031,null,null,NA
+1,York,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,644
+2,York,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Richard Cutts,CR0035,Republican,A03,416
+3,York,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,John Lord,LJ0185,Federalist,A01,6
+4,York,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,John Woodman,WJ0153,Republican,A03,4
+5,York,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,NA
+6,York,ma.uscongress.eastern.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Robert Jenkins,JR0031,null,null,1

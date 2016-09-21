@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Nathan Read,RN0015,Federalist,A01,1589
+2,Essex,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Jacob Crowninshield,CJ0329,Republican,A03,1164
+3,Essex,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Jonathan Waldo,WJ0275,Federalist,A01,1
+1,Middlesex,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Nathan Read,RN0015,Federalist,A01,526
+2,Middlesex,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Jacob Crowninshield,CJ0329,Republican,A03,578
+3,Middlesex,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Jonathan Waldo,WJ0275,Federalist,A01,NA
+1,Suffolk,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Nathan Read,RN0015,Federalist,A01,NA
+2,Suffolk,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Jacob Crowninshield,CJ0329,Republican,A03,14
+3,Suffolk,ma.uscongress.middle.3.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Jonathan Waldo,WJ0275,Federalist,A01,NA

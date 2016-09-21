@@ -1,0 +1,24 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.essexsouth.ballot3.1821,1821,Gideon Barstow,BG0049,null,null,1345,10,-1335,0.99
+ma.uscongress.essexsouth.ballot3.1821,1821,Timothy Pickering,PT0078,Federalist,A01,1116,23,-1093,0.98
+ma.uscongress.essexsouth.ballot2.1821,1821,John Hooper,HJ0408,null,null,329,28,-301,0.91
+ma.uscongress.essexsouth.ballot3.1821,1821,scattering,null,null,null,19,1,-18,0.95
+ma.uscongress.essexsouth.ballot2.1821,1821,Benjamin Goodhue,GB0029,null,null,2,2,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Benjamin Merrill,MB0008,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Charles Saunders,SC0184,null,null,130,130,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Daniel L. Pickman,PD0027,null,null,4,4,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Gideon Barstow,BG0049,null,null,572,572,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Humphrey Devereux,DH0018,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Joel Bowker,BJ0396,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,John Foster,FJ0168,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,John G. King,KJ0118,null,null,2,2,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,John Hooper,HJ0408,null,null,329,329,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Leverett Saltonstall,SL0023,null,null,9,9,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Nathaniel Hopper,HN0022,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,scattering,null,null,null,8,8,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Timothy Pickering,PT0078,Federalist,A01,21,21,0,0.0
+ma.uscongress.essexsouth.ballot2.1821,1821,Willard Peele,PW0074,null,null,118,118,0,0.0
+ma.uscongress.essexsouth.ballot3.1821,1821,Gideon Barstow,BG0049,null,null,1345,1345,0,0.0
+ma.uscongress.essexsouth.ballot3.1821,1821,scattering,null,null,null,19,19,0,0.0
+ma.uscongress.essexsouth.ballot3.1821,1821,Timothy Pickering,PT0078,Federalist,A01,1116,1116,0,0.0
+ma.uscongress.essexsouth.ballot3.1821,1821,Willard Peele,PW0074,null,null,15,15,0,0.0

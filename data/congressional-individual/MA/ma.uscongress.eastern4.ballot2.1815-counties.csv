@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,James Carr,CJ0285,null,null,1675
+2,Hancock,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,John Wilson,WJ0313,null,null,1125
+3,Hancock,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,null,null,45
+4,Hancock,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,Samuel Dexter,DS0053,Federalist,A01,1
+5,Hancock,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Washington,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,James Carr,CJ0285,null,null,179
+2,Washington,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,John Wilson,WJ0313,null,null,275
+3,Washington,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,null,null,NA
+4,Washington,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,Samuel Dexter,DS0053,Federalist,A01,NA
+5,Washington,ma.uscongress.eastern4.ballot2.1815,1815-04,1815,General,"Massachusetts 1815 U.S. House of Representatives, Eastern District #4, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,4

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ma.uscongress.bristol.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Francis Bayliss,BF0013,Federalist,A01,1415
+2,Bristol,ma.uscongress.bristol.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Marcus Morton,MM0019,Republican,A03,1186
+3,Bristol,ma.uscongress.bristol.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,19
+1,Norfolk,ma.uscongress.bristol.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Francis Bayliss,BF0013,Federalist,A01,99
+2,Norfolk,ma.uscongress.bristol.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Marcus Morton,MM0019,Republican,A03,185
+3,Norfolk,ma.uscongress.bristol.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

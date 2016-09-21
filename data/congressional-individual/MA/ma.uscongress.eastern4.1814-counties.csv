@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,John Wilson,WJ0313,null,null,449
+2,Hancock,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,James Carr,CJ0285,null,null,443
+3,Hancock,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Elijah R. Sabin,SE0064,null,null,18
+4,Hancock,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Paul D. Sargent,SP0022,null,null,4
+5,Hancock,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,null,null,1
+1,Washington,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,John Wilson,WJ0313,null,null,20
+2,Washington,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,James Carr,CJ0285,null,null,17
+3,Washington,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Elijah R. Sabin,SE0064,null,null,NA
+4,Washington,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Paul D. Sargent,SP0022,null,null,NA
+5,Washington,ma.uscongress.eastern4.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,null,null,NA

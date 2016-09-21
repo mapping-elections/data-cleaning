@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,1,Barnstable,995
+ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Thomas Hazard, Jr.",HT0086,Republican,A03,2,Barnstable,248
+ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Joseph Dimmick,DJ0123,null,null,3,Barnstable,27
+ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Seth Sprague,SS0069,null,null,4,Barnstable,4
+ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Davis,DJ0181,Republican,A03,5,Barnstable,1

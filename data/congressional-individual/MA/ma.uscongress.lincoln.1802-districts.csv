@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Samuel Thacher,TS0035,null,null,1,Lincoln,451
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,William King,KW0033,Federalist,A01,2,Lincoln,123
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,John Farley,FJ0124,null,null,3,Lincoln,85
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,George Ulmer,UG0003,null,null,4,Lincoln,18
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Henry Knox,KH0025,Federalist,A01,5,Lincoln,15
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Orchard Cook,CO0004,null,null,6,Lincoln,3
+ma.uscongress.lincoln.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Waterman Thomas,TW0063,null,null,7,Lincoln,1

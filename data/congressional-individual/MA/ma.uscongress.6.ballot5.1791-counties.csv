@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,Phanuel Bishop,BP0031,null,null,579
+2,Bristol,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,2
+3,Bristol,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,George Leonard,LG0029,null,null,355
+4,Bristol,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,Walter Spooner,SW0151,null,null,275
+5,Bristol,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,23
+1,Dukes,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,Phanuel Bishop,BP0031,null,null,NA
+2,Dukes,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,1
+3,Dukes,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,George Leonard,LG0029,null,null,NA
+4,Dukes,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,Walter Spooner,SW0151,null,null,34
+5,Dukes,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA
+1,Nantucket,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,Phanuel Bishop,BP0031,null,null,NA
+2,Nantucket,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,361
+3,Nantucket,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,George Leonard,LG0029,null,null,NA
+4,Nantucket,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,Walter Spooner,SW0151,null,null,1
+5,Nantucket,ma.uscongress.6.ballot5.1791,1791-07,1791,General,"Massachusetts 1791 U.S. House of Representatives, District 6, Ballot 5",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA

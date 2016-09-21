@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,"George Grennall, Jr.",GG0026,Republican,A03,1,1273
+ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,Federalist,A01,2,1251
+ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Elihu Lyman,LE0021,Republican,A03,3,217
+ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Thomas Mason,MT0017,null,null,4,55
+ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Thomas Longley,LT0102,null,null,5,4

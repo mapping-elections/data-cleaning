@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Ezekiel Whitman,WE0022,Federalist,A01,2313
+2,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Daniel Ilsley,ID0002,Republican,A03,1788
+3,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,George Bradbury,BG0016,Federalist,A01,3
+4,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Levi Hubbard,HL0012,Republican,a03,2
+5,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Isaac Ilsley,II0002,null,null,2
+6,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Lathrop Lewis,LL0049,Federalist,A01,2
+7,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Isaac Adams,AI0013,null,null,1
+8,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Robert H. Smith,SR0067,null,null,1
+9,Cumberland,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,William Wedgery,WW0129,Republican,A03,1
+1,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Ezekiel Whitman,WE0022,Federalist,A01,375
+2,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Daniel Ilsley,ID0002,Republican,A03,752
+3,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,George Bradbury,BG0016,Federalist,A01,NA
+4,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Levi Hubbard,HL0012,Republican,a03,NA
+5,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Isaac Ilsley,II0002,null,null,NA
+6,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Lathrop Lewis,LL0049,Federalist,A01,NA
+7,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Isaac Adams,AI0013,null,null,NA
+8,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Robert H. Smith,SR0067,null,null,NA
+9,Oxford,ma.uscongress.cumberland.1808,1808-11,1808,General,"Massachusetts 1808 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,William Wedgery,WW0129,Republican,A03,NA

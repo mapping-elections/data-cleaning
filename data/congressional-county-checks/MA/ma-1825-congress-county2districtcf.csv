@@ -1,0 +1,64 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.norfolk.ballot3.1825,1825,John Bailey,BJ0321,Republican,A03,1669,21,-1648,0.99
+ma.uscongress.norfolk.ballot3.1825,1825,Sherman Leland,LS0020,null,null,991,7,-984,0.99
+ma.uscongress.norfolk.ballot3.1825,1825,scattering,null,null,null,149,2,-147,0.99
+ma.uscongress.hampden.ballot3.1825,1825,scattering,null,null,null,67,63,-4,0.06
+ma.uscongress.bristol.ballot2.1825,1825,Francis Bayliss,BF0013,Federalist,A01,1778,1778,0,0.0
+ma.uscongress.bristol.ballot2.1825,1825,James L. Hodges,HJ0392,Republican,A03,1363,1363,0,0.0
+ma.uscongress.bristol.ballot2.1825,1825,scattering,null,null,null,104,104,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Abner Wood,WA0081,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Amos Spaulding,SA0077,null,null,3,3,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Ebenezer Mosely,ME0020,null,null,3,3,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Jacob Gerrish,GJ0216,null,null,2,2,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,John Merrill,MJ0296,Republican,A03,1659,1659,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,John Varnum,VJ0043,Federalist,A01,1736,1736,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Joseph Kitteridge,KJ0106,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Joseph Locke,LJ0196,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Moses Wingate,WM0044,Republican,A03,35,35,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Nathan Noyes,NN0007,Republican,A03,12,12,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Samuel Marsh,MS0015,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,scattering,null,null,null,2,2,0,0.0
+ma.uscongress.essexnorth.ballot2.1825,1825,Thomas M. Clark,CT0033,null,null,1,1,0,0.0
+ma.uscongress.franklin.ballot2.1825,1825,Elihu Lyman,LE0021,null,null,17,17,0,0.0
+ma.uscongress.franklin.ballot2.1825,1825,"George Grennall, Jr.",GG0026,null,null,1348,1348,0,0.0
+ma.uscongress.franklin.ballot2.1825,1825,Samuel C. Allen,AS0024,null,null,1727,1727,0,0.0
+ma.uscongress.franklin.ballot2.1825,1825,scattering,null,null,null,10,10,0,0.0
+ma.uscongress.hampden.ballot2.1825,1825,Isaac Bates,BI0043,null,null,3,3,0,0.0
+ma.uscongress.hampden.ballot2.1825,1825,James Fowler,FJ0127,null,null,1,1,0,0.0
+ma.uscongress.hampden.ballot2.1825,1825,John Mills,MJ0299,null,null,703,703,0,0.0
+ma.uscongress.hampden.ballot2.1825,1825,Samuel Lathrop,LS0046,Federalist,A01,1097,1097,0,0.0
+ma.uscongress.hampden.ballot2.1825,1825,Thomas Shepard,ST0058,Republican,A03,14,14,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,Edward Pynchon,PE0040,null,null,2,2,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,James Fowler,FJ0127,Republican,A03,1216,1216,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,Levi Lincoln,LL0044,null,null,1,1,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,Marcus Morton,MM0019,null,null,1,1,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,Samuel Fowler,FS0045,null,null,5,5,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,Samuel Lathrop,LS0046,Federalist,A01,1920,1920,0,0.0
+ma.uscongress.hampden.ballot3.1825,1825,Thomas Shepard,ST0058,Republican,A03,73,73,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,Ebenezer Seaver,SE0023,null,null,25,25,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,John Bailey,BJ0321,Republican,A03,1669,1669,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,Jonathan Leonard,LJ0180,null,null,17,17,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,Joseph Valentine,VJ0041,null,null,16,16,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,scattering,null,null,null,149,149,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,Sherman Leland,LS0020,null,null,991,991,0,0.0
+ma.uscongress.norfolk.ballot3.1825,1825,William Ellis,EW0022,null,null,47,47,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,Aaron Tufts,TA0004,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,Amos Kittredge,KA0020,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,Andrew H. Ward,WA0082,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,"Bezaleel Taft, Jr.",TB0029,Federalist,A01,70,70,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,John Davis,DJ0190,Federalist,A01,1346,1346,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,Jonas Sibley,SJ0437,Republican,A03,1295,1295,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,Samuel Bastow,BS0062,null,null,5,5,0,0.0
+ma.uscongress.worcestersouth.ballot2.1825,1825,Sumner Bastow,BS0117,Republican,A03,148,148,0,0.0
+ma.uscongress.worcestersouth.ballot3.1825,1825,Ezra Coombs,CE0183,null,null,3,3,0,0.0
+ma.uscongress.worcestersouth.ballot3.1825,1825,John Davis,DJ0190,Federalist,A01,1890,1890,0,0.0
+ma.uscongress.worcestersouth.ballot3.1825,1825,Jonas Sibley,SJ0437,Republican,A03,1678,1678,0,0.0
+ma.uscongress.worcestersouth.ballot3.1825,1825,scattering,null,null,null,5,5,0,0.0
+ma.uscongress.worcestersouth.ballot3.1825,1825,Sumner Bastow,BS0117,Republican,A03,257,257,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,Austin Denny,DA0037,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,John Davis,DJ0190,Federalist,A01,1282,1282,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,Jonas Sibley,SJ0437,Republican,A03,1207,1207,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,Pliny Merrick,MP0084,null,null,3,3,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,Samuel M. Burnside,BS0122,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,scattering,null,null,null,3,3,0,0.0
+ma.uscongress.worcestersouth.ballot4.1825,1825,Thomas Howe,HT0161,null,null,1,1,0,0.0

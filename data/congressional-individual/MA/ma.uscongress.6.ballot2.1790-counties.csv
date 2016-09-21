@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Phanuel Bishop,BP0031,null,null,444
+2,Bristol,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,NA
+3,Bristol,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Walter Spooner,SW0151,null,null,348
+4,Bristol,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,George Leonard,LG0029,null,null,196
+5,Bristol,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,134
+1,Dukes,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Phanuel Bishop,BP0031,null,null,NA
+2,Dukes,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,13
+3,Dukes,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Walter Spooner,SW0151,null,null,4
+4,Dukes,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,George Leonard,LG0029,null,null,NA
+5,Dukes,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA
+1,Nantucket,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Phanuel Bishop,BP0031,null,null,NA
+2,Nantucket,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,389
+3,Nantucket,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Walter Spooner,SW0151,null,null,35
+4,Nantucket,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,George Leonard,LG0029,null,null,NA
+5,Nantucket,ma.uscongress.6.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA

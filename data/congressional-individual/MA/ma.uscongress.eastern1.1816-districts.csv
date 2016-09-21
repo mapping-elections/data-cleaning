@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.eastern1.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,John Holmes,HJ0336,Republican,A03,1,Eastern One,1793
+ma.uscongress.eastern1.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Cyrus King,KC0006,Federalist,A01,2,Eastern One,1158
+ma.uscongress.eastern1.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,scattering,null,null,null,3,Eastern One,93

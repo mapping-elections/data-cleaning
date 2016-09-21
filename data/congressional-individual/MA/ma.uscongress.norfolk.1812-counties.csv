@@ -1,0 +1,27 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,623
+2,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,267
+3,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,1
+4,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,null,null,2
+5,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,NA
+6,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Q. Adams,AJ0043,null,null,NA
+7,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Raefus P. Amory,AR0014,null,null,NA
+8,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Brewer,BW0141,null,null,1
+9,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Carman,CS0112,null,null,1
+10,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Benjamin Fuller,FB0017,null,null,NA
+11,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Moses Ingley,IM0000,null,null,NA
+12,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,null,null,NA
+13,Middlesex,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Stephen Sharp,SS0111,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,1917
+2,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1789
+3,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,11
+4,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,null,null,5
+5,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,2
+6,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Q. Adams,AJ0043,null,null,1
+7,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Raefus P. Amory,AR0014,null,null,1
+8,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Brewer,BW0141,null,null,NA
+9,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Carman,CS0112,null,null,NA
+10,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Benjamin Fuller,FB0017,null,null,1
+11,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Moses Ingley,IM0000,null,null,1
+12,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,null,null,1
+13,Norfolk,ma.uscongress.norfolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Stephen Sharp,SS0111,null,null,1

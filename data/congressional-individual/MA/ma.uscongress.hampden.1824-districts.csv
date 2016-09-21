@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Samuel Lathrop,LS0046,Federalist,A01,1,Hampden,1419
+ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,John Mills,MJ0299,Republican,A03,2,Hampden,1057
+ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Isaac C. Bates,BI0043,Federalist,A01,3,Hampden,329
+ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Thomas Shepherd,ST0058,Republican,A03,4,Hampden,104
+ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,scattering,null,null,null,5,Hampden,7

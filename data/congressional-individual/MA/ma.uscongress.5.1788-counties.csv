@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Partridge,PG0027,null,null,149
+2,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Warren,WJ0248,null,null,NA
+3,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Cushing,CN0013,null,null,NA
+4,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joshua Thomas,TJ0188,null,null,NA
+5,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Davis,DT0014,null,null,NA
+6,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Cushing,CW0068,null,null,NA
+7,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Gray,GJ0177,null,null,NA
+8,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Hall Jackson,JW0023,null,null,NA
+9,Barnstable,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Savage,SS0067,null,null,1
+1,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Partridge,PG0027,null,null,352
+2,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Warren,WJ0248,null,null,28
+3,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nathaniel Cushing,CN0013,null,null,13
+4,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joshua Thomas,TJ0188,null,null,4
+5,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Davis,DT0014,null,null,3
+6,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Cushing,CW0068,null,null,2
+7,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Gray,GJ0177,null,null,1
+8,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Hall Jackson,JW0023,null,null,1
+9,Plymouth,ma.uscongress.5.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Savage,SS0067,null,null,NA

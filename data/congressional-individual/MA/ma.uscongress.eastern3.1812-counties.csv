@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Samuel Davis,DS0018,Federalist,A01,1115
+2,Cumberland,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Ames,AB0008,Republican,A03,689
+3,Cumberland,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,J. F. Wingate,WJ0424,null,null,NA
+4,Cumberland,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,null,null,NA
+5,Cumberland,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,B. J. Porter,PB0034,null,null,1
+6,Cumberland,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Lincoln,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Samuel Davis,DS0018,Federalist,A01,952
+2,Lincoln,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Ames,AB0008,Republican,A03,603
+3,Lincoln,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,J. F. Wingate,WJ0424,null,null,17
+4,Lincoln,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,null,null,5
+5,Lincoln,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,B. J. Porter,PB0034,null,null,3
+6,Lincoln,ma.uscongress.eastern3.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,scattering,null,null,null,10

@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Plymouth,ma.uscongress.plymouth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Zabdial Sampson,SZ0002,Republican,A03,1321
+2,Plymouth,ma.uscongress.plymouth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,William Bourn,BW0192,Federalist,A01,894
+3,Plymouth,ma.uscongress.plymouth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,scattering,null,null,null,10

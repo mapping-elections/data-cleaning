@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Elijah Brigham,BE0103,Federalist,A01,117
+2,Middlesex,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Estes Howe,HE0037,Republican,A03,188
+3,Middlesex,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Jonas Sibley,SJ0437,Republican,A03,NA
+4,Middlesex,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Pliny Merrick,MP0066,Republican,A03,NA
+1,Worcester,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Elijah Brigham,BE0103,Federalist,A01,2513
+2,Worcester,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Estes Howe,HE0037,Republican,A03,1930
+3,Worcester,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Jonas Sibley,SJ0437,Republican,A03,27
+4,Worcester,ma.uscongress.worcestersouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Pliny Merrick,MP0066,Republican,A03,5

@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Henry Shaw,SH0031,Republican,A03,1995
+2,Berkshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Daniel Noble,ND0016,Federalist,A01,1740
+3,Berkshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William P. Walker,WW0322,null,null,6
+4,Berkshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,John Whiting,WJ0434,null,null,6
+5,Berkshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,scattering,null,null,null,57
+1,Hampshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Henry Shaw,SH0031,Republican,A03,20
+2,Hampshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Daniel Noble,ND0016,Federalist,A01,59
+3,Hampshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William P. Walker,WW0322,null,null,NA
+4,Hampshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,John Whiting,WJ0434,null,null,NA
+5,Hampshire,ma.uscongress.berkshire.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

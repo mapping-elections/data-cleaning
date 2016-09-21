@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Barnstable,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Read,RJ0539,Federalist,A01,655
+2,Barnstable,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,143
+3,Barnstable,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Dukes,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Read,RJ0539,Federalist,A01,48
+2,Dukes,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,6
+3,Dukes,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Nantucket,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Read,RJ0539,Federalist,A01,37
+2,Nantucket,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,498
+3,Nantucket,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Plymouth,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Read,RJ0539,Federalist,A01,117
+2,Plymouth,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,99
+3,Plymouth,ma.uscongress.barnstable.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,Federalist,A01,667
+2,Franklin,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Solomon Smead,SS0117,null,null,1
+3,Franklin,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Elijah Alvord,AE0031,null,null,1
+4,Franklin,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Varney Pierce,PV0005,null,null,1
+5,Franklin,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,"George Grennell, Jr.",GG0026,null,null,1
+6,Franklin,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Hampshire,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,Federalist,A01,291
+2,Hampshire,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Solomon Smead,SS0117,null,null,NA
+3,Hampshire,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Elijah Alvord,AE0031,null,null,NA
+4,Hampshire,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Varney Pierce,PV0005,null,null,NA
+5,Hampshire,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,"George Grennell, Jr.",GG0026,null,null,NA
+6,Hampshire,ma.uscongress.franklin.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,null,null,215
+2,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,E. H. Robbins,RE0018,null,null,144
+3,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Elijah Crane,CE0034,null,null,NA
+4,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,null,null,NA
+5,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Fisher,FE0012,null,null,NA
+6,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy Jackson,JT0025,null,null,1
+7,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Joseph Varl,VJ0040,null,null,NA
+8,Middlesex,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Moses Wadsworth,WM0031,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,null,null,1075
+2,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,E. H. Robbins,RE0018,null,null,542
+3,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Elijah Crane,CE0034,null,null,10
+4,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,null,null,7
+5,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Fisher,FE0012,null,null,1
+6,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy Jackson,JT0025,null,null,NA
+7,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Joseph Varl,VJ0040,null,null,1
+8,Norfolk,ma.uscongress.norfolk.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Moses Wadsworth,WM0031,null,null,1

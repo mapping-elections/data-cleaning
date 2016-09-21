@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.cumberland.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Daniel Ilsley,ID0002,Republican,A03,1,1557
+ma.uscongress.cumberland.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Ezekiel Whitman,WE0022,Federalist,A01,2,1410
+ma.uscongress.cumberland.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Cumberland District",U.S. House of Representatives,ON125,Woodbury Moses,MW0102,null,null,3,2

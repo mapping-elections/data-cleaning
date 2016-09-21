@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Samuel S. Conner,CS0086,Republican,A03,879
+2,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Timothy Boutelle,BT0009,null,null,656
+3,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,William Read,RW0085,Federalist,A01,NA
+4,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,null,null,5
+5,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,William Kendell,KW0012,null,null,NA
+6,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,null,null,2
+7,Kennebec,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Reuben Kidder,KR0005,null,null,1
+1,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Samuel S. Conner,CS0086,Republican,A03,439
+2,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Timothy Boutelle,BT0009,null,null,648
+3,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,William Read,RW0085,Federalist,A01,41
+4,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,null,null,NA
+5,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,William Kendell,KW0012,null,null,3
+6,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,null,null,NA
+7,Somerset,ma.uscongress.eastern6.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Reuben Kidder,KR0005,null,null,NA

@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Goodhue,GB0015,Federalist,A01,1,567
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Jackson,JJ0071,Federalist,A01,2,392
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Nathan Dane,DN0011,Anti-Federalist,A02,3,295
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Holton,HS0071,Anti-Federalist,A02,4,202
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Phillips,PS0029,null,null,5,10
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Titcomb,TJ0154,null,null,6,2
+ma.uscongress.2.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George Cabot,CG0068,Federalist,A01,7,1

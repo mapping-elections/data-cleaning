@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.plymouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Aaron Hobart,HA0079,Republican,A03,1,Plymouth,1206
+ma.uscongress.plymouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Cushing Otis,OC0009,Federalist,A01,2,Plymouth,869
+ma.uscongress.plymouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Charles Turner,TC0016,null,null,3,Plymouth,1
+ma.uscongress.plymouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,scattering,null,null,null,4,Plymouth,1

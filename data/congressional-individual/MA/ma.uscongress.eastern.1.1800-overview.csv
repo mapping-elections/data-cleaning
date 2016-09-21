@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Silas Lee,LS0019,Federalist,A01,1,667
+ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Henry Dearborn,DH0026,Republican,A03,2,544
+ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Oliver Leonard,LO0002,null,null,3,19
+ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,4,17
+ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Alexander Campbell,CA0083,Federalist,A01,5,7

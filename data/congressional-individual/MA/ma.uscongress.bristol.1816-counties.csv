@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Marcus Morton,MM0019,Republican,A03,1390
+2,Bristol,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Samuel Crocker,CS0057,null,null,1349
+3,Bristol,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Apollos Tobey,TA0030,null,null,45
+4,Bristol,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Samuel Crack,CS0106,null,null,23
+5,Bristol,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Gamaliel Church,CG0038,null,null,5
+6,Bristol,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,15
+1,Norfolk,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Marcus Morton,MM0019,Republican,A03,197
+2,Norfolk,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Samuel Crocker,CS0057,null,null,102
+3,Norfolk,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Apollos Tobey,TA0030,null,null,NA
+4,Norfolk,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Samuel Crack,CS0106,null,null,NA
+5,Norfolk,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Gamaliel Church,CG0038,null,null,NA
+6,Norfolk,ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,8

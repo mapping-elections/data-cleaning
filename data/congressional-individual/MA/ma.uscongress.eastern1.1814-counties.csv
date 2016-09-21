@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,York,ma.uscongress.eastern1.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Cyrus King,KC0006,Federalist,A01,1941
+2,York,ma.uscongress.eastern1.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,John Holmes,HJ0336,null,null,1714
+3,York,ma.uscongress.eastern1.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Alexander MacIntire,MA0085,null,null,2
+4,York,ma.uscongress.eastern1.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Benjamin Greene,GB0020,null,null,1
+5,York,ma.uscongress.eastern1.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,John MacDonald,MJ0015,null,null,1

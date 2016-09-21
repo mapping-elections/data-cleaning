@@ -1,0 +1,8 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Asahel Stearns,SA0066,Federalist,A01,2413
+2,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Samuel Dana,DS0058,Republican,A03,2101
+3,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Leonard Hunnewell,HL0022,null,null,2
+4,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,J. Bartlett,BJ0412,null,null,1
+5,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,J. Locke,LJ0184,null,null,1
+6,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,J. Rice,RJ0259,null,null,1
+7,Middlesex,ma.uscongress.middlesex.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,scattering,null,null,null,4

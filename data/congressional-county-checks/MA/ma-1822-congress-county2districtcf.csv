@@ -1,0 +1,60 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.berkshire.1822,1822,Henry W. Dwight,DH0008,Federalist,A01,1887,3,-1884,1.0
+ma.uscongress.norfolk.1822,1822,William Eustis,EW0031,Republican,A03,1376,30,-1346,0.98
+ma.uscongress.berkshire.1822,1822,William C. Jarvis,JW0029,Republican,A03,1150,21,-1129,0.98
+ma.uscongress.middlesex.1822,1822,Timothy Fuller,FT0028,Republican,A03,1053,16,-1037,0.98
+ma.uscongress.franklin.1822,1822,scattering,null,null,null,1,90,89,0.99
+ma.uscongress.norfolk.1822,1822,scattering,null,null,null,88,4,-84,0.95
+ma.uscongress.plymouth.1822,1822,Charles Turner,TC0016,null,null,0,1,1,1.0
+ma.uscongress.plymouth.1822,1822,scattering,null,null,null,0,1,1,1.0
+ma.uscongress.barnstable.1822,1822,John Read,RJ0539,Federalist,A01,857,857,0,0.0
+ma.uscongress.barnstable.1822,1822,scattering,null,null,null,1,1,0,0.0
+ma.uscongress.barnstable.1822,1822,"Walter Folger, Jr.",FW0026,Republican,A03,746,746,0,0.0
+ma.uscongress.berkshire.1822,1822,Henry W. Dwight,DH0008,Federalist,A01,1887,1887,0,0.0
+ma.uscongress.berkshire.1822,1822,scattering,null,null,null,170,170,0,0.0
+ma.uscongress.berkshire.1822,1822,William C. Jarvis,JW0029,Republican,A03,1150,1150,0,0.0
+ma.uscongress.bristol.1822,1822,Francis Bayliss,BF0013,Federalist,A01,1297,1297,0,0.0
+ma.uscongress.bristol.1822,1822,Hercules Cushman,CH0088,Republican,A03,661,661,0,0.0
+ma.uscongress.bristol.1822,1822,scattering,null,null,null,10,10,0,0.0
+ma.uscongress.essexnorth.1822,1822,Amos Spalding,SA0077,Republican,A03,211,211,0,0.0
+ma.uscongress.essexnorth.1822,1822,Jeremiah Nelson,NJ0045,Federalist,A01,667,667,0,0.0
+ma.uscongress.essexnorth.1822,1822,scattering,null,null,null,37,37,0,0.0
+ma.uscongress.essexsouth.1822,1822,Benjamin Crowninshield,CB0039,Republican,A03,916,916,0,0.0
+ma.uscongress.essexsouth.1822,1822,Benjamin Merrill,MB0008,Federalist,A01,794,794,0,0.0
+ma.uscongress.essexsouth.1822,1822,scattering,null,null,null,11,11,0,0.0
+ma.uscongress.essexsouth.1822,1822,Willard Peele,PW0074,Federalist,A01,183,183,0,0.0
+ma.uscongress.franklin.1822,1822,Elijah Alvord,AE0031,null,null,1,1,0,0.0
+ma.uscongress.franklin.1822,1822,"George Grennell, Jr.",GG0026,null,null,1,1,0,0.0
+ma.uscongress.franklin.1822,1822,Samuel C. Allen,AS0024,Federalist,A01,958,958,0,0.0
+ma.uscongress.franklin.1822,1822,Solomon Smead,SS0117,null,null,1,1,0,0.0
+ma.uscongress.franklin.1822,1822,Varney Pierce,PV0005,null,null,1,1,0,0.0
+ma.uscongress.hampden.1822,1822,Jonathan H. Lyman,LJ0193,null,null,4,4,0,0.0
+ma.uscongress.hampden.1822,1822,Lewis Strong,SL0007,null,null,8,8,0,0.0
+ma.uscongress.hampden.1822,1822,Samuel L. Lathrop,LS0046,Federalist,A01,907,907,0,0.0
+ma.uscongress.hampden.1822,1822,scattering,null,null,null,5,5,0,0.0
+ma.uscongress.hampden.1822,1822,Thomas Shepard,ST0058,Democrat,A03,231,231,0,0.0
+ma.uscongress.middlesex.1822,1822,John Wade,WJ0393,null,null,5,5,0,0.0
+ma.uscongress.middlesex.1822,1822,Levi Thaxter,TL0017,null,null,5,5,0,0.0
+ma.uscongress.middlesex.1822,1822,scattering,null,null,null,35,35,0,0.0
+ma.uscongress.middlesex.1822,1822,Thomas Harris,HT0071,null,null,82,82,0,0.0
+ma.uscongress.middlesex.1822,1822,Timothy Fuller,FT0028,Republican,A03,1053,1053,0,0.0
+ma.uscongress.norfolk.1822,1822,James Richardson,RJ0147,null,null,23,23,0,0.0
+ma.uscongress.norfolk.1822,1822,Minott Thayer,TM0016,Federalist,A01,49,49,0,0.0
+ma.uscongress.norfolk.1822,1822,Robert Sullivan,SR0073,Federalist,A01,93,93,0,0.0
+ma.uscongress.norfolk.1822,1822,scattering,null,null,null,88,88,0,0.0
+ma.uscongress.norfolk.1822,1822,William Eustis,EW0031,Republican,A03,1376,1376,0,0.0
+ma.uscongress.plymouth.1822,1822,Aaron Hobart,HA0079,Republican,A03,1206,1206,0,0.0
+ma.uscongress.plymouth.1822,1822,Cushing Otis,OC0009,Federalist,A01,869,869,0,0.0
+ma.uscongress.worcesternorth.1822,1822,James Kendall,KJ0108,Federalist,A01,528,528,0,0.0
+ma.uscongress.worcesternorth.1822,1822,John Shipley,SJ1465,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1822,1822,Lewis Bigelow,BL0037,Federalist,A01,747,747,0,0.0
+ma.uscongress.worcesternorth.1822,1822,Luther Lawrence,LL0046,Federalist,A01,17,17,0,0.0
+ma.uscongress.worcesternorth.1822,1822,Samuel Dana,DS0058,Republican,A03,935,935,0,0.0
+ma.uscongress.worcesternorth.1822,1822,scattering,null,null,null,13,13,0,0.0
+ma.uscongress.worcesternorth.1822,1822,Stephen P. Gardner,GS0049,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1822,1822,Benjamin Adams,AB0010,Federalist,A01,1131,1131,0,0.0
+ma.uscongress.worcestersouth.1822,1822,Edward D. Bangs,BE0136,null,null,3,3,0,0.0
+ma.uscongress.worcestersouth.1822,1822,Jonas Sibley,SJ0437,Republican,A03,1193,1193,0,0.0
+ma.uscongress.worcestersouth.1822,1822,Levi Lincoln,LL0044,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1822,1822,scattering,null,null,null,52,52,0,0.0
+ma.uscongress.worcestersouth.1822,1822,Seth Hastings,HS0073,Federalist,A01,116,116,0,0.0

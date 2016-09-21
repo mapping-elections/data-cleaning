@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.suffolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,James Lloyd,LJ0107,Federalist,A01,21
+2,Middlesex,ma.uscongress.suffolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Benjamin Austen,AB0013,null,null,18
+3,Middlesex,ma.uscongress.suffolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Sullivan,SW0098,Federalist,A01,NA
+1,Suffolk,ma.uscongress.suffolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,James Lloyd,LJ0107,Federalist,A01,848
+2,Suffolk,ma.uscongress.suffolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Benjamin Austen,AB0013,null,null,NA
+3,Suffolk,ma.uscongress.suffolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Sullivan,SW0098,Federalist,A01,1

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.plymouth.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,"Charles Turner, Jr.",TC0016,Republican,A03,1,Plymouth,1642
+ma.uscongress.plymouth.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,William Baylies,BW0156,Federalist,A01,2,Plymouth,1429
+ma.uscongress.plymouth.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,William Davis,DW0073,null,null,3,Plymouth,1

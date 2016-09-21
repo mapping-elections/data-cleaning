@@ -1,0 +1,82 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.berkshire.1824,1824,Henry W. Dwight,DH0008,Federalist,A01,1921,7,-1914,1.0
+ma.uscongress.middlesex.1824,1824,Edward Everett,EE0018,Republican,A03,1905,8,-1897,1.0
+ma.uscongress.norfolk.ballot2.1824,1824,John Bailey,BJ0321,Republican,A03,1608,36,-1572,0.98
+ma.uscongress.norfolk.ballot2.1824,1824,Sherman Leland,LS0020,null,null,1426,8,-1418,0.99
+ma.uscongress.berkshire.1824,1824,Nathan Willis,WN0022,Republican,A03,1385,11,-1374,0.99
+ma.uscongress.middlesex.1824,1824,John Keyes,KJ0100,null,null,1357,28,-1329,0.98
+ma.uscongress.norfolk.1824,1824,John Bailey,BJ0321,Republican,A03,1140,23,-1117,0.98
+ma.uscongress.norfolk.1824,1824,Richard Sullivan,SR0113,Federalist,A01,699,14,-685,0.98
+ma.uscongress.norfolk.1824,1824,Samuel Bugbee,BS0033,Republican,A03,593,2,-591,1.0
+ma.uscongress.norfolk.ballot2.1824,1824,Rufus G. Amory,AR0014,null,null,169,3,-166,0.98
+ma.uscongress.norfolk.ballot2.1824,1824,scattering,null,null,null,85,1,-84,0.99
+ma.uscongress.essexnorth.1824,1824,scattering,null,null,null,0,68,68,1.0
+ma.uscongress.franklin.1824,1824,Samuel C. Allen,AS0024,Federalist,A01,1214,1251,37,0.03
+ma.uscongress.norfolk.1824,1824,John Bailey,BJ0321,Republican,A03,1140,1171,31,0.03
+ma.uscongress.hampden.1824,1824,Isaac C. Bates,BI0043,Federalist,A01,304,329,25,0.08
+ma.uscongress.franklin.1824,1824,Elihu Lyman,LE0021,Republican,A03,209,217,8,0.04
+ma.uscongress.hampden.1824,1824,scattering,null,null,null,0,7,7,1.0
+ma.uscongress.norfolk.1824,1824,Richard Sullivan,SR0113,Federalist,A01,699,705,6,0.01
+ma.uscongress.franklin.1824,1824,Thomas Longley,LT0102,null,null,0,4,4,1.0
+ma.uscongress.plymouth.1824,1824,Ebenezer Gay,GE0012,null,null,293,296,3,0.01
+ma.uscongress.barnstable.1824,1824,scattering,null,null,null,0,1,1,1.0
+ma.uscongress.norfolk.1824,1824,Samuel Bugbee,BS0033,Republican,A03,593,594,1,0.0
+ma.uscongress.barnstable.1824,1824,Barker Burnall,BB0021,Republican,A03,460,460,0,0.0
+ma.uscongress.barnstable.1824,1824,John Reed,RJ0539,Federalist,A01,1049,1049,0,0.0
+ma.uscongress.barnstable.1824,1824,Walter Folger,FW0026,Republican,A03,297,297,0,0.0
+ma.uscongress.berkshire.1824,1824,Henry W. Dwight,DH0008,Federalist,A01,1921,1921,0,0.0
+ma.uscongress.berkshire.1824,1824,Nathan Willis,WN0022,Republican,A03,1385,1385,0,0.0
+ma.uscongress.berkshire.1824,1824,scattering,null,null,null,61,61,0,0.0
+ma.uscongress.bristol.1824,1824,Francis Bayliss,BF0013,Federalist,A01,1181,1181,0,0.0
+ma.uscongress.bristol.1824,1824,Hercules Cushman,CH0088,Republican,A03,95,95,0,0.0
+ma.uscongress.bristol.1824,1824,James L. Hodges,HJ0392,Republican,A03,1097,1097,0,0.0
+ma.uscongress.bristol.1824,1824,scattering,null,null,null,24,24,0,0.0
+ma.uscongress.essexnorth.1824,1824,John Merrill,MJ0296,Federalist,A01,1342,1342,0,0.0
+ma.uscongress.essexnorth.1824,1824,John Varnum,VJ0043,Republican,A03,1369,1369,0,0.0
+ma.uscongress.essexsouth.1824,1824,Asa T. Newhall,NA0024,null,null,33,33,0,0.0
+ma.uscongress.essexsouth.1824,1824,B. W. Crowninshield,CB0039,Republican,A03,1379,1379,0,0.0
+ma.uscongress.essexsouth.1824,1824,Frederick Howes,HF0012,Federalist,A01,760,760,0,0.0
+ma.uscongress.essexsouth.1824,1824,scattering,null,null,null,109,109,0,0.0
+ma.uscongress.essexsouth.1824,1824,Stephen White,WS0087,null,null,43,43,0,0.0
+ma.uscongress.essexsouth.1824,1824,Willard Peele,PW0074,null,null,51,51,0,0.0
+ma.uscongress.franklin.1824,1824,"George Grennall, Jr.",GG0026,Republican,A03,1273,1273,0,0.0
+ma.uscongress.franklin.1824,1824,Thomas Mason,MT0017,null,null,55,55,0,0.0
+ma.uscongress.hampden.1824,1824,John Mills,MJ0299,Republican,A03,1057,1057,0,0.0
+ma.uscongress.hampden.1824,1824,Samuel Lathrop,LS0046,Federalist,A01,1419,1419,0,0.0
+ma.uscongress.hampden.1824,1824,Thomas Shepherd,ST0058,Republican,A03,104,104,0,0.0
+ma.uscongress.middlesex.1824,1824,Edward Everett,EE0018,Republican,A03,1905,1905,0,0.0
+ma.uscongress.middlesex.1824,1824,John Keyes,KJ0100,null,null,1357,1357,0,0.0
+ma.uscongress.middlesex.1824,1824,Levi Thaxter,TL0017,null,null,46,46,0,0.0
+ma.uscongress.middlesex.1824,1824,scattering,null,null,null,50,50,0,0.0
+ma.uscongress.norfolk.1824,1824,Ebenezer Seaver,SE0023,Republican,A03,45,45,0,0.0
+ma.uscongress.norfolk.1824,1824,John Endicot,EJ0102,null,null,1,1,0,0.0
+ma.uscongress.norfolk.1824,1824,scattering,null,null,null,79,79,0,0.0
+ma.uscongress.norfolk.1824,1824,Sherman Leland,LS0020,null,null,92,92,0,0.0
+ma.uscongress.norfolk.ballot2.1824,1824,Ebenezer Seaver,SE0023,null,null,14,14,0,0.0
+ma.uscongress.norfolk.ballot2.1824,1824,John Bailey,BJ0321,Republican,A03,1608,1608,0,0.0
+ma.uscongress.norfolk.ballot2.1824,1824,Richard Sullivan,SR0113,null,null,14,14,0,0.0
+ma.uscongress.norfolk.ballot2.1824,1824,Rufus G. Amory,AR0014,null,null,169,169,0,0.0
+ma.uscongress.norfolk.ballot2.1824,1824,scattering,null,null,null,85,85,0,0.0
+ma.uscongress.norfolk.ballot2.1824,1824,Sherman Leland,LS0020,null,null,1426,1426,0,0.0
+ma.uscongress.plymouth.1824,1824,Aaron Hobart,HA0079,Republican,A03,1606,1606,0,0.0
+ma.uscongress.plymouth.1824,1824,scattering,null,null,null,31,31,0,0.0
+ma.uscongress.plymouth.1824,1824,William Baylies,BW0156,Federalist,A01,260,260,0,0.0
+ma.uscongress.suffolk.1824,1824,Daniel Webster,WD0028,Federalist,A01,3669,3669,0,0.0
+ma.uscongress.suffolk.1824,1824,scattering,null,null,null,3,3,0,0.0
+ma.uscongress.worcesternorth.1824,1824,Eleazer James,JE0010,null,null,365,365,0,0.0
+ma.uscongress.worcesternorth.1824,1824,Ivers Jewett,JI0015,null,null,2,2,0,0.0
+ma.uscongress.worcesternorth.1824,1824,John Locke,LJ0184,Federalist,A01,1524,1524,0,0.0
+ma.uscongress.worcesternorth.1824,1824,Jonas Kendall,KJ0066,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1824,1824,Joseph G. Kendall,KJ0074,null,null,423,423,0,0.0
+ma.uscongress.worcesternorth.1824,1824,Joseph Locke,LJ0196,null,null,4,4,0,0.0
+ma.uscongress.worcesternorth.1824,1824,Samuel Dana,DS0058,Republican,A03,186,186,0,0.0
+ma.uscongress.worcesternorth.1824,1824,scattering,null,null,null,10,10,0,0.0
+ma.uscongress.worcestersouth.1824,1824,"Bezaleel Taft, Jr.",TB0029,Federalist,A01,212,212,0,0.0
+ma.uscongress.worcestersouth.1824,1824,John Davis,DJ0190,Federalist,A01,1517,1517,0,0.0
+ma.uscongress.worcestersouth.1824,1824,Jonas Sibley,SJ0437,Republican,A03,1080,1080,0,0.0
+ma.uscongress.worcestersouth.1824,1824,Otis Corbett,CO0014,null,null,3,3,0,0.0
+ma.uscongress.worcestersouth.1824,1824,Richard George,GR0067,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1824,1824,Samuel Eastman,ES0007,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1824,1824,scattering,null,null,null,8,8,0,0.0
+ma.uscongress.worcestersouth.1824,1824,Sumner Bastow,BS0117,Republican,A03,649,649,0,0.0
+ma.uscongress.worcestersouth.1824,1824,Thomas Chamberlain,CT0200,null,null,1,1,0,0.0

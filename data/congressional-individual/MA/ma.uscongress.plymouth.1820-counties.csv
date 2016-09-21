@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Plymouth,ma.uscongress.plymouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Aaron Hobart,HA0079,Republican,A03,1237
+2,Plymouth,ma.uscongress.plymouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,William Bayliss,BW0156,Federalist,A01,1037
+3,Plymouth,ma.uscongress.plymouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Charles Turner,TC0016,null,null,1
+4,Plymouth,ma.uscongress.plymouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,scattering,null,null,null,67

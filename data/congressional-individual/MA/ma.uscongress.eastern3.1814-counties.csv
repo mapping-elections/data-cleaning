@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,Federalist,A01,55
+2,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Abiel Wood,WA0060,null,null,56
+3,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Josiah Stebbins,SJ0033,null,null,NA
+4,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,null,null,NA
+5,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,null,null,NA
+6,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Jeremiah Bayley,BJ0503,null,null,NA
+7,Hancock,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,William Bowman,BW0162,null,null,NA
+1,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,Federalist,A01,929
+2,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Abiel Wood,WA0060,null,null,555
+3,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Josiah Stebbins,SJ0033,null,null,32
+4,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,null,null,29
+5,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,null,null,8
+6,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Jeremiah Bayley,BJ0503,null,null,NA
+7,Lincoln,ma.uscongress.eastern3.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,William Bowman,BW0162,null,null,NA

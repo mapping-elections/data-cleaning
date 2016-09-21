@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.eastern5.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,James Parker,PJ0005,Republican,A03,1,Eastern Five,696
+ma.uscongress.eastern5.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Thomas Rice,RT0039,Federalist,A01,2,Eastern Five,658
+ma.uscongress.eastern5.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,3,Eastern Five,238
+ma.uscongress.eastern5.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,scattering,null,null,null,4,Eastern Five,14

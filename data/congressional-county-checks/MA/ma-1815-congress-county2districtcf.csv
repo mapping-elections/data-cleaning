@@ -1,0 +1,12 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.eastern4.ballot2.1815,1815,James Carr,CJ0285,null,null,1854,1854,0,0.0
+ma.uscongress.eastern4.ballot2.1815,1815,John Wilson,WJ0313,null,null,1400,1400,0,0.0
+ma.uscongress.eastern4.ballot2.1815,1815,Martin Kinsley,KM0013,null,null,45,45,0,0.0
+ma.uscongress.eastern4.ballot2.1815,1815,Samuel Dexter,DS0053,Federalist,A01,1,1,0,0.0
+ma.uscongress.eastern4.ballot2.1815,1815,scattering,null,null,null,4,4,0,0.0
+ma.uscongress.eastern6.ballot2.1815,1815,Joshua Cushman,CJ0007,null,null,1,1,0,0.0
+ma.uscongress.eastern6.ballot2.1815,1815,Reuben Kidder,KR0005,null,null,1,1,0,0.0
+ma.uscongress.eastern6.ballot2.1815,1815,Samuel S. Conner,CS0086,null,null,1754,1754,0,0.0
+ma.uscongress.eastern6.ballot2.1815,1815,Timothy Boutelle,BT0009,null,null,1591,1591,0,0.0
+ma.uscongress.eastern6.ballot2.1815,1815,William Kendall,KW0012,null,null,2,2,0,0.0
+ma.uscongress.eastern6.ballot2.1815,1815,"William Stevens, Jr.",SW0177,null,null,1,1,0,0.0

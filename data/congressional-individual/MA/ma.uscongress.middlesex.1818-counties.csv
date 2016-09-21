@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.middlesex.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Timothy Fuller,FT0028,Republican,A03,1316
+2,Middlesex,ma.uscongress.middlesex.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Samuel P.P. Fay,FS0064,Federalist,A01,744
+3,Middlesex,ma.uscongress.middlesex.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,scattering,null,null,null,5

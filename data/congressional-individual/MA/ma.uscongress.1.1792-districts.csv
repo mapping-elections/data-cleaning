@@ -1,0 +1,38 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,John C. Jones,JJ0099,null,null,1,One,814
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,2,One,533
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,2,Dover,13
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,James Bowdoin,BJ0467,null,null,3,One,475
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Samuel Holton,HS0071,null,null,4,One,125
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Samuel Holton,HS0071,null,null,4,Lynnfield,1
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Theophilus Parsons,PT0090,Federalist,A01,5,One,122
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Theophilus Parsons,PT0090,Federalist,A01,5,Lynnfield,19
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,"Samuel Dexter, Jr.",DS0053,Federalist,A01,6,One,95
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,"Samuel Dexter, Jr.",DS0053,Federalist,A01,6,Carlisle,10
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,"Samuel Dexter, Jr.",DS0053,Federalist,A01,6,Tyngsborough,13
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,William Eustis,EW0031,null,null,7,One,93
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,8,One,93
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,null,null,9,One,65
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Samuel Phillips,PS0029,null,null,10,One,54
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Charles Jarves,JC0015,null,null,11,One,51
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Stephen Cross,CS0088,null,null,12,One,36
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Oliver Prescott,PO0007,null,null,13,One,31
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Azor Orne,OA0008,null,null,14,One,28
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,James Warren,WJ0248,null,null,15,One,27
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,James Warren,WJ0248,null,null,15,Dover,1
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,null,null,16,One,22
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Tristram Dalton,DT0022,null,null,17,One,22
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,John Brooks,BJ0505,Federalist,A01,18,One,20
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,"Benjamin Austin, Jr.",AB0013,null,null,19,One,21
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Leammi Baldwin,BL0023,null,null,20,One,14
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Baily Bartlett,BB0019,Federalist,A01,21,One,14
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Samuel Sewall,SS0068,Federalist,A01,22,One,11
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,23,One,10
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Fisher Ames,AF0004,Federalist,A01,24,One,8
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Theophilus Bradbury,BT0080,null,null,25,One,7
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Parker Varnum,VP0021,null,null,26,One,5
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Joseph Hanson,HJ0391,null,null,28,One,3
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Benjamin Goodhue,GB0015,Federalist,A01,29,One,2
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Dudley Atkins Kong,KD0018,null,null,30,One,1
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Cotton Tufts,TC0017,null,null,31,One,1
+ma.uscongress.1.1792,1792-10,1792,General,"Massachusetts 1792 U.S. House of Representatives, District 1, At-Large",U.S. House of Representatives,ON125,Ebenezer,null,null,null,32,One,1

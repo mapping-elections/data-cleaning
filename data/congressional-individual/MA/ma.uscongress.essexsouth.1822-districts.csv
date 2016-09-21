@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.essexsouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Benjamin Crowninshield,CB0039,Republican,A03,1,Essex South,916
+ma.uscongress.essexsouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Benjamin Merrill,MB0008,Federalist,A01,2,Essex South,794
+ma.uscongress.essexsouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Willard Peele,PW0074,Federalist,A01,3,Essex South,183
+ma.uscongress.essexsouth.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,scattering,null,null,null,4,Essex South,11

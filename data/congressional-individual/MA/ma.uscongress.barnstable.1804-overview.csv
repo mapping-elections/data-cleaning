@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.barnstable.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah Lewis Green,GI0007,Republican,A03,1,979
+ma.uscongress.barnstable.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Lemuel Williams,WL0031,Federalist,A01,2,638
+ma.uscongress.barnstable.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Samuel Perry,PS0060,null,null,3,1

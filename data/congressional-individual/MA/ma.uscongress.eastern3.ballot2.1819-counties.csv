@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Republican,A03,94
+2,Hancock,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,null,null,95
+3,Hancock,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,Joshua Head,HJ0009,null,null,NA
+4,Hancock,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,William King,KW0033,null,null,16
+5,Hancock,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Lincoln,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Republican,A03,1090
+2,Lincoln,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,null,null,854
+3,Lincoln,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,Joshua Head,HJ0009,null,null,167
+4,Lincoln,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,William King,KW0033,null,null,NA
+5,Lincoln,ma.uscongress.eastern3.ballot2.1819,1819-04,1819,General,"Massachusetts 1819 U.S. House of Representatives, Eastern District #3, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA

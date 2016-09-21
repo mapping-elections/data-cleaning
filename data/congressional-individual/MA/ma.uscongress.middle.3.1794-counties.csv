@@ -1,0 +1,28 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Benjamin Goodhue,GB0015,Federalist,A01,274
+2,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,55
+3,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Leammi Baldwin,BL0023,null,null,NA
+4,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,John Brooks,BJ0505,Federalist,A01,NA
+5,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Edward Pulling,PE0039,null,null,15
+6,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Azor Orne,OA0008,null,null,1
+7,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,"Elias Haskel Derby, Jr.",DE0011,Federalist,A01,8
+8,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,John Cabot,CJ0287,null,null,1
+9,Essex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Samuel Sewall,SS0068,Federalist,A01,NA
+1,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Benjamin Goodhue,GB0015,Federalist,A01,93
+2,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,116
+3,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Leammi Baldwin,BL0023,null,null,92
+4,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,John Brooks,BJ0505,Federalist,A01,30
+5,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Edward Pulling,PE0039,null,null,1
+6,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Azor Orne,OA0008,null,null,NA
+7,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,"Elias Haskel Derby, Jr.",DE0011,Federalist,A01,NA
+8,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,John Cabot,CJ0287,null,null,NA
+9,Middlesex,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Samuel Sewall,SS0068,Federalist,A01,1
+1,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Benjamin Goodhue,GB0015,Federalist,A01,NA
+2,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,NA
+3,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Leammi Baldwin,BL0023,null,null,NA
+4,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,John Brooks,BJ0505,Federalist,A01,NA
+5,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Edward Pulling,PE0039,null,null,NA
+6,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Azor Orne,OA0008,null,null,11
+7,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,"Elias Haskel Derby, Jr.",DE0011,Federalist,A01,NA
+8,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,John Cabot,CJ0287,null,null,NA
+9,Suffolk,ma.uscongress.middle.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 3",U.S. House of Representatives,ON125,Samuel Sewall,SS0068,Federalist,A01,NA

@@ -1,0 +1,8 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Benjamin Goodhue,GB0015,Federalist,A01,1027
+2,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,129
+3,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Azor Orne,OA0008,null,null,9
+4,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Nathan Dane,DN0011,Federalist,A01,6
+5,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Theophilus Parsons,PT0090,Federalist,A01,6
+6,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Daniel Kilham,KD0021,null,null,3
+7,Essex,ma.uscongress.2.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Sewall,SS0068,Federalist,A01,2

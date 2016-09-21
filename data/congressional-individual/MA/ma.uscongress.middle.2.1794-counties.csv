@@ -1,0 +1,37 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,"Samuel Dexter, Jr.",DS0053,Federalist,A01,542
+2,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,402
+3,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joseph Bradley Varnum,VJ0024,null,null,409
+4,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,7
+5,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Charles Stearns,SC0033,null,null,13
+6,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,null,null,5
+7,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Francis Champney,CF0002,null,null,3
+8,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Samuel Bartlett,BS0058,null,null,2
+9,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,2
+10,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Andrew Peters,PA0046,null,null,NA
+11,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,James Prescott,PJ0193,null,null,2
+12,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Oliver Prescott,PO0007,null,null,2
+13,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Zacheus Wright,WZ0004,null,null,2
+14,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Edward Barnes,BE0030,null,null,1
+15,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Francis Dana,DF0019,Federalist,A01,NA
+16,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Abril Heywood,HA0103,null,null,1
+17,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elias Richardson,RE0034,null,null,1
+18,Middlesex,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joseph Shed,SJ0485,null,null,1
+1,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,"Samuel Dexter, Jr.",DS0053,Federalist,A01,136
+2,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,95
+3,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joseph Bradley Varnum,VJ0024,null,null,52
+4,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,7
+5,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Charles Stearns,SC0033,null,null,NA
+6,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,null,null,NA
+7,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Francis Champney,CF0002,null,null,NA
+8,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Samuel Bartlett,BS0058,null,null,NA
+9,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,NA
+10,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Andrew Peters,PA0046,null,null,2
+11,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,James Prescott,PJ0193,null,null,NA
+12,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Oliver Prescott,PO0007,null,null,NA
+13,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Zacheus Wright,WZ0004,null,null,NA
+14,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Edward Barnes,BE0030,null,null,NA
+15,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Francis Dana,DF0019,Federalist,A01,1
+16,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Abril Heywood,HA0103,null,null,NA
+17,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elias Richardson,RE0034,null,null,NA
+18,Worcester,ma.uscongress.middle.2.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joseph Shed,SJ0485,null,null,NA

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.middle.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,1,2790
+ma.uscongress.middle.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,2,2486
+ma.uscongress.middle.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,Oliver Everett,EO0002,Federalist,A01,3,2
+ma.uscongress.middle.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Bosson,BW0187,null,null,4,1

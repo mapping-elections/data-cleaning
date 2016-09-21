@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Leonard,LG0029,Federalist,A01,566
+2,Bristol,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Phaneul Bishop,BP0031,Anti-Federalist,A02,342
+3,Bristol,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,203
+4,Bristol,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Rolch,RW0098,null,null,NA
+5,Bristol,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Paul Sanford,SP0038,null,null,1
+1,Dukes,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Leonard,LG0029,Federalist,A01,NA
+2,Dukes,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Phaneul Bishop,BP0031,Anti-Federalist,A02,NA
+3,Dukes,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,38
+4,Dukes,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Rolch,RW0098,null,null,22
+5,Dukes,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Paul Sanford,SP0038,null,null,NA
+1,Nantucket,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Leonard,LG0029,Federalist,A01,144
+2,Nantucket,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Phaneul Bishop,BP0031,Anti-Federalist,A02,NA
+3,Nantucket,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA
+4,Nantucket,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Rolch,RW0098,null,null,NA
+5,Nantucket,ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Paul Sanford,SP0038,null,null,NA

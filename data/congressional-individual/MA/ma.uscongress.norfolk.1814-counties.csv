@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,485
+2,Middlesex,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,null,null,198
+3,Middlesex,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,null,null,NA
+4,Middlesex,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John I. Williams,WJ0831,null,null,NA
+5,Middlesex,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,1526
+2,Norfolk,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,null,null,1292
+3,Norfolk,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,null,null,4
+4,Norfolk,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John I. Williams,WJ0831,null,null,2
+5,Norfolk,ma.uscongress.norfolk.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,1

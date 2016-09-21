@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,278
+2,Middlesex,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,486
+3,Middlesex,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John Phillips,PJ0215,Federalist,A01,NA
+1,Plymouth,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,69
+2,Plymouth,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,123
+3,Plymouth,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John Phillips,PJ0215,Federalist,A01,NA
+1,Suffolk,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,1938
+2,Suffolk,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,1586
+3,Suffolk,ma.uscongress.suffolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John Phillips,PJ0215,Federalist,A01,3

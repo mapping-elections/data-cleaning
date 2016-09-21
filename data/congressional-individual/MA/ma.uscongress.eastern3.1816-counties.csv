@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,Federalist,A01,108
+2,Hancock,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Erastus Foote,FE0062,null,null,34
+3,Hancock,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Thurston Whiting,WT0006,null,null,NA
+4,Hancock,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Lincoln,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,Federalist,A01,859
+2,Lincoln,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Erastus Foote,FE0062,null,null,526
+3,Lincoln,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,Thurston Whiting,WT0006,null,null,2
+4,Lincoln,ma.uscongress.eastern3.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #3",U.S. House of Representatives,ON125,scattering,null,null,null,7

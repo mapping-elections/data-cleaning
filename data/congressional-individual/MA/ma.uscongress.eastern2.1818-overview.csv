@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.eastern2.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Ezekial Whitman,WE0022,Federalist,A01,1,1021
+ma.uscongress.eastern2.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Ashur Ware,WA0010,Republican,A03,2,868
+ma.uscongress.eastern2.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,scattering,null,null,null,3,5

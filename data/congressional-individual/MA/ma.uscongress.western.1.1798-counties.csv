@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Theodore Sedgwick,ST0102,Federalist,A01,1565
+2,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Thomas Ives,IT0000,null,null,431
+3,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,John Bacon,BJ0484,null,null,54
+4,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Barnabus Bidwell,BB0057,null,null,34
+5,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,William Walker,WW0322,null,null,30
+6,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Simon Larned,LS0021,null,null,1
+7,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Tompson J. Skinner,ST0101,null,null,1
+8,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,William Townes,TW0081,null,null,1
+9,Berkshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Ephraim Williams,WE0051,null,null,1
+1,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Theodore Sedgwick,ST0102,Federalist,A01,229
+2,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Thomas Ives,IT0000,null,null,12
+3,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,John Bacon,BJ0484,null,null,NA
+4,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Barnabus Bidwell,BB0057,null,null,NA
+5,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,William Walker,WW0322,null,null,NA
+6,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Simon Larned,LS0021,null,null,NA
+7,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Tompson J. Skinner,ST0101,null,null,NA
+8,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,William Townes,TW0081,null,null,NA
+9,Hampshire,ma.uscongress.western.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Ephraim Williams,WE0051,null,null,NA

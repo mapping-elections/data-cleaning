@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.essexnorth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,John Varnum,VJ0043,Republican,A03,1,1369
+ma.uscongress.essexnorth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,John Merrill,MJ0296,Federalist,A01,2,1342
+ma.uscongress.essexnorth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,scattering,null,null,null,3,68

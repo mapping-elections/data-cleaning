@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,null,null,214
+2,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy Jackson,JT0025,null,null,108
+3,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,null,null,41
+4,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Mann,MJ0534,null,null,3
+5,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ames,AN0008,null,null,NA
+6,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Jacob Norton,NJ0066,null,null,NA
+7,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward H. Robins,RE0018,null,null,NA
+8,Middlesex,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,"Thomas Williams, Jr.",WT0067,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,null,null,1083
+2,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy Jackson,JT0025,null,null,326
+3,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,null,null,169
+4,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Mann,MJ0534,null,null,84
+5,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ames,AN0008,null,null,19
+6,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Jacob Norton,NJ0066,null,null,2
+7,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward H. Robins,RE0018,null,null,2
+8,Norfolk,ma.uscongress.norfolk.1810,1810,1810,General,"Massachusetts 1810 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,"Thomas Williams, Jr.",WT0067,null,null,1

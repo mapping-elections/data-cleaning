@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Barnstable,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,577
+2,Barnstable,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Thomas Hazard, Jr.",HT0086,Republican,A03,183
+3,Barnstable,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Joseph Dimmick,DJ0123,null,null,54
+4,Barnstable,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Seth Sprague,SS0069,null,null,NA
+5,Barnstable,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Davis,DJ0181,Republican,A03,NA
+1,Bristol,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,339
+2,Bristol,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Thomas Hazard, Jr.",HT0086,Republican,A03,9
+3,Bristol,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Joseph Dimmick,DJ0123,null,null,NA
+4,Bristol,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Seth Sprague,SS0069,null,null,NA
+5,Bristol,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Davis,DJ0181,Republican,A03,1
+1,Dukes,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,77
+2,Dukes,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Thomas Hazard, Jr.",HT0086,Republican,A03,NA
+3,Dukes,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Joseph Dimmick,DJ0123,null,null,27
+4,Dukes,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Seth Sprague,SS0069,null,null,4
+5,Dukes,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Davis,DJ0181,Republican,A03,NA
+1,Nantucket,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,2
+2,Nantucket,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Thomas Hazard, Jr.",HT0086,Republican,A03,1
+3,Nantucket,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Joseph Dimmick,DJ0123,null,null,NA
+4,Nantucket,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Seth Sprague,SS0069,null,null,NA
+5,Nantucket,ma.uscongress.barnstable.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Davis,DJ0181,Republican,A03,NA

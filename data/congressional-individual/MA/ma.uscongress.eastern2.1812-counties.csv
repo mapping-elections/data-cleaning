@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,George Bradbury,BG0016,Federalist,A01,1617
+2,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,William Wedgery,WW0129,Republican,A03,924
+3,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Daniel Isley,ID0002,null,null,2
+4,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Robert Isley,IR0002,null,null,2
+5,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Horatio Southgate,SH0039,null,null,2
+6,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Nicholas Emery,EN0001,null,null,1
+7,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Lathrop Lewis,LL0049,null,null,1
+8,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,1
+9,Cumberland,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Ezekial Whitman,WE0022,null,null,1
+1,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,George Bradbury,BG0016,Federalist,A01,262
+2,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,William Wedgery,WW0129,Republican,A03,425
+3,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Daniel Isley,ID0002,null,null,NA
+4,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Robert Isley,IR0002,null,null,NA
+5,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Horatio Southgate,SH0039,null,null,NA
+6,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Nicholas Emery,EN0001,null,null,NA
+7,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Lathrop Lewis,LL0049,null,null,NA
+8,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+9,York,ma.uscongress.eastern2.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Ezekial Whitman,WE0022,null,null,NA

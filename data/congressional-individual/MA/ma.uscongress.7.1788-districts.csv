@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Leonard,LG0029,Federalist,A01,1,Seven,710
+ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Phaneul Bishop,BP0031,Anti-Federalist,A02,2,Seven,342
+ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,3,Seven,241
+ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Rolch,RW0098,null,null,4,Seven,22
+ma.uscongress.7.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Paul Sanford,SP0038,null,null,5,Seven,1

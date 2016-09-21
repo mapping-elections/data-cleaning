@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Theodore Sedgwick,ST0102,Federalist,A01,627
+2,Berkshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Tompson J. Skinner,ST0101,null,null,585
+3,Berkshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,John Bacon,BJ0484,null,null,28
+4,Berkshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,4
+5,Berkshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,"William Hale, Jr.",HW0087,null,null,1
+1,Hampshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Theodore Sedgwick,ST0102,Federalist,A01,104
+2,Hampshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Tompson J. Skinner,ST0101,null,null,54
+3,Hampshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,John Bacon,BJ0484,null,null,NA
+4,Hampshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,NA
+5,Hampshire,ma.uscongress.western.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 1",U.S. House of Representatives,ON125,"William Hale, Jr.",HW0087,null,null,NA

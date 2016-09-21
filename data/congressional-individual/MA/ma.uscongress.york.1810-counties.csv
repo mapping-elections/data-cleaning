@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Oxford,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Richard Cutts,CR0035,null,null,264
+2,Oxford,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Cyrus King,KC0006,Federalist,A01,162
+3,Oxford,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Leeland,null,null,null,12
+4,Oxford,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,B. Green,GB0028,null,null,NA
+5,Oxford,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Thomas Cutts,CT0118,null,null,1
+6,Oxford,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Joseph M. Seaver,SJ0486,null,null,NA
+1,York,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Richard Cutts,CR0035,null,null,1074
+2,York,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Cyrus King,KC0006,Federalist,A01,627
+3,York,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Leeland,null,null,null,1
+4,York,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,B. Green,GB0028,null,null,6
+5,York,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Thomas Cutts,CT0118,null,null,NA
+6,York,ma.uscongress.york.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Joseph M. Seaver,SJ0486,null,null,1

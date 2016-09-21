@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.1.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 1, At-Large, Ballot 3",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,1745
+2,Essex,ma.uscongress.1.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 1, At-Large, Ballot 3",U.S. House of Representatives,ON125,"Benjamin Austin, Jr.",AB0013,null,null,104
+1,Middlesex,ma.uscongress.1.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 1, At-Large, Ballot 3",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,1480
+2,Middlesex,ma.uscongress.1.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 1, At-Large, Ballot 3",U.S. House of Representatives,ON125,"Benjamin Austin, Jr.",AB0013,null,null,594
+1,Suffolk,ma.uscongress.1.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 1, At-Large, Ballot 3",U.S. House of Representatives,ON125,Samuel Holten,HS0071,null,null,1141
+2,Suffolk,ma.uscongress.1.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 1, At-Large, Ballot 3",U.S. House of Representatives,ON125,"Benjamin Austin, Jr.",AB0013,null,null,1233

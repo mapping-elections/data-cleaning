@@ -1,0 +1,28 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,487
+2,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Benjamin Whitwell,WB0035,Federalist,A01,194
+3,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,George Ulmer,UG0003,null,null,NA
+4,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Robert Parker,PR0059,null,null,15
+5,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Theodore Lincoln,LT0045,null,null,NA
+6,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Paul D. Sargent,SP0022,null,null,3
+7,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Mark Kinsley,KM0010,null,null,2
+8,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Ebenezer Floid,FE0013,null,null,1
+9,Hancock,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0027,Republican,A03,NA
+1,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,1862
+2,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Benjamin Whitwell,WB0035,Federalist,A01,886
+3,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,George Ulmer,UG0003,null,null,NA
+4,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Robert Parker,PR0059,null,null,NA
+5,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Theodore Lincoln,LT0045,null,null,NA
+6,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Paul D. Sargent,SP0022,null,null,NA
+7,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Mark Kinsley,KM0010,null,null,NA
+8,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Ebenezer Floid,FE0013,null,null,NA
+9,Kennebec,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0027,Republican,A03,1
+1,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,40
+2,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Benjamin Whitwell,WB0035,Federalist,A01,209
+3,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,George Ulmer,UG0003,null,null,28
+4,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Robert Parker,PR0059,null,null,NA
+5,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Theodore Lincoln,LT0045,null,null,3
+6,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Paul D. Sargent,SP0022,null,null,NA
+7,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Mark Kinsley,KM0010,null,null,NA
+8,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Ebenezer Floid,FE0013,null,null,NA
+9,Washington,ma.uscongress.kennebec.1804,1804-11,1804,General,"Massachusetts 1804 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0027,Republican,A03,NA

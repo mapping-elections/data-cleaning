@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,253
+2,Middlesex,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Tilden,TD0030,null,null,257
+3,Middlesex,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,1
+4,Middlesex,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Everett,ED0016,null,null,NA
+5,Middlesex,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Goodwin,GD0010,null,null,NA
+6,Middlesex,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John C. Jones,JJ0099,null,null,NA
+1,Plymouth,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,94
+2,Plymouth,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Tilden,TD0030,null,null,107
+3,Plymouth,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,NA
+4,Plymouth,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Everett,ED0016,null,null,NA
+5,Plymouth,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Goodwin,GD0010,null,null,NA
+6,Plymouth,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John C. Jones,JJ0099,null,null,NA
+1,Suffolk,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Josiah Quincy,QJ0002,Federalist,A01,1926
+2,Suffolk,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Tilden,TD0030,null,null,660
+3,Suffolk,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,NA
+4,Suffolk,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Everett,ED0016,null,null,1
+5,Suffolk,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,David Goodwin,GD0010,null,null,1
+6,Suffolk,ma.uscongress.suffolk.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John C. Jones,JJ0099,null,null,1

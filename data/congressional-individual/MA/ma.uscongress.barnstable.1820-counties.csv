@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Barnstable,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,517
+2,Barnstable,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,97
+3,Barnstable,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas Dunham,DT0023,null,null,NA
+4,Barnstable,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Russell Freeman,FR0066,null,null,NA
+5,Barnstable,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas M. Vincent,VT0019,null,null,NA
+6,Barnstable,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,108
+1,Bristol,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,153
+2,Bristol,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,NA
+3,Bristol,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas Dunham,DT0023,null,null,NA
+4,Bristol,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Russell Freeman,FR0066,null,null,2
+5,Bristol,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas M. Vincent,VT0019,null,null,NA
+6,Bristol,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,2
+1,Dukes,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,31
+2,Dukes,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,26
+3,Dukes,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas Dunham,DT0023,null,null,9
+4,Dukes,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Russell Freeman,FR0066,null,null,1
+5,Dukes,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas M. Vincent,VT0019,null,null,1
+6,Dukes,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,3
+1,Nantucket,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Reed,RJ0539,Federalist,A01,50
+2,Nantucket,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Walter Folger, Jr.",FW0026,Republican,A03,138
+3,Nantucket,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas Dunham,DT0023,null,null,NA
+4,Nantucket,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Russell Freeman,FR0066,null,null,NA
+5,Nantucket,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Thomas M. Vincent,VT0019,null,null,NA
+6,Nantucket,ma.uscongress.barnstable.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,scattering,null,null,null,1
