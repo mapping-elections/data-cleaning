@@ -95,7 +95,9 @@ comparison <- counties_aggregate %>%
                                              replace_na(district_vote)),
                  2))
 
-stopifnot(nrow(comparison) == nrow(district))
+if (nrow(comparison) != nrow(district)) {
+  warning("Number of rows in comparison in not equal to the number of rows in the district")
+}
 
 write_csv(comparison, str_c(opt$output, "/", opt$state, "-", opt$year,
                             "-congress-county2districtcf.csv"))
