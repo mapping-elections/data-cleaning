@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.eastern5.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,James Parker,PJ0005,Republican,A03,1,Eastern Five,675
+ma.uscongress.eastern5.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Peter Grant,GP0006,Federalist,A01,2,Eastern Five,567
+ma.uscongress.eastern5.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,Republican,A03,3,Eastern Five,72
+ma.uscongress.eastern5.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,Nathan Weston,WN0012,Republican,A03,4,Eastern Five,35
+ma.uscongress.eastern5.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #5",U.S. House of Representatives,ON125,scattering,null,null,null,5,Eastern Five,18

@@ -1,0 +1,35 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Benjamin Gorham,GB0016,Federalist,A01,55
+2,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel A. Wells,WS0027,Republican,A03,199
+3,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Jesse Putnam,PJ0196,Republican,A03,NA
+4,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Sturgis,SW0181,null,null,NA
+5,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John Brazer,BJ0492,null,null,NA
+6,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Brown,BS0111,null,null,NA
+7,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Little,LW0205,null,null,NA
+8,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Fitch Tufts,TF0005,null,null,NA
+9,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,NA
+10,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Adams,AD0022,null,null,NA
+11,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Amos Fitch,FA0106,null,null,NA
+12,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Charles Hood,HC0153,null,null,NA
+13,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Hubbard,HS0081,null,null,NA
+14,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Ingalls,IW0015,null,null,NA
+15,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Winslow Lewis,LW0206,null,null,NA
+16,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Lewis Lincoln,LL0044,null,null,NA
+17,Middlesex,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Henry Orne,OH0027,null,null,NA
+1,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Benjamin Gorham,GB0016,Federalist,A01,2211
+2,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel A. Wells,WS0027,Republican,A03,1373
+3,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Jesse Putnam,PJ0196,Republican,A03,54
+4,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Sturgis,SW0181,null,null,3
+5,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John Brazer,BJ0492,null,null,2
+6,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Brown,BS0111,null,null,2
+7,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Little,LW0205,null,null,2
+8,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Fitch Tufts,TF0005,null,null,2
+9,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,2
+10,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Adams,AD0022,null,null,1
+11,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Amos Fitch,FA0106,null,null,1
+12,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Charles Hood,HC0153,null,null,1
+13,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Hubbard,HS0081,null,null,1
+14,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Ingalls,IW0015,null,null,1
+15,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Winslow Lewis,LW0206,null,null,1
+16,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Lewis Lincoln,LL0044,null,null,1
+17,Suffolk,ma.uscongress.suffolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Henry Orne,OH0027,null,null,1

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,B. W. Crowninshield,CB0039,Republican,A03,1334
+2,Essex,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Frederick Howes,HF0012,Federalist,A01,760
+3,Essex,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Willard Peele,PW0074,null,null,51
+4,Essex,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Stephen White,WS0087,null,null,43
+5,Essex,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Asa T. Newhall,NA0024,null,null,33
+6,Essex,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,scattering,null,null,null,109
+1,Suffolk,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,B. W. Crowninshield,CB0039,Republican,A03,45
+2,Suffolk,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Frederick Howes,HF0012,Federalist,A01,NA
+3,Suffolk,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Willard Peele,PW0074,null,null,NA
+4,Suffolk,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Stephen White,WS0087,null,null,NA
+5,Suffolk,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Asa T. Newhall,NA0024,null,null,NA
+6,Suffolk,ma.uscongress.essexsouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

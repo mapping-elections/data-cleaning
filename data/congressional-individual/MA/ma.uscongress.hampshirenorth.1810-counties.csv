@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampshire,ma.uscongress.hampshirenorth.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Samuel Taggart,TS0046,Federalist,A01,1563
+2,Hampshire,ma.uscongress.hampshirenorth.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Solomon Smead,SS0117,null,null,614
+3,Hampshire,ma.uscongress.hampshirenorth.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Benjamin Smith,SB0037,null,null,2

@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampden,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Samuel Lathrop,LS0046,Federalist,A01,911
+2,Hampden,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,John Mills,MJ0299,Republican,A03,908
+3,Hampden,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Isaac C. Bates,BI0043,Federalist,A01,9
+4,Hampden,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Thomas Shepherd,ST0058,Republican,A03,11
+5,Hampden,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Hampshire,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Samuel Lathrop,LS0046,Federalist,A01,508
+2,Hampshire,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,John Mills,MJ0299,Republican,A03,149
+3,Hampshire,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Isaac C. Bates,BI0043,Federalist,A01,295
+4,Hampshire,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Thomas Shepherd,ST0058,Republican,A03,93
+5,Hampshire,ma.uscongress.hampden.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

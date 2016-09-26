@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress1.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,1,One,2445
+nc.uscongress1.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,2,One,1570

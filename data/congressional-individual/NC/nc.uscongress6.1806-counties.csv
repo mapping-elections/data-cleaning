@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,316
+2,Franklin,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Henderson,null,null,null,NA
+3,Franklin,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Burton,null,null,null,NA
+4,Franklin,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Taylor,null,null,null,NA
+1,Granville,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,951
+2,Granville,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Henderson,null,null,null,2
+3,Granville,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Burton,null,null,null,1
+4,Granville,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Taylor,null,null,null,1
+1,Nash,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,540
+2,Nash,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Henderson,null,null,null,NA
+3,Nash,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Burton,null,null,null,NA
+4,Nash,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Taylor,null,null,null,NA
+1,Warren,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,559
+2,Warren,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Henderson,null,null,null,NA
+3,Warren,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Burton,null,null,null,NA
+4,Warren,nc.uscongress6.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Taylor,null,null,null,NA

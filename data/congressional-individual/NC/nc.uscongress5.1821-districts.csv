@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress5.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Charles Hooks,HC0086,Republican,A03,1,Five,2808
+nc.uscongress5.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Glisson,GD0044,Federalist,A01,2,Five,1490

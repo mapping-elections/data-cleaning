@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,ma.uscongress.eastern6.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,Republican,A03,483
+2,Kennebec,ma.uscongress.eastern6.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Thomas Rice,RT0039,Federalist,A01,208
+3,Kennebec,ma.uscongress.eastern6.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Somerset,ma.uscongress.eastern6.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,Republican,A03,447
+2,Somerset,ma.uscongress.eastern6.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Thomas Rice,RT0039,Federalist,A01,526
+3,Somerset,ma.uscongress.eastern6.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,scattering,null,null,null,NA

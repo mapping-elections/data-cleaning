@@ -1,0 +1,23 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress10.1810,1810,James Wallis,WJ0523,Republican,A03,1355,1355,0,0.0
+nc.uscongress10.1810,1810,Joseph Pearson,PJ0335,Federalist,A01,2388,2388,0,0.0
+nc.uscongress11.1810,1810,Felix Walker,WF0041,Republican,A03,2342,2342,0,0.0
+nc.uscongress11.1810,1810,Israel Pickens,PI0001,Republican,A03,2976,2976,0,0.0
+nc.uscongress11.1810,1810,John Stevelie,SJ0819,Republican,A03,570,570,0,0.0
+nc.uscongress1.1810,1810,Joseph Riddick,RJ0255,Republican,A03,48,48,0,0.0
+nc.uscongress1.1810,1810,Lemuel Sawyer,SL0032,Republican,A03,2002,2002,0,0.0
+nc.uscongress1.1810,1810,William Hinton,HW0244,Republican,A03,1209,1209,0,0.0
+nc.uscongress12.1810,1810,Meshack Franklin,FM0021,Republican,A03,0,NA,0,NaN
+nc.uscongress2.1810,1810,Joseph H. Bryon,BJ0827,Federalist,A01,1001,1001,0,0.0
+nc.uscongress2.1810,1810,Willis Alston,AW0047,Republican,A03,1933,1933,0,0.0
+nc.uscongress3.1810,1810,Thomas Blount,BT0194,Republican,A03,0,NA,0,NaN
+nc.uscongress4.1810,1810,William Blackledge,BW0216,Republican,A03,2781,2781,0,0.0
+nc.uscongress4.1810,1810,William Gaston,GW0095,Federalist,A01,2298,2298,0,0.0
+nc.uscongress5.1810,1810,Christopher Dudley,DC0047,Federalist,A01,1449,1449,0,0.0
+nc.uscongress5.1810,1810,William R. King,KW0001,Republican,A03,3047,3047,0,0.0
+nc.uscongress6.1810,1810,Nathaniel Macon,MN0068,Republican,A03,0,NA,0,NaN
+nc.uscongress7.1810,1810,Archibald MacBryde,MA0162,Federalist,A01,3135,3135,0,0.0
+nc.uscongress7.1810,1810,John Culpepper,CJ0545,Federalist,A01,2325,2325,0,0.0
+nc.uscongress8.1810,1810,Richard Stanford,SR0175,Republican,A03,0,NA,0,NaN
+nc.uscongress9.1810,1810,James Cochrane,CJ0546,Republican,A03,3116,3116,0,0.0
+nc.uscongress9.1810,1810,Theophilus Lacy,LT0067,Republican,A03,2354,2354,0,0.0

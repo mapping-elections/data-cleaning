@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.suffolk.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,1,2638
+ma.uscongress.suffolk.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Jesse Putnam,PJ0196,Democrat,A03,2,1557
+ma.uscongress.suffolk.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,scattering,null,null,null,3,4

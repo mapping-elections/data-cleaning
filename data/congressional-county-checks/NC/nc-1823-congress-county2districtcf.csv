@@ -1,0 +1,27 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress8.1823,1823,Willie P. Mangum,MW0251,null,null,0,2523,2523,1.0
+nc.uscongress8.1823,1823,Daniel L. Barringer,BD0102,null,null,0,1729,1729,1.0
+nc.uscongress13.1823,1823,Lewis Williams,WL0047,Federalist,A01,1252,NA,-1252,1.0
+nc.uscongress12.1823,1823,George Walton,WG0069,null,null,795,NA,-795,1.0
+nc.uscongress4.1823,1823,Richard D. Spaight,SR0172,null,null,546,NA,-546,1.0
+nc.uscongress12.1823,1823,Hodge Rabon,RH0042,null,null,485,NA,-485,1.0
+nc.uscongress13.1823,1823,Montford Stokes,SM0089,Republican,A03,137,NA,-137,1.0
+nc.uscongress10.1823,1823,John Long,LJ0271,null,null,3308,3308,0,0.0
+nc.uscongress10.1823,1823,John MacClelland,MJ0616,null,null,1640,1640,0,0.0
+nc.uscongress11.1823,1823,Henry W. Conner,CH0119,null,null,2828,2828,0,0.0
+nc.uscongress11.1823,1823,William Davidson,DW0128,null,null,1831,1831,0,0.0
+nc.uscongress1.1823,1823,Alfred M. Gatlin,GA0047,Republican,A03,2407,2407,0,0.0
+nc.uscongress1.1823,1823,Lemuel Sawyer,SL0032,Republican,A03,2139,2139,0,0.0
+nc.uscongress12.1823,1823,Felix Walker,WF0041,null,null,1913,1913,0,0.0
+nc.uscongress12.1823,1823,Robert B. Vance,VR0007,null,null,1913,1913,0,0.0
+nc.uscongress2.1823,1823,Hutchins G. Burton,BH0084,null,null,0,NA,0,NaN
+nc.uscongress2.1823,1823,Jesse A. Dawson,DJ0366,null,null,0,NA,0,NaN
+nc.uscongress3.1823,1823,Thomas H. Hall,HT0135,Republican,A03,2483,2483,0,0.0
+nc.uscongress3.1823,1823,William Clark,CW0182,Federalist,A01,2273,2273,0,0.0
+nc.uscongress5.1823,1823,Charles Hooks,HC0086,null,null,0,NA,0,NaN
+nc.uscongress5.1823,1823,John D. Jones,JJ0156,null,null,0,NA,0,NaN
+nc.uscongress6.1823,1823,scattering,null,null,null,0,NA,0,NaN
+nc.uscongress6.1823,1823,Welden N. Edwards,EW0066,null,null,3180,3180,0,0.0
+nc.uscongress7.1823,1823,Alexander MacNeil,MA0184,null,null,2969,2969,0,0.0
+nc.uscongress7.1823,1823,John Culpepper,CJ0545,null,null,3074,3074,0,0.0
+nc.uscongress9.1823,1823,Romulus S. Sanders,SR0176,Republican,A03,3821,3821,0,0.0

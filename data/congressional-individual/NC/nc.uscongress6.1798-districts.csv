@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress6.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William H. Hill,HW0233,Federalist,A01,1,Six,1372
+nc.uscongress6.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Gillespie,GJ0328,Republican,A03,2,Six,1091
+nc.uscongress6.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Alexander D. Moore,MA0151,Federalist,A01,3,Six,278

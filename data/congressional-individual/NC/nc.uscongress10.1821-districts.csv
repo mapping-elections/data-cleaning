@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress10.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Long,LJ0271,Republican,A03,1,Ten,NA
+nc.uscongress10.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John L. Henderson,HJ0672,Federalist,A01,2,Ten,NA

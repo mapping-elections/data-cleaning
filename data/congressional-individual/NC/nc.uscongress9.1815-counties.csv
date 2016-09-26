@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caswell,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,960
+2,Caswell,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Caldwell,CJ0577,Federalist,A01,34
+3,Caswell,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Sneed,SA0153,Federalist,A01,16
+1,Guilford,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,578
+2,Guilford,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Caldwell,CJ0577,Federalist,A01,933
+3,Guilford,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Sneed,SA0153,Federalist,A01,28
+1,Rockingham,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,795
+2,Rockingham,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Caldwell,CJ0577,Federalist,A01,91
+3,Rockingham,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Sneed,SA0153,Federalist,A01,327
+1,Stokes,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,806
+2,Stokes,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Caldwell,CJ0577,Federalist,A01,297
+3,Stokes,nc.uscongress9.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Alexander Sneed,SA0153,Federalist,A01,365

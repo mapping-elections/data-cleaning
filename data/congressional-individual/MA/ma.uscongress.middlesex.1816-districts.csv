@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.middlesex.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Timothy Fuller,FT0028,Republican,A03,1,Middlesex,1778
+ma.uscongress.middlesex.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Asahel Stearns,SA0066,Federalist,A01,2,Middlesex,1453
+ma.uscongress.middlesex.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Samuel Dana,DS0058,null,null,3,Middlesex,1
+ma.uscongress.middlesex.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Ebenezer Hobbs,HE0063,null,null,4,Middlesex,1
+ma.uscongress.middlesex.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,scattering,null,null,null,5,Middlesex,26

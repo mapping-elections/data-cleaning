@@ -1,0 +1,45 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress2.1806,1806,Willis Alston,AW0047,Republican,A03,629,1442,813,0.56
+nc.uscongress5.1806,1806,Thomas Kenan,KT0049,Republican,A03,398,NA,-398,1.0
+nc.uscongress10.1806,1806,Evan Alexander,AE0024,Republican,A03,212,NA,-212,1.0
+nc.uscongress8.1806,1806,Calvin Jones,JC0023,null,null,50,133,83,0.62
+nc.uscongress10.1806,1806,Matthew Brandon,BM0040,null,null,41,NA,-41,1.0
+nc.uscongress5.1806,1806,Benjamin Smith,SB0058,Republican,A03,39,NA,-39,1.0
+nc.uscongress5.1806,1806,Samuel Jacelyn,JS0002,null,null,11,NA,-11,1.0
+nc.uscongress12.1806,1806,William Lenoir,LW0115,Republican,A03,1635,1625,-10,0.01
+nc.uscongress5.1806,1806,Alexander D. Moore,MA0151,null,null,5,NA,-5,1.0
+nc.uscongress5.1806,1806,O. James,JO0001,null,null,4,NA,-4,1.0
+nc.uscongress5.1806,1806,Peter Chase,CP0075,null,null,3,NA,-3,1.0
+nc.uscongress5.1806,1806,Thomas Brown,BT0023,null,null,1,NA,-1,1.0
+nc.uscongress11.1806,1806,James Holland,HJ0602,Republican,A03,1922,1922,0,0.0
+nc.uscongress11.1806,1806,Joseph Graham,GJ0342,null,null,74,74,0,0.0
+nc.uscongress11.1806,1806,William Erwin,EW0042,null,null,5,5,0,0.0
+nc.uscongress1.1806,1806,Lemuel Sawyer,SL0032,Republican,A03,2308,2308,0,0.0
+nc.uscongress1.1806,1806,William H. Murfree,MW0233,Republican,A03,1298,1298,0,0.0
+nc.uscongress12.1806,1806,Meshack Franklin,FM0021,Republican,A03,3155,3155,0,0.0
+nc.uscongress12.1806,1806,Peter Eaton,EP0019,Republican,A03,219,219,0,0.0
+nc.uscongress3.1806,1806,Thomas Blount,BT0194,Republican,A03,2056,2056,0,0.0
+nc.uscongress3.1806,1806,William Kennedy,KW0059,Republican,A03,2050,2050,0,0.0
+nc.uscongress4.1806,1806,William Blackledge,BW0216,Republican,A03,0,NA,0,NaN
+nc.uscongress6.1806,1806,Burton,null,null,null,1,1,0,0.0
+nc.uscongress6.1806,1806,Henderson,null,null,null,2,2,0,0.0
+nc.uscongress6.1806,1806,Nathaniel Macon,MN0068,Republican,A03,2366,2366,0,0.0
+nc.uscongress6.1806,1806,Taylor,null,null,null,1,1,0,0.0
+nc.uscongress7.1806,1806,Duncan MacFarland,MD0119,Republican,A03,2701,2701,0,0.0
+nc.uscongress7.1806,1806,James Sanders,SJ0806,Republican,A03,58,58,0,0.0
+nc.uscongress7.1806,1806,John Culpepper,CJ0545,Federalist,A01,2750,2750,0,0.0
+nc.uscongress7.1806,1806,John Hay,HJ0601,Federalist,A01,214,214,0,0.0
+nc.uscongress8.1806,1806,Archibald D. Murphey,MA0168,null,null,6,6,0,0.0
+nc.uscongress8.1806,1806,Benjamin Williams,WB0039,null,null,17,17,0,0.0
+nc.uscongress8.1806,1806,David Ray,RD0037,null,null,1,1,0,0.0
+nc.uscongress8.1806,1806,Duncan Cameron,CD0126,null,null,6,6,0,0.0
+nc.uscongress8.1806,1806,John Carrington,CJ0519,null,null,1,1,0,0.0
+nc.uscongress8.1806,1806,Jonathan Lindley,LJ0261,null,null,6,6,0,0.0
+nc.uscongress8.1806,1806,Richard Henderson,HR0207,null,null,18,18,0,0.0
+nc.uscongress8.1806,1806,Richard Stanford,SR0175,Republican,A03,2498,2498,0,0.0
+nc.uscongress8.1806,1806,Robert Fawcett,FR0001,null,null,3,3,0,0.0
+nc.uscongress8.1806,1806,Robert Turner,TR0071,null,null,1,1,0,0.0
+nc.uscongress8.1806,1806,Samuel Benbow,BS0245,null,null,5,5,0,0.0
+nc.uscongress8.1806,1806,Thomas Stokes,ST0109,null,null,19,19,0,0.0
+nc.uscongress9.1806,1806,Marmaduke Williams,WM0000,Republican,A03,2680,2680,0,0.0
+nc.uscongress9.1806,1806,Theophilus Lacy,LT0067,Republican,A03,1945,1945,0,0.0

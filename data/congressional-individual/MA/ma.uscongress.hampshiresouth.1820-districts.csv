@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.hampshiresouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Samuel Lathrop,LS0046,Federalist,A01,1,Hampshire South,1115
+ma.uscongress.hampshiresouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Thomas Shepherd,ST0058,Republican,A03,2,Hampshire South,250
+ma.uscongress.hampshiresouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Enos Foote,FE0016,Republican,A03,3,Hampshire South,2
+ma.uscongress.hampshiresouth.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,scattering,null,null,null,4,Hampshire South,146

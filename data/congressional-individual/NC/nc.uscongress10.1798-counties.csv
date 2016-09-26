@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jones,nc.uscongress10.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Richard D. Spaight,SR0164,Federalist,A01,244
+2,Jones,nc.uscongress10.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George E. Badger,BG0091,Federalist,A01,103

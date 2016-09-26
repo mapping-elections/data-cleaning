@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Silas Lee,LS0019,Federalist,A01,124
+2,Hancock,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Henry Dearborn,DH0026,Republican,A03,61
+3,Hancock,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Oliver Leonard,LO0002,null,null,19
+4,Hancock,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,NA
+5,Hancock,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Alexander Campbell,CA0083,Federalist,A01,NA
+1,Kennebec,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Silas Lee,LS0019,Federalist,A01,145
+2,Kennebec,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Henry Dearborn,DH0026,Republican,A03,324
+3,Kennebec,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Oliver Leonard,LO0002,null,null,NA
+4,Kennebec,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,11
+5,Kennebec,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Alexander Campbell,CA0083,Federalist,A01,NA
+1,Lincoln,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Silas Lee,LS0019,Federalist,A01,361
+2,Lincoln,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Henry Dearborn,DH0026,Republican,A03,145
+3,Lincoln,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Oliver Leonard,LO0002,null,null,NA
+4,Lincoln,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,NA
+5,Lincoln,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Alexander Campbell,CA0083,Federalist,A01,NA
+1,Washington,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Silas Lee,LS0019,Federalist,A01,37
+2,Washington,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Henry Dearborn,DH0026,Republican,A03,14
+3,Washington,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Oliver Leonard,LO0002,null,null,NA
+4,Washington,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,6
+5,Washington,ma.uscongress.eastern.1.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Eastern 1",U.S. House of Representatives,ON125,Alexander Campbell,CA0083,Federalist,A01,7

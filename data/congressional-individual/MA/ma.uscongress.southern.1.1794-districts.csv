@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.southern.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Southern 1",U.S. House of Representatives,ON125,"Nathaniel Freeman, Jr.",FN0017,null,null,1,Southern One,1034
+ma.uscongress.southern.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Southern 1",U.S. House of Representatives,ON125,"Peleg Coffin, Jr.",CP0027,null,null,2,Southern One,475
+ma.uscongress.southern.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Southern 1",U.S. House of Representatives,ON125,Lewis Gorham,GL0022,null,null,3,Southern One,2
+ma.uscongress.southern.1.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Southern 1",U.S. House of Representatives,ON125,Richard Childs,CR0079,null,null,4,Southern One,1

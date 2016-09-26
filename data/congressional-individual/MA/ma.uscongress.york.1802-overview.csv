@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.york.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Richard Cutts,CR0035,Republican,A03,1,744
+ma.uscongress.york.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,John Lord,LJ0185,Federalist,A01,2,553
+ma.uscongress.york.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, York District",U.S. House of Representatives,ON125,Moses Sweat,SM0011,null,null,3,38

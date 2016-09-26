@@ -1,0 +1,151 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.western.1.1796,1796,Thompson J. Skinner,ST0101,null,null,1499,47,-1452,0.97
+ma.uscongress.middle.2.1796,1796,Joseph B. Varnum,VJ0024,null,null,1199,9,-1190,0.99
+ma.uscongress.middle.2.1796,1796,Joseph B. Varnum,VJ0024,null,null,1199,20,-1179,0.98
+ma.uscongress.middle.2.1796,1796,Joseph B. Varnum,VJ0024,null,null,1199,51,-1148,0.96
+ma.uscongress.western.1.1796,1796,Ephraim Williams,WE0051,null,null,1160,26,-1134,0.98
+ma.uscongress.western.3.1796,1796,Samuel Lyman,LS0018,Federalist,A01,878,30,-848,0.97
+ma.uscongress.western.2.1796,1796,William Shepard,SW0150,null,null,823,6,-817,0.99
+ma.uscongress.middle.3.1796,1796,Samuel Sewell,SS0068,null,null,442,17,-425,0.96
+ma.uscongress.western.2.1796,1796,Samuel Henshaw,HS0048,null,null,424,36,-388,0.92
+ma.uscongress.western.2.1796,1796,William Lyman,LW0055,null,null,381,2,-379,0.99
+ma.uscongress.middle.2.1796,1796,Ebenezer Bridge,BE0139,null,null,292,2,-290,0.99
+ma.uscongress.middle.2.1796,1796,Ebenezer Bridge,BE0139,null,null,292,3,-289,0.99
+ma.uscongress.middle.2.1796,1796,"Samuel Dexter, Jr.",DS0053,Federalist,A01,257,8,-249,0.97
+ma.uscongress.middle.2.1796,1796,"Samuel Dexter, Jr.",DS0053,Federalist,A01,257,19,-238,0.93
+ma.uscongress.western.1.1796,1796,Barnabus Bidwell,BB0057,null,null,60,4,-56,0.93
+ma.uscongress.middle.2.1796,1796,Elbridge Gerry,GE0049,null,null,53,4,-49,0.92
+ma.uscongress.western.2.1796,1796,Joseph Lyman,LJ0212,Federalist,A01,18,3,-15,0.83
+ma.uscongress.western.2.1796,1796,Joseph Lyman,LJ0212,Federalist,A01,18,15,-3,0.17
+ma.uscongress.eastern.1.1796,1796,Phineas Bruce,BP0030,null,null,0,1,1,1.0
+ma.uscongress.southern.3.1796,1796,George Leonard,LG0029,null,null,25,24,-1,0.04
+ma.uscongress.eastern.1.1796,1796,Daniel Cony,CD0042,null,null,4,4,0,0.0
+ma.uscongress.eastern.1.1796,1796,David Sylvester,SD0077,null,null,1,1,0,0.0
+ma.uscongress.eastern.1.1796,1796,Dummer Sewall,SD0057,null,null,2,2,0,0.0
+ma.uscongress.eastern.1.1796,1796,Henry Dearborn,DH0026,null,null,373,373,0,0.0
+ma.uscongress.eastern.1.1796,1796,Isaac Parker,PI0010,null,null,477,477,0,0.0
+ma.uscongress.eastern.1.1796,1796,Jonathan Bowman,BJ0314,null,null,328,328,0,0.0
+ma.uscongress.eastern.1.1796,1796,Thomas Rice,RT0039,null,null,3,3,0,0.0
+ma.uscongress.eastern.1.1796,1796,Waterman Thomas,TW0063,null,null,9,9,0,0.0
+ma.uscongress.eastern.2.1796,1796,Daniel Davis,DD0013,null,null,14,14,0,0.0
+ma.uscongress.eastern.2.1796,1796,Ebenezer Mayo,ME0038,null,null,1,1,0,0.0
+ma.uscongress.eastern.2.1796,1796,George Thacher,TG0012,Federalist,A01,5,5,0,0.0
+ma.uscongress.eastern.2.1796,1796,John K. Smith,SJ0397,null,null,3,3,0,0.0
+ma.uscongress.eastern.2.1796,1796,John Waite,WJ0354,null,null,9,9,0,0.0
+ma.uscongress.eastern.2.1796,1796,Peleg Wadsworth,WP0012,Federalist,A01,443,443,0,0.0
+ma.uscongress.eastern.2.1796,1796,Samuel Weeks,WS0031,null,null,16,16,0,0.0
+ma.uscongress.eastern.2.1796,1796,Stephen Longfellow,LS0011,Federalist,A01,87,87,0,0.0
+ma.uscongress.eastern.2.1796,1796,William Widgery,WW0129,null,null,3,3,0,0.0
+ma.uscongress.eastern.3.1796,1796,George Thacher,TG0012,Federalist,A01,444,444,0,0.0
+ma.uscongress.eastern.3.1796,1796,Ichabod Goodwin,GI0004,null,null,9,9,0,0.0
+ma.uscongress.eastern.3.1796,1796,John Frost,FJ0139,null,null,34,34,0,0.0
+ma.uscongress.eastern.3.1796,1796,John Lord,LJ0185,null,null,5,5,0,0.0
+ma.uscongress.eastern.3.1796,1796,Joseph Morrill,MJ0333,null,null,62,62,0,0.0
+ma.uscongress.eastern.3.1796,1796,Joseph Tucker,TJ0157,null,null,2,2,0,0.0
+ma.uscongress.eastern.3.1796,1796,Nathaniel Wells,WN0011,null,null,54,54,0,0.0
+ma.uscongress.eastern.3.1796,1796,Richard F. Cutts,CR0035,null,null,8,8,0,0.0
+ma.uscongress.eastern.3.1796,1796,Simon Frye,FS0021,null,null,2,2,0,0.0
+ma.uscongress.eastern.3.1796,1796,Thomas Cutts,CT0118,null,null,1,1,0,0.0
+ma.uscongress.middle.1.1796,1796,"Benjamin Austin, Jr.",AB0013,null,null,1,1,0,0.0
+ma.uscongress.middle.1.1796,1796,Charles Jarvis,JC0015,null,null,8,8,0,0.0
+ma.uscongress.middle.1.1796,1796,Harrison G. Otis,OH0028,Federalist,A01,1763,1763,0,0.0
+ma.uscongress.middle.1.1796,1796,James Bowdoin,BJ0467,null,null,1293,1293,0,0.0
+ma.uscongress.middle.1.1796,1796,Samuel Adams,AS0022,null,null,2,2,0,0.0
+ma.uscongress.middle.1.1796,1796,Stephen Higgenson,HS0097,null,null,1,1,0,0.0
+ma.uscongress.middle.1.1796,1796,Thomas Davis,DT0014,null,null,1,1,0,0.0
+ma.uscongress.middle.1.1796,1796,William Eustis,EW0031,null,null,1,1,0,0.0
+ma.uscongress.middle.1.1796,1796,William Heath,HW0171,null,null,68,68,0,0.0
+ma.uscongress.middle.2.1796,1796,"Aaron Dexter, Jr.",DA0081,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,"Daniel Stevens, Jr.",SD0152,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,Ebenezer Bridge,BE0139,null,null,292,292,0,0.0
+ma.uscongress.middle.2.1796,1796,Edward Barnes,BE0030,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,Elbridge Gerry,GE0049,null,null,53,53,0,0.0
+ma.uscongress.middle.2.1796,1796,Eleazer Brooks,BE0031,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,Elijah Brigham,BE0103,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,Elijah Brigham,BE0103,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,Francis Dana,DF0019,Federalist,A01,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,James Winthrop,WJ0341,null,null,3,3,0,0.0
+ma.uscongress.middle.2.1796,1796,John B. Varnum,VJ0034,null,null,2,2,0,0.0
+ma.uscongress.middle.2.1796,1796,Jonathan Fay,FJ0140,null,null,1,1,0,0.0
+ma.uscongress.middle.2.1796,1796,Joseph B. Varnum,VJ0024,null,null,1199,1199,0,0.0
+ma.uscongress.middle.2.1796,1796,"Samuel Dexter, Jr.",DS0053,Federalist,A01,257,257,0,0.0
+ma.uscongress.middle.2.1796,1796,William Winthrop,WW0089,null,null,1,1,0,0.0
+ma.uscongress.middle.3.1796,1796,James Barnesof,BJ0406,null,null,2,2,0,0.0
+ma.uscongress.middle.3.1796,1796,John Norris,NJ0062,null,null,3,3,0,0.0
+ma.uscongress.middle.3.1796,1796,Jonathan Ingersoll,IJ0013,null,null,1,1,0,0.0
+ma.uscongress.middle.3.1796,1796,Leammi Baldwin,BL0023,null,null,209,209,0,0.0
+ma.uscongress.middle.3.1796,1796,Moses Brown,BM0029,null,null,4,4,0,0.0
+ma.uscongress.middle.3.1796,1796,Samuel Holten,HS0071,null,null,48,48,0,0.0
+ma.uscongress.middle.3.1796,1796,Samuel Sewell,SS0068,null,null,442,442,0,0.0
+ma.uscongress.middle.4.1796,1796,Bailey Bartlett,BB0019,Federalist,A01,21,21,0,0.0
+ma.uscongress.middle.4.1796,1796,Daniel Killam,KD0021,null,null,15,15,0,0.0
+ma.uscongress.middle.4.1796,1796,John Mycall,MJ0303,null,null,1,1,0,0.0
+ma.uscongress.middle.4.1796,1796,"Peter Osgood, Jr.",OP0003,null,null,2,2,0,0.0
+ma.uscongress.middle.4.1796,1796,Samuel Blanchard,BS0057,null,null,48,48,0,0.0
+ma.uscongress.middle.4.1796,1796,Stephen Cross,CS0088,null,null,7,7,0,0.0
+ma.uscongress.middle.4.1796,1796,Theophilus Bradbury,BT0080,null,null,527,527,0,0.0
+ma.uscongress.middle.4.1796,1796,Theophilus Parsons,PT0090,Federalist,A01,1,1,0,0.0
+ma.uscongress.middle.4.1796,1796,Thomas Kitteridge,KT0032,null,null,11,11,0,0.0
+ma.uscongress.southern.1.1796,1796,Abraham Holmes,HA0082,null,null,17,17,0,0.0
+ma.uscongress.southern.1.1796,1796,Ebenezer Bacon,BE0028,null,null,2,2,0,0.0
+ma.uscongress.southern.1.1796,1796,Jonathan Moore,MJ0304,null,null,7,7,0,0.0
+ma.uscongress.southern.1.1796,1796,"Nathaniel Freeman, Jr.",FN0017,null,null,752,752,0,0.0
+ma.uscongress.southern.1.1796,1796,"Peleg Coffin, Jr.",CP0027,null,null,164,164,0,0.0
+ma.uscongress.southern.1.1796,1796,Solomon Freeman,FS0022,null,null,2,2,0,0.0
+ma.uscongress.southern.2.1796,1796,Benjamin Bass,BB0082,null,null,1,1,0,0.0
+ma.uscongress.southern.2.1796,1796,Boza Howard,HB0073,null,null,29,29,0,0.0
+ma.uscongress.southern.2.1796,1796,Charles Cushing,CC0035,null,null,8,8,0,0.0
+ma.uscongress.southern.2.1796,1796,Ebenezer Thayer,TE0036,null,null,1,1,0,0.0
+ma.uscongress.southern.2.1796,1796,Edward H. Robbins,RE0018,null,null,144,144,0,0.0
+ma.uscongress.southern.2.1796,1796,George Partridge,PG0027,null,null,30,30,0,0.0
+ma.uscongress.southern.2.1796,1796,Henry Warren,WH0030,null,null,19,19,0,0.0
+ma.uscongress.southern.2.1796,1796,Isaac Thompson,TI0012,null,null,2,2,0,0.0
+ma.uscongress.southern.2.1796,1796,John Allyn,AJ0086,null,null,1,1,0,0.0
+ma.uscongress.southern.2.1796,1796,John Davis,DJ0181,null,null,2,2,0,0.0
+ma.uscongress.southern.2.1796,1796,John Read,RJ0226,Federalist,A01,535,535,0,0.0
+ma.uscongress.southern.2.1796,1796,John Turner,TJ0151,null,null,9,9,0,0.0
+ma.uscongress.southern.2.1796,1796,Joseph Vase,VJ0042,null,null,1,1,0,0.0
+ma.uscongress.southern.2.1796,1796,Joshua Thomas,TJ0188,null,null,3,3,0,0.0
+ma.uscongress.southern.2.1796,1796,Robert E. Ells,ER0016,null,null,3,3,0,0.0
+ma.uscongress.southern.2.1796,1796,Samuel Noles,NS0042,null,null,21,21,0,0.0
+ma.uscongress.southern.3.1796,1796,Elisha May,ME0023,null,null,390,390,0,0.0
+ma.uscongress.southern.3.1796,1796,George Leonard,LG0029,null,null,25,25,0,0.0
+ma.uscongress.southern.3.1796,1796,Josiah Dean,DJ0177,null,null,14,14,0,0.0
+ma.uscongress.southern.3.1796,1796,Laban Wheaton,WL0029,null,null,227,227,0,0.0
+ma.uscongress.southern.3.1796,1796,"Nathaniel Morton, Jr.",MN0044,null,null,3,3,0,0.0
+ma.uscongress.southern.3.1796,1796,Nicholas Tillinghurst,TN0022,null,null,42,42,0,0.0
+ma.uscongress.southern.3.1796,1796,Seth Paddleford,PS0045,null,null,2,2,0,0.0
+ma.uscongress.southern.3.1796,1796,Stephen Bullock,BS0112,null,null,244,244,0,0.0
+ma.uscongress.southern.3.1796,1796,Stephen Metcalf,MS0031,null,null,1,1,0,0.0
+ma.uscongress.southern.3.1796,1796,William Baylis,BW0351,Federalist,A01,3,3,0,0.0
+ma.uscongress.southern.3.1796,1796,Zephaniah Leonard,LZ0004,null,null,1,1,0,0.0
+ma.uscongress.western.1.1796,1796,Barnabus Bidwell,BB0057,null,null,60,60,0,0.0
+ma.uscongress.western.1.1796,1796,David Rosseter,RD0014,null,null,1,1,0,0.0
+ma.uscongress.western.1.1796,1796,Ephraim Williams,WE0051,null,null,1160,1160,0,0.0
+ma.uscongress.western.1.1796,1796,John Bacon,BJ0484,null,null,3,3,0,0.0
+ma.uscongress.western.1.1796,1796,Thomas Ives,IT0000,null,null,25,25,0,0.0
+ma.uscongress.western.1.1796,1796,Thompson J. Skinner,ST0101,null,null,1499,1499,0,0.0
+ma.uscongress.western.1.1796,1796,William Williams,WW0126,null,null,1,1,0,0.0
+ma.uscongress.western.1.1796,1796,Zebulon Herrick,HZ0004,null,null,1,1,0,0.0
+ma.uscongress.western.2.1796,1796,Ebenezer Hunt,HE0035,null,null,11,11,0,0.0
+ma.uscongress.western.2.1796,1796,Ebenezer Mattson,ME0042,Federalist,A01,3,3,0,0.0
+ma.uscongress.western.2.1796,1796,John Williams,WJ0343,null,null,71,71,0,0.0
+ma.uscongress.western.2.1796,1796,Jonathan E. Porter,PJ0246,null,null,1,1,0,0.0
+ma.uscongress.western.2.1796,1796,Justin Ely,EJ0095,null,null,2,2,0,0.0
+ma.uscongress.western.2.1796,1796,Samuel Fowler,FS0045,null,null,7,7,0,0.0
+ma.uscongress.western.2.1796,1796,Samuel Henshaw,HS0048,null,null,424,424,0,0.0
+ma.uscongress.western.2.1796,1796,Warham Parks,PW0073,null,null,35,35,0,0.0
+ma.uscongress.western.2.1796,1796,William Coleman,CW0127,null,null,1,1,0,0.0
+ma.uscongress.western.2.1796,1796,William Lyman,LW0055,null,null,381,381,0,0.0
+ma.uscongress.western.2.1796,1796,William Shepard,SW0150,null,null,823,823,0,0.0
+ma.uscongress.western.3.1796,1796,Daniel Bigelow,BD0045,null,null,172,172,0,0.0
+ma.uscongress.western.3.1796,1796,"Ebenezer Mattson, Jr.",ME0042,Federalist,A01,1,1,0,0.0
+ma.uscongress.western.3.1796,1796,Jonathan Grout,GJ0158,null,null,14,14,0,0.0
+ma.uscongress.western.3.1796,1796,Samuel Lyman,LS0018,Federalist,A01,878,878,0,0.0
+ma.uscongress.western.4.1796,1796,Bazaleel Taft,TB0028,null,null,1,1,0,0.0
+ma.uscongress.western.4.1796,1796,Benjamin Haywood,HB0067,null,null,1,1,0,0.0
+ma.uscongress.western.4.1796,1796,Dwight Foster,FD0007,Federalist,A01,1107,1107,0,0.0
+ma.uscongress.western.4.1796,1796,Joseph Allen,AJ0113,null,null,3,3,0,0.0
+ma.uscongress.western.4.1796,1796,Levi Lincoln,LL0038,null,null,263,263,0,0.0
+ma.uscongress.western.4.1796,1796,Moses Gill,GM0022,null,null,1,1,0,0.0
+ma.uscongress.western.4.1796,1796,Nathaniel Paine,PN0020,null,null,1,1,0,0.0

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress9.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Marmaduke Williams,WM0000,Republican,A03,1,Nine,2292
+nc.uscongress9.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Theophilus Lacy,LT0067,Republican,A03,2,Nine,1205
+nc.uscongress9.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Nash,NW0023,Republican,A03,3,Nine,659
+nc.uscongress9.1803,1803-08,1803,General,"North Carolina 1803 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Anton Brown,BA0157,Federalist,A01,4,Nine,102

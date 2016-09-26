@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chatham,nc.uscongress10.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Fisher,FC0020,Republican,A03,722
+2,Chatham,nc.uscongress10.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Wiley Jones,JW0060,Federalist,A01,322
+1,Randolph,nc.uscongress10.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Fisher,FC0020,Republican,A03,895
+2,Randolph,nc.uscongress10.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Wiley Jones,JW0060,Federalist,A01,214
+1,Rowan,nc.uscongress10.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Fisher,FC0020,Republican,A03,1374
+2,Rowan,nc.uscongress10.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Wiley Jones,JW0060,Federalist,A01,1069

@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,325
+2,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward H. Robbins,RE0018,Federalist,A01,271
+3,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,Federalist,A01,NA
+4,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Q. Adams,AJ0043,null,null,NA
+5,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Bowdoin,BJ0467,Republican,A03,NA
+6,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Brewer,BW0141,null,null,NA
+7,Middlesex,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,NA
+1,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1975
+2,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward H. Robbins,RE0018,Federalist,A01,1405
+3,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,Federalist,A01,3
+4,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Q. Adams,AJ0043,null,null,1
+5,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Bowdoin,BJ0467,Republican,A03,1
+6,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Brewer,BW0141,null,null,1
+7,Norfolk,ma.uscongress.norfolk.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,1

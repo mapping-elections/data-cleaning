@@ -1,0 +1,40 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,173
+2,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Crosby,CJ0328,Federalist,A01,105
+3,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Benjamin Whitwell,WB0035,Federalist,A01,NA
+4,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Fillebrown,TT0031,null,null,NA
+5,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Federalist,A01,8
+6,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Howard,HS0067,Federalist,A01,NA
+7,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,null,null,NA
+8,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Moody,MS0178,Federalist,A01,NA
+9,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Weld,WS0029,Federalist,A01,NA
+10,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,2
+11,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,James Farley,FJ0145,null,null,2
+12,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Noble Bags,BN0012,null,null,NA
+13,Hancock,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,James Bridge,BJ0319,null,null,NA
+1,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,897
+2,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Crosby,CJ0328,Federalist,A01,76
+3,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Benjamin Whitwell,WB0035,Federalist,A01,44
+4,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Fillebrown,TT0031,null,null,15
+5,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Federalist,A01,6
+6,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Howard,HS0067,Federalist,A01,14
+7,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,null,null,13
+8,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Moody,MS0178,Federalist,A01,8
+9,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Weld,WS0029,Federalist,A01,5
+10,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA
+11,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,James Farley,FJ0145,null,null,NA
+12,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Noble Bags,BN0012,null,null,1
+13,Kennebec,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,James Bridge,BJ0319,null,null,1
+1,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,90
+2,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Crosby,CJ0328,Federalist,A01,132
+3,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Benjamin Whitwell,WB0035,Federalist,A01,NA
+4,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Fillebrown,TT0031,null,null,NA
+5,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Federalist,A01,NA
+6,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Howard,HS0067,Federalist,A01,NA
+7,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,null,null,NA
+8,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Moody,MS0178,Federalist,A01,NA
+9,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Samuel Weld,WS0029,Federalist,A01,NA
+10,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,David Cobb,CD0056,null,null,NA
+11,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,James Farley,FJ0145,null,null,NA
+12,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Noble Bags,BN0012,null,null,NA
+13,Washington,ma.uscongress.kennebec.1806,1806-11,1806,General,"Massachusetts 1806 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,James Bridge,BJ0319,null,null,NA

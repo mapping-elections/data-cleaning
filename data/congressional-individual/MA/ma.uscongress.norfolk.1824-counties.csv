@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Bailey,BJ0321,Republican,A03,209
+2,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Richard Sullivan,SR0113,Federalist,A01,187
+3,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Bugbee,BS0033,Republican,A03,52
+4,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Sherman Leland,LS0020,null,null,NA
+5,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,NA
+6,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Endicot,EJ0102,null,null,NA
+7,Middlesex,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Bailey,BJ0321,Republican,A03,931
+2,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Richard Sullivan,SR0113,Federalist,A01,512
+3,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Bugbee,BS0033,Republican,A03,541
+4,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Sherman Leland,LS0020,null,null,92
+5,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,45
+6,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Endicot,EJ0102,null,null,1
+7,Norfolk,ma.uscongress.norfolk.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,scattering,null,null,null,79

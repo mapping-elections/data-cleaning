@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Phineas Bruce,BP0030,Federalist,A01,100
+2,Hancock,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,Republican,A03,84
+3,Hancock,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,NA
+4,Hancock,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,NA
+5,Hancock,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Elaxander Cable,CE0043,null,null,NA
+6,Hancock,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,NA
+1,Kennebec,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Phineas Bruce,BP0030,Federalist,A01,477
+2,Kennebec,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,Republican,A03,497
+3,Kennebec,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,9
+4,Kennebec,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,4
+5,Kennebec,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Elaxander Cable,CE0043,null,null,2
+6,Kennebec,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,2
+1,Washington,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Phineas Bruce,BP0030,Federalist,A01,221
+2,Washington,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,Republican,A03,NA
+3,Washington,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,John Chandler,CJ0020,Republican,A03,NA
+4,Washington,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Nathaniel Dummer,DN0019,Federalist,A01,NA
+5,Washington,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Elaxander Cable,CE0043,null,null,NA
+6,Washington,ma.uscongress.kennebec.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,NA

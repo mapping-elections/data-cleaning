@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,nc.uscongress8.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Willie P. Mangum,MW0251,Caucus,A07,1553
+2,Orange,nc.uscongress8.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Crudup,CJ0586,Anti-Caucus,A03,715
+1,Person,nc.uscongress8.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Willie P. Mangum,MW0251,Caucus,A07,373
+2,Person,nc.uscongress8.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Crudup,CJ0586,Anti-Caucus,A03,192
+1,Wake,nc.uscongress8.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Willie P. Mangum,MW0251,Caucus,A07,375
+2,Wake,nc.uscongress8.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Josiah Crudup,CJ0586,Anti-Caucus,A03,1336

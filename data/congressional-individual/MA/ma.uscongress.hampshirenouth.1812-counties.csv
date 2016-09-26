@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Samuel Taggart,TS0046,Federalist,A01,1767
+2,Franklin,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Solomon Smead,SS0117,Republican,A03,184
+3,Franklin,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Joseph Rice,RJ0228,Republican,A03,96
+4,Franklin,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Benjamin Smith,SB0037,Republican,A03,NA
+5,Franklin,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,scattering,null,null,null,6
+1,Hampshire,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Samuel Taggart,TS0046,Federalist,A01,667
+2,Hampshire,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Solomon Smead,SS0117,Republican,A03,75
+3,Hampshire,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Joseph Rice,RJ0228,Republican,A03,NA
+4,Hampshire,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Benjamin Smith,SB0037,Republican,A03,6
+5,Hampshire,ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

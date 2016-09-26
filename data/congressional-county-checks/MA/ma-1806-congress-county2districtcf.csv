@@ -1,0 +1,114 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.berkshire.1806,1806,Barnabus Bidwell,BB0057,null,null,1446,11,-1435,0.99
+ma.uscongress.berkshire.1806,1806,Daniel Dewey,DD0043,Federalist,A01,971,5,-966,0.99
+ma.uscongress.york.1806,1806,Richard Cutts,CR0035,Republican,A03,925,920,-5,0.01
+ma.uscongress.bristol.1806,1806,David Perry,PD0040,null,null,4,2,-2,0.5
+ma.uscongress.norfolk.1806,1806,Ebenezer Seaver,SE0023,null,null,1290,1291,1,0.0
+ma.uscongress.barnstable.1806,1806,David Scudder,SD0011,null,null,1,1,0,0.0
+ma.uscongress.barnstable.1806,1806,Ebenezer Bacon,BE0028,null,null,11,11,0,0.0
+ma.uscongress.barnstable.1806,1806,Isaiah L. Green,GI0007,Republican,A03,665,665,0,0.0
+ma.uscongress.barnstable.1806,1806,Lemuel Williams,WL0031,null,null,9,9,0,0.0
+ma.uscongress.barnstable.1806,1806,Wendell Davis,DW0062,Federalist,A01,363,363,0,0.0
+ma.uscongress.berkshire.1806,1806,Barnabus Bidwell,BB0057,null,null,1446,1446,0,0.0
+ma.uscongress.berkshire.1806,1806,Daniel Dewey,DD0043,Federalist,A01,971,971,0,0.0
+ma.uscongress.berkshire.1806,1806,Ezekiel Bacon,BE0033,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1806,1806,Jerome Bonaparte,BJ1490,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1806,1806,J. Hulbart,HJ0395,null,null,2,2,0,0.0
+ma.uscongress.berkshire.1806,1806,Timothy Edwards,ET0013,null,null,1,1,0,0.0
+ma.uscongress.bristol.1806,1806,Josiah Deane,DJ0177,Republican,A03,937,937,0,0.0
+ma.uscongress.bristol.1806,1806,Laban Wheaton,WL0029,null,null,2,2,0,0.0
+ma.uscongress.bristol.1806,1806,Nathaniel Moreton,MN0044,Republican,A03,28,28,0,0.0
+ma.uscongress.bristol.1806,1806,Nicholas Tillinghart,TN0022,Federalist,A01,733,733,0,0.0
+ma.uscongress.cumberland.1806,1806,Daniel Ilsley,ID0002,Republican,A03,1557,1557,0,0.0
+ma.uscongress.cumberland.1806,1806,Ezekiel Whitman,WE0022,Federalist,A01,1410,1410,0,0.0
+ma.uscongress.cumberland.1806,1806,Woodbury Moses,MW0102,null,null,2,2,0,0.0
+ma.uscongress.essexnorth.1806,1806,Edward L. Livermore,LE0034,Federalist,A01,1280,1280,0,0.0
+ma.uscongress.essexnorth.1806,1806,Thomas Kittridge,KT0032,Republican,A03,613,613,0,0.0
+ma.uscongress.essexsouth.1806,1806,Jacob Crowinshield,CJ0329,Republican,A03,1483,1483,0,0.0
+ma.uscongress.essexsouth.1806,1806,John Panchard,PJ0240,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.1806,1806,"John Pickering, Jr.",PJ0211,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.1806,1806,Joseph Story,SJ0394,null,null,2,2,0,0.0
+ma.uscongress.essexsouth.1806,1806,Nathan Reed,RN0017,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.1806,1806,Samuel Putnam,PS0040,Federalist,A01,1216,1216,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Benjamin Smith,SB0037,null,null,4,4,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Ephraim Williams,WE0051,null,null,2,2,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Hugh MacClellan,MH0053,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Jeduthen Bartlett,BJ0392,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Nathan Williams,WN0026,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Samuel Taggart,TS0046,Federalist,A01,1840,1840,0,0.0
+ma.uscongress.hampshirenorth.1806,1806,Solomon Smead,SS0117,null,null,978,978,0,0.0
+ma.uscongress.hampshiresouth.1806,1806,Ezra Starkweather,SE0024,null,null,1,1,0,0.0
+ma.uscongress.hampshiresouth.1806,1806,Samuel Fowler,FS0045,Republican,A03,1203,1203,0,0.0
+ma.uscongress.hampshiresouth.1806,1806,William Eaton,EW0045,Federalist,A01,136,136,0,0.0
+ma.uscongress.hampshiresouth.1806,1806,William Ely,EW0034,Federalist,A01,1781,1781,0,0.0
+ma.uscongress.kennebec.1806,1806,Benjamin Whitwell,WB0035,Federalist,A01,44,44,0,0.0
+ma.uscongress.kennebec.1806,1806,David Cobb,CD0056,null,null,2,2,0,0.0
+ma.uscongress.kennebec.1806,1806,James Bridge,BJ0319,null,null,1,1,0,0.0
+ma.uscongress.kennebec.1806,1806,James Farley,FJ0145,null,null,2,2,0,0.0
+ma.uscongress.kennebec.1806,1806,John Chandler,CJ0020,Republican,A03,1160,1160,0,0.0
+ma.uscongress.kennebec.1806,1806,John Crosby,CJ0328,Federalist,A01,313,313,0,0.0
+ma.uscongress.kennebec.1806,1806,Mark L. Hill,HM0035,Federalist,A01,14,14,0,0.0
+ma.uscongress.kennebec.1806,1806,Nathaniel Dummer,DN0019,null,null,13,13,0,0.0
+ma.uscongress.kennebec.1806,1806,Noble Bags,BN0012,null,null,1,1,0,0.0
+ma.uscongress.kennebec.1806,1806,Samuel Howard,HS0067,Federalist,A01,14,14,0,0.0
+ma.uscongress.kennebec.1806,1806,Samuel Moody,MS0178,Federalist,A01,8,8,0,0.0
+ma.uscongress.kennebec.1806,1806,Samuel Weld,WS0029,Federalist,A01,5,5,0,0.0
+ma.uscongress.kennebec.1806,1806,Thomas Fillebrown,TT0031,null,null,15,15,0,0.0
+ma.uscongress.lincoln.1806,1806,Mark L. Hill,HM0035,Federalist,A01,714,714,0,0.0
+ma.uscongress.lincoln.1806,1806,Orchard Cook,CO0004,Republican,A03,854,854,0,0.0
+ma.uscongress.middlesex.1806,1806,Abraham B. Wright,WA0087,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1806,1806,Alexander Willard,WA0088,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1806,1806,Ebenezer Bridge,BE0139,Federalist,A01,626,626,0,0.0
+ma.uscongress.middlesex.1806,1806,Elbridge Gerry,GE0049,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1806,1806,John Walker,WJ0048,null,null,4,4,0,0.0
+ma.uscongress.middlesex.1806,1806,Jonas Wood,WJ0432,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1806,1806,Joseph B. Varnum,VJ0024,Republican,A03,1842,1842,0,0.0
+ma.uscongress.middlesex.1806,1806,Noble Bags,BN0025,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1806,1806,Oliver Prescott,PO0007,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1806,1806,Samuel Kendall,KS0011,null,null,5,5,0,0.0
+ma.uscongress.middlesex.1806,1806,Timothy Bigelow,BT0122,Federalist,A01,3,3,0,0.0
+ma.uscongress.middlesex.1806,1806,Timothy Jackson,JT0025,null,null,4,4,0,0.0
+ma.uscongress.norfolk.1806,1806,Ebenezer Fisher,FE0012,null,null,1,1,0,0.0
+ma.uscongress.norfolk.1806,1806,E. H. Robbins,RE0018,null,null,686,686,0,0.0
+ma.uscongress.norfolk.1806,1806,Elijah Crane,CE0034,null,null,10,10,0,0.0
+ma.uscongress.norfolk.1806,1806,Joseph Varl,VJ0040,null,null,1,1,0,0.0
+ma.uscongress.norfolk.1806,1806,Moses Wadsworth,WM0031,null,null,1,1,0,0.0
+ma.uscongress.norfolk.1806,1806,Thomas B. Adams,AT0017,null,null,7,7,0,0.0
+ma.uscongress.norfolk.1806,1806,Timothy Jackson,JT0025,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Albert Smith,SA0067,null,null,2,2,0,0.0
+ma.uscongress.plymouth.1806,1806,Charles Turner,TC0016,null,null,5,5,0,0.0
+ma.uscongress.plymouth.1806,1806,D. Dunbar,DD0017,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Joseph Barker,BJ0486,Republican,A03,1025,1025,0,0.0
+ma.uscongress.plymouth.1806,1806,Kelborn Whitman,WK0000,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Levi Thomas,TL0011,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Nahum Mitchell,MN0055,Federalist,A01,543,543,0,0.0
+ma.uscongress.plymouth.1806,1806,Nathaniel Goodwin,GN0009,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Nathan Willis,WN0035,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Samuel Niles,NS0034,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,Thomas Lun,LT0047,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1806,1806,William Balus,BW0193,null,null,104,104,0,0.0
+ma.uscongress.suffolk.1806,1806,Caleb Brigham,BC0031,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1806,1806,James Prince,PJ0605,Republican,A03,1439,1439,0,0.0
+ma.uscongress.suffolk.1806,1806,Josiah Quincy,QJ0002,Federalist,A01,1968,1968,0,0.0
+ma.uscongress.suffolk.1806,1806,William Eustis,EW0031,null,null,3,3,0,0.0
+ma.uscongress.worcesternorth.1806,1806,Eleazer James,JE0010,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1806,1806,James Umfrey,UJ0004,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1806,1806,John Whiting,WJ0262,Republican,A03,998,998,0,0.0
+ma.uscongress.worcesternorth.1806,1806,Jonas Kendall,KJ0066,null,null,7,7,0,0.0
+ma.uscongress.worcesternorth.1806,1806,Samuel Ward,WS0064,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1806,1806,William Stedman,SW0095,Federalist,A01,1764,1764,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Chaney Reed,RC0048,null,null,2,2,0,0.0
+ma.uscongress.worcestersouth.1806,1806,E. Brigham,BE0103,null,null,2,2,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Edward Bangs,BE0170,Republican,A03,1348,1348,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Jabez Upham,UJ0005,Federalist,A01,1600,1600,0,0.0
+ma.uscongress.worcestersouth.1806,1806,John Spars,SJ0488,null,null,8,8,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Levi Lincoln,LL0038,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Nathaniel Paine,PN0020,null,null,6,6,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Pliny Merrick,MP0066,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Seth Hastings,HS0073,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1806,1806,Thomas Hale,HT0058,null,null,1,1,0,0.0
+ma.uscongress.york.1806,1806,Jonas Clark,CJ0289,null,null,1,1,0,0.0
+ma.uscongress.york.1806,1806,Joseph Bartlett,BJ0329,Republican,A03,327,327,0,0.0
+ma.uscongress.york.1806,1806,Joseph Leland,LJ0105,null,null,438,438,0,0.0
+ma.uscongress.york.1806,1806,Nicholas Emery,EN0001,null,null,2,2,0,0.0
+ma.uscongress.york.1806,1806,Robert Towne,TR0027,null,null,1,1,0,0.0

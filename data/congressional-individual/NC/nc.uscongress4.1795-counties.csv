@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chatham,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,244
+2,Chatham,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Benton,BS0217,Federalist,A01,21
+3,Chatham,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,12
+1,Orange,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,NA
+2,Orange,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Benton,BS0217,Federalist,A01,NA
+3,Orange,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,NA
+1,Person,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,NA
+2,Person,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Benton,BS0217,Federalist,A01,NA
+3,Person,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,NA
+1,Randolph,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,156
+2,Randolph,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Benton,BS0217,Federalist,A01,82
+3,Randolph,nc.uscongress4.1795,1795-04,1795,General,"North Carolina 1795 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,13

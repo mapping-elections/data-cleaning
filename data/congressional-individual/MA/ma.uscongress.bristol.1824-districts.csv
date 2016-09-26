@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.bristol.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Francis Bayliss,BF0013,Federalist,A01,1,Bristol,1181
+ma.uscongress.bristol.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,James L. Hodges,HJ0392,Republican,A03,2,Bristol,1097
+ma.uscongress.bristol.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Hercules Cushman,CH0088,Republican,A03,3,Bristol,95
+ma.uscongress.bristol.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,4,Bristol,24

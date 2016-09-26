@@ -1,0 +1,12 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,William Shepard,SW0150,Federalist,A01,1142
+2,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,William Lyman,LW0055,Republican,A03,200
+3,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Samuel Taggart,TS0046,Federalist,A01,58
+4,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Warham Parks,PW0073,null,null,51
+5,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Ebenezer Hunt,HE0035,Federalist,A01,30
+6,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Samuel Fowler,FS0045,Republican,A03,22
+7,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Joseph Lyman,LJ0212,Federalist,A01,18
+8,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Samuel Henshaw,HS0048,null,null,15
+9,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,Jonathan Leavit,LJ0182,null,null,13
+10,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,John Williams,WJ0343,null,null,5
+11,Hampshire,ma.uscongress.western.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Western 2",U.S. House of Representatives,ON125,James Taylor,TJ0177,null,null,3

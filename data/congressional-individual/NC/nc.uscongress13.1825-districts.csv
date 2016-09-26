@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress13.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Caucus,A07,1,Thirteen,3102
+nc.uscongress13.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Anti-Caucus,A03,2,Thirteen,1901

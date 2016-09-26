@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress8.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William J. Dawson,DW0108,Federalist,A01,1,Eight,1583
+nc.uscongress8.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Stephen Cabarrus,CS0145,Republican,A03,2,Eight,896
+nc.uscongress8.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Cumming,CW0228,Federalist,A01,3,Eight,4

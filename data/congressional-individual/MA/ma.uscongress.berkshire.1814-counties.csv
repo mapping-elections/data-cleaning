@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkshire,ma.uscongress.berkshire.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,John W. Hulbert,HJ0303,Federalist,A01,2431
+2,Berkshire,ma.uscongress.berkshire.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William P. Walker,WW0322,null,null,1977
+3,Berkshire,ma.uscongress.berkshire.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Nathaniel Bishop,BN0024,null,null,3
+1,Hampshire,ma.uscongress.berkshire.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,John W. Hulbert,HJ0303,Federalist,A01,78
+2,Hampshire,ma.uscongress.berkshire.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William P. Walker,WW0322,null,null,22
+3,Hampshire,ma.uscongress.berkshire.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Nathaniel Bishop,BN0024,null,null,NA

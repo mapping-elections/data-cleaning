@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,161
+2,Cumberland,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,3
+3,Cumberland,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,"William Lithgow, Jr.",LW0054,null,null,129
+4,Cumberland,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Josiah Thacher,TJ0159,null,null,22
+5,Cumberland,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,William Marton,MW0097,null,null,9
+6,Cumberland,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Isaac Randall,RI0023,null,null,1
+1,Hancock,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,16
+2,Hancock,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,NA
+3,Hancock,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,"William Lithgow, Jr.",LW0054,null,null,NA
+4,Hancock,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Josiah Thacher,TJ0159,null,null,NA
+5,Hancock,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,William Marton,MW0097,null,null,NA
+6,Hancock,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Isaac Randall,RI0023,null,null,NA
+1,York,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,260
+2,York,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,259
+3,York,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,"William Lithgow, Jr.",LW0054,null,null,1
+4,York,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Josiah Thacher,TJ0159,null,null,NA
+5,York,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,William Marton,MW0097,null,null,NA
+6,York,ma.uscongress.8.ballot2.1790,1790-11,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 8, Ballot 2",U.S. House of Representatives,ON125,Isaac Randall,RI0023,null,null,NA

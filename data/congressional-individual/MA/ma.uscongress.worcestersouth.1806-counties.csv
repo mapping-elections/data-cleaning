@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Jabez Upham,UJ0005,Federalist,A01,1600
+2,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Edward Bangs,BE0170,Republican,A03,1348
+3,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,John Spars,SJ0488,null,null,8
+4,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Nathaniel Paine,PN0020,null,null,6
+5,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,E. Brigham,BE0103,null,null,2
+6,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Chaney Reed,RC0048,null,null,2
+7,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Thomas Hale,HT0058,null,null,1
+8,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Seth Hastings,HS0073,null,null,1
+9,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Levi Lincoln,LL0038,null,null,1
+10,Worcester,ma.uscongress.worcestersouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Pliny Merrick,MP0066,null,null,1

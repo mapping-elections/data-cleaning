@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.worcesternorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester North District",U.S. House of Representatives,ON125,William Stedman,SW0095,Federalist,A01,1,Worcester North,1764
+ma.uscongress.worcesternorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester North District",U.S. House of Representatives,ON125,John Whiting,WJ0262,Republican,A03,2,Worcester North,998
+ma.uscongress.worcesternorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester North District",U.S. House of Representatives,ON125,Jonas Kendall,KJ0066,null,null,3,Worcester North,7
+ma.uscongress.worcesternorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester North District",U.S. House of Representatives,ON125,Eleazer James,JE0010,null,null,4,Worcester North,1
+ma.uscongress.worcesternorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester North District",U.S. House of Representatives,ON125,James Umfrey,UJ0004,null,null,5,Worcester North,1
+ma.uscongress.worcesternorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Worcester North District",U.S. House of Representatives,ON125,Samuel Ward,WS0064,null,null,6,Worcester North,1

@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,York,ma.uscongress.eastern1.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,John Holmes,HJ0336,Republican,A03,1106
+2,York,ma.uscongress.eastern1.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Joseph Dana,DJ0165,null,null,8
+3,York,ma.uscongress.eastern1.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,scattering,null,null,null,68

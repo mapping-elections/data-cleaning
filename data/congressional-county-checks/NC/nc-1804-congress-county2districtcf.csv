@@ -1,0 +1,32 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress8.1804,1804,Richard Stanford,SR0175,Republican,A03,943,NA,-943,1.0
+nc.uscongress11.1804,1804,James Holland,HJ0602,Republican,A03,685,NA,-685,1.0
+nc.uscongress1.1804,1804,Thomas Wynns,WT0142,Republican,A03,411,NA,-411,1.0
+nc.uscongress1.1804,1804,Thomas Harvey,HT0023,null,null,94,NA,-94,1.0
+nc.uscongress8.1804,1804,Duncan Cameron,CD0126,null,null,40,NA,-40,1.0
+nc.uscongress8.1804,1804,scattering,null,null,null,4,NA,-4,1.0
+nc.uscongress2.1804,1804,Jonathon Jaycocks,JJ0084,null,null,0,1,1,1.0
+nc.uscongress6.1804,1804,John Haywood,HJ0621,null,null,1,NA,-1,1.0
+nc.uscongress8.1804,1804,Archibald D. Murphey,MA0168,null,null,1,NA,-1,1.0
+nc.uscongress8.1804,1804,John Hinton Jr.,HJ0664,null,null,1,NA,-1,1.0
+nc.uscongress10.1804,1804,Nathaniel Alexander,AN0006,Republican,A03,0,NA,0,NaN
+nc.uscongress12.1804,1804,Joseph Winston,WJ0494,Republican,A03,2681,2681,0,0.0
+nc.uscongress12.1804,1804,Meshack Franklin,FM0021,Republican,A03,2019,2019,0,0.0
+nc.uscongress2.1804,1804,John Binford,BJ0791,Federalist,A01,580,580,0,0.0
+nc.uscongress2.1804,1804,William R. Davie,DW0110,Federalist,A01,358,358,0,0.0
+nc.uscongress2.1804,1804,Willis Alston,AW0047,Republican,A03,1869,1869,0,0.0
+nc.uscongress3.1804,1804,Thomas Blount,BT0194,Republican,A03,1854,1854,0,0.0
+nc.uscongress3.1804,1804,William Kennedy,KW0059,Federalist,A01,1755,1755,0,0.0
+nc.uscongress4.1804,1804,John Stanly,SJ0834,Federalist,A01,77,77,0,0.0
+nc.uscongress4.1804,1804,William Blackledge,BW0216,Republican,A03,2162,2162,0,0.0
+nc.uscongress5.1804,1804,Benjamin Smith,SB0058,Federalist,A01,1299,1299,0,0.0
+nc.uscongress5.1804,1804,James Gillespie,GJ0328,Republican,A03,1698,1698,0,0.0
+nc.uscongress5.1804,1804,Samuel Ashe,AS0038,Republican,A03,237,237,0,0.0
+nc.uscongress6.1804,1804,Nathaniel Macon,MN0068,Republican,A03,1851,1851,0,0.0
+nc.uscongress7.1804,1804,Duncan MacFarland,MD0119,Republican,A03,2030,2030,0,0.0
+nc.uscongress7.1804,1804,John Hay,HJ0601,Republican,A03,23,23,0,0.0
+nc.uscongress7.1804,1804,Joseph Pickett,PJ0334,Federalist,A01,1750,1750,0,0.0
+nc.uscongress7.1804,1804,William Martin,MW0228,Federalist,A01,1717,1717,0,0.0
+nc.uscongress9.1804,1804,Henry Branson,BH0065,Federalist,A01,6,6,0,0.0
+nc.uscongress9.1804,1804,Marmaduke Williams,WM0000,Republican,A03,3179,3179,0,0.0
+nc.uscongress9.1804,1804,Theophilus Lacey,LT0067,Republican,A03,31,31,0,0.0

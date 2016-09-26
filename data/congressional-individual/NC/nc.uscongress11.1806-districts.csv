@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress11.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,1,Eleven,1922
+nc.uscongress11.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Joseph Graham,GJ0342,null,null,2,Eleven,74
+nc.uscongress11.1806,1806-08,1806,General,"North Carolina 1806 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Erwin,EW0042,null,null,3,Eleven,5

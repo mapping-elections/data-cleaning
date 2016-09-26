@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,1,1385
+ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,2,1293
+ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Jairus Ware,WJ0429,null,null,3,10
+ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,4,4
+ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,scattering,null,null,null,5,60

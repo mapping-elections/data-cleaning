@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,323
+2,Middlesex,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,161
+3,Middlesex,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Jairus Ware,WJ0429,null,null,NA
+4,Middlesex,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,NA
+5,Middlesex,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,1062
+2,Norfolk,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1132
+3,Norfolk,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Jairus Ware,WJ0429,null,null,10
+4,Norfolk,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,John Howe,HJ0343,null,null,4
+5,Norfolk,ma.uscongress.norfolk.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,scattering,null,null,null,60

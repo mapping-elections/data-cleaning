@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,391
+2,Beaufort,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Holland,HJ0665,Federalist,A01,272
+1,Edgecombe,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,1004
+2,Edgecombe,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Holland,HJ0665,Federalist,A01,6
+1,Hyde,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,359
+2,Hyde,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Holland,HJ0665,Federalist,A01,157
+1,Pitt,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,254
+2,Pitt,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Holland,HJ0665,Federalist,A01,156
+1,Tyrrell,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,320
+2,Tyrrell,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Holland,HJ0665,Federalist,A01,22
+1,Washington,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,237
+2,Washington,nc.uscongress3.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Holland,HJ0665,Federalist,A01,104

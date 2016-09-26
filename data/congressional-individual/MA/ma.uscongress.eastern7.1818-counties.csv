@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,182
+2,Cumberland,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,177
+3,Cumberland,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,NA
+4,Cumberland,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Oxford,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,679
+2,Oxford,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,258
+3,Oxford,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,17
+4,Oxford,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,York,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,125
+2,York,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,63
+3,York,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,NA
+4,York,ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,NA

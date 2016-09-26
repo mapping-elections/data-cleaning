@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caswell,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,805
+2,Caswell,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,9
+1,Guilford,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,479
+2,Guilford,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,76
+1,Rockingham,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,605
+2,Rockingham,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,182
+1,Stokes,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,357
+2,Stokes,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,599
+1,Surry,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,465
+2,Surry,nc.uscongress3.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,308

@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,153
+2,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Oliver Everett,EO0002,Federalist,A01,133
+3,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Dexter,DS0053,Federalist,A01,NA
+4,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Benjamin Hitchborne,HB0050,Republican,A03,NA
+5,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy Jackson,JT0025,null,null,14
+6,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Horatio Townsend,TH0010,null,null,NA
+7,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward H. Robbins,RE0018,Federalist,A01,NA
+8,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Bass,BS0102,Federalist,A01,NA
+9,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Heath,HW0171,Republican,A03,NA
+10,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Perez Morton,MP0042,Republican,A03,1
+11,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Moses Everett,EM0015,null,null,NA
+12,Middlesex,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy French,FT0033,null,null,NA
+1,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1238
+2,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Oliver Everett,EO0002,Federalist,A01,495
+3,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Dexter,DS0053,Federalist,A01,59
+4,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Benjamin Hitchborne,HB0050,Republican,A03,59
+5,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy Jackson,JT0025,null,null,NA
+6,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Horatio Townsend,TH0010,null,null,9
+7,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward H. Robbins,RE0018,Federalist,A01,7
+8,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Samuel Bass,BS0102,Federalist,A01,4
+9,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Heath,HW0171,Republican,A03,3
+10,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Perez Morton,MP0042,Republican,A03,2
+11,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Moses Everett,EM0015,null,null,2
+12,Norfolk,ma.uscongress.norfolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Timothy French,FT0033,null,null,1

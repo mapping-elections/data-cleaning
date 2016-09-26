@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,263
+2,Middlesex,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,Federalist,A01,178
+3,Middlesex,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Hull,HW0079,null,null,1
+4,Middlesex,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ames,AN0008,null,null,NA
+5,Middlesex,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Perez Morton,MP0042,Republican,A03,NA
+1,Norfolk,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1857
+2,Norfolk,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,Federalist,A01,970
+3,Norfolk,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Hull,HW0079,null,null,10
+4,Norfolk,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ames,AN0008,null,null,2
+5,Norfolk,ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Perez Morton,MP0042,Republican,A03,1

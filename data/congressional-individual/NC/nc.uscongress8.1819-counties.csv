@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,nc.uscongress8.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James S. Smith,SJ0849,Republican,A03,1324
+2,Orange,nc.uscongress8.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Dickens,DS0131,Federalist,A01,997
+1,Person,nc.uscongress8.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James S. Smith,SJ0849,Republican,A03,337
+2,Person,nc.uscongress8.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Dickens,DS0131,Federalist,A01,372
+1,Wake,nc.uscongress8.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James S. Smith,SJ0849,Republican,A03,893
+2,Wake,nc.uscongress8.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Dickens,DS0131,Federalist,A01,757

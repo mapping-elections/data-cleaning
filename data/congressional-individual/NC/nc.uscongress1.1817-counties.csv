@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Camden,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,367
+2,Camden,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,109
+3,Camden,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,1
+1,Chowan,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,32
+2,Chowan,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,141
+3,Chowan,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,217
+1,Currituck,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,123
+2,Currituck,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,489
+3,Currituck,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,7
+1,Gates,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,73
+2,Gates,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,83
+3,Gates,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,249
+1,Hertford,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,25
+2,Hertford,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,223
+3,Hertford,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,357
+1,Pasquotank,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,523
+2,Pasquotank,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,109
+3,Pasquotank,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,64
+1,Perquimans,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Lemuel Sawyer,SL0032,Republican,A03,228
+2,Perquimans,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Ferebee,FJ0269,Republican,A03,39
+3,Perquimans,nc.uscongress1.1817,1817-08,1817,General,"North Carolina 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Skinner,SH0112,Federalist,A01,149

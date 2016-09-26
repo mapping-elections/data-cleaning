@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cabarrus,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Henderson,HA0107,Federalist,A01,196
+2,Cabarrus,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Basil Gaither,GB0036,Federalist,A01,228
+3,Cabarrus,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Matthew Locke,LM0052,Republican,A03,15
+1,Iredell,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Henderson,HA0107,Federalist,A01,557
+2,Iredell,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Basil Gaither,GB0036,Federalist,A01,NA
+3,Iredell,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Matthew Locke,LM0052,Republican,A03,49
+1,Mecklenburg,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Henderson,HA0107,Federalist,A01,692
+2,Mecklenburg,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Basil Gaither,GB0036,Federalist,A01,3
+3,Mecklenburg,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Matthew Locke,LM0052,Republican,A03,39
+1,Montgomery,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Henderson,HA0107,Federalist,A01,374
+2,Montgomery,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Basil Gaither,GB0036,Federalist,A01,125
+3,Montgomery,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Matthew Locke,LM0052,Republican,A03,26
+1,Rowan,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Henderson,HA0107,Federalist,A01,1348
+2,Rowan,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Basil Gaither,GB0036,Federalist,A01,NA
+3,Rowan,nc.uscongress2.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Matthew Locke,LM0052,Republican,A03,99

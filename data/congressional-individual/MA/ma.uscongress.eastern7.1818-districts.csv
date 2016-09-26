@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,1,Eastern Seven,986
+ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,2,Eastern Seven,498
+ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,3,Eastern Seven,1
+ma.uscongress.eastern7.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,4,Eastern Seven,16

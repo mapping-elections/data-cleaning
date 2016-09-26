@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.suffolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,1,Suffolk,1898
+ma.uscongress.suffolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,John Quincy Adams,AJ0043,Federalist,A01,2,Suffolk,1839
+ma.uscongress.suffolk.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Joseph Heard,HJ0413,null,null,3,Suffolk,1

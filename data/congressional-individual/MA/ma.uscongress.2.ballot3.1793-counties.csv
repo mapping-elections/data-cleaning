@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkshire,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,Dwight Foster,FD0007,Federalist,A01,612
+2,Berkshire,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,392
+3,Berkshire,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,William Lyman,LW0055,null,null,NA
+1,Hampshire,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,Dwight Foster,FD0007,Federalist,A01,727
+2,Hampshire,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,2353
+3,Hampshire,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,William Lyman,LW0055,null,null,4
+1,Worcester,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,Dwight Foster,FD0007,Federalist,A01,2196
+2,Worcester,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,109
+3,Worcester,ma.uscongress.2.ballot3.1793,1793-04,1793,General,"Massachusetts 1793 U.S. House of Representatives, District 2, At-Large, Ballot 3",U.S. House of Representatives,ON125,William Lyman,LW0055,null,null,16

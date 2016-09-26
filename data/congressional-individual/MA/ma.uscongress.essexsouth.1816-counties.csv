@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.essexsouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Nathaniel Sillsbee,SN0057,Republican,A03,1437
+2,Essex,ma.uscongress.essexsouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Thomas Stevens,ST0127,Federalist,A01,1407
+3,Essex,ma.uscongress.essexsouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Timothy Pickering,PT0078,Federalist,A01,9
+4,Essex,ma.uscongress.essexsouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,scattering,null,null,null,13

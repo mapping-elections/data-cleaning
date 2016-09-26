@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampden,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Samuel L. Lathrop,LS0046,Federalist,A01,522
+2,Hampden,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Thomas Shepard,ST0058,Democrat,A03,213
+3,Hampden,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Lewis Strong,SL0007,null,null,NA
+4,Hampden,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Jonathan H. Lyman,LJ0193,null,null,NA
+5,Hampden,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,scattering,null,null,null,5
+1,Hampshire,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Samuel L. Lathrop,LS0046,Federalist,A01,385
+2,Hampshire,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Thomas Shepard,ST0058,Democrat,A03,18
+3,Hampshire,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Lewis Strong,SL0007,null,null,8
+4,Hampshire,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,Jonathan H. Lyman,LJ0193,null,null,4
+5,Hampshire,ma.uscongress.hampden.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Hampden District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

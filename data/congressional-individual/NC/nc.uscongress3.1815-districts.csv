@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress3.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James W. Clark,CJ0556,Republican,A03,1,Three,2341
+nc.uscongress3.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James B. Haughton,HJ0669,Federalist,A01,2,Three,2050

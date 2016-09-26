@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.essexsouth.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Jacob Crowninshield,CJ0329,Republican,A03,1,1400
+ma.uscongress.essexsouth.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Timothy Pickering,PT0078,Federalist,A01,2,1296
+ma.uscongress.essexsouth.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Joseph Hill,HJ0409,null,null,3,1
+ma.uscongress.essexsouth.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Benjamin Pickman,PB0029,Federalist,A01,4,1

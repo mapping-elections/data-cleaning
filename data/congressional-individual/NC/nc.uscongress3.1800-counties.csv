@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caswell,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,NA
+2,Caswell,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hamilton,HJ0611,Federalist,A01,NA
+1,Guilford,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,NA
+2,Guilford,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hamilton,HJ0611,Federalist,A01,NA
+1,Rockingham,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,NA
+2,Rockingham,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hamilton,HJ0611,Federalist,A01,NA
+1,Stokes,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,667
+2,Stokes,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hamilton,HJ0611,Federalist,A01,360
+1,Surry,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,NA
+2,Surry,nc.uscongress3.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hamilton,HJ0611,Federalist,A01,NA

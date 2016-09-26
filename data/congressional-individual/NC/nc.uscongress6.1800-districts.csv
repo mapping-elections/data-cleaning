@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress6.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William H. Hill,HW0233,Federalist,A01,1,Six,1892
+nc.uscongress6.1800,1800-08,1800,General,"North Carolina 1800 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Gillespie,GJ0328,Republican,A03,2,Six,1008

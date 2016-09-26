@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Rutherford,nc.uscongress1.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Steele,SJ0192,Anti-Federalist,A02,70
+2,Rutherford,nc.uscongress1.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph MacDowell,MJ0540,Federalist,A01,176
+1,Stokes,nc.uscongress1.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Steele,SJ0192,Anti-Federalist,A02,144
+2,Stokes,nc.uscongress1.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph MacDowell,MJ0540,Federalist,A01,21
+1,Surry,nc.uscongress1.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Steele,SJ0192,Anti-Federalist,A02,37
+2,Surry,nc.uscongress1.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph MacDowell,MJ0540,Federalist,A01,58

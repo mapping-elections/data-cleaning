@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Jonathan Mason,MJ0290,Republican,A03,41
+2,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Andrew Richie,RA0047,Federalist,A01,NA
+3,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,NA
+4,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,James T. Austin,AJ0081,null,null,NA
+5,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Hammond,HS0309,null,null,NA
+6,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Moses Williams,WM0090,null,null,NA
+7,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Ebenezer Clough,CE0029,null,null,NA
+8,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Paul Dean,DP0071,null,null,NA
+9,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Dunton,DD0117,null,null,NA
+10,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Alexander H. Everett,EA0015,null,null,NA
+11,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Caleb Hayward,HC0157,null,null,NA
+12,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,James Lloyd,LJ0107,Federalist,A01,NA
+13,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Joseph Ruggles,RJ0717,null,null,NA
+14,Middlesex,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel A. Wells,WS0027,null,null,NA
+1,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Jonathan Mason,MJ0290,Republican,A03,657
+2,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Andrew Richie,RA0047,Federalist,A01,385
+3,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,4
+4,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,James T. Austin,AJ0081,null,null,2
+5,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Hammond,HS0309,null,null,2
+6,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Moses Williams,WM0090,null,null,2
+7,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Ebenezer Clough,CE0029,null,null,1
+8,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Paul Dean,DP0071,null,null,1
+9,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Dunton,DD0117,null,null,1
+10,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Alexander H. Everett,EA0015,null,null,1
+11,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Caleb Hayward,HC0157,null,null,1
+12,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,James Lloyd,LJ0107,Federalist,A01,1
+13,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Joseph Ruggles,RJ0717,null,null,1
+14,Suffolk,ma.uscongress.suffolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel A. Wells,WS0027,null,null,1

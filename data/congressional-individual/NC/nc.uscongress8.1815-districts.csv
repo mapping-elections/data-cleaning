@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress8.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Federalist,A01,1,Eight,2013
+nc.uscongress8.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Roger Tillman,TR0056,Republican,A03,2,Eight,1820
+nc.uscongress8.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,3,Eight,15

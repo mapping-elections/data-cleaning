@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.norfolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward Dowse,DE0032,Republican,A03,1,Norfolk,1004
+ma.uscongress.norfolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Edward Dowse,DE0032,Republican,A03,1,Dover,27
+ma.uscongress.norfolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,2,Norfolk,826
+ma.uscongress.norfolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ruggles,RN0012,Federalist,A01,2,Dover,21
+ma.uscongress.norfolk.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,scattering,null,null,null,3,Norfolk,23

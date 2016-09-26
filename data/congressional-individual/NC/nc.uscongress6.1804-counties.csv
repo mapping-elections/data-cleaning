@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,375
+2,Franklin,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,NA
+1,Granville,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,527
+2,Granville,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,1
+1,Nash,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,288
+2,Nash,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,NA
+1,Warren,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,Republican,A03,661
+2,Warren,nc.uscongress6.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Haywood,HJ0621,null,null,NA

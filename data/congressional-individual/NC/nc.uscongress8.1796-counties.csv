@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Gates,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Dempsey Burgess,BD0099,Republican,A03,90
+2,Gates,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joseph Riddick,RJ0255,Republican,A03,5
+3,Gates,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Gregory,GJ0332,Federalist,A01,45
+4,Gates,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Brown,BJ0785,Federalist,A01,NA
+1,Pasquotank,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Dempsey Burgess,BD0099,Republican,A03,265
+2,Pasquotank,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joseph Riddick,RJ0255,Republican,A03,NA
+3,Pasquotank,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Gregory,GJ0332,Federalist,A01,NA
+4,Pasquotank,nc.uscongress8.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Brown,BJ0785,Federalist,A01,2

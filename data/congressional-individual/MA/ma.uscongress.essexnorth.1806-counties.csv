@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,ma.uscongress.essexnorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,Edward L. Livermore,LE0034,Federalist,A01,1169
+2,Essex,ma.uscongress.essexnorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,Thomas Kittridge,KT0032,Republican,A03,541
+1,Middlesex,ma.uscongress.essexnorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,Edward L. Livermore,LE0034,Federalist,A01,111
+2,Middlesex,ma.uscongress.essexnorth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,Thomas Kittridge,KT0032,Republican,A03,72

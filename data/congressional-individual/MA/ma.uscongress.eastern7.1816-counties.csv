@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Albion Keith Parris,PA0033,Republican,A03,270
+2,Cumberland,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,255
+3,Cumberland,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Levi Hubbard,HL0012,Republican,A03,12
+4,Cumberland,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+5,Cumberland,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,William Ladd,LW0210,null,null,NA
+6,Cumberland,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,2
+1,Oxford,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Albion Keith Parris,PA0033,Republican,A03,898
+2,Oxford,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,522
+3,Oxford,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Levi Hubbard,HL0012,Republican,A03,28
+4,Oxford,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+5,Oxford,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,William Ladd,LW0210,null,null,NA
+6,Oxford,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,10
+1,York,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Albion Keith Parris,PA0033,Republican,A03,154
+2,York,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,Federalist,A01,129
+3,York,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Levi Hubbard,HL0012,Republican,A03,94
+4,York,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+5,York,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,William Ladd,LW0210,null,null,NA
+6,York,ma.uscongress.eastern7.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #7",U.S. House of Representatives,ON125,scattering,null,null,null,NA

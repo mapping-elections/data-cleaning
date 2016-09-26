@@ -1,0 +1,21 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,1,Three,536
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,1,Boxboro,21
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,1,Carlisle,3
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,2,Three,384
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,2,Carlisle,8
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Federalist,A01,3,Three,254
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Federalist,A01,3,Carlisle,10
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Brooks,BJ0505,Federalist,A01,4,Three,106
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Winthrop,WJ0341,null,null,5,Three,50
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Leammi Baldwin,BL0023,null,null,6,Three,43
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Eleazer Brooks,BE0031,null,null,7,Three,36
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,null,null,8,Three,18
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Hull,HW0079,null,null,9,Three,17
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Hosmer,HJ0403,null,null,10,Three,9
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Hosmer,HJ0403,null,null,10,Carlisle,2
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Francis Dana,DF0019,Federalist,A01,11,Three,8
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Oliver Prescott,PO0007,null,null,12,Three,8
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Parker Varnum,VP0021,null,null,13,Three,2
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"Samuel Dexter, Jr.",DS0053,Federalist,A01,14,Three,1
+ma.uscongress.3.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Winthrop,WW0089,null,null,15,Three,1

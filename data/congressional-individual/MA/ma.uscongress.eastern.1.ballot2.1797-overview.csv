@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.eastern.1.ballot2.1797,1797-02,1797,General,"Massachusetts 1797 U.S. House of Representatives, District Eastern 1, Ballot 2",U.S. House of Representatives,ON125,Isaac Parker,PI0010,null,null,1,1125
+ma.uscongress.eastern.1.ballot2.1797,1797-02,1797,General,"Massachusetts 1797 U.S. House of Representatives, District Eastern 1, Ballot 2",U.S. House of Representatives,ON125,Henry Dearborn,DH0026,null,null,2,787
+ma.uscongress.eastern.1.ballot2.1797,1797-02,1797,General,"Massachusetts 1797 U.S. House of Representatives, District Eastern 1, Ballot 2",U.S. House of Representatives,ON125,Jonathan Bowman,BJ0314,null,null,3,420

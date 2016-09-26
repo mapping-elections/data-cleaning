@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bertie,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hugh Williamson,WH0019,Federalist,A01,173
+2,Bertie,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Charles Johnson,JC0019,Federalist,A01,217
+1,Chowan,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hugh Williamson,WH0019,Federalist,A01,93
+2,Chowan,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Charles Johnson,JC0019,Federalist,A01,234
+1,Pasquotank,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hugh Williamson,WH0019,Federalist,A01,206
+2,Pasquotank,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Charles Johnson,JC0019,Federalist,A01,164
+1,Perquimans,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hugh Williamson,WH0019,Federalist,A01,154
+2,Perquimans,nc.uscongress4.1791,1791-01,1791,General,"North Carolina 1791 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Charles Johnson,JC0019,Federalist,A01,106

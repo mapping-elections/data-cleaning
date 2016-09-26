@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.eastern1.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Cyrus King,KC0006,Federalist,A01,1,Eastern One,2185
+ma.uscongress.eastern1.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Richard Cutts,CR0035,Republican,A03,2,Eastern One,1392
+ma.uscongress.eastern1.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Tobias Lord,LT0042,null,null,3,Eastern One,73
+ma.uscongress.eastern1.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,Alexander Rice,RA0016,null,null,4,Eastern One,26
+ma.uscongress.eastern1.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Eastern District #1",U.S. House of Representatives,ON125,John Holmes,HJ0336,Republican,A03,5,Eastern One,6

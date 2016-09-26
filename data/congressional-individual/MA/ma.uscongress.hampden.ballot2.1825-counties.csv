@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampden,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,Samuel Lathrop,LS0046,Federalist,A01,579
+2,Hampden,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,John Mills,MJ0299,null,null,574
+3,Hampden,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,Thomas Shepard,ST0058,Republican,A03,6
+4,Hampden,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,Isaac Bates,BI0043,null,null,NA
+5,Hampden,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,James Fowler,FJ0127,null,null,1
+1,Hampshire,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,Samuel Lathrop,LS0046,Federalist,A01,518
+2,Hampshire,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,John Mills,MJ0299,null,null,129
+3,Hampshire,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,Thomas Shepard,ST0058,Republican,A03,8
+4,Hampshire,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,Isaac Bates,BI0043,null,null,3
+5,Hampshire,ma.uscongress.hampden.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Hampden District, Ballot 2",U.S. House of Representatives,ON125,James Fowler,FJ0127,null,null,NA

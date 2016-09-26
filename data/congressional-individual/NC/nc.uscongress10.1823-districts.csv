@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress10.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Long,LJ0271,null,null,1,Ten,3308
+nc.uscongress10.1823,1823-08,1823,General,"North Carolina 1823 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John MacClelland,MJ0616,null,null,2,Ten,1640

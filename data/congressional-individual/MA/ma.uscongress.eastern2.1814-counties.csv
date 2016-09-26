@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern2.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,George Bradbury,BG0016,Federalist,A01,1513
+2,Cumberland,ma.uscongress.eastern2.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Ezekial Whitman,WE0022,Federalist,A01,825
+3,Cumberland,ma.uscongress.eastern2.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,James Means,MJ0288,Republican,A03,33
+4,Cumberland,ma.uscongress.eastern2.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Theodore Mussy,MT0091,null,null,5
+5,Cumberland,ma.uscongress.eastern2.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Eastern District #2",U.S. House of Representatives,ON125,Stephen Longfellow,LS0011,Federalist,A01,1

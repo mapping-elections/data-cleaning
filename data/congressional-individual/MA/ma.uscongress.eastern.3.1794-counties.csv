@@ -1,0 +1,23 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,14
+2,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,NA
+3,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Ichabod Goodwin,GI0004,null,null,1
+4,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Joseph Tucker,TJ0157,null,null,NA
+5,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Josiah Paine,PJ0239,null,null,15
+6,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Jonas Clark,CJ0289,null,null,NA
+7,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Nathaniel Lowe,LN0026,null,null,NA
+8,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Simon Frye,FS0021,null,null,NA
+9,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Dominius Goodwin,GD0033,null,null,NA
+10,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Oliver Keating,KO0002,null,null,1
+11,Cumberland,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Enoch Porley,PE0037,null,null,NA
+1,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,George Thacher,TG0012,Federalist,A01,281
+2,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Nathaniel Wells,WN0011,null,null,204
+3,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Ichabod Goodwin,GI0004,null,null,56
+4,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Joseph Tucker,TJ0157,null,null,41
+5,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Josiah Paine,PJ0239,null,null,9
+6,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Jonas Clark,CJ0289,null,null,11
+7,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Nathaniel Lowe,LN0026,null,null,6
+8,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Simon Frye,FS0021,null,null,3
+9,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Dominius Goodwin,GD0033,null,null,2
+10,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Oliver Keating,KO0002,null,null,1
+11,York,ma.uscongress.eastern.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Eastern 3",U.S. House of Representatives,ON125,Enoch Porley,PE0037,null,null,NA

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.worcestersouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Seth Hastings,HS0073,Federalist,A01,1,Worcester South,1597
+ma.uscongress.worcestersouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Edward Bangs,BE0170,Republican,A03,2,Worcester South,1523
+ma.uscongress.worcestersouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Jonas Bancroft,BJ0407,null,null,3,Worcester South,1
+ma.uscongress.worcestersouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Benjamin Heywood,HB0067,null,null,4,Worcester South,1

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Ashe,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,215
+2,Ashe,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,283
+1,Iredell,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,823
+2,Iredell,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,220
+1,Surry,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,622
+2,Surry,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,937
+1,Wilkes,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,737
+2,Wilkes,nc.uscongress13.1815,1815-08,1815,General,"North Carolina 1815 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,356

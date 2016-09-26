@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Martin Kingsley,KM0013,Republican,A03,1,627
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,John Wilson,WJ0313,Federalist,A01,2,424
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Leonard Jarvis,JL0007,Republican,A03,3,391
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Lemuel Trescott,TL0003,Republican,A03,4,51
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Leonard Carleton,CL0074,null,null,5,3
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,William Abbot,AW0011,null,null,6,2
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,Bohan P. Field,FB0018,null,null,7,1
+ma.uscongress.eastern4.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Eastern District #4",U.S. House of Representatives,ON125,scattering,null,null,null,8,16

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.hampshirenorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,Federalist,A01,1,1126
+ma.uscongress.hampshirenorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Elisha Lyman,LE0022,Republican,A03,2,100
+ma.uscongress.hampshirenorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Thomas Longley,LT0102,Federalist,A01,3,18
+ma.uscongress.hampshirenorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,scattering,null,null,null,4,54

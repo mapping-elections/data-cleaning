@@ -1,0 +1,24 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Samuel Taggart,TS0046,Federalist,A01,1935,10,-1925,0.99
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Samuel Taggart,TS0046,Federalist,A01,1935,45,-1890,0.98
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Samuel Taggart,TS0046,Federalist,A01,1935,58,-1877,0.97
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,857,1,-856,1.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,857,23,-834,0.97
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,766,5,-761,0.99
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,766,14,-752,0.98
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,766,35,-731,0.95
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Samuel Taggart,TS0046,Federalist,A01,638,37,-601,0.94
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Solomon Smead,SS0117,Republican,A03,493,11,-482,0.98
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Solomon Smead,SS0117,Republican,A03,493,21,-472,0.96
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Solomon Smead,SS0117,Republican,A03,493,52,-441,0.89
+ma.uscongress.hampshirenorth.ballot2.1803,1803,John Williams,WJ0343,Federalist,A01,334,11,-323,0.97
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Edward Upham,UE0004,Republican,A03,8,8,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Elisha Nash,NE0018,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,857,857,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,John Williams,WJ0343,Federalist,A01,334,334,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Jonathan Leavitt,LJ0182,null,null,9,9,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Samuel Taggart,TS0046,Federalist,A01,638,638,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Solomon Smead,SS0117,Republican,A03,493,493,0,0.0
+ma.uscongress.hampshirenorth.ballot2.1803,1803,Solomon Vose,VS0011,null,null,4,4,0,0.0
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Hugh MacClellan,MH0053,Federalist,A01,766,766,0,0.0
+ma.uscongress.hampshirenorth.ballot3.1803,1803,Samuel Taggart,TS0046,Federalist,A01,1935,1935,0,0.0

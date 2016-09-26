@@ -1,0 +1,23 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress3.1793,1793,Joseph Winston,WJ0494,Republican,A03,308,NA,-308,1.0
+nc.uscongress6.1793,1793,William Henry Hill,HW0233,Federalist,A01,212,NA,-212,1.0
+nc.uscongress3.1793,1793,James Martin,MJ0541,Federalist,A01,208,NA,-208,1.0
+nc.uscongress6.1793,1793,James Gillespie,GJ0328,Republican,A03,157,NA,-157,1.0
+nc.uscongress7.1793,1793,William B. Grove,GW0091,Federalist,A01,114,NA,-114,1.0
+nc.uscongress3.1793,1793,John Williams,WJ0495,Republican,A03,2,NA,-2,1.0
+nc.uscongress10.1793,1793,Benjamin Williams,WB0039,Federalist,A01,0,NA,0,NaN
+nc.uscongress10.1793,1793,William MacLure,MW0227,Republican,A03,0,NA,0,NaN
+nc.uscongress1.1793,1793,Joseph MacDowell,MJ0540,Republican,A03,0,NA,0,NaN
+nc.uscongress2.1793,1793,Alexander,null,Federalist,A01,0,NA,0,NaN
+nc.uscongress2.1793,1793,Matthew Locke,LM0052,Republican,A03,0,NA,0,NaN
+nc.uscongress2.1793,1793,Montford Stokes,SM0089,null,null,0,NA,0,NaN
+nc.uscongress3.1793,1793,Clarke,null,null,null,0,NA,0,NaN
+nc.uscongress3.1793,1793,Jesse Franklin,FJ0228,Republican,A03,0,NA,0,NaN
+nc.uscongress4.1793,1793,Alexander Mebane,MA0149,Republican,A03,852,852,0,0.0
+nc.uscongress4.1793,1793,Ambrose Ramsay,RA0038,Federalist,A01,308,308,0,0.0
+nc.uscongress4.1793,1793,Stephen Moore,MS0117,Federalist,A01,741,741,0,0.0
+nc.uscongress5.1793,1793,Nathaniel Macon,MN0068,Republican,A03,0,NA,0,NaN
+nc.uscongress6.1793,1793,Benjamin Smith,SB0058,null,null,0,NA,0,NaN
+nc.uscongress8.1793,1793,Stephen Cabarrus,CS0145,Republican,A03,896,896,0,0.0
+nc.uscongress8.1793,1793,William Cumming,CW0228,Federalist,A01,4,4,0,0.0
+nc.uscongress8.1793,1793,William J. Dawson,DW0108,Federalist,A01,1583,1583,0,0.0

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,540
+2,Beaufort,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Federalist,A01,18
+1,Edgecombe,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,172
+2,Edgecombe,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Federalist,A01,419
+1,Hyde,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,258
+2,Hyde,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Federalist,A01,16
+1,Pitt,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,91
+2,Pitt,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Federalist,A01,634
+1,Tyrrell,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,121
+2,Tyrrell,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Federalist,A01,NA
+1,Washington,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Kennedy,KW0059,Republican,A03,246
+2,Washington,nc.uscongress3.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Federalist,A01,13

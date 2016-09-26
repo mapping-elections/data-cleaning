@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Barzillai Gannett,GB0014,null,null,285
+2,Hancock,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,268
+1,Kennebec,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Barzillai Gannett,GB0014,null,null,1101
+2,Kennebec,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,572
+1,Somerset,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Barzillai Gannett,GB0014,null,null,270
+2,Somerset,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,244
+1,Washington,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Barzillai Gannett,GB0014,null,null,77
+2,Washington,ma.uscongress.kennebec.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Kennebec District",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,103

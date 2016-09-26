@@ -1,0 +1,25 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nc.uscongress8.1795,1795,David Stone,SD0075,Federalist,A01,421,NA,-421,1.0
+nc.uscongress8.1795,1795,John Baker,BJ0782,Republican,A03,407,NA,-407,1.0
+nc.uscongress4.1795,1795,Alexander Mebane,MA0149,Republican,A03,400,NA,-400,1.0
+nc.uscongress8.1795,1795,Dempsey Burgess,BD0099,Republican,A03,311,NA,-311,1.0
+nc.uscongress3.1795,1795,Joseph Winston,WJ0494,Republican,A03,291,NA,-291,1.0
+nc.uscongress9.1795,1795,John Benford,BJ0783,Federalist,A01,169,NA,-169,1.0
+nc.uscongress3.1795,1795,Jesse Franklin,FJ0228,Republican,A03,156,NA,-156,1.0
+nc.uscongress1.1795,1795,James Holland,HJ0602,Republican,A03,128,NA,-128,1.0
+nc.uscongress4.1795,1795,Samuel Benton,BS0217,Federalist,A01,103,NA,-103,1.0
+nc.uscongress8.1795,1795,William J. Dawson,DW0108,Federalist,A01,87,NA,-87,1.0
+nc.uscongress6.1795,1795,James Gillespie,GJ0328,Republican,A03,70,NA,-70,1.0
+nc.uscongress9.1795,1795,Thomas Blount,BT0194,Republican,A03,56,NA,-56,1.0
+nc.uscongress1.1795,1795,Joseph MacDowell,MJ0540,Republican,A03,42,NA,-42,1.0
+nc.uscongress4.1795,1795,Stephen Moore,MS0117,Federalist,A01,25,NA,-25,1.0
+nc.uscongress6.1795,1795,William H. Hill,HW0233,Federalist,A01,6,NA,-6,1.0
+nc.uscongress8.1795,1795,Clement Hale,HC0078,Republican,A03,5,NA,-5,1.0
+nc.uscongress8.1795,1795,Charles Johnson,JC0019,Federalist,A01,1,NA,-1,1.0
+nc.uscongress9.1795,1795,Willis Alston,AW0047,Federalist,A01,1,NA,-1,1.0
+nc.uscongress10.1795,1795,Benjamin Williams,WB0039,Federalist,A01,514,514,0,0.0
+nc.uscongress10.1795,1795,David Witherspoon,WD0066,Federalist,A01,163,163,0,0.0
+nc.uscongress10.1795,1795,Nathan Bryan,BN0074,Republican,A03,1057,1057,0,0.0
+nc.uscongress2.1795,1795,Matthew Locke,LM0052,Republican,A03,0,NA,0,NaN
+nc.uscongress5.1795,1795,Nathaniel Macon,MN0068,Republican,A03,0,NA,0,NaN
+nc.uscongress7.1795,1795,William B. Grove,GW0091,Federalist,A01,0,NA,0,NaN

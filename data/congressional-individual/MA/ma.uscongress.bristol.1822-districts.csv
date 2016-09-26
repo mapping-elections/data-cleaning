@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.bristol.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Francis Bayliss,BF0013,Federalist,A01,1,Bristol,1297
+ma.uscongress.bristol.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Hercules Cushman,CH0088,Republican,A03,2,Bristol,661
+ma.uscongress.bristol.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,3,Bristol,10

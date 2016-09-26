@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Daniel Dewey,DD0043,Federalist,A01,2450
+2,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Samuel H. Wheeler,WS0085,Republican,A03,2130
+3,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Timothy Child,CT0113,null,null,4
+4,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William Turner,TW0072,null,null,3
+5,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,John W. Houlbert,HJ0395,null,null,2
+6,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Nathaniel Bishop,BN0024,null,null,1
+7,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Joshua Danford,DJ0151,null,null,1
+8,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Abiather Mann,MA0074,null,null,1
+9,Berkshire,ma.uscongress.berkshire.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Cyrus Stowell,SC0043,null,null,1

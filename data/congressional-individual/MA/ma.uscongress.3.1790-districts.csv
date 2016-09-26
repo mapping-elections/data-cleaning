@@ -1,0 +1,14 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,1,Three,1067
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,1,Boxboro,10
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,1,Carlisle,14
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,null,null,1,Tynsgborough,2
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,2,Three,699
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,2,Boxboro,9
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,2,Carlisle,8
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Gorham,GN0007,null,null,2,Tynsgborough,18
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,null,null,3,Three,13
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Francis Dana,DF0019,Federalist,A01,4,Three,9
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,null,null,5,Three,2
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Hull,HW0079,null,null,6,Three,1
+ma.uscongress.3.1790,1790-10,1790,General,"Massachusetts 1790 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Oliver Prescott,PO0007,null,null,7,Three,1

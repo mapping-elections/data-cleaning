@@ -1,0 +1,40 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ct.uscongress.1821,1821,Gideon Tomlinson,TG0001,Republican,null,6577,NA,-6577,1.0
+ct.uscongress.1821,1821,Noyes Barber,BN0014,Republican,null,6344,NA,-6344,1.0
+ct.uscongress.1821,1821,Henry W. Edwards,EH0001,Republican,null,6283,NA,-6283,1.0
+ct.uscongress.1821,1821,Ebenezer Stoddard,SE0220,Republican,null,6240,NA,-6240,1.0
+ct.uscongress.1821,1821,John Russ,RJ0004,Republican,null,6220,NA,-6220,1.0
+ct.uscongress.1821,1821,Ansel Sterling,SA0013,Republican,null,6010,NA,-6010,1.0
+ct.uscongress.1821,1821,Daniel Burrows,BD0248,Republican,null,4432,NA,-4432,1.0
+ct.uscongress.1821,1821,Calvin Willey,WC0000,Federalist,null,1902,NA,-1902,1.0
+ct.uscongress.1821,1821,Timothy Pitkin,PT0001,Federalist,null,464,NA,-464,1.0
+ct.uscongress.1821,1821,Elisha Tracy,TE0007,Republican,null,419,NA,-419,1.0
+ct.uscongress.1821,1821,Lyman Law,LL0001,Federalist,null,351,NA,-351,1.0
+ct.uscongress.1821,1821,Thomas S. Williams,WT0003,Federalist,null,293,NA,-293,1.0
+ct.uscongress.1821,1821,Elisha Phelps,PE0012,Republican,null,281,NA,-281,1.0
+ct.uscongress.1821,1821,Samuel B. Sherwood,SS0000,Federalist,null,227,NA,-227,1.0
+ct.uscongress.1821,1821,Roger M. Sherman,SR0005,Federalist,null,223,NA,-223,1.0
+ct.uscongress.1821,1821,Jonathan O. Moseley,MJ0022,Federalist,null,173,NA,-173,1.0
+ct.uscongress.1821,1821,James Stevens,SJ0029,Republican,null,167,NA,-167,1.0
+ct.uscongress.1821,1821,Elisha Sterling,SE0001,Federalist,null,164,NA,-164,1.0
+ct.uscongress.1821,1821,Samuel A. Foote,FS0001,Republican,null,158,NA,-158,1.0
+ct.uscongress.1821,1821,Charles Denison,DC0000,Federalist,null,146,NA,-146,1.0
+ct.uscongress.1821,1821,Asa Bacon,BA0002,Federalist,null,144,NA,-144,1.0
+ct.uscongress.1821,1821,Zephaniah Swift,SZ0000,Federalist,null,121,NA,-121,1.0
+ct.uscongress.1821,1821,Seth P. Staples,SS0021,Federalist,null,103,NA,-103,1.0
+ct.uscongress.1821,1821,Noah B. Benedict,BN0004,Federalist,null,92,NA,-92,1.0
+ct.uscongress.1821,1821,Jacob B. Gurley,GJ0012,Federalist,null,87,NA,-87,1.0
+ct.uscongress.1821,1821,Nathaniel Smith,SN0000,Federalist,null,70,NA,-70,1.0
+ct.uscongress.1821,1821,John Hall,HJ0022,Federalist,null,62,NA,-62,1.0
+ct.uscongress.1821,1821,Ebenezer Huntington,HE0008,Federalist,null,57,NA,-57,1.0
+ct.uscongress.1821,1821,Seth P. Beers,BS0029,Republican,null,25,NA,-25,1.0
+ct.uscongress.1821,1821,David Daggett,DD0000,Federalist,null,22,NA,-22,1.0
+ct.uscongress.1821,1821,Frederick Wolcott,WF0018,Republican,null,6,NA,-6,1.0
+ct.uscongress.1821,1821,Ralph J. Ingersoll,IR0000,Republican,null,5,NA,-5,1.0
+ct.uscongress.1821,1821,Henry L. Ellsworth,EH0032,Federalist,null,4,NA,-4,1.0
+ct.uscongress.1821,1821,Andrew Kingsbury,KA0001,Federalist,null,2,NA,-2,1.0
+ct.uscongress.1821,1821,Daniel Stodard,SD0248,null,null,2,NA,-2,1.0
+ct.uscongress.1821,1821,David Plant,PD0008,Republican,null,1,NA,-1,1.0
+ct.uscongress.1821,1821,John Caldwell,CJ0040,Federalist,null,1,NA,-1,1.0
+ct.uscongress.1821,1821,Ogden Moseley,MO0017,null,null,1,NA,-1,1.0
+ct.uscongress.1821,1821,Samuel W. Gilman,GS0139,null,null,0,NA,0,NaN

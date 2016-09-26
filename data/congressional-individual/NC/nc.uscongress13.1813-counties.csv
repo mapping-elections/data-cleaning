@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Ashe,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,188
+2,Ashe,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Edmund Jones,JE0025,Federalist,A01,16
+3,Ashe,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,98
+1,Iredell,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,225
+2,Iredell,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Edmund Jones,JE0025,Federalist,A01,703
+3,Iredell,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,44
+1,Surry,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,479
+2,Surry,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Edmund Jones,JE0025,Federalist,A01,4
+3,Surry,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,504
+1,Wilkes,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Meshack Franklin,FM0021,Republican,A03,307
+2,Wilkes,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Edmund Jones,JE0025,Federalist,A01,278
+3,Wilkes,nc.uscongress13.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Lewis Williams,WL0047,Federalist,A01,306

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chatham,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,54
+2,Chatham,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,15
+3,Chatham,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Ambrose Ramsay,RA0038,Federalist,A01,304
+1,Orange,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,688
+2,Orange,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,298
+3,Orange,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Ambrose Ramsay,RA0038,Federalist,A01,1
+1,Person,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,15
+2,Person,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,376
+3,Person,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Ambrose Ramsay,RA0038,Federalist,A01,NA
+1,Randolph,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Mebane,MA0149,Republican,A03,95
+2,Randolph,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Stephen Moore,MS0117,Federalist,A01,52
+3,Randolph,nc.uscongress4.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Ambrose Ramsay,RA0038,Federalist,A01,3

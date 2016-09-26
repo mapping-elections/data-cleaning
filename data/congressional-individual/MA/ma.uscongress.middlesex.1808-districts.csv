@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.middlesex.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Republican,A03,1,Middlesex,2716
+ma.uscongress.middlesex.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Abraham Bigelow,BA0105,Federalist,A01,2,Middlesex,1564
+ma.uscongress.middlesex.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Abel Adams,AA0011,null,null,3,Middlesex,1
+ma.uscongress.middlesex.1808,1808,1808,General,"Massachusetts 1808 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,4,Middlesex,1

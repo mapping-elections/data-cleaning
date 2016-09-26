@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.essexnorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,Jeremiah Nelson,NJ0045,Federalist,A01,1,Essex North,682
+ma.uscongress.essexnorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Republican,A03,2,Essex North,62
+ma.uscongress.essexnorth.1818,1818-11,1818,General,"Massachusetts 1818 U.S. House of Representatives, Essex North District",U.S. House of Representatives,ON125,scattering,null,null,null,3,Essex North,40

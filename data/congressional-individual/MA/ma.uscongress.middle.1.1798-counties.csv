@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,Harrison G. Otis,OH0028,Federalist,A01,222
+2,Middlesex,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,139
+3,Middlesex,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Eustis,EW0031,null,null,19
+1,Norfolk,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,Harrison G. Otis,OH0028,Federalist,A01,219
+2,Norfolk,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,615
+3,Norfolk,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Eustis,EW0031,null,null,NA
+1,Suffolk,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,Harrison G. Otis,OH0028,Federalist,A01,1726
+2,Suffolk,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,936
+3,Suffolk,ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Eustis,EW0031,null,null,3

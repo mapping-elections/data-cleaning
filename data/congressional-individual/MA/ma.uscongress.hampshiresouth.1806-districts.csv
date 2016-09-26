@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.hampshiresouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,William Ely,EW0034,Federalist,A01,1,Hampshire South,1781
+ma.uscongress.hampshiresouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Samuel Fowler,FS0045,Republican,A03,2,Hampshire South,1203
+ma.uscongress.hampshiresouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,William Eaton,EW0045,Federalist,A01,3,Hampshire South,136
+ma.uscongress.hampshiresouth.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Ezra Starkweather,SE0024,null,null,4,Hampshire South,1

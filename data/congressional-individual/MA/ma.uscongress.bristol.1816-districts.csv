@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Marcus Morton,MM0019,Republican,A03,1,Bristol,1587
+ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Samuel Crocker,CS0057,null,null,2,Bristol,1451
+ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Apollos Tobey,TA0030,null,null,3,Bristol,45
+ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Samuel Crack,CS0106,null,null,4,Bristol,23
+ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,Gamaliel Church,CG0038,null,null,5,Bristol,5
+ma.uscongress.bristol.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Bristol District",U.S. House of Representatives,ON125,scattering,null,null,null,6,Bristol,23

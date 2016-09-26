@@ -1,0 +1,23 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Republican,A03,1666
+2,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,490
+3,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,Republican,A03,12
+4,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elijah Brigham,BE0103,Federalist,A01,NA
+5,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Nathan Fisher,FN0009,null,null,NA
+6,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,Republican,A03,1
+7,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joshua Parks,PJ0244,null,null,1
+8,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Matthew Scribner,SM0016,null,null,1
+9,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Parker Varnum,VP0021,null,null,1
+10,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Artemas Ward,WA0043,Federalist,A01,1
+11,Middlesex,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Ephraim Wood,WE0049,null,null,1
+1,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Republican,A03,264
+2,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,240
+3,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,Republican,A03,NA
+4,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elijah Brigham,BE0103,Federalist,A01,9
+5,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Nathan Fisher,FN0009,null,null,1
+6,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Elbridge Gerry,GE0049,Republican,A03,NA
+7,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Joshua Parks,PJ0244,null,null,NA
+8,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Matthew Scribner,SM0016,null,null,NA
+9,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Parker Varnum,VP0021,null,null,NA
+10,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Artemas Ward,WA0043,Federalist,A01,NA
+11,Worcester,ma.uscongress.middle.2.1800,1800-11,1800,General,"Massachusetts 1800 U.S. House of Representatives, District Middle 2",U.S. House of Representatives,ON125,Ephraim Wood,WE0049,null,null,NA

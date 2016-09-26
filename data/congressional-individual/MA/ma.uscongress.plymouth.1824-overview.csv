@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.plymouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Aaron Hobart,HA0079,Republican,A03,1,1606
+ma.uscongress.plymouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,Ebenezer Gay,GE0012,null,null,2,296
+ma.uscongress.plymouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,William Baylies,BW0156,Federalist,A01,3,260
+ma.uscongress.plymouth.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Plymouth District",U.S. House of Representatives,ON125,scattering,null,null,null,4,31

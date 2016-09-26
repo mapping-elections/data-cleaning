@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.norfolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,114
+2,Middlesex,ma.uscongress.norfolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,Federalist,A01,66
+3,Middlesex,ma.uscongress.norfolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Richard Sullivan,SR0113,Federalist,A01,53
+1,Norfolk,ma.uscongress.norfolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Eustis,EW0031,Republican,A03,888
+2,Norfolk,ma.uscongress.norfolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,James Richardson,RJ0147,Federalist,A01,408
+3,Norfolk,ma.uscongress.norfolk.1820,1820-11,1820,General,"Massachusetts 1820 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Richard Sullivan,SR0113,Federalist,A01,13

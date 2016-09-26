@@ -1,0 +1,81 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.berkshire.1820,1820,Henry W. Dwight,DH0008,Federalist,A01,1436,4,-1432,1.0
+ma.uscongress.berkshire.1820,1820,William P. Walker,WW0322,Republican,A03,1226,23,-1203,0.98
+ma.uscongress.norfolk.1820,1820,William Eustis,EW0031,Republican,A03,1002,26,-976,0.97
+ma.uscongress.essexsouth.1820,1820,Willard Peele,PW0074,Federalist,A01,659,9,-650,0.99
+ma.uscongress.essexsouth.1820,1820,Levrett Saltonstall,SL0023,Federalist,A01,582,9,-573,0.98
+ma.uscongress.norfolk.1820,1820,James Richardson,RJ0147,Federalist,A01,474,15,-459,0.97
+ma.uscongress.berkshire.1820,1820,scattering,null,null,null,132,1,-131,0.99
+ma.uscongress.hampshirenorth.1820,1820,scattering,null,null,null,0,63,63,1.0
+ma.uscongress.barnstable.1820,1820,John Reed,RJ0539,Federalist,A01,751,751,0,0.0
+ma.uscongress.barnstable.1820,1820,Russell Freeman,FR0066,null,null,3,3,0,0.0
+ma.uscongress.barnstable.1820,1820,scattering,null,null,null,114,114,0,0.0
+ma.uscongress.barnstable.1820,1820,Thomas Dunham,DT0023,null,null,9,9,0,0.0
+ma.uscongress.barnstable.1820,1820,Thomas M. Vincent,VT0019,null,null,1,1,0,0.0
+ma.uscongress.barnstable.1820,1820,"Walter Folger, Jr.",FW0026,Republican,A03,261,261,0,0.0
+ma.uscongress.berkshire.1820,1820,Henry W. Dwight,DH0008,Federalist,A01,1436,1436,0,0.0
+ma.uscongress.berkshire.1820,1820,scattering,null,null,null,132,132,0,0.0
+ma.uscongress.berkshire.1820,1820,William P. Walker,WW0322,Republican,A03,1226,1226,0,0.0
+ma.uscongress.bristol.1820,1820,Francis Bayliss,BF0013,Federalist,A01,1514,1514,0,0.0
+ma.uscongress.bristol.1820,1820,Marcus Morton,MM0019,Republican,A03,1371,1371,0,0.0
+ma.uscongress.bristol.1820,1820,scattering,null,null,null,19,19,0,0.0
+ma.uscongress.essexnorth.1820,1820,Amos Spalding,SA0077,Republican,A03,90,90,0,0.0
+ma.uscongress.essexnorth.1820,1820,Jeremiah Nelson,NJ0045,Federalist,A01,610,610,0,0.0
+ma.uscongress.essexnorth.1820,1820,scattering,null,null,null,12,12,0,0.0
+ma.uscongress.essexsouth.1820,1820,Gideon Barstow,BG0049,Republican,A03,469,469,0,0.0
+ma.uscongress.essexsouth.1820,1820,Levrett Saltonstall,SL0023,Federalist,A01,582,582,0,0.0
+ma.uscongress.essexsouth.1820,1820,scattering,null,null,null,16,16,0,0.0
+ma.uscongress.essexsouth.1820,1820,Willard Peele,PW0074,Federalist,A01,659,659,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Elihu Lyman,LE0021,null,null,17,17,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Elisha Chapin,CE0085,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Nathaniel Holman,HN0012,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Roldophus Dickinson,DR0035,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Samuel C. Allen,AS0024,Federalist,A01,1030,1030,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Solomon Smead,SS0117,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1820,1820,Thomas Shepherd,ST0058,null,null,1,1,0,0.0
+ma.uscongress.hampshiresouth.1820,1820,Enos Foote,FE0016,Republican,A03,2,2,0,0.0
+ma.uscongress.hampshiresouth.1820,1820,Samuel Lathrop,LS0046,Federalist,A01,1115,1115,0,0.0
+ma.uscongress.hampshiresouth.1820,1820,scattering,null,null,null,146,146,0,0.0
+ma.uscongress.hampshiresouth.1820,1820,Thomas Shepherd,ST0058,Republican,A03,250,250,0,0.0
+ma.uscongress.middlesex.1820,1820,John Hart,HJ0348,Republican,A03,409,409,0,0.0
+ma.uscongress.middlesex.1820,1820,Samuel H. Weathercock,WS0266,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1820,1820,Samuel P.P. Fay,FS0064,Federalist,A01,347,347,0,0.0
+ma.uscongress.middlesex.1820,1820,scattering,null,null,null,13,13,0,0.0
+ma.uscongress.middlesex.1820,1820,Timothy Fuller,FT0028,Republican,A03,1138,1138,0,0.0
+ma.uscongress.middlesex.1820,1820,William Whittmore,WW0105,null,null,46,46,0,0.0
+ma.uscongress.norfolk.1820,1820,James Richardson,RJ0147,Federalist,A01,474,474,0,0.0
+ma.uscongress.norfolk.1820,1820,Richard Sullivan,SR0113,Federalist,A01,66,66,0,0.0
+ma.uscongress.norfolk.1820,1820,William Eustis,EW0031,Republican,A03,1002,1002,0,0.0
+ma.uscongress.plymouth.1820,1820,Aaron Hobart,HA0079,Republican,A03,1237,1237,0,0.0
+ma.uscongress.plymouth.1820,1820,Charles Turner,TC0016,null,null,1,1,0,0.0
+ma.uscongress.plymouth.1820,1820,scattering,null,null,null,67,67,0,0.0
+ma.uscongress.plymouth.1820,1820,William Bayliss,BW0156,Federalist,A01,1037,1037,0,0.0
+ma.uscongress.suffolk.1820,1820,Amos Fitch,FA0106,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,Benjamin Gorham,GB0016,Federalist,A01,2266,2266,0,0.0
+ma.uscongress.suffolk.1820,1820,Charles Hood,HC0153,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,Daniel Adams,AD0022,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,Daniel Webster,WD0028,Federalist,A01,2,2,0,0.0
+ma.uscongress.suffolk.1820,1820,Fitch Tufts,TF0005,null,null,2,2,0,0.0
+ma.uscongress.suffolk.1820,1820,Henry Orne,OH0027,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,Jesse Putnam,PJ0196,Republican,A03,54,54,0,0.0
+ma.uscongress.suffolk.1820,1820,John Brazer,BJ0492,null,null,2,2,0,0.0
+ma.uscongress.suffolk.1820,1820,Lewis Lincoln,LL0044,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,Samuel A. Wells,WS0027,Republican,A03,1572,1572,0,0.0
+ma.uscongress.suffolk.1820,1820,Samuel Brown,BS0111,null,null,2,2,0,0.0
+ma.uscongress.suffolk.1820,1820,Samuel Hubbard,HS0081,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,William Ingalls,IW0015,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1820,1820,William Little,LW0205,null,null,2,2,0,0.0
+ma.uscongress.suffolk.1820,1820,William Sturgis,SW0181,null,null,3,3,0,0.0
+ma.uscongress.suffolk.1820,1820,Winslow Lewis,LW0206,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1820,1820,Edman Cheshen,CE0196,null,null,2,2,0,0.0
+ma.uscongress.worcesternorth.1820,1820,Edmund Cushing,CE0079,Republican,A03,579,579,0,0.0
+ma.uscongress.worcesternorth.1820,1820,Jonas Kendall,KJ0066,Federalist,A01,490,490,0,0.0
+ma.uscongress.worcesternorth.1820,1820,Lewis Bigelow,BL0037,Federalist,A01,1146,1146,0,0.0
+ma.uscongress.worcesternorth.1820,1820,scattering,null,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1820,1820,Timothy Whiting,WT0086,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1820,1820,Benjamin Adams,AB0010,Federalist,A01,1122,1122,0,0.0
+ma.uscongress.worcestersouth.1820,1820,John Davis,DJ0190,null,null,4,4,0,0.0
+ma.uscongress.worcestersouth.1820,1820,Jonathan Mason,MJ1255,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1820,1820,Jonathan Russell,RJ0153,Republican,A03,1386,1386,0,0.0
+ma.uscongress.worcestersouth.1820,1820,scattering,null,null,null,17,17,0,0.0
+ma.uscongress.worcestersouth.1820,1820,Seth Hastings,HS0073,Federalist,A01,88,88,0,0.0

@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1,Norfolk,2120
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Ebenezer Seaver,SE0023,Republican,A03,1,Dover,40
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,Federalist,A01,2,Norfolk,1148
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Thomas B. Adams,AT0017,Federalist,A01,2,Dover,17
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,William Hull,HW0079,null,null,3,Norfolk,11
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Nathaniel Ames,AN0008,null,null,4,Norfolk,2
+ma.uscongress.norfolk.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Norfolk District",U.S. House of Representatives,ON125,Perez Morton,MP0042,Republican,A03,5,Norfolk,1

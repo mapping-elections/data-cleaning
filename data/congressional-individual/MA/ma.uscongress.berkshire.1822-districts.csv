@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.berkshire.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Henry W. Dwight,DH0008,Federalist,A01,1,Berkshire,1887
+ma.uscongress.berkshire.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,Henry W. Dwight,DH0008,Federalist,A01,1,New Ashford,3
+ma.uscongress.berkshire.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William C. Jarvis,JW0029,Republican,A03,2,Berkshire,1150
+ma.uscongress.berkshire.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,William C. Jarvis,JW0029,Republican,A03,2,New Ashford,21
+ma.uscongress.berkshire.1822,1822-11,1822,General,"Massachusetts 1822 U.S. House of Representatives, Berkshire District",U.S. House of Representatives,ON125,scattering,null,null,null,3,Berkshire,170

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress10.1795,1795-02,1795,General,"North Carolina 1795 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Nathan Bryan,BN0074,Republican,A03,1,1057
+nc.uscongress10.1795,1795-02,1795,General,"North Carolina 1795 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Benjamin Williams,WB0039,Federalist,A01,2,514
+nc.uscongress10.1795,1795-02,1795,General,"North Carolina 1795 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Witherspoon,WD0066,Federalist,A01,3,163

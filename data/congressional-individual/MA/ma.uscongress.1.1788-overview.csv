@@ -1,0 +1,16 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Fisher Ames,AF0004,Federalist,A01,1,818
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Adams,AS0022,Anti-Federalist,A02,2,521
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel A. Otis,OS0005,Federalist,A01,3,70
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles Jarvis,JC0015,null,null,4,45
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"Benjamin Austin, Jr.",AB0013,null,null,5,43
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Adams,AJ0030,null,null,6,30
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,7,28
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Lincoln,LB0025,Federalist,A01,8,18
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"James Bowdoin, Jr.",BJ0470,null,null,9,12
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sewell,SJ0467,null,null,10,11
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Oliver Wendell,WO0023,null,null,11,7
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Richard Cranch,CR0078,null,null,12,4
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Dawes,DT0015,null,null,13,3
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Bowdoin,BJ0353,null,null,14,2
+ma.uscongress.1.1788,1788-12,1788,General,"Massachusetts 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Read,RJ0542,null,null,15,1

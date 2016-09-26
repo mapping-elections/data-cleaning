@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Peleg Tallman,TP0017,null,null,201
+2,Hancock,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Alden Bradford,BA0108,null,null,126
+3,Hancock,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Benjamin Amos,AB0008,null,null,NA
+4,Hancock,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,O. Cook,CO0004,null,null,NA
+5,Hancock,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,John Russ,RJ0249,null,null,1
+6,Hancock,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,C. Shaw,SC0036,null,null,NA
+1,Lincoln,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Peleg Tallman,TP0017,null,null,1180
+2,Lincoln,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Alden Bradford,BA0108,null,null,754
+3,Lincoln,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,Benjamin Amos,AB0008,null,null,1
+4,Lincoln,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,O. Cook,CO0004,null,null,1
+5,Lincoln,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,John Russ,RJ0249,null,null,NA
+6,Lincoln,ma.uscongress.lincoln.1810,1810-11,1810,General,"Massachusetts 1810 U.S. House of Representatives, Lincoln District",U.S. House of Representatives,ON125,C. Shaw,SC0036,null,null,1

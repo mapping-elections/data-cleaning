@@ -1,0 +1,36 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.berkshire.ballot2.1819,1819,Henry Shaw,SH0031,null,null,2113,35,-2078,0.98
+ma.uscongress.berkshire.ballot2.1819,1819,Henry W. Dwight,DH0008,null,null,1905,15,-1890,0.99
+ma.uscongress.eastern4.ballot2.1819,1819,scattering,null,null,null,0,151,151,1.0
+ma.uscongress.berkshire.ballot2.1819,1819,scattering,null,null,null,0,118,118,1.0
+ma.uscongress.eastern3.ballot2.1819,1819,scattering,null,null,null,0,67,67,1.0
+ma.uscongress.eastern4.ballot3.1819,1819,Leonard Jarvis,JL0007,null,null,0,53,53,1.0
+ma.uscongress.eastern3.ballot3.1819,1819,scattering,null,null,null,0,23,23,1.0
+ma.uscongress.eastern4.ballot2.1819,1819,Martin Kingsley,KM0013,null,null,1210,1228,18,0.01
+ma.uscongress.eastern5.ballot2.1819,1819,scattering,null,null,null,3,20,17,0.85
+ma.uscongress.eastern4.ballot2.1819,1819,John Wilson,WJ0313,null,null,749,765,16,0.02
+ma.uscongress.eastern4.ballot3.1819,1819,scattering,null,null,null,144,150,6,0.04
+ma.uscongress.eastern4.ballot3.1819,1819,William D. Williamson,WW0135,Republican,A03,0,4,4,1.0
+ma.uscongress.eastern5.ballot2.1819,1819,Thomas Bond,BT0013,null,null,999,1001,2,0.0
+ma.uscongress.eastern4.ballot3.1819,1819,David Pelham,PD0116,null,null,0,1,1,1.0
+ma.uscongress.eastern4.ballot3.1819,1819,Jacob MacGaw,MJ0025,null,null,0,1,1,1.0
+ma.uscongress.berkshire.ballot2.1819,1819,Henry Shaw,SH0031,null,null,2113,2113,0,0.0
+ma.uscongress.berkshire.ballot2.1819,1819,Henry W. Dwight,DH0008,null,null,1905,1905,0,0.0
+ma.uscongress.berkshire.ballot2.1819,1819,Hugo Burghart,BH0075,null,null,12,12,0,0.0
+ma.uscongress.berkshire.ballot2.1819,1819,Thomas Allen,AT0018,null,null,13,13,0,0.0
+ma.uscongress.eastern3.ballot2.1819,1819,Benjamin Orr,OB0009,null,null,949,949,0,0.0
+ma.uscongress.eastern3.ballot2.1819,1819,Joshua Head,HJ0009,null,null,167,167,0,0.0
+ma.uscongress.eastern3.ballot2.1819,1819,Mark L. Hill,HM0035,Republican,A03,1184,1184,0,0.0
+ma.uscongress.eastern3.ballot2.1819,1819,William King,KW0033,null,null,16,16,0,0.0
+ma.uscongress.eastern3.ballot3.1819,1819,Joshua Head,HJ0009,null,null,1190,1190,0,0.0
+ma.uscongress.eastern3.ballot3.1819,1819,Mark L. Hill,HM0035,Republican,A03,1296,1296,0,0.0
+ma.uscongress.eastern4.ballot2.1819,1819,Jacob MacGaw,MJ0025,null,null,2,2,0,0.0
+ma.uscongress.eastern4.ballot2.1819,1819,Leonard Jarvis,JL0007,null,null,393,393,0,0.0
+ma.uscongress.eastern4.ballot3.1819,1819,John Wilson,WJ0313,null,null,661,661,0,0.0
+ma.uscongress.eastern4.ballot3.1819,1819,Martin Kingsley,KM0013,null,null,1391,1391,0,0.0
+ma.uscongress.eastern5.ballot2.1819,1819,James Parker,PJ0005,null,null,1405,1405,0,0.0
+ma.uscongress.eastern5.ballot2.1819,1819,Joshua Gage,GJ0005,null,null,176,176,0,0.0
+ma.uscongress.hampshiresouth.ballot2.1819,1819,Joseph Lyman,LJ0212,Federalist,A01,596,596,0,0.0
+ma.uscongress.hampshiresouth.ballot2.1819,1819,Samuel Lathrop,LS0046,null,null,1966,1966,0,0.0
+ma.uscongress.hampshiresouth.ballot2.1819,1819,scattering,null,null,null,16,16,0,0.0
+ma.uscongress.hampshiresouth.ballot2.1819,1819,Thomas Shephard,ST0058,null,null,979,979,0,0.0

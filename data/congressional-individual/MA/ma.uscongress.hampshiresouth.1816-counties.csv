@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Elijah Hunt Mills,ME0050,Federalist,A01,733
+2,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Enos Foote,FE0016,null,null,189
+3,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Lewis Strong,SL0007,null,null,14
+4,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Thomas Shepard,ST0058,null,null,NA
+5,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Elijah Bates,BE0225,null,null,NA
+6,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,John Atwood,AJ0323,null,null,NA
+7,Hampden,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,scattering,null,null,null,26
+1,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Elijah Hunt Mills,ME0050,Federalist,A01,486
+2,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Enos Foote,FE0016,null,null,1
+3,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Lewis Strong,SL0007,null,null,84
+4,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Thomas Shepard,ST0058,null,null,NA
+5,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Elijah Bates,BE0225,null,null,NA
+6,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,John Atwood,AJ0323,null,null,1
+7,Hampshire,ma.uscongress.hampshiresouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,scattering,null,null,null,9

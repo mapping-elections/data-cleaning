@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Artemas Ward,WA0043,Federalist,A01,114
+2,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Horace Holley,HH0047,null,null,NA
+3,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Gray,GW0148,Republican,A03,NA
+4,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Loammi Baldwin,BL0033,null,null,NA
+5,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Dexter,DS0053,Federalist,A01,NA
+6,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Joseph Ayers,AJ0092,null,null,1
+7,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Caleb Bingham,BC0031,null,null,NA
+8,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,"Thomas Joy, Jr.",JT0085,null,null,NA
+9,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Livermore,LS0039,null,null,NA
+10,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Thomas O. Selfridge,ST0021,null,null,NA
+11,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Sullivan,SW0098,Federalist,A01,NA
+12,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William H. Sumner,SW0107,null,null,NA
+13,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Tuttle,TD0019,null,null,NA
+14,Middlesex,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Thomas Warland,WT0066,null,null,1
+1,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Artemas Ward,WA0043,Federalist,A01,1561
+2,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Horace Holley,HH0047,null,null,5
+3,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Gray,GW0148,Republican,A03,4
+4,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Loammi Baldwin,BL0033,null,null,2
+5,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Dexter,DS0053,Federalist,A01,2
+6,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Joseph Ayers,AJ0092,null,null,NA
+7,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Caleb Bingham,BC0031,null,null,1
+8,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,"Thomas Joy, Jr.",JT0085,null,null,1
+9,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Samuel Livermore,LS0039,null,null,1
+10,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Thomas O. Selfridge,ST0021,null,null,1
+11,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William Sullivan,SW0098,Federalist,A01,1
+12,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,William H. Sumner,SW0107,null,null,1
+13,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Daniel Tuttle,TD0019,null,null,1
+14,Suffolk,ma.uscongress.suffolk.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Suffolk District",U.S. House of Representatives,ON125,Thomas Warland,WT0066,null,null,NA

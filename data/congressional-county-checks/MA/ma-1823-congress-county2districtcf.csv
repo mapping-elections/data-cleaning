@@ -1,0 +1,29 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.worcesternorth.ballot3.1823,1823,John Locke,LJ0184,Federalist,A01,1845,200,-1645,0.89
+ma.uscongress.worcesternorth.ballot3.1823,1823,Samuel Dana,DS0058,Republican,A03,1591,430,-1161,0.73
+ma.uscongress.essexsouth.ballot2.1823,1823,Benjamin Merrill,MB0008,Federalist,A01,693,693,0,0.0
+ma.uscongress.essexsouth.ballot2.1823,1823,Benjamin W. Crowninshield,CB0039,Republican,A03,1312,1312,0,0.0
+ma.uscongress.essexsouth.ballot2.1823,1823,scattering,null,null,null,7,7,0,0.0
+ma.uscongress.essexsouth.ballot2.1823,1823,Willard Peele,PW0074,Federalist,A01,525,525,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,John Shepley,SJ0444,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,Jonas Kendall,KJ0066,null,null,598,598,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,Joseph G. Kendell,KJ0074,null,null,34,34,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,Lewis Bigelow,BL0037,null,null,970,970,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,Samuel Dana,DS0058,null,null,1468,1468,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,scattering,null,null,null,47,47,0,0.0
+ma.uscongress.worcesternorth.ballot2.1823,1823,Stephen P. Gardner,GS0049,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.ballot3.1823,1823,Joel Crosby,CJ0909,null,null,0,NA,0,NaN
+ma.uscongress.worcesternorth.ballot3.1823,1823,John Shepley,SJ0444,Federalist,A01,45,45,0,0.0
+ma.uscongress.worcesternorth.ballot3.1823,1823,Jonas Kendall,KJ0066,Federalist,A01,5,5,0,0.0
+ma.uscongress.worcesternorth.ballot3.1823,1823,Joseph G. Kendall,KJ0074,Federalist,A01,9,9,0,0.0
+ma.uscongress.worcesternorth.ballot3.1823,1823,scattering,null,null,null,96,96,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Abraham Lincoln,LA0041,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Benjamin Adams,AB0010,Federalist,A01,1236,1236,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Bezaleel Taft,TB0029,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Edward D. Bangs,BE0136,null,null,6,6,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,John Davis,DJ0190,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Jonas Sibley,SJ0437,null,null,1657,1657,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Levi Lincoln,LL0044,null,null,8,8,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,scattering,null,null,null,100,100,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Seth Hastings,HS0073,null,null,233,233,0,0.0
+ma.uscongress.worcestersouth.ballot2.1823,1823,Sumner Bastow,BS0117,null,null,1,1,0,0.0

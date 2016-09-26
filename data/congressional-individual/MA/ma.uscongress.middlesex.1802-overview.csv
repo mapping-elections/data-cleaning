@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.middlesex.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Joseph B. Varnum,VJ0024,Republican,A03,1,1787
+ma.uscongress.middlesex.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Timothy Bigelow,BT0122,Federalist,A01,2,706
+ma.uscongress.middlesex.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Samuel Kendall,KS0011,Federalist,A01,3,46
+ma.uscongress.middlesex.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Ebenezer Bridge,BE0139,Republican,A03,4,9
+ma.uscongress.middlesex.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Middlesex District",U.S. House of Representatives,ON125,Samuel Dana,DS0058,null,null,5,2

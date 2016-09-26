@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.hampshiresouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Elijah H. Mills,ME0050,Federalist,A01,1,Hampshire South,2091
+ma.uscongress.hampshiresouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Enos Foot,FE0016,null,null,2,Hampshire South,249
+ma.uscongress.hampshiresouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,William Ely,EW0034,null,null,3,Hampshire South,2
+ma.uscongress.hampshiresouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Hampshire South District",U.S. House of Representatives,ON125,Joseph Lyman,LJ0212,Federalist,A01,4,Hampshire South,1

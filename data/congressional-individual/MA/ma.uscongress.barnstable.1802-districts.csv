@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.barnstable.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Lemuel Williams,WL0031,Federalist,A01,1,Barnstable,543
+ma.uscongress.barnstable.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah Lewis Green,GI0007,null,null,2,Barnstable,436
+ma.uscongress.barnstable.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaac Coffin,CI0010,null,null,3,Barnstable,1
+ma.uscongress.barnstable.1802,1802-11,1802,General,"Massachusetts 1802 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Jatham Waterman,WJ0413,null,null,4,Barnstable,1

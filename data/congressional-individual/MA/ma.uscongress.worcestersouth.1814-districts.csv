@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.worcestersouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Elijah Brigham,BE0103,Federalist,A01,1,Worcester South,2471
+ma.uscongress.worcestersouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,John Spurr,SJ0384,null,null,2,Worcester South,1365
+ma.uscongress.worcestersouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,"Salem Towne, Jr.",TS0055,null,null,3,Worcester South,3
+ma.uscongress.worcestersouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Francis Blake,BF0019,null,null,4,Worcester South,2
+ma.uscongress.worcestersouth.1814,1814-11,1814,General,"Massachusetts 1814 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,"Levi Lincoln, Jr.",LL0044,null,null,5,Worcester South,1

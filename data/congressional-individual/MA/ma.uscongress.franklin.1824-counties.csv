@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,"George Grennall, Jr.",GG0026,Republican,A03,1010
+2,Franklin,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,Federalist,A01,909
+3,Franklin,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Elihu Lyman,LE0021,Republican,A03,70
+4,Franklin,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Thomas Mason,MT0017,null,null,55
+5,Franklin,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Thomas Longley,LT0102,null,null,NA
+1,Hampshire,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,"George Grennall, Jr.",GG0026,Republican,A03,263
+2,Hampshire,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,Federalist,A01,305
+3,Hampshire,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Elihu Lyman,LE0021,Republican,A03,139
+4,Hampshire,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Thomas Mason,MT0017,null,null,NA
+5,Hampshire,ma.uscongress.franklin.1824,1824-11,1824,General,"Massachusetts 1824 U.S. House of Representatives, Franklin District",U.S. House of Representatives,ON125,Thomas Longley,LT0102,null,null,NA

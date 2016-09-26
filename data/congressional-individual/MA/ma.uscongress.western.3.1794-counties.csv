@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,552
+2,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Daniel Bigelow,BD0045,null,null,104
+3,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,"Ebenezer Mattson, Jr.",ME0042,Federalist,A01,59
+4,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Abner Morgan,MA0071,null,null,40
+5,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,null,null,1
+6,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Simeon Strong,SS0125,null,null,5
+7,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Thomas Dwight,DT0078,Federalist,A01,7
+8,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Jonathan Grout,GJ0158,null,null,3
+9,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Samuel Bigelow,BS0032,null,null,1
+10,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Moses Bliss,BM0028,null,null,1
+11,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Joshua Green,GJ0215,null,null,1
+12,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Moses Hale,HM0040,null,null,NA
+13,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Ebenezer Howe,HE0049,null,null,NA
+14,Hampshire,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Jonathan Wood,WJ0427,null,null,NA
+1,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Samuel Lyman,LS0018,Federalist,A01,125
+2,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Daniel Bigelow,BD0045,null,null,253
+3,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,"Ebenezer Mattson, Jr.",ME0042,Federalist,A01,7
+4,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Abner Morgan,MA0071,null,null,NA
+5,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Martin Kinsley,KM0013,null,null,26
+6,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Simeon Strong,SS0125,null,null,12
+7,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Thomas Dwight,DT0078,Federalist,A01,NA
+8,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Jonathan Grout,GJ0158,null,null,3
+9,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Samuel Bigelow,BS0032,null,null,NA
+10,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Moses Bliss,BM0028,null,null,NA
+11,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Joshua Green,GJ0215,null,null,NA
+12,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Moses Hale,HM0040,null,null,1
+13,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Ebenezer Howe,HE0049,null,null,1
+14,Worcester,ma.uscongress.western.3.1794,1794-11,1794,General,"Massachusetts 1794 U.S. House of Representatives, District Western 3",U.S. House of Representatives,ON125,Jonathan Wood,WJ0427,null,null,1

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.franklin.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Franklin District, Ballot 2",U.S. House of Representatives,ON125,Samuel C. Allen,AS0024,null,null,1,Franklin,1727
+ma.uscongress.franklin.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Franklin District, Ballot 2",U.S. House of Representatives,ON125,"George Grennall, Jr.",GG0026,null,null,2,Franklin,1348
+ma.uscongress.franklin.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Franklin District, Ballot 2",U.S. House of Representatives,ON125,Elihu Lyman,LE0021,null,null,3,Franklin,17
+ma.uscongress.franklin.ballot2.1825,1825-01,1825,General,"Massachusetts 1825 U.S. House of Representatives, Franklin District, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,4,Franklin,10

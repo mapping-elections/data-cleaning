@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anson,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,955
+2,Anson,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John A. Cameron,CJ0542,Federalist,A01,131
+3,Anson,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,17
+1,Cumberland,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,131
+2,Cumberland,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John A. Cameron,CJ0542,Federalist,A01,759
+3,Cumberland,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,152
+1,Montgomery,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,769
+2,Montgomery,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John A. Cameron,CJ0542,Federalist,A01,140
+3,Montgomery,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,44
+1,Moore,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,236
+2,Moore,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John A. Cameron,CJ0542,Federalist,A01,276
+3,Moore,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,110
+1,Richmond,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,325
+2,Richmond,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John A. Cameron,CJ0542,Federalist,A01,239
+3,Richmond,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,128
+1,Robeson,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Culpepper,CJ0545,Federalist,A01,156
+2,Robeson,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John A. Cameron,CJ0542,Federalist,A01,461
+3,Robeson,nc.uscongress7.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Duncan MacFarland,MD0119,Republican,A03,69

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,"Benjamin Brown, Jr.",BB0020,Federalist,A01,1,Eastern Six,658
+ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Nathan Cutler,CN0040,Republican,A03,2,Eastern Six,499
+ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Samuel S. Conner,CS0086,Republican,A03,3,Eastern Six,424
+ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,scattering,null,null,null,4,Eastern Six,220

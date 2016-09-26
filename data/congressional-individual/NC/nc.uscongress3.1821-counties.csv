@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,275
+2,Beaufort,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clarke,CW0182,Federalist,A01,777
+1,Edgecombe,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,1078
+2,Edgecombe,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clarke,CW0182,Federalist,A01,6
+1,Hyde,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,174
+2,Hyde,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clarke,CW0182,Federalist,A01,407
+1,Pitt,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,338
+2,Pitt,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clarke,CW0182,Federalist,A01,702
+1,Tyrrell,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,296
+2,Tyrrell,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clarke,CW0182,Federalist,A01,80
+1,Washington,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Republican,A03,271
+2,Washington,nc.uscongress3.1821,1821-08,1821,General,"North Carolina 1821 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Clarke,CW0182,Federalist,A01,182

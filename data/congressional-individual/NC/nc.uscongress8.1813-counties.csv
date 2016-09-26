@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Federalist,A01,1322
+2,Orange,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Mebane,MJ0546,Republican,A03,771
+3,Orange,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Duncan Cameron,CD0126,null,null,NA
+1,Person,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Federalist,A01,313
+2,Person,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Mebane,MJ0546,Republican,A03,348
+3,Person,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Duncan Cameron,CD0126,null,null,NA
+1,Wake,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Richard Stanford,SR0175,Federalist,A01,862
+2,Wake,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James Mebane,MJ0546,Republican,A03,429
+3,Wake,nc.uscongress8.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Duncan Cameron,CD0126,null,null,5

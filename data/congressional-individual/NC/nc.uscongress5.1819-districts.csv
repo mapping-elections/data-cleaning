@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress5.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Charles Hooks,HC0086,Republican,A03,1,Five,2745
+nc.uscongress5.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Stanford,SS0230,Federalist,A01,2,Five,1906

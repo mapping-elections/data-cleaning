@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dickson,DJ0351,Federalist,A01,1,2098
+nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Holland,HJ0602,Republican,A03,2,1705
+nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles MacDowell,MC0076,null,null,3,2
+nc.uscongress1.1798,1798-08,1798,General,"North Carolina 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Arthur Graham,GA0011,null,null,4,1

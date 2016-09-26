@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caswell,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,411
+2,Caswell,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jesse Franklin,FJ0228,Republican,A03,229
+1,Guilford,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,NA
+2,Guilford,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jesse Franklin,FJ0228,Republican,A03,NA
+1,Rockingham,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,NA
+2,Rockingham,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jesse Franklin,FJ0228,Republican,A03,NA
+1,Stokes,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,321
+2,Stokes,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jesse Franklin,FJ0228,Republican,A03,372
+1,Surry,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Williams,WR0105,Republican,A03,225
+2,Surry,nc.uscongress3.1796,1796-08,1796,General,"North Carolina 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jesse Franklin,FJ0228,Republican,A03,476

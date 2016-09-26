@@ -1,0 +1,111 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.suffolk.1810,1810,Timothy Bigelow,BT0122,Federalist,A01,1,NA,-1,1.0
+ma.uscongress.barnstable.1810,1810,Edward Pope,PE0045,null,null,9,9,0,0.0
+ma.uscongress.barnstable.1810,1810,Erastus Otis,OE0002,null,null,2,2,0,0.0
+ma.uscongress.barnstable.1810,1810,Francis Rotch,RF0004,Federalist,A01,583,583,0,0.0
+ma.uscongress.barnstable.1810,1810,Isaiah L. Green,GI0007,Republican,A03,797,797,0,0.0
+ma.uscongress.barnstable.1810,1810,Wendell Davis,DW0062,null,null,4,4,0,0.0
+ma.uscongress.berkshire.1810,1810,Ar Eggleston,EA0024,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1810,1810,Daniel Dewey,DD0043,null,null,7,7,0,0.0
+ma.uscongress.berkshire.1810,1810,Elisha Lee,LE0023,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1810,1810,Ezekiel Bacon,BE0033,null,null,1588,1588,0,0.0
+ma.uscongress.berkshire.1810,1810,H. D. Sedgwic,SH0037,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1810,1810,Henry Brown,BH0082,null,null,2,2,0,0.0
+ma.uscongress.berkshire.1810,1810,Jared Curtis,CJ0312,null,null,2,2,0,0.0
+ma.uscongress.berkshire.1810,1810,S. H. Whaler,WS0048,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1810,1810,Simon Larned,LS0021,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1810,1810,Thomas Ives,IT0000,null,null,1256,1256,0,0.0
+ma.uscongress.berkshire.1810,1810,Timothy Childs,CT0113,null,null,1,1,0,0.0
+ma.uscongress.berkshire.1810,1810,William Towner,TW0073,null,null,2,2,0,0.0
+ma.uscongress.berkshire.1810,1810,Yazzoo Bacon,BY0001,null,null,1,1,0,0.0
+ma.uscongress.bristol.1810,1810,Israel Anthony,AI0014,null,null,1,1,0,0.0
+ma.uscongress.bristol.1810,1810,Jonas Godfrey,GJ0170,null,null,4,4,0,0.0
+ma.uscongress.bristol.1810,1810,Josiah Dean,DJ0177,null,null,6,6,0,0.0
+ma.uscongress.bristol.1810,1810,Laban Wheaton,WL0029,Federalist,A01,1442,1442,0,0.0
+ma.uscongress.bristol.1810,1810,"Nathaniel Morton, Jr.",MN0044,Republican,A03,1336,1336,0,0.0
+ma.uscongress.bristol.1810,1810,Nicholas Tilinghart,TN0022,null,null,1,1,0,0.0
+ma.uscongress.cumberland.1810,1810,Aaron Fitz,FA0032,null,null,1,1,0,0.0
+ma.uscongress.cumberland.1810,1810,Ammi R. Mitchell,MA0078,null,null,3,3,0,0.0
+ma.uscongress.cumberland.1810,1810,Daniel Ilsley,ID0002,null,null,2,2,0,0.0
+ma.uscongress.cumberland.1810,1810,Ezekiel Whitman,WE0022,null,null,1684,1684,0,0.0
+ma.uscongress.cumberland.1810,1810,"Henry Rust, Jr.",RH0061,null,null,64,64,0,0.0
+ma.uscongress.cumberland.1810,1810,Isaac Parsons,PI0017,null,null,2,2,0,0.0
+ma.uscongress.cumberland.1810,1810,Jacob Mitchell,MJ0327,null,null,1,1,0,0.0
+ma.uscongress.cumberland.1810,1810,James Means,MJ0288,null,null,2,2,0,0.0
+ma.uscongress.cumberland.1810,1810,John Turner,TJ0049,null,null,36,36,0,0.0
+ma.uscongress.cumberland.1810,1810,Joseph C. Boyd,BJ0335,null,null,13,13,0,0.0
+ma.uscongress.cumberland.1810,1810,Joseph E. Foxcroft,FJ0459,null,null,18,18,0,0.0
+ma.uscongress.cumberland.1810,1810,Jotham Stone,SJ0472,null,null,1,1,0,0.0
+ma.uscongress.cumberland.1810,1810,Lathrop Lewis,LL0049,null,null,4,4,0,0.0
+ma.uscongress.cumberland.1810,1810,Levi Hubbard,HL0012,null,null,2,2,0,0.0
+ma.uscongress.cumberland.1810,1810,Seth Chandler,CS0100,null,null,1,1,0,0.0
+ma.uscongress.cumberland.1810,1810,William Wedgery,WW0129,null,null,1654,1654,0,0.0
+ma.uscongress.cumberland.1810,1810,Zachariah Marston,MZ0001,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.1810,1810,Jacob Little,LJ0252,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.1810,1810,J. M. Clark,CJ0330,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.1810,1810,John Nelson,NJ0080,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.1810,1810,John Peabody,PJ0200,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.1810,1810,J. Perly,PJ0241,null,null,1,1,0,0.0
+ma.uscongress.essexnorth.1810,1810,Leonard White,WL0035,null,null,1523,1523,0,0.0
+ma.uscongress.essexnorth.1810,1810,N. Cleveland,CN0016,null,null,94,94,0,0.0
+ma.uscongress.essexnorth.1810,1810,T. Kitteridge,KT0032,null,null,816,816,0,0.0
+ma.uscongress.essexsouth.1810,1810,Daniel Kilham,KD0021,null,null,1479,1479,0,0.0
+ma.uscongress.essexsouth.1810,1810,Dick Manning,MD0033,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.1810,1810,Joseph E. Bellyache,BJ0400,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.1810,1810,Joseph Story,SJ0394,null,null,1,1,0,0.0
+ma.uscongress.essexsouth.1810,1810,William Reed,RW0085,Federalist,A01,1709,1709,0,0.0
+ma.uscongress.essexsouth.1810,1810,Zachariah Burchmore,BZ0012,null,null,1,1,0,0.0
+ma.uscongress.hampshirenorth.1810,1810,Benjamin Smith,SB0037,null,null,2,2,0,0.0
+ma.uscongress.hampshirenorth.1810,1810,Samuel Taggart,TS0046,Federalist,A01,1563,1563,0,0.0
+ma.uscongress.hampshirenorth.1810,1810,Solomon Smead,SS0117,null,null,614,614,0,0.0
+ma.uscongress.hampshiresouth.1810,1810,Hezekiah Fisk,FH0007,null,null,1,1,0,0.0
+ma.uscongress.hampshiresouth.1810,1810,Jeremiah Stebens,SJ0480,null,null,10,10,0,0.0
+ma.uscongress.hampshiresouth.1810,1810,John Mungor,MJ0302,null,null,2,2,0,0.0
+ma.uscongress.hampshiresouth.1810,1810,"Jonathan Smith, Jr.",SJ0396,null,null,1,1,0,0.0
+ma.uscongress.hampshiresouth.1810,1810,Samuel Fowler,FS0045,Republican,A03,705,705,0,0.0
+ma.uscongress.hampshiresouth.1810,1810,William Ely,EW0034,Federalist,A01,1713,1713,0,0.0
+ma.uscongress.kennebec.1810,1810,Barzillai Gannett,GB0014,null,null,1733,1733,0,0.0
+ma.uscongress.kennebec.1810,1810,Thomas Rice,RT0039,null,null,1187,1187,0,0.0
+ma.uscongress.lincoln.1810,1810,Alden Bradford,BA0108,null,null,880,880,0,0.0
+ma.uscongress.lincoln.1810,1810,Benjamin Amos,AB0008,null,null,1,1,0,0.0
+ma.uscongress.lincoln.1810,1810,C. Shaw,SC0036,null,null,1,1,0,0.0
+ma.uscongress.lincoln.1810,1810,John Russ,RJ0249,null,null,1,1,0,0.0
+ma.uscongress.lincoln.1810,1810,O. Cook,CO0004,null,null,1,1,0,0.0
+ma.uscongress.lincoln.1810,1810,Peleg Tallman,TP0017,null,null,1381,1381,0,0.0
+ma.uscongress.middlesex.1810,1810,Abraham Bigelow,BA0105,null,null,1,1,0,0.0
+ma.uscongress.middlesex.1810,1810,Joseph B. Varnum,VJ0024,Republican,A03,1842,1842,0,0.0
+ma.uscongress.middlesex.1810,1810,Loammi Baldwin,BL0033,Federalist,A01,819,819,0,0.0
+ma.uscongress.middlesex.1810,1810,Timothy Bigelow,BT0122,Federalist,A01,1,1,0,0.0
+ma.uscongress.norfolk.1810,1810,Ebenezer Seaver,SE0023,null,null,1297,1297,0,0.0
+ma.uscongress.norfolk.1810,1810,Edward H. Robins,RE0018,null,null,2,2,0,0.0
+ma.uscongress.norfolk.1810,1810,Jacob Norton,NJ0066,null,null,2,2,0,0.0
+ma.uscongress.norfolk.1810,1810,James Mann,MJ0534,null,null,87,87,0,0.0
+ma.uscongress.norfolk.1810,1810,James Richardson,RJ0147,null,null,210,210,0,0.0
+ma.uscongress.norfolk.1810,1810,Nathaniel Ames,AN0008,null,null,19,19,0,0.0
+ma.uscongress.norfolk.1810,1810,"Thomas Williams, Jr.",WT0067,null,null,1,1,0,0.0
+ma.uscongress.norfolk.1810,1810,Timothy Jackson,JT0025,null,null,434,434,0,0.0
+ma.uscongress.plymouth.1810,1810,"Charles Turner, Jr.",TC0016,Republican,A03,1642,1642,0,0.0
+ma.uscongress.plymouth.1810,1810,William Baylies,BW0156,Federalist,A01,1429,1429,0,0.0
+ma.uscongress.plymouth.1810,1810,William Davis,DW0073,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1810,1810,David Everett,ED0016,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1810,1810,David Goodwin,GD0010,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1810,1810,David Tilden,TD0030,null,null,1024,1024,0,0.0
+ma.uscongress.suffolk.1810,1810,John C. Jones,JJ0099,null,null,1,1,0,0.0
+ma.uscongress.suffolk.1810,1810,Josiah Quincy,QJ0002,Federalist,A01,2273,2273,0,0.0
+ma.uscongress.worcesternorth.1810,1810,Abijah Bigelow,BA0106,Federalist,A01,1987,1987,0,0.0
+ma.uscongress.worcesternorth.1810,1810,Benjamin Kimball,KB0008,null,null,2,2,0,0.0
+ma.uscongress.worcesternorth.1810,1810,Edmon Cushing,CE0079,null,null,5,5,0,0.0
+ma.uscongress.worcesternorth.1810,1810,Moses White,WM0026,null,null,17,17,0,0.0
+ma.uscongress.worcesternorth.1810,1810,Silas Holman,HS0075,null,null,1,1,0,0.0
+ma.uscongress.worcesternorth.1810,1810,Timothy Whiting,WT0086,Republican,A03,801,801,0,0.0
+ma.uscongress.worcestersouth.1810,1810,Elijah Brigham,BE0103,Federalist,A01,1853,1853,0,0.0
+ma.uscongress.worcestersouth.1810,1810,Francis Blake,BF0019,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1810,1810,John Spurr,SJ0384,Republican,A03,1608,1608,0,0.0
+ma.uscongress.worcestersouth.1810,1810,Joseph Allen,AJ0113,null,null,1,1,0,0.0
+ma.uscongress.worcestersouth.1810,1810,Levi Lincoln,LL0044,null,null,1,1,0,0.0
+ma.uscongress.york.1810,1810,B. Green,GB0028,null,null,6,6,0,0.0
+ma.uscongress.york.1810,1810,Cyrus King,KC0006,Federalist,A01,789,789,0,0.0
+ma.uscongress.york.1810,1810,Joseph M. Seaver,SJ0486,null,null,1,1,0,0.0
+ma.uscongress.york.1810,1810,Leeland,null,null,null,13,13,0,0.0
+ma.uscongress.york.1810,1810,Richard Cutts,CR0035,null,null,1338,1338,0,0.0
+ma.uscongress.york.1810,1810,Thomas Cutts,CT0118,null,null,1,1,0,0.0

@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.worcestersouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Benjamin Adams,AB0010,Federalist,A01,1,Worcester South,1879
+ma.uscongress.worcestersouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Abraham Lincoln,LA0041,Democrat,A03,2,Worcester South,936
+ma.uscongress.worcestersouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,"Levi Lincoln, Jr.",LL0044,null,null,3,Worcester South,85
+ma.uscongress.worcestersouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Sumner Bastow,BS0117,null,null,4,Worcester South,19
+ma.uscongress.worcestersouth.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Worcester South District",U.S. House of Representatives,ON125,Oliver Fisk,FO0000,null,null,5,Worcester South,2

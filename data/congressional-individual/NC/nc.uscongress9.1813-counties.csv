@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caswell,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,915
+2,Caswell,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,13
+1,Guilford,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,469
+2,Guilford,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,839
+1,Rockingham,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,794
+2,Rockingham,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,249
+1,Stokes,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Bartlett Yancey,YB0003,Republican,A03,633
+2,Stokes,nc.uscongress9.1813,1813-04,1813,General,"North Carolina 1813 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,686

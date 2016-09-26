@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress9.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Marmaduke Williams,WM0000,Republican,A03,1,Nine,3179
+nc.uscongress9.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Theophilus Lacey,LT0067,Republican,A03,2,Nine,31
+nc.uscongress9.1804,1804-08,1804,General,"North Carolina 1804 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Henry Branson,BH0065,Federalist,A01,3,Nine,6

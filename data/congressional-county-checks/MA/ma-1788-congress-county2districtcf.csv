@@ -1,0 +1,124 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.4.1788,1788,Theodore Sedgwick,ST0102,Federalist,A01,835,5,-830,0.99
+ma.uscongress.4.1788,1788,Theodore Sedgwick,ST0102,Federalist,A01,835,10,-825,0.99
+ma.uscongress.1.1788,1788,Fisher Ames,AF0004,Federalist,A01,818,1,-817,1.0
+ma.uscongress.8.1788,1788,Timothy Paine,PT0071,null,null,561,7,-554,0.99
+ma.uscongress.2.1788,1788,Benjamin Goodhue,GB0015,Federalist,A01,567,17,-550,0.97
+ma.uscongress.3.1788,1788,Nathaniel Gorham,GN0007,null,null,536,3,-533,0.99
+ma.uscongress.3.1788,1788,Nathaniel Gorham,GN0007,null,null,536,21,-515,0.96
+ma.uscongress.3.1788,1788,Elbridge Gerry,GE0049,null,null,384,8,-376,0.98
+ma.uscongress.2.1788,1788,Nathan Dane,DN0011,Anti-Federalist,A02,295,2,-293,0.99
+ma.uscongress.8.1788,1788,Artemas Ward,WA0043,Federalist,A01,284,12,-272,0.96
+ma.uscongress.3.1788,1788,Joseph B. Varnum,VJ0024,Federalist,A01,254,10,-244,0.96
+ma.uscongress.4.1788,1788,Thompson J. Skinner,ST0101,Federalist,A01,256,15,-241,0.94
+ma.uscongress.4.1788,1788,Oliver Phelps,PO0006,null,null,54,4,-50,0.93
+ma.uscongress.3.1788,1788,Joseph Hosmer,HJ0403,null,null,9,2,-7,0.78
+ma.uscongress.1.1788,1788,John Adams,AJ0030,null,null,30,29,-1,0.03
+ma.uscongress.1.1788,1788,"Benjamin Austin, Jr.",AB0013,null,null,43,43,0,0.0
+ma.uscongress.1.1788,1788,Benjamin Lincoln,LB0025,Federalist,A01,18,18,0,0.0
+ma.uscongress.1.1788,1788,Charles Jarvis,JC0015,null,null,45,45,0,0.0
+ma.uscongress.1.1788,1788,Fisher Ames,AF0004,Federalist,A01,818,818,0,0.0
+ma.uscongress.1.1788,1788,James Bowdoin,BJ0353,null,null,2,2,0,0.0
+ma.uscongress.1.1788,1788,"James Bowdoin, Jr.",BJ0470,null,null,12,12,0,0.0
+ma.uscongress.1.1788,1788,John Adams,AJ0030,null,null,30,30,0,0.0
+ma.uscongress.1.1788,1788,John Read,RJ0542,null,null,1,1,0,0.0
+ma.uscongress.1.1788,1788,John Sewell,SJ0467,null,null,11,11,0,0.0
+ma.uscongress.1.1788,1788,Oliver Wendell,WO0023,null,null,7,7,0,0.0
+ma.uscongress.1.1788,1788,Richard Cranch,CR0078,null,null,4,4,0,0.0
+ma.uscongress.1.1788,1788,Samuel Adams,AS0022,Anti-Federalist,A02,521,521,0,0.0
+ma.uscongress.1.1788,1788,Samuel A. Otis,OS0005,Federalist,A01,70,70,0,0.0
+ma.uscongress.1.1788,1788,Thomas Dawes,DT0015,null,null,3,3,0,0.0
+ma.uscongress.1.1788,1788,William Heath,HW0171,null,null,28,28,0,0.0
+ma.uscongress.2.1788,1788,Benjamin Goodhue,GB0015,Federalist,A01,567,567,0,0.0
+ma.uscongress.2.1788,1788,George Cabot,CG0068,Federalist,A01,1,1,0,0.0
+ma.uscongress.2.1788,1788,Jonathan Jackson,JJ0071,Federalist,A01,392,392,0,0.0
+ma.uscongress.2.1788,1788,Jonathan Titcomb,TJ0154,null,null,2,2,0,0.0
+ma.uscongress.2.1788,1788,Nathan Dane,DN0011,Anti-Federalist,A02,295,295,0,0.0
+ma.uscongress.2.1788,1788,Samuel Holton,HS0071,Anti-Federalist,A02,202,202,0,0.0
+ma.uscongress.2.1788,1788,Samuel Phillips,PS0029,null,null,10,10,0,0.0
+ma.uscongress.3.1788,1788,Ebenezer Bridge,BE0139,null,null,18,18,0,0.0
+ma.uscongress.3.1788,1788,Elbridge Gerry,GE0049,null,null,384,384,0,0.0
+ma.uscongress.3.1788,1788,Eleazer Brooks,BE0031,null,null,36,36,0,0.0
+ma.uscongress.3.1788,1788,Francis Dana,DF0019,Federalist,A01,8,8,0,0.0
+ma.uscongress.3.1788,1788,James Winthrop,WJ0341,null,null,50,50,0,0.0
+ma.uscongress.3.1788,1788,John Brooks,BJ0505,Federalist,A01,106,106,0,0.0
+ma.uscongress.3.1788,1788,Joseph B. Varnum,VJ0024,Federalist,A01,254,254,0,0.0
+ma.uscongress.3.1788,1788,Joseph Hosmer,HJ0403,null,null,9,9,0,0.0
+ma.uscongress.3.1788,1788,Leammi Baldwin,BL0023,null,null,43,43,0,0.0
+ma.uscongress.3.1788,1788,Nathaniel Gorham,GN0007,null,null,536,536,0,0.0
+ma.uscongress.3.1788,1788,Oliver Prescott,PO0007,null,null,8,8,0,0.0
+ma.uscongress.3.1788,1788,Parker Varnum,VP0021,null,null,2,2,0,0.0
+ma.uscongress.3.1788,1788,"Samuel Dexter, Jr.",DS0053,Federalist,A01,1,1,0,0.0
+ma.uscongress.3.1788,1788,William Hull,HW0079,null,null,17,17,0,0.0
+ma.uscongress.3.1788,1788,William Winthrop,WW0089,null,null,1,1,0,0.0
+ma.uscongress.4.1788,1788,Ebenezer Hunt,HE0035,null,null,5,5,0,0.0
+ma.uscongress.4.1788,1788,Ebenezer Mattoon,ME0042,Federalist,A01,1,1,0,0.0
+ma.uscongress.4.1788,1788,Elijah Dwight,DE0016,null,null,15,15,0,0.0
+ma.uscongress.4.1788,1788,Israel Williams,WI0018,null,null,11,11,0,0.0
+ma.uscongress.4.1788,1788,Israel Williams,WI0018,null,null,11,11,0,0.0
+ma.uscongress.4.1788,1788,John Bacon,BJ0484,null,null,93,93,0,0.0
+ma.uscongress.4.1788,1788,John Hastings,HJ0297,null,null,3,3,0,0.0
+ma.uscongress.4.1788,1788,John Worthington,WJ0356,Federalist,A01,178,178,0,0.0
+ma.uscongress.4.1788,1788,Moses Bliss,BM0028,null,null,2,2,0,0.0
+ma.uscongress.4.1788,1788,Nathaniel Kingsley,KN0008,null,null,1,1,0,0.0
+ma.uscongress.4.1788,1788,Nehemiah Rickman,RN0016,null,null,1,1,0,0.0
+ma.uscongress.4.1788,1788,Oliver Phelps,PO0006,null,null,54,54,0,0.0
+ma.uscongress.4.1788,1788,Samuel Field,FS0026,null,null,2,2,0,0.0
+ma.uscongress.4.1788,1788,Samuel Fowler,FS0045,null,null,21,21,0,0.0
+ma.uscongress.4.1788,1788,Samuel Henshaw,HS0048,null,null,4,4,0,0.0
+ma.uscongress.4.1788,1788,Samuel Henshaw,HS0048,null,null,4,4,0,0.0
+ma.uscongress.4.1788,1788,Samuel Lyman,LS0018,Federalist,A01,330,330,0,0.0
+ma.uscongress.4.1788,1788,Simeon Strong,SS0125,null,null,6,6,0,0.0
+ma.uscongress.4.1788,1788,Theodore Sedgwick,ST0102,Federalist,A01,835,835,0,0.0
+ma.uscongress.4.1788,1788,Thompson J. Skinner,ST0101,Federalist,A01,256,256,0,0.0
+ma.uscongress.4.1788,1788,Timothy Robinson,RT0032,null,null,7,7,0,0.0
+ma.uscongress.4.1788,1788,William Bodman,BW0148,null,null,37,37,0,0.0
+ma.uscongress.4.1788,1788,William Lyman,LW0055,null,null,7,7,0,0.0
+ma.uscongress.4.1788,1788,William Whiting,WW0090,Anti-Federalist,A02,302,302,0,0.0
+ma.uscongress.4.1788,1788,William Williams,WW0126,Federalist,A01,181,181,0,0.0
+ma.uscongress.5.1788,1788,George Partridge,PG0027,null,null,501,501,0,0.0
+ma.uscongress.5.1788,1788,James Warren,WJ0248,null,null,28,28,0,0.0
+ma.uscongress.5.1788,1788,John Gray,GJ0177,null,null,1,1,0,0.0
+ma.uscongress.5.1788,1788,Joshua Thomas,TJ0188,null,null,4,4,0,0.0
+ma.uscongress.5.1788,1788,Nathaniel Cushing,CN0013,null,null,13,13,0,0.0
+ma.uscongress.5.1788,1788,Samuel Savage,SS0067,null,null,1,1,0,0.0
+ma.uscongress.5.1788,1788,Thomas Davis,DT0014,null,null,3,3,0,0.0
+ma.uscongress.5.1788,1788,William Cushing,CW0068,null,null,2,2,0,0.0
+ma.uscongress.5.1788,1788,William Hall Jackson,JW0023,null,null,1,1,0,0.0
+ma.uscongress.6.1788,1788,Daniel Cony,CD0042,null,null,16,16,0,0.0
+ma.uscongress.6.1788,1788,David Sewall,SD0058,null,null,3,3,0,0.0
+ma.uscongress.6.1788,1788,George Thatcher,TG0012,Federalist,A01,588,588,0,0.0
+ma.uscongress.6.1788,1788,John Fox,FJ0136,null,null,4,4,0,0.0
+ma.uscongress.6.1788,1788,Joshua B. Osgood,OJ0065,null,null,5,5,0,0.0
+ma.uscongress.6.1788,1788,Josiah Thacher,TJ0159,null,null,182,182,0,0.0
+ma.uscongress.6.1788,1788,Nathaniel Willson,WN0023,null,null,73,73,0,0.0
+ma.uscongress.6.1788,1788,Samuel Thompson,TS0036,null,null,21,21,0,0.0
+ma.uscongress.6.1788,1788,Thomas Cutts,CT0118,null,null,20,20,0,0.0
+ma.uscongress.6.1788,1788,Thomas Rice,RT0039,null,null,1,1,0,0.0
+ma.uscongress.6.1788,1788,William Gorham,GW0046,null,null,12,12,0,0.0
+ma.uscongress.6.1788,1788,"William Lithgow, Jr.",LW0054,null,null,23,23,0,0.0
+ma.uscongress.7.1788,1788,David Cobb,CD0056,null,null,241,241,0,0.0
+ma.uscongress.7.1788,1788,George Leonard,LG0029,Federalist,A01,710,710,0,0.0
+ma.uscongress.7.1788,1788,Paul Sanford,SP0038,null,null,1,1,0,0.0
+ma.uscongress.7.1788,1788,Phaneul Bishop,BP0031,Anti-Federalist,A02,342,342,0,0.0
+ma.uscongress.7.1788,1788,William Rolch,RW0098,null,null,22,22,0,0.0
+ma.uscongress.8.1788,1788,Abel Wilder,WA0042,null,null,71,71,0,0.0
+ma.uscongress.8.1788,1788,Artemas Ward,WA0043,Federalist,A01,284,284,0,0.0
+ma.uscongress.8.1788,1788,Daniel Grosvener,GD0028,null,null,1,1,0,0.0
+ma.uscongress.8.1788,1788,Ebenezer Chaplin,CE0028,null,null,22,22,0,0.0
+ma.uscongress.8.1788,1788,Ebenezer Leonard,LE0030,null,null,1,1,0,0.0
+ma.uscongress.8.1788,1788,Jeremiah Learned,LJ0102,null,null,2,2,0,0.0
+ma.uscongress.8.1788,1788,John Sprague,SJ0360,null,null,63,63,0,0.0
+ma.uscongress.8.1788,1788,John Taylor,TJ0248,null,null,2,2,0,0.0
+ma.uscongress.8.1788,1788,Jonathan Grout,GJ0158,null,null,665,665,0,0.0
+ma.uscongress.8.1788,1788,Jonathan Warner,WJ0251,null,null,39,39,0,0.0
+ma.uscongress.8.1788,1788,Martin Kingsley,KM0013,null,null,24,24,0,0.0
+ma.uscongress.8.1788,1788,Moses Gill,GM0022,null,null,110,110,0,0.0
+ma.uscongress.8.1788,1788,Peter Penniman,PP0002,null,null,1,1,0,0.0
+ma.uscongress.8.1788,1788,Samuel Baker,BS0098,null,null,19,19,0,0.0
+ma.uscongress.8.1788,1788,Samuel Willard,WS0030,null,null,7,7,0,0.0
+ma.uscongress.8.1788,1788,Seth Washburn,WS0075,null,null,9,9,0,0.0
+ma.uscongress.8.1788,1788,Simon Houghton,HS0069,null,null,2,2,0,0.0
+ma.uscongress.8.1788,1788,Stephen Maynard,MS0019,null,null,3,3,0,0.0
+ma.uscongress.8.1788,1788,Stephen Maynard,MS0019,null,null,3,3,0,0.0
+ma.uscongress.8.1788,1788,Timothy Paine,PT0071,null,null,561,561,0,0.0

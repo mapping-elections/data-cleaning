@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.essexsouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Jacob Crowninshield,CJ0329,Republican,A03,1,Essex South,1884
+ma.uscongress.essexsouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Nathan Read,RN0015,Federalist,A01,2,Essex South,1323
+ma.uscongress.essexsouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Elias H. Derby,DE0011,Federalist,A01,3,Essex South,2
+ma.uscongress.essexsouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,Benjamin Hodges,HB0072,null,null,4,Essex South,1
+ma.uscongress.essexsouth.1804,1804,1804,General,"Massachusetts 1804 U.S. House of Representatives, Essex South District",U.S. House of Representatives,ON125,William Prescott,PW0082,Federalist,A01,5,Essex South,1

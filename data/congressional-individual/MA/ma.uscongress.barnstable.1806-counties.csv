@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Barnstable,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah L. Green,GI0007,Republican,A03,432
+2,Barnstable,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Wendell Davis,DW0062,Federalist,A01,242
+3,Barnstable,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Ebenezer Bacon,BE0028,null,null,5
+4,Barnstable,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Lemuel Williams,WL0031,null,null,3
+5,Barnstable,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,David Scudder,SD0011,null,null,1
+1,Bristol,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah L. Green,GI0007,Republican,A03,62
+2,Bristol,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Wendell Davis,DW0062,Federalist,A01,107
+3,Bristol,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Ebenezer Bacon,BE0028,null,null,NA
+4,Bristol,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Lemuel Williams,WL0031,null,null,NA
+5,Bristol,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,David Scudder,SD0011,null,null,NA
+1,Dukes,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah L. Green,GI0007,Republican,A03,32
+2,Dukes,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Wendell Davis,DW0062,Federalist,A01,3
+3,Dukes,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Ebenezer Bacon,BE0028,null,null,6
+4,Dukes,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Lemuel Williams,WL0031,null,null,6
+5,Dukes,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,David Scudder,SD0011,null,null,NA
+1,Nantucket,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah L. Green,GI0007,Republican,A03,139
+2,Nantucket,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Wendell Davis,DW0062,Federalist,A01,11
+3,Nantucket,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Ebenezer Bacon,BE0028,null,null,NA
+4,Nantucket,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Lemuel Williams,WL0031,null,null,NA
+5,Nantucket,ma.uscongress.barnstable.1806,1806,1806,General,"Massachusetts 1806 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,David Scudder,SD0011,null,null,NA

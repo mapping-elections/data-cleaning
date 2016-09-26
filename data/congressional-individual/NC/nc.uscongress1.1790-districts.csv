@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress1.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Baptist Ashe,AJ0212,Anti-Federalist,A02,1,One,1335
+nc.uscongress1.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nathaniel Macon,MN0068,null,null,2,One,1133
+nc.uscongress1.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Stephen Moore,MS0117,null,null,3,One,244
+nc.uscongress1.1790,1790-02,1790,General,"North Carolina 1790 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Parsons,null,null,null,4,One,18

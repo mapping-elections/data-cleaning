@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaufort,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hines,HR0171,Anti-Caucus,A03,580
+2,Beaufort,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Caucus,A07,489
+1,Edgecombe,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hines,HR0171,Anti-Caucus,A03,349
+2,Edgecombe,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Caucus,A07,968
+1,Hyde,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hines,HR0171,Anti-Caucus,A03,491
+2,Hyde,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Caucus,A07,156
+1,Pitt,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hines,HR0171,Anti-Caucus,A03,705
+2,Pitt,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Caucus,A07,326
+1,Tyrrell,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hines,HR0171,Anti-Caucus,A03,218
+2,Tyrrell,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Caucus,A07,206
+1,Washington,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Hines,HR0171,Anti-Caucus,A03,264
+2,Washington,nc.uscongress3.1825,1825-08,1825,General,"North Carolina 1825 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas H. Hall,HT0135,Caucus,A07,198

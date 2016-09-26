@@ -1,0 +1,78 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.eastern6.ballot5.1817,1817,William Read,RW0085,null,null,0,110,110,1.0
+ma.uscongress.eastern6.ballot3.1817,1817,scattering,null,null,null,0,66,66,1.0
+ma.uscongress.eastern6.ballot6.1817,1817,scattering,null,null,null,0,63,63,1.0
+ma.uscongress.eastern6.ballot5.1817,1817,Samuel S. Conner,CS0086,null,null,0,45,45,1.0
+ma.uscongress.eastern5.ballot2.1817,1817,scattering,null,null,null,0,14,14,1.0
+ma.uscongress.barnstable.ballot3.1817,1817,scattering,null,null,null,14,24,10,0.42
+ma.uscongress.eastern6.ballot5.1817,1817,scattering,null,null,null,0,9,9,1.0
+ma.uscongress.eastern5.ballot3.1817,1817,Benjamin Dearborn,DB0005,null,null,5,1,-4,0.8
+ma.uscongress.eastern5.ballot3.1817,1817,scattering,null,null,null,2,5,3,0.6
+ma.uscongress.eastern5.ballot3.1817,1817,Robert Anderson,AR0015,null,null,0,2,2,1.0
+ma.uscongress.eastern5.ballot3.1817,1817,Robert Williams,WR0028,null,null,0,2,2,1.0
+ma.uscongress.barnstable.ballot2.1817,1817,Elijah Cobb,CE0033,Federalist,A01,31,31,0,0.0
+ma.uscongress.barnstable.ballot2.1817,1817,John Reed,RJ0539,Federalist,A01,630,630,0,0.0
+ma.uscongress.barnstable.ballot2.1817,1817,scattering,null,null,null,1,1,0,0.0
+ma.uscongress.barnstable.ballot2.1817,1817,Thaddeus Coffin,CT0125,Federalist,A01,446,446,0,0.0
+ma.uscongress.barnstable.ballot2.1817,1817,"Walter Folger, Jr.",FW0026,Republican,A03,980,980,0,0.0
+ma.uscongress.barnstable.ballot3.1817,1817,John Reed,RJ0539,Federalist,A01,609,609,0,0.0
+ma.uscongress.barnstable.ballot3.1817,1817,"Walter Folger, Jr.",FW0026,Republican,A03,841,841,0,0.0
+ma.uscongress.barnstable.ballot3.1817,1817,William Willis,WW0100,Federalist,A01,95,95,0,0.0
+ma.uscongress.eastern5.ballot2.1817,1817,James Parker,PJ0005,Republican,A03,493,493,0,0.0
+ma.uscongress.eastern5.ballot2.1817,1817,John Chandler,CJ0020,Republican,A03,556,556,0,0.0
+ma.uscongress.eastern5.ballot2.1817,1817,Thomas Rice,RT0039,Federalist,A01,655,655,0,0.0
+ma.uscongress.eastern5.ballot3.1817,1817,James Parker,PJ0005,Republican,A03,761,761,0,0.0
+ma.uscongress.eastern5.ballot3.1817,1817,John Chandler,CJ0020,Republican,A03,89,89,0,0.0
+ma.uscongress.eastern5.ballot3.1817,1817,Joshua Gage,GJ0005,Republican,A03,98,98,0,0.0
+ma.uscongress.eastern5.ballot3.1817,1817,Peter Grant,GP0006,Federalist,A01,676,676,0,0.0
+ma.uscongress.eastern5.ballot3.1817,1817,Thomas Rice,RT0039,Federalist,A01,113,113,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,James Parker,PJ0005,Republican,A03,272,272,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,John Chandler,CJ0020,null,null,18,18,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,Joshua Gage,GJ0005,Republican,A03,100,100,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,Peter Grant,GP0006,Federalist,A01,440,440,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,scattering,null,null,null,14,14,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,Thomas Francis,FT0100,null,null,49,49,0,0.0
+ma.uscongress.eastern5.ballot4.1817,1817,Thomas Rice,RT0039,null,null,5,5,0,0.0
+ma.uscongress.eastern5.ballot5.1817,1817,James Parker,PJ0005,Republican,A03,2,2,0,0.0
+ma.uscongress.eastern5.ballot5.1817,1817,John Davis,DJ0164,null,null,3,3,0,0.0
+ma.uscongress.eastern5.ballot5.1817,1817,Joshua Gage,GJ0005,Republican,A03,699,699,0,0.0
+ma.uscongress.eastern5.ballot5.1817,1817,Nathaniel Bishop,BN0024,null,null,1,1,0,0.0
+ma.uscongress.eastern5.ballot5.1817,1817,Peter Grant,GP0006,Federalist,A01,459,459,0,0.0
+ma.uscongress.eastern5.ballot5.1817,1817,Thomas Bond,BT0013,null,null,1,1,0,0.0
+ma.uscongress.eastern6.ballot2.1817,1817,"Benjamin Brown, Jr.",BB0020,Federalist,A01,751,751,0,0.0
+ma.uscongress.eastern6.ballot2.1817,1817,Joshua Cushman,CJ0007,null,null,122,122,0,0.0
+ma.uscongress.eastern6.ballot2.1817,1817,Nathan Cutler,CN0011,Republican,A03,374,374,0,0.0
+ma.uscongress.eastern6.ballot2.1817,1817,Samuel S. Conner,CS0086,Republican,A03,475,475,0,0.0
+ma.uscongress.eastern6.ballot2.1817,1817,scattering,null,null,null,33,33,0,0.0
+ma.uscongress.eastern6.ballot2.1817,1817,Timothy Boutelle,BT0009,null,null,1,1,0,0.0
+ma.uscongress.eastern6.ballot3.1817,1817,"Benjamin Brown, Jr.",BB0020,Federalist,A01,820,820,0,0.0
+ma.uscongress.eastern6.ballot3.1817,1817,Joshua Cushman,CJ0007,Republican,A03,65,65,0,0.0
+ma.uscongress.eastern6.ballot3.1817,1817,Nathan Cutler,CN0011,Republican,A03,330,330,0,0.0
+ma.uscongress.eastern6.ballot3.1817,1817,Obed Wilson,WO0021,Republican,A03,144,144,0,0.0
+ma.uscongress.eastern6.ballot3.1817,1817,Samuel S. Conner,CS0086,Republican,A03,678,678,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,Hezekiah Sawtell,SH0140,null,null,1,1,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,John Whitier,WJ1082,null,null,1,1,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,Joshua Cushman,CJ0007,Republican,A03,52,52,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,Obed Wilson,WO0021,Republican,A03,154,154,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,Samuel Conner,CS0086,null,null,6,6,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,Samuel S. Conner,CS0086,Republican,A03,812,812,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,scattering,null,null,null,64,64,0,0.0
+ma.uscongress.eastern6.ballot4.1817,1817,Thomas Rice,RT0039,Federalist,A01,1030,1030,0,0.0
+ma.uscongress.eastern6.ballot5.1817,1817,Joshua Cushman,CJ0007,Republican,A03,808,808,0,0.0
+ma.uscongress.eastern6.ballot5.1817,1817,Thomas Rice,RT0039,Federalist,A01,601,601,0,0.0
+ma.uscongress.eastern6.ballot6.1817,1817,Joshua Cushman,CJ0007,Republican,A03,870,870,0,0.0
+ma.uscongress.eastern6.ballot6.1817,1817,Thomas Rice,RT0039,Federalist,A01,956,956,0,0.0
+ma.uscongress.essexnorth.ballot2.1817,1817,Jeremiah Nelson,NJ0045,Federalist,A01,231,231,0,0.0
+ma.uscongress.essexnorth.ballot2.1817,1817,scattering,null,null,null,62,62,0,0.0
+ma.uscongress.essexnorth.ballot2.1817,1817,Thomas Kitteridge,KT0032,Republican,A03,764,764,0,0.0
+ma.uscongress.essexnorth.ballot2.1817,1817,William Bannister,BW0137,Federalist,A01,900,900,0,0.0
+ma.uscongress.essexnorth.ballot3.1817,1817,Asa Andrews,AA0009,null,null,6,6,0,0.0
+ma.uscongress.essexnorth.ballot3.1817,1817,Jeremiah Nelson,NJ0045,Federalist,A01,1152,1152,0,0.0
+ma.uscongress.essexnorth.ballot3.1817,1817,John Varnum,VJ0043,null,null,5,5,0,0.0
+ma.uscongress.essexnorth.ballot3.1817,1817,Samuel Nye,NS0040,null,null,24,24,0,0.0
+ma.uscongress.essexnorth.ballot3.1817,1817,scattering,null,null,null,133,133,0,0.0
+ma.uscongress.essexnorth.ballot3.1817,1817,Thomas Kitteridge,KT0032,Republican,A03,677,677,0,0.0
+ma.uscongress.plymouth.ballot2.1817,1817,Charles Turner,TC0016,null,null,2,2,0,0.0
+ma.uscongress.plymouth.ballot2.1817,1817,scattering,null,null,null,35,35,0,0.0
+ma.uscongress.plymouth.ballot2.1817,1817,Wilkes Wood,WW0086,Federalist,A01,1435,1435,0,0.0
+ma.uscongress.plymouth.ballot2.1817,1817,Zabdial Sampson,SZ0002,Republican,A03,1580,1580,0,0.0

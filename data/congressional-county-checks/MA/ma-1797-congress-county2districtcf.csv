@@ -1,0 +1,43 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ma.uscongress.western.2.ballot2.1797,1797,William Shepard,SW0150,null,null,1610,16,-1594,0.99
+ma.uscongress.western.2.ballot2.1797,1797,William Shepard,SW0150,null,null,1610,49,-1561,0.97
+ma.uscongress.southern.3.ballot3.1797,1797,Stephen Bullock,BS0112,null,null,1039,19,-1020,0.98
+ma.uscongress.southern.3.ballot3.1797,1797,Laban Wheaton,WL0029,null,null,555,14,-541,0.97
+ma.uscongress.southern.3.ballot2.1797,1797,Elisha May,ME0023,null,null,412,21,-391,0.95
+ma.uscongress.western.2.ballot2.1797,1797,William Lyman,LW0055,null,null,373,5,-368,0.99
+ma.uscongress.eastern.1.ballot2.1797,1797,Henry Dearborn,DH0026,null,null,787,787,0,0.0
+ma.uscongress.eastern.1.ballot2.1797,1797,Isaac Parker,PI0010,null,null,1125,1125,0,0.0
+ma.uscongress.eastern.1.ballot2.1797,1797,Jonathan Bowman,BJ0314,null,null,420,420,0,0.0
+ma.uscongress.eastern.1.ballot3.1797,1797,Henry Dearborn,DH0026,null,null,1450,1450,0,0.0
+ma.uscongress.eastern.1.ballot3.1797,1797,Isaac Parker,PI0010,null,null,1612,1612,0,0.0
+ma.uscongress.eastern.1.ballot3.1797,1797,Jonathan Bowman,BJ0314,null,null,1,1,0,0.0
+ma.uscongress.eastern.1.ballot3.1797,1797,Timothy Parsons,PT0016,null,null,2,2,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,David Avery,AD0021,null,null,2,2,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Ebenezer Clap,CE0046,null,null,3,3,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Elisha May,ME0023,null,null,412,412,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Josiah Dean,DJ0177,null,null,12,12,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Laban Wheaton,WL0029,null,null,428,428,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,"Nathaniel Martin, Jr.",MN0019,null,null,62,62,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,"Nicholas Tillinghurt, Jr.",TN0022,null,null,80,80,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Seth Bullard,BS0035,null,null,7,7,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Stephen Bullock,BS0112,null,null,461,461,0,0.0
+ma.uscongress.southern.3.ballot2.1797,1797,Zephaniah Leonard,LZ0004,null,null,4,4,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Elisha May,ME0023,null,null,208,208,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Josiah Dean,DJ0177,null,null,9,9,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Laban Wheaton,WL0029,null,null,555,555,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Nicholas Tillinghurt,TN0022,null,null,8,8,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Phanuel Bishop,BP0031,null,null,86,86,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Seth Bullard,BS0035,null,null,5,5,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Stephen Bullock,BS0112,null,null,1039,1039,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Stephen Moulton,MS0055,null,null,1,1,0,0.0
+ma.uscongress.southern.3.ballot3.1797,1797,Zephaniah Leonard,LZ0004,null,null,48,48,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,Ebenezer Hunt,HE0035,null,null,3,3,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,Jacob Day,DJ0169,null,null,1,1,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,John Williams,WJ0343,null,null,14,14,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,Joseph Lyman,LJ0212,Federalist,A01,1,1,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,Samuel Fowler,FS0045,null,null,1,1,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,Samuel Henshaw,HS0048,null,null,6,6,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,Warham Park,PW0073,null,null,1,1,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,William Coleman,CW0127,null,null,1,1,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,William Lyman,LW0055,null,null,373,373,0,0.0
+ma.uscongress.western.2.ballot2.1797,1797,William Shepard,SW0150,null,null,1610,1610,0,0.0

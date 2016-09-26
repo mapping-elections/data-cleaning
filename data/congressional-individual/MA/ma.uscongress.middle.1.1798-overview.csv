@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,Harrison G. Otis,OH0028,Federalist,A01,1,2167
+ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Heath,HW0171,null,null,2,1690
+ma.uscongress.middle.1.1798,1798-11,1798,General,"Massachusetts 1798 U.S. House of Representatives, District Middle 1",U.S. House of Representatives,ON125,William Eustis,EW0031,null,null,3,22

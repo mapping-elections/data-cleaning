@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nc.uscongress3.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Winston,WJ0494,Republican,A03,1,NA,NA
+nc.uscongress3.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jesse Franklin,FJ0228,Republican,A03,2,NA,NA
+nc.uscongress3.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Williams,WJ0495,Republican,A03,3,NA,NA
+nc.uscongress3.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Martin,MJ0541,Federalist,A01,4,NA,NA
+nc.uscongress3.1793,1793-02,1793,General,"North Carolina 1793 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Clarke,null,null,null,5,NA,NA

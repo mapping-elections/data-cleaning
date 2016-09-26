@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ma.uscongress.barnstable.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Read,RJ0539,Federalist,A01,1,2188
+ma.uscongress.barnstable.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,"Thomas Hazard, Jr.",HT0086,Republican,A03,2,853
+ma.uscongress.barnstable.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,Isaiah L. Green,GI0007,Republican,A03,3,179
+ma.uscongress.barnstable.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Barnstable District",U.S. House of Representatives,ON125,John Hazard,HJ0398,null,null,4,1

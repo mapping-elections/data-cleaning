@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,"Benjamin Brown, Jr.",BB0020,Federalist,A01,278
+2,Kennebec,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Nathan Cutler,CN0040,Republican,A03,218
+3,Kennebec,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Samuel S. Conner,CS0086,Republican,A03,301
+4,Kennebec,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,scattering,null,null,null,173
+1,Somerset,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,"Benjamin Brown, Jr.",BB0020,Federalist,A01,380
+2,Somerset,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Nathan Cutler,CN0040,Republican,A03,281
+3,Somerset,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,Samuel S. Conner,CS0086,Republican,A03,123
+4,Somerset,ma.uscongress.eastern6.1816,1816-11,1816,General,"Massachusetts 1816 U.S. House of Representatives, Eastern District #6",U.S. House of Representatives,ON125,scattering,null,null,null,47
