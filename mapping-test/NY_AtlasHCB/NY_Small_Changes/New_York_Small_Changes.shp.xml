@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Kathryn Ford Thorne, Historical Compiler</origin>
+				<origin>Laura Rico-Beck, Digital Compiler</origin>
+				<origin>John H. Long, Editor, Atlas of Historical County Boundaries</origin>
+				<pubdate>12/1/2009</pubdate>
+				<title>New York_Small_Changes_Dataset</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Atlas of Historical County Boundaries-Digital (Shapefiles)</sername>
+				</serinfo>
+				<onlink>http://www.newberry.org/ahcbp</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+This document serves as the metadata for the New York Small_Changes Dataset shapefile for use in a geographic information system (GIS). The Small_Changes Dataset is part of the New York Atlas of Historical County Boundaries-Digital (shapefiles). That file may be downloaded without charge from this Web site (http://www.newberry.org/ahcbp); see also Distribution_Information, below.  In addition, an interactive map of New York's Historical Counties Dataset is available for operation and viewing through the Web site by means of ArcIMS, a program produced by Environmental Systems Research Institute (ESRI).  ArcIMS draws its boundary data for the interactive map from the New York Historical Counties Dataset shapefile.  The interactive map is projected while the downloadable shapefile is not.  Here are descriptions of the sources and methods used to gather and process the information that appears in the shapefile and in the interactive map so that users can evaluate the quality and utility of the data.
+
+The comprehensive New York Historical Counties Dataset shapefile holds the polygons, metadata, and attribute data for every different configuration of every county or county equivalent in New York, dated to the day, from 7 May 1662 through 31 December 2000. Some changes have not been mapped because the change is too small to map, or the location is unknown, or both; for example, a law that transferred ten acres belonging to farmer Smith from one county to another would be unmappable because the parcel is too small to be mapped at the standard compilation scale or because the location of Smith's farm cannot be discovered.  When the location of a change too small to map is known, the historical compiler marks the location and the digital compiler digitizes it as a point.  All such tiny changes are collected in the Small_Changes shapefile.
+</abstract>
+			<purpose>
+The Atlas is meant to be a resource for people (a) seeking records of past events, (b) trying to analyze, interpret, and display county-based historical data like returns of elections and censuses, and (c) working on state and local history.  The special interests of those potential users range from history to demography, economics, genealogy, geography, law, and politics.
+</purpose>
+		</descript>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Entity point</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>New York_Small_Changes</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.000</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>12/1/2009</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Dr. William M. Scholl Center for American History and Culture, TheNewberry Library</cntorg>
+				</cntorgp>
+				<cntpos>Director, Dr. William M. Scholl Center for American History and Culture</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>60 W. Walton Street</address>
+					<city>Chicago</city>
+					<state>Illinois</state>
+					<postal>60610</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntemail>scholl@newberry.org</cntemail>
+				<hours>8:00 am - 5:00 pm, M-F, CT</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<timeperd>
+		<timeinfo>
+			<rngdates>
+				<begdate>03/03/1888</begdate>
+				<enddate>03/25/1922</enddate>
+			</rngdates>
+		</timeinfo>
+		<current>publication date</current>
+	</timeperd>
+	<status>
+		<progress>Complete</progress>
+		<update>As needed</update>
+	</status>
+	<spdom>
+		<bounding>
+			<westbc>-77.562964</westbc>
+			<eastbc>-73.676746</eastbc>
+			<northbc>42.918904</northbc>
+			<southbc>40.687796</southbc>
+		</bounding>
+	</spdom>
+	<keywords>
+		<theme>
+			<themekt>none</themekt>
+			<themekey>historical county boundaries</themekey>
+		</theme>
+		<place>
+			<placekt>none</placekt>
+			<placekey>New York</placekey>
+		</place>
+		<temporal>
+			<tempkt>none</tempkt>
+			<tempkey>7 May 1662 through 31 December 2000</tempkey>
+		</temporal>
+	</keywords>
+	<accconst>Free access for use under an Attribution-NonCommercial-ShareAlike Creative Commons License</accconst>
+	<useconst>Free for use under an Attribution-NonCommercial-ShareAlike Creative Commons License</useconst>
+	<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.780</native>
+	<attr>
+		<attrlabl>NAME</attrlabl>
+		<attrdef>name of counties affected by the change</attrdef>
+		<attrdefs>colonial, territorial, state, and federal laws</attrdefs>
+		<attrdomv>
+			<udom>character field</udom>
+		</attrdomv>
+	</attr>
+	<attr>
+		<attrlabl>STATE</attrlabl>
+		<attrdef>name of the county's current or most recent state affiliation.</attrdef>
+		<attrdefs>colonial, territorial, state, and federal laws</attrdefs>
+		<attrdomv>
+			<udom>character field</udom>
+		</attrdomv>
+	</attr>
+	<attr>
+		<attrlabl>START_DATE</attrlabl>
+		<attrdef>first date for a particular county version or event, arranged as mm/dd/yyyy</attrdef>
+		<attrdefs>colonial, territorial, state, and federal laws</attrdefs>
+		<attrdomv>
+			<rdom>
+				<rdommin>18880303</rdommin>
+				<rdommax>19220325</rdommax>
+			</rdom>
+		</attrdomv>
+		<begdatea>03/03/1888</begdatea>
+		<enddatea>03/25/1922</enddatea>
+	</attr>
+	<attr>
+		<attrlabl>CHANGE</attrlabl>
+		<attrdef>creation, change, or other event for each county on the given date</attrdef>
+		<attrdefs>colonial, territorial, state, and federal laws, compiler</attrdefs>
+		<attrdomv>
+			<udom>character field</udom>
+		</attrdomv>
+	</attr>
+	<attr>
+		<attrlabl>CITATION</attrlabl>
+		<attrdef>reference to the source of data for the event described under CHANGE</attrdef>
+		<attrdefs>colonial, territorial, state, and federal laws, any other texts, maps, or interviews employed to gather data</attrdefs>
+		<attrdomv>
+			<udom>character field</udom>
+		</attrdomv>
+	</attr>
+	<attr>
+		<attrlabl>DATASET</attrlabl>
+		<attrdef>
+The dataset field identifies the topical focus of the master shapefile. For every state the subject matter consists of all events affecting state and county jurisdiction within the borders of the modern state, regardless of the enabling authority, plus similar events involving the state outside its modern bounds, regardless of where or when.  For example, polygons for Virginia's earliest western counties appear in the dataset for Kentucky because they represent part of the history of the area that became Kentucky; they also are included in the Virginia dataset because they are integral to the early history of Virginia, even though Virginia long ago ceded its authority over the area.  In general, therefore, the dataset encompasses more data than a state, concentrating on one state (the principal point of focus) but possibly embracing data from one or more related, secondary states.
+
+Historically, almost every colony and territory transformed smoothly into statehood with no complications that might have required separate datasets for the state and its predecessors.  The exception is Dakota Territory, which has its own dataset, and which split into a pair of states.
+</attrdef>
+		<attrdefs>Project standards</attrdefs>
+		<attrdomv>
+			<udom>character field</udom>
+		</attrdomv>
+	</attr>
+	<Esri><MetaID>{1A0EE40F-081D-48C0-B72B-D625A4917CD2}</MetaID><CreaDate>20091009</CreaDate><CreaTime>16071500</CreaTime><SyncOnce>TRUE</SyncOnce><ModDate>20091009</ModDate><ModTime>16072500</ModTime></Esri><dataqual><lineage/></dataqual></metadata>
