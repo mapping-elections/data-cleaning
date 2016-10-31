@@ -7,38 +7,41 @@
     <customproperties/>
     <layer-tree-group expanded="1" checked="Qt::Unchecked" name="1800.part-election">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ny_1800_winners20161018145508295" name="ny-1800-winners">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="districts00620161018160914376" name="districts006">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ny_1800_winners20161026104734134" name="ny-1800-winners">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="districts00720161019093256707" name="districts007">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="districts00820161019115114537" name="districts008">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="NY_Historical_Counties20161018145459166" name="NY_Historical_Counties">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="1" checked="Qt::Unchecked" name="1814.party-election">
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="1814.party-election">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ny_1814_winners20161019091531964" name="ny-1814-winners">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="ny_1814_winners20161026104835751" name="ny-1814-winners">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="NY_Historical_Counties_copy20161018145628630" name="NY_Historical_Counties copy">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="ny_1794_winners20161019145241249" name="ny-1794-winners">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="1794.party-election">
+      <customproperties/>
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="ny_1794_winners20161026104713511" name="ny-1794-winners">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="districts00420161019150921478" name="districts004">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" checked="Qt::Checked" id="NY_Historical_Counties_copy_copy20161026105541586" name="NY_Historical_Counties copy copy">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="districts00820161019115114537" name="districts008">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="districts00420161019150921478" name="districts004">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="NY_Historical_Counties_copy_copy20161019091620324" name="NY_Historical_Counties copy copy">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="districts00620161018160914376" name="districts006">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="districts00320161019145154578" name="districts003">
@@ -49,10 +52,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-79.95980204305810446</xmin>
-      <ymin>40.38319107016956622</ymin>
-      <xmax>-71.65849995080741053</xmax>
-      <ymax>45.12549193817009296</ymax>
+      <xmin>-79.95980303529853472</xmin>
+      <ymin>40.38310928805365307</ymin>
+      <xmax>-71.65849987756752171</xmax>
+      <ymax>45.12884500492254602</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -75,6 +78,7 @@
       <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="districts00820161019115114537"/>
       <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="NY_Historical_Counties20161018145459166"/>
       <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="districts00720161019093256707"/>
+      <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="NY_Historical_Counties_copy_copy20161026105541586"/>
       <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="districts00620161018160914376"/>
       <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="districts00320161019145154578"/>
       <layer_coordinate_transform destAuthId="EPSG:4269" srcAuthId="EPSG:4269" srcDatumTransform="-1" destDatumTransform="-1" layerid="NY_Historical_Counties_copy_copy20161019091620324"/>
@@ -83,38 +87,28 @@
   <layer-tree-canvas>
     <custom-order enabled="0">
       <item>NY_Historical_Counties20161018145459166</item>
-      <item>ny_1800_winners20161018145508295</item>
       <item>NY_Historical_Counties_copy20161018145628630</item>
       <item>districts00620161018160914376</item>
-      <item>ny_1814_winners20161019091531964</item>
-      <item>NY_Historical_Counties_copy_copy20161019091620324</item>
       <item>districts00720161019093256707</item>
       <item>districts00820161019115114537</item>
       <item>districts00320161019145154578</item>
-      <item>ny_1794_winners20161019145241249</item>
       <item>districts00420161019150921478</item>
+      <item>ny_1794_winners20161026104713511</item>
+      <item>ny_1800_winners20161026104734134</item>
+      <item>ny_1814_winners20161026104835751</item>
+      <item>NY_Historical_Counties_copy_copy20161026105541586</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
     <legendgroup open="true" checked="Qt::Unchecked" name="1800.part-election">
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ny-1800-winners" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="ny_1800_winners20161018145508295" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="districts006" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="districts00620161018160914376" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="ny_1800_winners20161026104734134" visible="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="districts007" showFeatureCount="0">
         <filegroup open="true" hidden="false">
           <legendlayerfile isInOverview="0" layerid="districts00720161019093256707" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="districts008" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="districts00820161019115114537" visible="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NY_Historical_Counties" showFeatureCount="0">
@@ -123,10 +117,10 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="true" checked="Qt::Unchecked" name="1814.party-election">
+    <legendgroup open="false" checked="Qt::Unchecked" name="1814.party-election">
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ny-1814-winners" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="ny_1814_winners20161019091531964" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="ny_1814_winners20161026104835751" visible="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="NY_Historical_Counties copy" showFeatureCount="0">
@@ -135,19 +129,31 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ny-1794-winners" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Checked" name="1794.party-election">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ny-1794-winners" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="ny_1794_winners20161026104713511" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="districts004" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="districts00420161019150921478" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="NY_Historical_Counties copy copy" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="NY_Historical_Counties_copy_copy20161026105541586" visible="1"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="districts008" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="ny_1794_winners20161019145241249" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="districts00820161019115114537" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="districts004" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="districts006" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="districts00420161019150921478" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="NY_Historical_Counties copy copy" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="NY_Historical_Counties_copy_copy20161019091620324" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="districts00620161018160914376" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="districts003" showFeatureCount="0">
@@ -550,7 +556,7 @@
         <ymax>45.01585129737804891</ymax>
       </extent>
       <id>NY_Historical_Counties20161018145459166</id>
-      <datasource>./mapping-test/NY_AtlasHCB/NY_Historical_Counties/NY_Historical_Counties.shp|layerid=0|subset="STATE" = 'NY'  AND "START_N" &lt;= 18000325 AND "END_N" >= 18010402</datasource>
+      <datasource>./NY_AtlasHCB/NY_Historical_Counties/NY_Historical_Counties.shp|layerid=0|subset="STATE" = 'NY'  AND "START_N" &lt;= 18000325 AND "END_N" >= 18010402</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -571,6 +577,7 @@
       <previewExpression></previewExpression>
       <vectorjoins>
         <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1800_winners20161018145508295"/>
+        <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1800_winners20161026104734134"/>
       </vectorjoins>
       <layerDependencies/>
       <expressionfields/>
@@ -1095,7 +1102,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.01585129737804891</ymax>
       </extent>
       <id>NY_Historical_Counties_copy20161018145628630</id>
-      <datasource>./mapping-test/NY_AtlasHCB/NY_Historical_Counties/NY_Historical_Counties.shp|layerid=0|subset="STATE" = 'NY'  AND "START_N" &lt;= 18140415 AND "END_N" >= 18150413</datasource>
+      <datasource>./NY_AtlasHCB/NY_Historical_Counties/NY_Historical_Counties.shp|layerid=0|subset="STATE" = 'NY'  AND "START_N" &lt;= 18140415 AND "END_N" >= 18150413</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1116,6 +1123,7 @@ def my_form_open(dialog, layer, feature):
       <previewExpression>COALESCE( "NAME", '&lt;NULL>' )</previewExpression>
       <vectorjoins>
         <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1814_winners20161019091531964"/>
+        <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1814_winners20161026104835751"/>
       </vectorjoins>
       <layerDependencies/>
       <expressionfields/>
@@ -1591,8 +1599,8 @@ def my_form_open(dialog, layer, feature):
         <xmax>-71.85614995275159345</xmax>
         <ymax>45.01585129737804891</ymax>
       </extent>
-      <id>NY_Historical_Counties_copy_copy20161019091620324</id>
-      <datasource>./mapping-test/NY_AtlasHCB/NY_Historical_Counties/NY_Historical_Counties.shp|layerid=0|subset="STATE" = 'NY'  AND "START_N" &lt;= 17940305 AND "END_N" >= 17950531</datasource>
+      <id>NY_Historical_Counties_copy_copy20161026105541586</id>
+      <datasource>./NY_AtlasHCB/NY_Historical_Counties/NY_Historical_Counties.shp|layerid=0|subset="STATE" = 'NY'  AND "START_N" &lt;= 17940305 AND "END_N" >= 17950531</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1612,7 +1620,8 @@ def my_form_open(dialog, layer, feature):
       <provider encoding="System">ogr</provider>
       <previewExpression></previewExpression>
       <vectorjoins>
-        <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1794_winners20161019145241249"/>
+        <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1814_winners20161019091531964"/>
+        <join joinFieldName="ahcb_county" targetFieldName="NAME" memoryCache="1" joinLayerId="ny_1794_winners20161026104713511"/>
       </vectorjoins>
       <layerDependencies/>
       <expressionfields/>
@@ -1683,16 +1692,16 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="ny-1794-winners_percentage_diff" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="-0.460000000000000" upper="-0.400000000000000" label=" -0.460 - -0.400 "/>
-          <range render="true" symbol="1" lower="-0.400000000000000" upper="-0.300000000000000" label=" -0.400 - -0.300 "/>
-          <range render="true" symbol="2" lower="-0.300000000000000" upper="-0.200000000000000" label=" -0.300 - -0.200 "/>
-          <range render="true" symbol="3" lower="-0.200000000000000" upper="-0.100000000000000" label=" -0.200 - -0.100 "/>
-          <range render="true" symbol="4" lower="-0.100000000000000" upper="0.000000000000000" label=" -0.100 - 0.000 "/>
-          <range render="true" symbol="5" lower="0.000000000000000" upper="0.100000000000000" label=" 0.000 - 0.100 "/>
-          <range render="true" symbol="6" lower="0.100000000000000" upper="0.200000000000000" label=" 0.100 - 0.200 "/>
-          <range render="true" symbol="7" lower="0.200000000000000" upper="0.300000000000000" label=" 0.200 - 0.300 "/>
-          <range render="true" symbol="8" lower="0.300000000000000" upper="0.400000000000000" label=" 0.300 - 0.400 "/>
-          <range render="true" symbol="9" lower="0.400000000000000" upper="0.500000000000000" label=" 0.400 - 0.500 "/>
+          <range render="true" symbol="0" lower="-0.460000000000000" upper="-0.400000000000000" label="Federalists +40%"/>
+          <range render="true" symbol="1" lower="-0.400000000000000" upper="-0.300000000000000" label="Federalists +30%"/>
+          <range render="true" symbol="2" lower="-0.300000000000000" upper="-0.200000000000000" label="Federalists +20%"/>
+          <range render="true" symbol="3" lower="-0.200000000000000" upper="-0.100000000000000" label="Federalists +10%"/>
+          <range render="true" symbol="4" lower="-0.100000000000000" upper="0.000000000000000" label="Federalists +0%"/>
+          <range render="true" symbol="5" lower="0.000000000000000" upper="0.100000000000000" label="Republicans +0%"/>
+          <range render="true" symbol="6" lower="0.100000000000000" upper="0.200000000000000" label="Republicans +10%"/>
+          <range render="true" symbol="7" lower="0.200000000000000" upper="0.300000000000000" label="Republicans +20%"/>
+          <range render="true" symbol="8" lower="0.300000000000000" upper="0.400000000000000" label="Republicans +30%"/>
+          <range render="true" symbol="9" lower="0.400000000000000" upper="0.500000000000000" label="Republicans +40%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -1850,7 +1859,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="18,33,149,255"/>
+              <prop k="color" v="177,15,39,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1881,7 +1890,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling" value="pal"/>
         <property key="labeling/addDirectionSymbol" value="false"/>
         <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="1"/>
+        <property key="labeling/blendMode" value="0"/>
         <property key="labeling/bufferBlendMode" value="0"/>
         <property key="labeling/bufferColorA" value="255"/>
         <property key="labeling/bufferColorB" value="255"/>
@@ -1890,7 +1899,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/bufferDraw" value="true"/>
         <property key="labeling/bufferJoinStyle" value="64"/>
         <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="0.4"/>
+        <property key="labeling/bufferSize" value="0.5"/>
         <property key="labeling/bufferSizeInMapUnits" value="false"/>
         <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/bufferTransp" value="0"/>
@@ -1912,7 +1921,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontLimitPixelSize" value="false"/>
         <property key="labeling/fontMaxPixelSize" value="10000"/>
         <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSize" value="10"/>
         <property key="labeling/fontSizeInMapUnits" value="false"/>
         <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/fontStrikeout" value="false"/>
@@ -1939,7 +1948,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/obstacleType" value="0"/>
         <property key="labeling/offsetType" value="0"/>
         <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="0"/>
+        <property key="labeling/placement" value="1"/>
         <property key="labeling/placementFlags" value="10"/>
         <property key="labeling/plussign" value="false"/>
         <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
@@ -2077,7 +2086,7 @@ def my_form_open(dialog, layer, feature):
       <attributeactions default="-1"/>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="2032594112">
         <columns>
-          <column width="-1" hidden="0" type="field" name="NAME"/>
+          <column width="121" hidden="0" type="field" name="NAME"/>
           <column width="-1" hidden="0" type="field" name="ID"/>
           <column width="-1" hidden="0" type="field" name="STATE"/>
           <column width="-1" hidden="0" type="field" name="FIPS"/>
@@ -2123,7 +2132,38 @@ def my_form_open(dialog, layer, feature):
 ]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
+      <widgets>
+        <widget name="ny-1814-winners_affiliation">
+          <config>
+            <option key="IsMultiline" value="false"/>
+            <option key="UseHtml" value="false"/>
+          </config>
+        </widget>
+        <widget name="ny-1814-winners_county">
+          <config>
+            <option key="IsMultiline" value="false"/>
+            <option key="UseHtml" value="false"/>
+          </config>
+        </widget>
+        <widget name="ny-1814-winners_percentage">
+          <config>
+            <option key="IsMultiline" value="false"/>
+            <option key="UseHtml" value="false"/>
+          </config>
+        </widget>
+        <widget name="ny-1814-winners_percentage_diff">
+          <config>
+            <option key="IsMultiline" value="false"/>
+            <option key="UseHtml" value="false"/>
+          </config>
+        </widget>
+        <widget name="ny-1814-winners_vote">
+          <config>
+            <option key="IsMultiline" value="false"/>
+            <option key="UseHtml" value="false"/>
+          </config>
+        </widget>
+      </widgets>
       <conditionalstyles>
         <rowstyles/>
         <fieldstyles/>
@@ -2137,7 +2177,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.01258001274150899</ymax>
       </extent>
       <id>districts00320161019145154578</id>
-      <datasource>./mapping-test/districtShapes/districts003.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
+      <datasource>./districtShapes/districts003.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2400,6 +2440,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="100000">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2425,7 +2466,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
@@ -2449,10 +2490,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -2486,7 +2527,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.01258001274150899</ymax>
       </extent>
       <id>districts00420161019150921478</id>
-      <datasource>./mapping-test/districtShapes/districts004.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
+      <datasource>./districtShapes/districts004.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2749,6 +2790,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="100000">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2774,7 +2816,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
@@ -2798,10 +2840,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -2835,7 +2877,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.01258001274150899</ymax>
       </extent>
       <id>districts00620161018160914376</id>
-      <datasource>./mapping-test/districtShapes/districts006.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
+      <datasource>./districtShapes/districts006.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3185,7 +3227,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.01258001274150899</ymax>
       </extent>
       <id>districts00720161019093256707</id>
-      <datasource>./mapping-test/districtShapes/districts007.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
+      <datasource>./districtShapes/districts007.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3535,7 +3577,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>45.01258001274150899</ymax>
       </extent>
       <id>districts00820161019115114537</id>
-      <datasource>./mapping-test/districtShapes/districts008.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
+      <datasource>./districtShapes/districts008.shp|layerid=0|subset="STATENAME" = 'New York'</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3798,6 +3840,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="100000">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -3823,7 +3866,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
@@ -3847,10 +3890,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -3877,8 +3920,8 @@ def my_form_open(dialog, layer, feature):
       </conditionalstyles>
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" readOnly="0" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
-      <id>ny_1794_winners20161019145241249</id>
-      <datasource>file:./mapping-test/party-election/ny-1794-winners.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <id>ny_1794_winners20161026104713511</id>
+      <datasource>file:./party-election/ny-1794-winners.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3928,7 +3971,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-518237240">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-1988542552">
         <columns/>
       </attributetableconfig>
       <editform></editform>
@@ -3945,8 +3988,8 @@ def my_form_open(dialog, layer, feature):
       </conditionalstyles>
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" readOnly="0" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
-      <id>ny_1800_winners20161018145508295</id>
-      <datasource>file:./mapping-test/party-election/ny-1800-winners.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <id>ny_1800_winners20161026104734134</id>
+      <datasource>file:./party-election/ny-1800-winners.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3992,17 +4035,17 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-1917198776">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns/>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -4013,8 +4056,8 @@ def my_form_open(dialog, layer, feature):
       </conditionalstyles>
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" readOnly="0" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
-      <id>ny_1814_winners20161019091531964</id>
-      <datasource>file:./mapping-test/party-election/ny-1814-winners.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <id>ny_1814_winners20161026104835751</id>
+      <datasource>file:./party-election/ny-1814-winners.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4060,17 +4103,17 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-1858434296">
         <columns/>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -4121,10 +4164,16 @@ def my_form_open(dialog, layer, feature):
       <LayerSnappingList type="QStringList">
         <value>NY_Historical_Counties20161018145459166</value>
         <value>NY_Historical_Counties_copy20161018145628630</value>
+        <value>districts00320161019145154578</value>
+        <value>districts00420161019150921478</value>
         <value>districts00620161018160914376</value>
-        <value>NY_Historical_Counties_copy_copy20161019091620324</value>
+        <value>districts00720161019093256707</value>
+        <value>districts00820161019115114537</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+        <value>disabled</value>
+        <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
@@ -4137,8 +4186,14 @@ def my_form_open(dialog, layer, feature):
         <value>2</value>
         <value>2</value>
         <value>2</value>
+        <value>2</value>
+        <value>2</value>
+        <value>2</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
@@ -4147,6 +4202,9 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+        <value>0.000000</value>
+        <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
