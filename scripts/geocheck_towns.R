@@ -58,18 +58,18 @@ elect_town_ma <- nnv %>%
 ccd_state <- ccd %>%
   filter(st == "ME")
 
-# Fuzzy Join: `stringdis_left_join` of distance 1 and summary stats
+#Fuzzy Join: `stringdis_left_join` of distance 1 and summary stats
 ce_fjoin_1 <- elect_town_me %>% stringdist_left_join(ccd_state, by = c("town" = "city"),
                                                        max_dist = 1, ignore_case=TRUE)
 
 #Geocoding the fuzzy join with a distance of 1
-# Total unmatched towns from `stringdist_left_join` of distance 1
+#Total unmatched towns from `stringdist_left_join` of distance 1
 unmatched_towns <- ce_fjoin_1 %>%
   select(town, id, state) %>%
   filter(is.na(id)) %>%
   count(town, state)
 
-# Geocoding the unmatched towns and binding the two datatables together
+#Geocoding the unmatched towns and binding the two datatables together
 unmatched_towns <- unmatched_towns %>%
   mutate(state = "Maine") %>%
   mutate(city_state = paste(town, state, sep = ', '))
@@ -85,12 +85,10 @@ corrected_me <- geocheck(na_town_latlong, zoom = 9, tile_provider = "Esri.WorldT
 
 corrected_me <- read_csv("data/town-georeferenced/ma_me_geochecker.csv")
 
-
 corrected_me <- geocheck(corrected_me, zoom = 9, tile_provider = "Esri.WorldTopoMap")
 
-
-
 write_csv(corrected_me, "data/town-georeferenced/ma_me_geochecker.csv")
+
 
 corrected_ma <- read_csv("data/town-georeferenced/ma_geochecker.csv")
 
