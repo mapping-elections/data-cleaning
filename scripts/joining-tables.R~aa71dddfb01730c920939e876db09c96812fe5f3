@@ -33,3 +33,14 @@ write_to_disk <- function(id) {
 
 names(data_split2) %>%
   walk(write_to_disk)
+
+###Party Split
+data %>% filter(election_date == 1808) %>%
+  group_by(county, affiliation) %>%
+  summarize(vote = sum(vote, na.rm = TRUE)) %>%
+  filter(affiliation != "null") %>%
+  group_by(county) %>%
+  mutate(percentage = vote / sum(vote), percentage_diff = round(percentage - 0.5, 2)) %>%
+  filter(affiliation == "Republican") %>%
+  left_join(join_table, by = c("county" = "nnv_county")) %>%
+  write_csv("mapping-test/party-election/ny-1808-winners.csv")
