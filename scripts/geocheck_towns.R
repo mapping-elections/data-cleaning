@@ -7,12 +7,12 @@ library(stringr)
 library(fuzzyjoin)
 library(ggmap)
 
-STATE <- "New Hampshire"
-ABBR_STATE <- "NH"
+STATE <- "New York"
+ABBR_STATE <- "NY"
 
 nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
 ccd <- read_csv("data-raw/ccd-csv/1790-2010_MASTER.csv")
-
+duplicate <- read_csv("data/town-georeferenced/ny_duplicate.csv")
 
 names(nnv) <- names(nnv) %>%
   str_to_lower() %>%
@@ -35,62 +35,86 @@ names(ccd) <- names(ccd) %>%
   str_replace_all("\\.", "") %>%
   str_replace_all("\\s", "_")
 
-elect_town <- nnv %>%
+nnv_town <- nnv %>%
   filter(state == STATE,
-         !is.na(town)) %>%
-  count(town, state)
+         !is.na(town))
+
+join_duplicate <- nnv_town %>%
+  left_join(duplicate, by = c("town"="nnv_town"))
+
+clean_town <- join_duplicate %>%
+  mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
+  count(corrected_town, state)
 
 ccd_state <- ccd %>%
   filter(st == ABBR_STATE)
 
-ce_fjoin_1 <- elect_town %>% stringdist_left_join(ccd_state, by = c("town" = "city"),
+ce_fjoin_1 <- clean_town %>% stringdist_left_join(ccd_state, by = c("corrected_town" = "city"),
                                                      max_dist = 1, ignore_case=TRUE)
-#Geocoding the fuzzy join with a distance of 1
-#Total unmatched towns from `stringdist_left_join` of distance 1
+# Geocoding the fuzzy join with a distance of 1
+# Total unmatched towns from `stringdist_left_join` of distance 1
 unmatched_towns <- ce_fjoin_1 %>%
-  select(town, id, state) %>%
+  select(corrected_town, id, state) %>%
   filter(is.na(id)) %>%
-  count(town, state)
+  count(corrected_town, state)
 
 # Geocoding the unmatched towns and binding the two datatables together
 unmatched_towns <- unmatched_towns %>%
   mutate(state = STATE) %>%
-  mutate(city_state = paste(town, state, sep = ', '))
+  mutate(city_state = paste(corrected_town, state, sep = ', '))
 
 lat_long <-  geocode(as.character(unmatched_towns$city_state), output = "more")
 na_town_latlong <- bind_cols(unmatched_towns, lat_long)
 
 na_town_latlong <- na_town_latlong %>%
-  select(town, state, city_state, lat, lon, administrative_area_level_3, administrative_area_level_2, administrative_area_level_1)
+  select(corrected_town, state, city_state, lat, lon, administrative_area_level_2, administrative_area_level_1)
 
-corrected <- geocheck(na_town_latlong, zoom = 9, tile_provider = "Esri.WorldTopoMap")
-#write_csv(corrected_ma, "data/town-georeferenced/nh_geochecker.csv")
+georeferenced <- geocheck(na_town_latlong, zoom = 9, tile_provider = "Esri.WorldTopoMap")
+#write_csv(georeferenced, "data/town-georeferenced/ct_geochecker.csv")
 
-corrected <- read_csv("data/town-georeferenced/nh_geochecker.csv")
-corrected <- geocheck(corrected_me, zoom = 9, tile_provider = "Esri.WorldTopoMap")
 
+# Read in Geochecker .csv and georefernce towns
+georeferenced <- read_csv("data/town-georeferenced/ny_geochecker.csv")
+georeferenced <- geocheck(corrected, zoom = 9, tile_provider = "Esri.WorldTopoMap")
+#write_csv(georeferenced, "data/town-georeferenced/ct_geochecker.csv")
+
+
+# Joining the georeferenced table back to NNV
 fjoined_towns <- ce_fjoin_1 %>%
   filter(!is.na(id))
 
-towns_geolocated <- corrected %>%
-  select(town, state, lat, lon)
+towns_geolocated <- georeferenced %>%
+  ungroup() %>%
+  select(corrected_town, state, lat, lon)
 
-bounded_towns <- bind_rows(fjoined_towns, towns_geolocated) %>%
+total_towns <- bind_rows(fjoined_towns, towns_geolocated) %>%
   mutate(lat = ifelse(is.na(lat), lat_bing, lat),
-         lon = ifelse(is.na(lon), lon_bing, lon)) %>%
-  select(town, state, lat, lon) %>%
-  arrange()
+         lon = ifelse(is.na(lon), lon_bing, lon))
 
-nnv_towns <- nnv %>%
-  filter (state==STATE, !is.na(town))
-
-joined_towns <- nnv_towns %>%
-  left_join(bounded_towns, by=c("town", "state"))
-
-write_csv(bounded_towns, "data/town-georeferenced/nh_geochecker.csv")
+#write_csv(bounded_towns, "data/town-georeferenced/va_geochecker.csv")
 
 
-# Addressing Massachusetts and Maine
+# FOR PREVIOUSLY GEOREFERNCED STATES ONLY
+# Correcting duplicates and joining coordinates
+corrected_towns <- unmatched_towns %>%
+  left_join(corrected, by = c("corrected_town" = "town", "state" = "state")) %>%
+  select(corrected_town, state, lat, lon)
+
+corrected_towns <- join_duplicate %>%
+  mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town))
+
+fuzzyjoined_towns <- ce_fjoin_1 %>%
+  filter(!is.na(id)) %>%
+  ungroup() %>%
+  mutate (lat = lat_bing,
+          lon = lon_bing)
+
+total_towns <- bind_rows(fuzzyjoined_towns, geocheck_join)
+
+
+
+#FOR MASSACHUSETTS AND MAINE
+# Separating the maine and mass counties
 maine_counties <- c("Cumberland", "Hancock", "Kennebeck", "Lincoln", "Oxford",
                     "Penobscot", "Somerset", "Washington", "York")
 
@@ -136,7 +160,8 @@ lat_long <-  geocode(as.character(unmatched_towns$city_state), output = "more")
 na_town_latlong <- bind_cols(unmatched_towns, lat_long)
 
 na_town_latlong <- na_town_latlong %>%
-  select(town, state, city_state, lat, lon, administrative_area_level_3, administrative_area_level_2, administrative_area_level_1)
+  select(town, state, city_state, lat, lon, administrative_area_level_3,
+         administrative_area_level_2, administrative_area_level_1)
 
 corrected_me <- geocheck(na_town_latlong, zoom = 9, tile_provider = "Esri.WorldTopoMap")
 
@@ -147,5 +172,3 @@ corrected_ma <- read_csv("data/town-georeferenced/ma_ma_geochecker.csv")
 corrected_ma <- geocheck(corrected_ma, zoom = 9, tile_provider = "Esri.WorldTopoMap")
 
 # write_csv(corrected_ma, "data/town-georeferenced/ma_ma_geochecker.csv")
-
-
