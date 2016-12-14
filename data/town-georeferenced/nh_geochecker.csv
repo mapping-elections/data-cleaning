@@ -1,16 +1,6 @@
 town,state,lat,lon
-Amherst,New Hampshire,42.8619308471679,-71.62402344
-Concord,New Hampshire,43.2324926,-71.5612523
-Dover,New Hampshire,43.1864894,-70.8836114
-Durham,New Hampshire,43.1342391967773,-70.92481232
-Exeter,New Hampshire,42.977138,-70.95235
-Hampton,New Hampshire,42.9354782104492,-70.83959961
-Hanover,New Hampshire,43.7004585266113,-72.28949738
-Keene,New Hampshire,42.9534961,-72.3068771
-Portsmouth,New Hampshire,43.0605947,-70.7803481
-Rochester,New Hampshire,43.2984927,-70.9770055
-Somersworth,New Hampshire,43.2534762,-70.8879437
 Alstead,New Hampshire,43.149481,-72.3614201
+Amherst,New Hampshire,42.8619308471679,-71.62402344
 Atkinson,New Hampshire,42.8384221,-71.14700370000001
 Barnstead,New Hampshire,43.33891939999999,-71.2782381
 Barrington,New Hampshire,43.2228599,-71.0470077
@@ -19,15 +9,22 @@ Brentwood,New Hampshire,42.9780248,-71.0735503
 Bridgewater,New Hampshire,43.6384067,-71.7364678
 Chester,New Hampshire,42.9567525,-71.25728459999999
 Chichester,New Hampshire,43.2492477,-71.3997909
+Concord,New Hampshire,43.2324926,-71.5612523
 Deerfield,New Hampshire,43.146194,-71.2164524
+Dover,New Hampshire,43.1864894,-70.8836114
 Dunbarton,New Hampshire,43.1025818,-71.6164615
+Durham,New Hampshire,43.1342391967773,-70.92481232
 Epping,New Hampshire,43.0534843,-71.0735476
 Epsom,New Hampshire,43.2249396,-71.3445677
+Exeter,New Hampshire,42.977138,-70.95235
 Farmington,New Hampshire,43.3897609,-71.065062
 Gilmanton,New Hampshire,43.4248816,-71.4138418
 Greenland,New Hampshire,43.0361995,-70.8328322
+Hampton,New Hampshire,42.9354782104492,-70.83959961
 Hampton Falls,New Hampshire,42.9162234,-70.863811
+Hanover,New Hampshire,43.7004585266113,-72.28949738
 Hollis,New Hampshire,42.74251659999999,-71.58953439999999
+Keene,New Hampshire,42.9534961,-72.3068771
 Kensington,New Hampshire,42.9270334,-70.9439447
 Lee,New Hampshire,43.12224399999999,-71.0120127
 Madbury,New Hampshire,43.1692512,-70.92394840000001
@@ -37,9 +34,12 @@ New-Durham,New Hampshire,43.4367466,-71.1722886
 Newington,New Hampshire,43.1000871,-70.8336668
 North Hampton,New Hampshire,42.9737623,-70.8351792
 Pittsfield,New Hampshire,43.3058983,-71.3242331
+Portsmouth,New Hampshire,43.0605947,-70.7803481
+Rochester,New Hampshire,43.2984927,-70.9770055
 Rye,New Hampshire,43.0019301,-70.7695547
 Sandwich,New Hampshire,43.79087029999999,-71.4104696
 Seabrook,New Hampshire,42.8909615,-70.8655074
+Somersworth,New Hampshire,43.2534762,-70.8879437
 Stratham,New Hampshire,43.0228677,-70.9163873
 Wakefield,New Hampshire,43.5536938,-71.0288751
 Walpole,New Hampshire,43.0794944,-72.4258229
