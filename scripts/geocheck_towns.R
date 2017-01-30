@@ -7,109 +7,112 @@ library(stringr)
 library(fuzzyjoin)
 library(ggmap)
 
-STATE <- "New York"
-ABBR_STATE <- "NY"
+#Global Variables
+STATE <- "Rhode Island"
+ABBR_STATE <- "RI"
+NNV <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
+CCD <- read_csv("data-raw/ccd-csv/1790-2010_MASTER.csv")
+DUPLICATE <- read_csv("data/town-georeferenced/ri_duplicate.csv")
 
-nnv <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
-ccd <- read_csv("data-raw/ccd-csv/1790-2010_MASTER.csv")
-duplicate <- read_csv("data/town-georeferenced/ny_duplicate.csv")
-
-names(nnv) <- names(nnv) %>%
+#Clean NNV and CCD (standardize variable case, populate town variable)
+names(NNV) <- names(NNV) %>%
   str_to_lower() %>%
   str_replace_all("\\.", "") %>%
   str_replace_all("\\s", "_")
 
-# Assign city values to town column for computational ease
-nnv <- nnv %>%
+NNV <- NNV %>%
   mutate(town = ifelse(is.na(town), city, town))
 
-# Extract the year from the date column and treat that as an integer
-nnv <- nnv %>%
+NNV <- NNV %>%
   mutate(year = str_extract(date, "\\d{4}") %>% as.integer())
 
-nnv <- nnv %>%
-  mutate(town = ifelse(is.na(town), city, town))
-
-names(ccd) <- names(ccd) %>%
+names(CCD) <- names(CCD) %>%
   str_to_lower() %>%
   str_replace_all("\\.", "") %>%
   str_replace_all("\\s", "_")
 
-nnv_town <- nnv %>%
+#Filtering tables down to specific state
+nnv_state <- NNV %>%
   filter(state == STATE,
          !is.na(town))
 
-join_duplicate <- nnv_town %>%
-  left_join(duplicate, by = c("town"="nnv_town"))
+ccd_state <- CCD %>%
+  filter(st == ABBR_STATE)
 
-clean_town <- join_duplicate %>%
+# Fixing duplicates (joining duplicate table to nnv_state and
+# then filtering down the correct town names)
+duplicate_join <- nnv_state %>%
+  left_join(DUPLICATE, by = c("town"="nnv_town"))
+
+clean_town <- duplicate_join %>%
   mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
   count(corrected_town, state)
 
-ccd_state <- ccd %>%
-  filter(st == ABBR_STATE)
-
-ce_fjoin_1 <- clean_town %>% stringdist_left_join(ccd_state, by = c("corrected_town" = "city"),
+#Fuzzy Join of distance 1 and filtering to unmatched towns
+fuzzy_join <- clean_town %>% stringdist_left_join(ccd_state, by = c("corrected_town" = "city"),
                                                      max_dist = 1, ignore_case=TRUE)
-# Geocoding the fuzzy join with a distance of 1
-# Total unmatched towns from `stringdist_left_join` of distance 1
-unmatched_towns <- ce_fjoin_1 %>%
+unmatched_towns <- fuzzy_join %>%
   select(corrected_town, id, state) %>%
   filter(is.na(id)) %>%
-  count(corrected_town, state)
+  mutate(state = STATE,
+         city_state = paste(corrected_town, state, sep = ', '))
 
-# Geocoding the unmatched towns and binding the two datatables together
-unmatched_towns <- unmatched_towns %>%
-  mutate(state = STATE) %>%
-  mutate(city_state = paste(corrected_town, state, sep = ', '))
-
+#Geocode with Google API
 lat_long <-  geocode(as.character(unmatched_towns$city_state), output = "more")
-na_town_latlong <- bind_cols(unmatched_towns, lat_long)
 
-na_town_latlong <- na_town_latlong %>%
-  select(corrected_town, state, city_state, lat, lon, administrative_area_level_2, administrative_area_level_1)
+geocoded_town <- bind_cols(unmatched_towns, lat_long) %>%
+  select(corrected_town, state, city_state, lat, lon, administrative_area_level_2,
+         administrative_area_level_1)
 
-georeferenced <- geocheck(na_town_latlong, zoom = 9, tile_provider = "Esri.WorldTopoMap")
+georeferenced <- geocheck(geocoded_town, zoom = 9, tile_provider = "Esri.WorldTopoMap")
 #write_csv(georeferenced, "data/town-georeferenced/ct_geochecker.csv")
 
-
-# Read in Geochecker .csv and georefernce towns
-georeferenced <- read_csv("data/town-georeferenced/ny_geochecker.csv")
-georeferenced <- geocheck(corrected, zoom = 9, tile_provider = "Esri.WorldTopoMap")
-#write_csv(georeferenced, "data/town-georeferenced/ct_geochecker.csv")
-
+# Write out intermediate table
+intermediate_table <- duplicate_join %>%
+  mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
+  count(town, corrected_town, state) %>%
+  select(town, corrected_town, state)
+write_csv(intermediate_table, "data/town-georeferenced/ri_intermediate_table.csv")
 
 # Joining the georeferenced table back to NNV
-fjoined_towns <- ce_fjoin_1 %>%
+fuzzyjoined_towns <- fuzzy_join %>%
   filter(!is.na(id))
 
 towns_geolocated <- georeferenced %>%
   ungroup() %>%
   select(corrected_town, state, lat, lon)
 
-total_towns <- bind_rows(fjoined_towns, towns_geolocated) %>%
+total_towns <- bind_rows(fuzzyjoined_towns, towns_geolocated) %>%
   mutate(lat = ifelse(is.na(lat), lat_bing, lat),
-         lon = ifelse(is.na(lon), lon_bing, lon))
+         lon = ifelse(is.na(lon), lon_bing, lon)) %>%
+  select (corrected_town, state, lat, lon)
 
-#write_csv(bounded_towns, "data/town-georeferenced/va_geochecker.csv")
+write_csv(total_towns, "data/town-georeferenced/ri_coordinates.csv")
+
+
 
 
 # FOR PREVIOUSLY GEOREFERNCED STATES ONLY
 # Correcting duplicates and joining coordinates
+
+# Read in Geochecker .csv and georefernce towns
+georeferenced <- read_csv("data/town-georeferenced/nh_coordinates.csv")
+
 corrected_towns <- unmatched_towns %>%
-  left_join(corrected, by = c("corrected_town" = "town", "state" = "state")) %>%
+  left_join(georeferenced, by = c("corrected_town" = "town", "state" = "state")) %>%
   select(corrected_town, state, lat, lon)
 
-corrected_towns <- join_duplicate %>%
+corrected_towns <- duplicate_join %>%
   mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town))
 
-fuzzyjoined_towns <- ce_fjoin_1 %>%
+fuzzyjoined_towns <- fuzzy_join %>%
   filter(!is.na(id)) %>%
   ungroup() %>%
   mutate (lat = lat_bing,
           lon = lon_bing)
 
 total_towns <- bind_rows(fuzzyjoined_towns, geocheck_join)
+
 
 
 
@@ -140,12 +143,12 @@ ccd_state <- ccd %>%
   filter(st == ABBR_STATE)
 
 #Fuzzy Join: `stringdis_left_join` of distance 1 and summary stats
-ce_fjoin_1 <- elect_town_me %>% stringdist_left_join(ccd_state, by = c("town" = "city"),
+fuzzy_join <- elect_town_me %>% stringdist_left_join(ccd_state, by = c("town" = "city"),
                                                        max_dist = 1, ignore_case=TRUE)
 
 #Geocoding the fuzzy join with a distance of 1
 #Total unmatched towns from `stringdist_left_join` of distance 1
-unmatched_towns <- ce_fjoin_1 %>%
+unmatched_towns <- fuzzy_join %>%
   select(town, id, state) %>%
   filter(is.na(id)) %>%
   count(town, state)
