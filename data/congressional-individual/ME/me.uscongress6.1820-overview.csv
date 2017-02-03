@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+me.uscongress6.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,Republican,A03,1,956
+me.uscongress6.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Isaac Stevens,SI0018,null,null,2,1
+me.uscongress6.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,scattering,null,null,null,3,1

@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Ebenezer Herrick,HE0005,Republican,A03,141
+2,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,null,null,414
+3,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Ebenezer T. Warren,WE0005,Republican,A03,298
+4,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Peter Grant,GP0006,Federalist,A01,155
+5,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,James Parker,PJ0005,null,null,20
+6,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Rufus Gay,GR0006,null,null,3
+7,Kennebec,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,James Saunders,SJ0026,null,null,NA
+1,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Ebenezer Herrick,HE0005,Republican,A03,587
+2,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,null,null,114
+3,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Ebenezer T. Warren,WE0005,Republican,A03,175
+4,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Peter Grant,GP0006,Federalist,A01,9
+5,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,James Parker,PJ0005,null,null,NA
+6,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,Rufus Gay,GR0006,null,null,NA
+7,Lincoln,me.uscongress5.second.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 2",U.S. House of Representatives,ON125,James Saunders,SJ0026,null,null,1

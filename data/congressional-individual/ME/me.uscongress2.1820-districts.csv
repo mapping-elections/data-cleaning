@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+me.uscongress2.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Ezekiel Whitman,WE0022,Federalist,A01,1,Two,941
+me.uscongress2.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Irish,IJ0004,Republican,null,2,Two,313
+me.uscongress2.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Mark Harris,HM0038,null,null,3,Two,12
+me.uscongress2.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Ashur Ware,WA0010,null,null,4,Two,1
+me.uscongress2.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James B. Tucker,TJ0371,null,null,5,Two,1
+me.uscongress2.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,blank,null,null,null,6,Two,1

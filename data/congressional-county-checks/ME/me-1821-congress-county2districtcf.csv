@@ -1,0 +1,35 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+me.uscongress.5.3.1821,1821,Ebenezer T. Warren,WE0005,null,null,540,484,-56,0.1
+me.uscongress.5.3.1821,1821,Ebenezer Herrick,HE0005,Republican,A0001,1042,1038,-4,0.0
+me.uscongress4.secondrunoff.1821,1821,scattering,null,null,null,0,2,2,1.0
+me.uscongress.3.2.1821,1821,Daniel Rose,RD0021,null,null,14,14,0,0.0
+me.uscongress.3.2.1821,1821,Joshua Head,HJ0009,null,null,1060,1060,0,0.0
+me.uscongress.3.2.1821,1821,Mark L. Hill,HM0035,Republican,A0001,1285,1285,0,0.0
+me.uscongress.3.2.1821,1821,scattering,null,null,null,13,13,0,0.0
+me.uscongress.5.3.1821,1821,Cornelius Thompson,TC0077,null,null,1,1,0,0.0
+me.uscongress.5.3.1821,1821,James Parker,PJ0005,Federalist,A0002,103,103,0,0.0
+me.uscongress.5.3.1821,1821,Joshua Gage,GJ0005,Federalist,A0002,139,139,0,0.0
+me.uscongress.5.3.1821,1821,Peter Grant,GP0006,Republican,A0001,206,206,0,0.0
+me.uscongress.5.3.1821,1821,scattering,null,null,null,22,22,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Aaron Holbrook,HA0011,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Abraham Farmer,FA0055,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Ebenezer Greanleaf,GE0030,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Jacob MacGaw,MJ0025,Republican,A03,430,430,0,0.0
+me.uscongress4.secondrunoff.1821,1821,James Campbell,CJ0353,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,John Cooper,CJ0400,null,null,152,152,0,0.0
+me.uscongress4.secondrunoff.1821,1821,John Wilkins,WJ0035,Republican,A03,247,247,0,0.0
+me.uscongress4.secondrunoff.1821,1821,John Wilson,WJ0313,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Joseph Harvey,HJ0006,null,null,3,3,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Joshua Hall,HJ0016,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Josiah Kidder,KJ0004,null,null,14,14,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Martin Kinsley,KM0013,Republican,A03,181,181,0,0.0
+me.uscongress4.secondrunoff.1821,1821,Tommy Hill,HT0009,null,null,1,1,0,0.0
+me.uscongress4.secondrunoff.1821,1821,William D. Williamson,WW0135,Republican,A03,898,898,0,0.0
+me.uscongress4.secondrunoff.1821,1821,William Emerson,EW0015,null,null,5,5,0,0.0
+me.uscongress5.second.1821,1821,Ebenezer Herrick,HE0005,Republican,A03,728,728,0,0.0
+me.uscongress5.second.1821,1821,Ebenezer T. Warren,WE0005,Republican,A03,473,473,0,0.0
+me.uscongress5.second.1821,1821,James Parker,PJ0005,null,null,20,20,0,0.0
+me.uscongress5.second.1821,1821,James Saunders,SJ0026,null,null,1,1,0,0.0
+me.uscongress5.second.1821,1821,Joshua Gage,GJ0005,null,null,528,528,0,0.0
+me.uscongress5.second.1821,1821,Peter Grant,GP0006,Federalist,A01,164,164,0,0.0
+me.uscongress5.second.1821,1821,Rufus Gay,GR0006,null,null,3,3,0,0.0

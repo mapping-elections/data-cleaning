@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Lincoln,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Mark L. Hill,HM0035,Republican,A0001,1156
+2,Lincoln,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Joshua Head,HJ0009,null,null,994
+3,Lincoln,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Daniel Rose,RD0021,null,null,14
+4,Lincoln,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,scattering,null,null,null,13
+1,Hancock,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Mark L. Hill,HM0035,Republican,A0001,129
+2,Hancock,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Joshua Head,HJ0009,null,null,66
+3,Hancock,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Daniel Rose,RD0021,null,null,NA
+4,Hancock,me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,scattering,null,null,null,NA

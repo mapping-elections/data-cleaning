@@ -1,0 +1,323 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+me.uscongress4.second.1823,1823,Josiah Prescott,PJ0004,null,null,0,213,213,1.0
+me.uscongress4.second.1823,1823,scattering,null,null,null,0,91,91,1.0
+me.uscongress4.1823,1823,Sanford Kingsbury,KS0010,null,null,0,71,71,1.0
+me.uscongress4.1823,1823,James Parker,PJ0005,Adams,null,0,59,59,1.0
+me.uscongress4.1823,1823,Thomas Fillebrown,FT0009,null,null,0,53,53,1.0
+me.uscongress4.1823,1823,Nathan Cutler,CN0011,null,null,0,21,21,1.0
+me.uscongress7.1823,1823,Moses Greenleaf,GM0017,null,null,14,1,-13,0.93
+me.uscongress6.1823,1823,Enoch Low,LE0014,null,null,1,NA,-1,1.0
+me.uscongress6.1823,1823,Frederick A. Ruggles,RF0007,null,null,1,NA,-1,1.0
+me.uscongress6.1823,1823,J. Stickney,SJ0034,null,null,1,NA,-1,1.0
+me.uscongress7.1823,1823,Moses Greenleaf,GM0017,null,null,14,13,-1,0.07
+me.uscongress1.1823,1823,Alexander MacIntire,MA0030,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Benjamin Greene,GB0020,null,null,293,293,0,0.0
+me.uscongress1.1823,1823,David Legro,LD0040,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Edward P. Hayman,HE0007,null,null,341,341,0,0.0
+me.uscongress1.1823,1823,Ezekiel Whitman,WE0022,null,null,2,2,0,0.0
+me.uscongress1.1823,1823,George W. Wallingford,WG0028,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Isaac Lane,LI0013,Crawford,A03,1164,1164,0,0.0
+me.uscongress1.1823,1823,Israel Lassell,LI0029,null,null,2,2,0,0.0
+me.uscongress1.1823,1823,"James Ayer, Jr.",AJ0048,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,John Bodwell,BJ0031,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,John MacDonald,MJ0015,null,null,213,213,0,0.0
+me.uscongress1.1823,1823,John Spring,SJ0028,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,John U. Parsons,PJ0012,null,null,2,2,0,0.0
+me.uscongress1.1823,1823,"Jonathan Tucker, Jr.",TJ0499,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Joseph Dane,DJ0174,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Joseph Prime,PJ0015,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Joshua Goodwin,GJ0584,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Nathaniel Pillsbury,PN0078,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,P.G. Hooper,HP0095,null,null,2,2,0,0.0
+me.uscongress1.1823,1823,Paul Hayman,HP0097,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Philip Hall 2nd,HP0096,null,null,4,4,0,0.0
+me.uscongress1.1823,1823,Phinehas Ricker,RP0061,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Rufus MacIntire,MR0008,Adams,A03,313,313,0,0.0
+me.uscongress1.1823,1823,Samuel Burbanks,BS0269,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Samuel Shapleigh,SS0265,null,null,2,2,0,0.0
+me.uscongress1.1823,1823,Seth S. Farfield,FS0063,null,null,2,2,0,0.0
+me.uscongress1.1823,1823,Thomas G. Thornton,TT0009,Adams,A03,442,442,0,0.0
+me.uscongress1.1823,1823,Timothy Shaw,ST0123,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,Tucker Kimball,KT0039,null,null,1,1,0,0.0
+me.uscongress1.1823,1823,William Burleigh,BW0280,Adams,A03,1080,1080,0,0.0
+me.uscongress1.1823,1823,William C. Allen,AW0115,null,null,15,15,0,0.0
+me.uscongress1.fourth.1823,1823,Andrew Scammon,SA0020,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Edward P. Hayman,HE0007,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Ellis B. Usher,UE0003,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Ether Shipley,SE0012,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Isaac Lane,LI0013,Crawford,A03,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,John Allen,AJ0028,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,John Bodwell,BJ0031,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,John Spring,SJ0028,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Jonathan Young,YJ0003,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Joseph Dane,DJ0174,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Joseph Prime,PJ0015,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Moses Dunn,DM0010,null,null,0,NA,0,NaN
+me.uscongress1.fourth.1823,1823,Rufus MacIntire,MR0008,Adams,A03,1904,1904,0,0.0
+me.uscongress1.fourth.1823,1823,William Burleigh,BW0280,Adams,A03,2090,2090,0,0.0
+me.uscongress1.second.1823,1823,"Abner Sawyer, Jr.",SA0018,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,Benjamin Greene,GB0020,null,null,8,8,0,0.0
+me.uscongress1.second.1823,1823,Edward P. Hayman,HE0007,null,null,25,25,0,0.0
+me.uscongress1.second.1823,1823,Ether Shipley,SE0012,null,null,6,6,0,0.0
+me.uscongress1.second.1823,1823,George W. Wallingford,WG0028,null,null,2,2,0,0.0
+me.uscongress1.second.1823,1823,Henry B. C. Greene,GH0005,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,Henry Woodman,WH0002,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,Isaac Lane,LI0013,Crawford,A03,810,810,0,0.0
+me.uscongress1.second.1823,1823,Isachar Kimbell,KI0007,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,"James Ayer, Jr.",AJ0048,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,"John Hall, Jr.",HJ0013,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,John MacDonald,MJ0015,null,null,32,32,0,0.0
+me.uscongress1.second.1823,1823,Lane,null,null,null,3,3,0,0.0
+me.uscongress1.second.1823,1823,Lane Isaac,IL0004,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,Philip Hall,HP0096,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,Rufus MacIntire,MR0008,Adams,A03,501,501,0,0.0
+me.uscongress1.second.1823,1823,Samuel Fox,FS0079,null,null,2,2,0,0.0
+me.uscongress1.second.1823,1823,scattering,null,null,null,6,6,0,0.0
+me.uscongress1.second.1823,1823,Thomas G. Thornton,TT0009,null,null,10,10,0,0.0
+me.uscongress1.second.1823,1823,Thomas Sands,ST0014,null,null,1,1,0,0.0
+me.uscongress1.second.1823,1823,William Burleigh,BW0280,Adams,A03,1007,1007,0,0.0
+me.uscongress1.third.1823,1823,A. K. Parris,PA0033,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,Alexander MacIntire,MA0030,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,Alexander Rice,RA0016,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Benjamin Greene,GB0020,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,Benjamin Pike,PB0011,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Benjamin Thomson,TB0002,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,Carver Buker,BC0008,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Cyrus Hall,HC0005,null,null,2,2,0,0.0
+me.uscongress1.third.1823,1823,Daniel Appleton,AD0008,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Daniel Bodwell,BD0015,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Daniel Bowdoin,BD0004,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,Edward P. Hayman,HE0007,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Elisha Allen,AE0001,null,null,5,5,0,0.0
+me.uscongress1.third.1823,1823,Elliot R. Bowdoin,BE0005,null,null,2,2,0,0.0
+me.uscongress1.third.1823,1823,Enoch Wood,WE0029,null,null,4,4,0,0.0
+me.uscongress1.third.1823,1823,George W. Wallingford,WG0028,null,null,12,12,0,0.0
+me.uscongress1.third.1823,1823,Henry Hobbs,HH0014,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Henry Smith,SH0004,null,null,4,4,0,0.0
+me.uscongress1.third.1823,1823,Iabez Lane,LI0012,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Isaac Lane,LI0013,Crawford,A03,332,332,0,0.0
+me.uscongress1.third.1823,1823,"James Ayer, Jr.",AJ0048,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,James Goodwin,GJ0007,null,null,2,2,0,0.0
+me.uscongress1.third.1823,1823,John Bowdoin,BJ0038,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,John Houston,HJ0041,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,John Powers,PJ0010,null,null,3,3,0,0.0
+me.uscongress1.third.1823,1823,John Spring,SJ0028,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Joseph Dane,DJ0174,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Joseph Prime,PJ0015,null,null,2,2,0,0.0
+me.uscongress1.third.1823,1823,M. Swett,SM0018,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Moses Garey,GM0019,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,N. Weeks,WN0018,null,null,2,2,0,0.0
+me.uscongress1.third.1823,1823,Rufus Lane,LR0007,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Rufus MacIntire,MR0008,Adams,A03,1832,1832,0,0.0
+me.uscongress1.third.1823,1823,Silas Whood,WS0020,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Simon Nowell,NS0008,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Sulvester Haley,HS0005,null,null,1,1,0,0.0
+me.uscongress1.third.1823,1823,Thomas G. Thornton,TT0009,Adams,null,2,2,0,0.0
+me.uscongress1.third.1823,1823,William Burleigh,BW0280,Adams,A03,2098,2098,0,0.0
+me.uscongress2.1823,1823,Ezekiel Whitman,WE0022,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,John Anderson,AJ0025,Crawford,A03,2036,2036,0,0.0
+me.uscongress2.1823,1823,John W. Smith,SJ0027,null,null,2,2,0,0.0
+me.uscongress2.1823,1823,Jonathan Page,PJ0207,Adams,null,41,41,0,0.0
+me.uscongress2.1823,1823,Joseph Adams,AJ0045,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,Lawyer Gatchell,GL0031,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,Mark Harris,HM0038,null,null,11,11,0,0.0
+me.uscongress2.1823,1823,Nathaniel Mitchell,MN0011,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,Robert P. Dunlap,DR0007,null,null,4,4,0,0.0
+me.uscongress2.1823,1823,Robert R. Kendall,KR0007,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,Samuel Holbrook,HS0056,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,"Stephen Longellow, Jr.",LS0011,Federalist,A01,2168,2168,0,0.0
+me.uscongress2.1823,1823,William P. Preble,PW0038,null,null,1,1,0,0.0
+me.uscongress2.1823,1823,William Polleys,PW0026,null,null,3,3,0,0.0
+me.uscongress3.1823,1823,Abel Merrill,MA0236,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Benjamin Ames,AB0008,null,null,3,3,0,0.0
+me.uscongress3.1823,1823,Daniel Rose,RD0021,Adams,A03,587,587,0,0.0
+me.uscongress3.1823,1823,Daniel Siders,SD0230,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Ebenezer D. Robinson,RE0090,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Ebenezer Herrick,HE0005,Adams,A03,986,986,0,0.0
+me.uscongress3.1823,1823,Ebenezer Thatcher,TE0011,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Edwin Smith,SE0025,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Hezekiah P. Allen,AH0037,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Isaac Barnard,BI0025,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Jeremiah Bailey,BJ0503,Federalist,A01,863,863,0,0.0
+me.uscongress3.1823,1823,John S. Wright,WJ0721,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Jonathan Thayer,TJ0498,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Mark L. Hill,HM0035,Crawford,A03,1191,1191,0,0.0
+me.uscongress3.1823,1823,Nathaniel Dole,DN0036,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Peleg Tallman,TP0010,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Samuel E. Smith,SS0015,null,null,2,2,0,0.0
+me.uscongress3.1823,1823,Samuel Thatcher,TS0010,null,null,126,126,0,0.0
+me.uscongress3.1823,1823,T. Lewis,LT0103,null,null,1,1,0,0.0
+me.uscongress3.1823,1823,Thomas Trundy,TT0085,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Benjamin Fisk,FB0003,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Daniel Rose,RD0021,Adams,null,65,65,0,0.0
+me.uscongress3.second.1823,1823,Ebenezer Herrick,HE0005,Adams,A03,821,821,0,0.0
+me.uscongress3.second.1823,1823,Edward Kelleran,KE0005,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Jeremiah Bailey,BJ0503,Federalist,A01,333,333,0,0.0
+me.uscongress3.second.1823,1823,Josiah Bailey,BJ0040,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Jotham Chase,CJ0047,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Mark L. Hill,HM0035,Crawford,A03,834,834,0,0.0
+me.uscongress3.second.1823,1823,Nathaniel Groton,GN0004,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Oliver Pratt,PO0015,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Parker MacCobb,MP0027,null,null,1,1,0,0.0
+me.uscongress3.second.1823,1823,Samuel Thatcher,TS0010,null,null,22,22,0,0.0
+me.uscongress3.third.1823,1823,Ebenezer Herrick,HE0005,Adams,A03,1797,1797,0,0.0
+me.uscongress3.third.1823,1823,Edwin Smith,SE0025,null,null,4,4,0,0.0
+me.uscongress3.third.1823,1823,Eliha Hatch,HE0011,null,null,2,2,0,0.0
+me.uscongress3.third.1823,1823,Jeremiah Bailey,BJ0503,Adams,null,2,2,0,0.0
+me.uscongress3.third.1823,1823,John Dole,DJ0043,null,null,1,1,0,0.0
+me.uscongress3.third.1823,1823,John Fasset,FJ0009,null,null,1,1,0,0.0
+me.uscongress3.third.1823,1823,Joseph Bailey,BJ0039,null,null,1,1,0,0.0
+me.uscongress3.third.1823,1823,Mark L. Hill,HM0035,Crawford,A03,1010,1010,0,0.0
+me.uscongress3.third.1823,1823,Moses Peaslee,PM0006,null,null,1,1,0,0.0
+me.uscongress3.third.1823,1823,Parker MacCobb,MP0027,null,null,2,2,0,0.0
+me.uscongress3.third.1823,1823,Peleg Tallman,TP0010,null,null,3,3,0,0.0
+me.uscongress3.third.1823,1823,Samuel Hyde,HS0032,null,null,1,1,0,0.0
+me.uscongress3.third.1823,1823,William M. Boyd,BW0011,null,null,5,5,0,0.0
+me.uscongress4.1823,1823,Alpheus Lane,LA0023,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Ariel Mann,MA0032,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Daniel Campbell,CD0017,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,David Page,PD0024,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Ebenezer T. Warren,WE0005,Adams,null,1969,1969,0,0.0
+me.uscongress4.1823,1823,Holmes Tillson,TH0011,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Isaiah Mills,MI0007,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,James Cutler,CJ0083,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,James Marston,MJ0069,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Joel Wellington,WJ0036,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,John Horry,HJ0017,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Joshua Cushman,CJ0007,Adams,A03,1992,1992,0,0.0
+me.uscongress4.1823,1823,Joshua Gage,GJ0005,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Josiah M. Watson,WJ0058,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Nathan Newell,NN0010,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Peter Clifford,CP0020,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Peter Grant,GP0006,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Samuel Buffum,BS0050,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Samuel Currier,CS0040,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Samuel Redington,RS0011,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,T. Warren,WT0029,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Thomas Bond,BT0013,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Thomas Gilpatrick,GT0015,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Thomas Whitten,WT0008,null,null,0,NA,0,NaN
+me.uscongress4.1823,1823,Walter H. Wilson,WW0050,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Abraham Morrell,MA0007,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Daniel Campbell,CD0017,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Ebenezer T. Warren,WE0005,Adams,null,824,824,0,0.0
+me.uscongress4.second.1823,1823,James Parker,PJ0005,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Joshua Cushman,CJ0007,Adams,A03,1704,1704,0,0.0
+me.uscongress4.second.1823,1823,Joshua Gage,GJ0005,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Nathan Cutler,CN0011,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Robert C. Vose,VR0002,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Samuel Cony,CS0034,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Samuel Currier,CS0040,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Sanford Kingsbury,KS0010,null,null,0,NA,0,NaN
+me.uscongress4.second.1823,1823,Thomas Bond,BT0013,null,null,0,NA,0,NaN
+me.uscongress5.1823,1823,Albion K. Parris,PA0033,null,null,1,1,0,0.0
+me.uscongress5.1823,1823,E. Richardson,RE0037,null,null,1,1,0,0.0
+me.uscongress5.1823,1823,E. Underhand,UE0005,null,null,1,1,0,0.0
+me.uscongress5.1823,1823,Ebenezer Herrick,HE0005,null,null,18,18,0,0.0
+me.uscongress5.1823,1823,Enoch Lincoln,LE0006,Adams,A03,2609,2609,0,0.0
+me.uscongress5.1823,1823,Enoch Littlefield,LE0036,null,null,8,8,0,0.0
+me.uscongress5.1823,1823,Ezekiel Thompson,TE0009,null,null,45,45,0,0.0
+me.uscongress5.1823,1823,John Turner,TJ0049,null,null,6,6,0,0.0
+me.uscongress5.1823,1823,Joseph Howard,HJ0012,null,null,2,2,0,0.0
+me.uscongress5.1823,1823,Levi Halbard,HL0008,null,null,1,1,0,0.0
+me.uscongress5.1823,1823,Philip Farrington,FP0009,null,null,1,1,0,0.0
+me.uscongress5.1823,1823,S. Tolbert,TS0013,null,null,2,2,0,0.0
+me.uscongress5.1823,1823,Samuel A. Bradley,BS0006,null,null,1,1,0,0.0
+me.uscongress5.1823,1823,William Kadd,KW0005,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Aaron Holbrook,HA0011,Republican,A03,372,372,0,0.0
+me.uscongress6.1823,1823,"Alfred Johnson, Jr.",JA0011,Adams,null,1121,1121,0,0.0
+me.uscongress6.1823,1823,Charles Jarvis,JC0014,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Daniel Lane,LD0012,null,null,2,2,0,0.0
+me.uscongress6.1823,1823,David Billings,BD0016,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,David Braley,BD0017,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Ebenezer Calderwood,CE0009,null,null,2,2,0,0.0
+me.uscongress6.1823,1823,Ebenezer Williams,WE0028,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Edmund Abbot,AE0015,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Elijah P. Pike,PE0009,null,null,8,8,0,0.0
+me.uscongress6.1823,1823,Henry Little,LH0010,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,James W. Webster,WJ0019,null,null,3,3,0,0.0
+me.uscongress6.1823,1823,Jeremiah O. Balch,BJ0049,Adams,null,36,36,0,0.0
+me.uscongress6.1823,1823,Jeremiah O'Brien,OJ0005,Adams,A03,1248,1248,0,0.0
+me.uscongress6.1823,1823,John Holbrook,HJ0014,Adams,null,3,3,0,0.0
+me.uscongress6.1823,1823,John Wilson,WJ0313,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Jonathan D. Weston,WJ0946,null,null,153,153,0,0.0
+me.uscongress6.1823,1823,Josiah Fernald,FJ0024,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,Thomas Haskell,HT0007,null,null,1,1,0,0.0
+me.uscongress6.1823,1823,William Abbott,AW0011,Federalist,A01,1010,1010,0,0.0
+me.uscongress6.1823,1823,William Avery,AW0008,null,null,2,2,0,0.0
+me.uscongress6.second.1823,1823,Aaron Holbrook,HA0011,Adams,A03,1,1,0,0.0
+me.uscongress6.second.1823,1823,"Alfred Johnson, Jr.",JA0011,Adams,null,758,758,0,0.0
+me.uscongress6.second.1823,1823,Elijah P. Pike,PE0009,null,null,2,2,0,0.0
+me.uscongress6.second.1823,1823,Jeremiah O'Brien,OJ0005,Adams,A03,833,833,0,0.0
+me.uscongress6.second.1823,1823,Matthew Hastings,HM0008,null,null,1,1,0,0.0
+me.uscongress6.second.1823,1823,Nathaniel Kidder,KN0003,null,null,1,1,0,0.0
+me.uscongress6.second.1823,1823,William Abbot,AW0011,null,null,447,447,0,0.0
+me.uscongress6.third.1823,1823,A. K. Parris,PA0033,null,null,2,2,0,0.0
+me.uscongress6.third.1823,1823,Albion K. Parris,PA0033,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,"Alfred Johnson, Jr.",JA0011,Adams,A03,690,690,0,0.0
+me.uscongress6.third.1823,1823,Azariah Edwards,EA0012,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Benjamin Smith,SB0017,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Daniel Newbury,ND0020,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Elijah P. Pike,PE0009,null,null,4,4,0,0.0
+me.uscongress6.third.1823,1823,Elisha Cousins,CE0004,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Ezra Ryan,RE0006,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Ezra Thissel,TE0008,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Jabez Mowry,MJ0024,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,"Jeremiah O'Brian, Jr.",OJ0006,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Jeremiah O'Brien,OJ0005,Adams,A03,1381,1381,0,0.0
+me.uscongress6.third.1823,1823,John Brooks,BJ0041,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,John Hill,HJ0018,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,"John Johnson, Jr.",JJ0054,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,John MacClure,MJ0027,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,John Wilson,WJ0313,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Jonathan Bartlett,BJ0017,null,null,6,6,0,0.0
+me.uscongress6.third.1823,1823,Joseph Lee,LJ0020,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Nathaniel Marcus,MN0041,null,null,2,2,0,0.0
+me.uscongress6.third.1823,1823,"Nicholas Thomas, Jr.",TN0004,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Samuel M. Pond,PS0008,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Stephen Ide,IS0002,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,Thomas Snow,ST0015,null,null,3,3,0,0.0
+me.uscongress6.third.1823,1823,Thomas Vose,VT0008,null,null,2,2,0,0.0
+me.uscongress6.third.1823,1823,W. R. Hawse,HW0010,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,William Abbott,AW0011,Federalist,A01,485,485,0,0.0
+me.uscongress6.third.1823,1823,William Aikins,AW0014,null,null,1,1,0,0.0
+me.uscongress6.third.1823,1823,William De Les Dernier,DW0020,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,A. Blake,BA0010,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Aaron Hill,LA0052,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Abel French,FA0019,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Amos Patten,PA0005,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Calvin Selden,SC0015,null,null,6,6,0,0.0
+me.uscongress7.1823,1823,"Daniel Bickford, Jr.",BD0019,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Daniel Wilkins,WD0005,null,null,27,27,0,0.0
+me.uscongress7.1823,1823,David Kidder,KD0004,Federalist,A01,1971,1971,0,0.0
+me.uscongress7.1823,1823,Ebenezer Hunting,HE0041,null,null,2,2,0,0.0
+me.uscongress7.1823,1823,Eleazer Coburn,CE0005,null,null,8,8,0,0.0
+me.uscongress7.1823,1823,Elias Bryant,BE0006,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Jacob Cotton,CJ0054,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Jacob MacGaw,MJ0025,null,null,7,7,0,0.0
+me.uscongress7.1823,1823,James Bates,BJ0043,null,null,2,2,0,0.0
+me.uscongress7.1823,1823,James Bowen,BJ0042,null,null,8,8,0,0.0
+me.uscongress7.1823,1823,James Collins,CJ0023,null,null,7,7,0,0.0
+me.uscongress7.1823,1823,James Dinsmore,DJ0027,null,null,30,30,0,0.0
+me.uscongress7.1823,1823,James Dudley,DJ0029,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Jedediah Herrick,HJ0042,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,John Bradbury,BJ0044,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,John Courson,CJ0055,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,John Leathead,LJ0022,null,null,4,4,0,0.0
+me.uscongress7.1823,1823,John Ware,WJ0020,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,John Wilkins,WJ0035,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,"Jonathan Stevens, Jr.",SJ1242,null,null,2,2,0,0.0
+me.uscongress7.1823,1823,Josiah Kidder,KJ0004,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Judah MacLellan,MJ0032,null,null,24,24,0,0.0
+me.uscongress7.1823,1823,Levi G. Fletcher,FL0017,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Nahum Baldwin,BN0018,null,null,11,11,0,0.0
+me.uscongress7.1823,1823,Obid Wilson,WO0021,null,null,676,676,0,0.0
+me.uscongress7.1823,1823,Reuben Wilson,WR0023,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Seth Perkins,PS0011,null,null,2,2,0,0.0
+me.uscongress7.1823,1823,Stephen L. Lewis,LS0007,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Stephen Salsbury,SS0008,null,null,7,7,0,0.0
+me.uscongress7.1823,1823,William Bean,BW0015,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,William D. Williamson,WW0135,Adams,null,25,25,0,0.0
+me.uscongress7.1823,1823,William Emerson,EW0015,Crawford,A03,941,941,0,0.0
+me.uscongress7.1823,1823,William Hight,HW0011,null,null,1,1,0,0.0
+me.uscongress7.1823,1823,Wintworth Tuttle,TW0009,null,null,15,15,0,0.0

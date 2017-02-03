@@ -1,0 +1,32 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Isaac Lane,LI0013,Crawford,A03,1164
+2,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Burleigh,BW0280,Adams,A03,1080
+3,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas G. Thornton,TT0009,Adams,A03,442
+4,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Edward P. Hayman,HE0007,null,null,341
+5,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Rufus MacIntire,MR0008,Adams,A03,313
+6,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Greene,GB0020,null,null,293
+7,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John MacDonald,MJ0015,null,null,213
+23,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Prime,PJ0015,null,null,1
+17,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Spring,SJ0028,null,null,1
+19,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"James Ayer, Jr.",AJ0048,null,null,1
+11,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Seth S. Farfield,FS0063,null,null,2
+10,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Israel Lassell,LI0029,null,null,2
+16,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Legro,LD0040,null,null,1
+24,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Timothy Shaw,ST0123,null,null,1
+28,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George W. Wallingford,WG0028,null,null,1
+8,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William C. Allen,AW0115,null,null,15
+26,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Bodwell,BJ0031,null,null,1
+20,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Burbanks,BS0269,null,null,1
+29,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dane,DJ0174,null,null,1
+25,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joshua Goodwin,GJ0584,null,null,1
+9,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Hall 2nd,HP0096,null,null,4
+21,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Paul Hayman,HP0097,null,null,1
+13,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,P.G. Hooper,HP0095,null,null,2
+18,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Tucker Kimball,KT0039,null,null,1
+31,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander MacIntire,MA0030,null,null,1
+15,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John U. Parsons,PJ0012,null,null,2
+27,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nathaniel Pillsbury,PN0078,null,null,1
+30,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Phinehas Ricker,RP0061,null,null,1
+14,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Shapleigh,SS0265,null,null,2
+22,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"Jonathan Tucker, Jr.",TJ0499,null,null,1
+12,York,me.uscongress1.1823,1823-04,1823,General,"Maine 1823 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ezekiel Whitman,WE0022,null,null,2

@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Ebenezer Herrick,HE0005,Republican,A0001,262
+2,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Ebenezer T. Warren,WE0005,null,null,384
+3,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Peter Grant,GP0006,Republican,A0001,182
+4,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Joshua Gage,GJ0005,Federalist,A0002,101
+5,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,James Parker,PJ0005,Federalist,A0002,90
+6,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Cornelius Thompson,TC0077,null,null,NA
+7,Kennebec,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,scattering,null,null,null,11
+1,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Ebenezer Herrick,HE0005,Republican,A0001,780
+2,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Ebenezer T. Warren,WE0005,null,null,156
+3,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Peter Grant,GP0006,Republican,A0001,24
+4,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Joshua Gage,GJ0005,Federalist,A0002,38
+5,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,James Parker,PJ0005,Federalist,A0002,13
+6,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,Cornelius Thompson,TC0077,null,null,1
+7,Lincoln,me.uscongress.5.3.1821,1821-05,1821,General,"Maine 1821 U.S. House of Representatives, District 5, Ballot 3",U.S. House of Representatives,ON111,scattering,null,null,null,11

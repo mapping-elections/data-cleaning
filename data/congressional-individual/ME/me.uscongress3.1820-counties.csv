@@ -1,0 +1,43 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Republican,A03,118
+2,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"Joshua Wingate, Jr.",WJ0015,Republican,A03,124
+3,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joshua Head,HJ0009,Federalist,null,NA
+4,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Daniel Rose,RD0021,null,null,NA
+5,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Pearl Stafford,SP0009,null,null,NA
+7,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel E. Smith,SS0015,null,null,NA
+8,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,null,null,NA
+9,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,null,null,NA
+10,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Hammatt,HA0054,null,null,NA
+11,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Parker MacCobb,MP0027,null,null,NA
+12,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Clapp,CC0009,null,null,NA
+13,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Davis,DS0018,null,null,NA
+14,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Daniel Marston,MD0012,null,null,NA
+15,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Thatcher,TE0011,null,null,NA
+16,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Tucker,TS0002,null,null,NA
+17,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Schenck,SJ0020,null,null,NA
+18,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thurston Whiting,WT0006,null,null,NA
+19,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Smith,SS0014,null,null,NA
+20,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Hovey,HW0006,null,null,NA
+21,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Timothy,null,null,null,NA
+22,Hancock,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Mark L. Hill,HM0035,Republican,A03,800
+2,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"Joshua Wingate, Jr.",WJ0015,Republican,A03,598
+3,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joshua Head,HJ0009,Federalist,null,79
+4,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Daniel Rose,RD0021,null,null,63
+5,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Pearl Stafford,SP0009,null,null,43
+7,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel E. Smith,SS0015,null,null,NA
+8,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Orr,OB0009,null,null,NA
+9,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Brown,BB0020,null,null,NA
+10,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Abraham Hammatt,HA0054,null,null,NA
+11,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Parker MacCobb,MP0027,null,null,3
+12,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Clapp,CC0009,null,null,NA
+13,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Davis,DS0018,null,null,NA
+14,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Daniel Marston,MD0012,null,null,NA
+15,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Thatcher,TE0011,null,null,NA
+16,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Tucker,TS0002,null,null,NA
+17,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Schenck,SJ0020,null,null,NA
+18,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thurston Whiting,WT0006,null,null,NA
+19,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Smith,SS0014,null,null,NA
+20,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Hovey,HW0006,null,null,NA
+21,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Timothy,null,null,null,NA
+22,Lincoln,me.uscongress3.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,37

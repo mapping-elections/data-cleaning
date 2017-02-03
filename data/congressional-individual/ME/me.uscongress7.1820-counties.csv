@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,271
+2,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,null,null,16
+3,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Isaac Bradley,BI0008,null,null,NA
+4,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,NA
+5,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Levi Lincoln,LL0037,null,null,3
+6,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Stephen Emory,ES0008,null,null,1
+7,Cumberland,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,scattering,null,null,null,12
+1,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,761
+2,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,null,null,NA
+3,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Isaac Bradley,BI0008,null,null,NA
+4,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,NA
+5,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Levi Lincoln,LL0037,null,null,NA
+6,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Stephen Emory,ES0008,null,null,NA
+7,Oxford,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,146
+2,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel A. Bradley,BS0006,null,null,NA
+3,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Isaac Bradley,BI0008,null,null,7
+4,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Judah Dana,DJ0008,null,null,5
+5,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Levi Lincoln,LL0037,null,null,NA
+6,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Stephen Emory,ES0008,null,null,NA
+7,York,me.uscongress7.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,scattering,null,null,null,NA

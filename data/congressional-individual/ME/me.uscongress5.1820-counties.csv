@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Herrick,HE0005,Republican,A03,91
+2,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer T. Warren,WE0005,null,null,380
+3,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Parker,PJ0005,Republican,null,110
+4,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,null,null,70
+5,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Grant,GP0006,null,null,22
+6,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0009,null,null,9
+7,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Bond,BT0013,null,null,7
+8,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Cochran,CJ0021,null,null,NA
+9,Kennebec,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Merrick,MJ0016,null,null,1
+1,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Herrick,HE0005,Republican,A03,476
+2,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer T. Warren,WE0005,null,null,84
+3,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Parker,PJ0005,Republican,null,210
+4,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,null,null,NA
+5,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Grant,GP0006,null,null,NA
+6,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0009,null,null,NA
+7,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Thomas Bond,BT0013,null,null,NA
+8,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Cochran,CJ0021,null,null,NA
+9,Lincoln,me.uscongress5.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Merrick,MJ0016,null,null,NA

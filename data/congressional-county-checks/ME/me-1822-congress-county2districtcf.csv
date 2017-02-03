@@ -1,0 +1,18 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+me.uscongress2.1822,1822,Clement H. Humphrey,HC0051,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Daniel Plummer,PD0050,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Edward Russell,RE0013,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Elias Merrill,ME0006,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,George Bradbury,BG0016,Federalist,A01,1042,1042,0,0.0
+me.uscongress2.1822,1822,Isaac Adams,AI0013,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,John Bradbury,BJ0044,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,John Jones,JJ0054,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Joseph Adams,AJ0045,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Mark Harris,HM0038,Republican,A03,1385,1385,0,0.0
+me.uscongress2.1822,1822,Phinchas Varnum,VP0005,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Samuel Stephenson,SS0002,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Seward Merrill,MS0003,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Sheophilus Bradbury,BS0016,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Stephen Longfellow,LS0011,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,William Polleys,PW0026,null,null,0,NA,0,NaN
+me.uscongress2.1822,1822,Woodbury Storer,SW0008,Republican,A03,67,67,0,0.0

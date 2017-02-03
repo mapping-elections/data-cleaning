@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+me.uscongress1.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Dane,DJ0174,Federalist,A01,1,One,955
+me.uscongress1.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Rice,RA0016,Republican,A03,2,One,700
+me.uscongress1.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Isaac Lyman,LI0011,null,null,3,One,109
+me.uscongress1.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Moody,MW0011,null,null,4,One,44
+me.uscongress1.1820,1820-11,1820,General,"Maine 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,5,One,15

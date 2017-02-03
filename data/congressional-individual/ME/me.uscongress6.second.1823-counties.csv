@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Jeremiah O'Brien,OJ0005,Adams,A03,425
+2,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,"Alfred Johnson, Jr.",JA0011,Adams,null,752
+3,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,William Abbot,AW0011,null,null,338
+4,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Elijah P. Pike,PE0009,null,null,2
+5,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Matthew Hastings,HM0008,null,null,NA
+6,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Aaron Holbrook,HA0011,Adams,A03,1
+7,Hancock,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Nathaniel Kidder,KN0003,null,null,1
+1,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Jeremiah O'Brien,OJ0005,Adams,A03,408
+2,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,"Alfred Johnson, Jr.",JA0011,Adams,null,6
+3,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,William Abbot,AW0011,null,null,109
+4,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Elijah P. Pike,PE0009,null,null,NA
+5,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Matthew Hastings,HM0008,null,null,1
+6,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Aaron Holbrook,HA0011,Adams,A03,NA
+7,Washington,me.uscongress6.second.1823,1823-06,1823,General,"Maine 1823 U.S. House of Representatives, District 6, Ballot 2",U.S. House of Representatives,ON125,Nathaniel Kidder,KN0003,null,null,NA

@@ -1,0 +1,65 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+me.uscongress3.fourth.1825,1825,Abraham Hammatt,HA0054,null,null,12,12,0,0.0
+me.uscongress3.fourth.1825,1825,Albert Smith,SA0006,null,null,580,580,0,0.0
+me.uscongress3.fourth.1825,1825,Benjamin Riggs,RB0004,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Daniel Quinnan,QD0000,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Daniel Rose,RD0021,null,null,394,394,0,0.0
+me.uscongress3.fourth.1825,1825,Ebenezer Delano,DE0008,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Ebenezer Herrick,HE0005,Republican,A03,1245,1245,0,0.0
+me.uscongress3.fourth.1825,1825,George Jewitt,JG0014,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Joel Miller,MJ0049,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Jonathan Frank,FJ0026,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Jonathan Hyde,HJ0021,null,null,2,2,0,0.0
+me.uscongress3.fourth.1825,1825,Moses Baker,BM0005,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Nathaniel Greene,GN0010,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,Samuel Woodward,WS0018,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,William Battie,BW0016,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,William Harmon,HW0016,null,null,1,1,0,0.0
+me.uscongress3.fourth.1825,1825,William M. Boyd,BW0011,null,null,1,1,0,0.0
+me.uscongress3.second.1825,1825,Albert Smith,SA0006,null,null,535,535,0,0.0
+me.uscongress3.second.1825,1825,Charles R. Partins,PC0013,null,null,1,1,0,0.0
+me.uscongress3.second.1825,1825,Daniel Rose,RD0021,null,null,1,1,0,0.0
+me.uscongress3.second.1825,1825,E. J. Ford,FE0005,null,null,1,1,0,0.0
+me.uscongress3.second.1825,1825,Ebenezer Delano,DE0008,Republican,A03,2,2,0,0.0
+me.uscongress3.second.1825,1825,Ebenezer Herrick,HE0005,Republican,A03,871,871,0,0.0
+me.uscongress3.second.1825,1825,Ebenzer Thatcher,TE0011,null,null,478,478,0,0.0
+me.uscongress3.second.1825,1825,Elihu Hatch,HE0011,null,null,4,4,0,0.0
+me.uscongress3.second.1825,1825,Elisha J. Ford,FE0005,null,null,35,35,0,0.0
+me.uscongress3.second.1825,1825,James MacLellan,MJ0035,null,null,1,1,0,0.0
+me.uscongress3.second.1825,1825,Lucius Barnard,BL0012,null,null,2,2,0,0.0
+me.uscongress3.second.1825,1825,Moses Carlton,CM0019,Republican,A03,24,24,0,0.0
+me.uscongress3.second.1825,1825,Nathaniel Green,GN0010,null,null,4,4,0,0.0
+me.uscongress3.second.1825,1825,Parker MacCobb,MP0027,null,null,1,1,0,0.0
+me.uscongress3.second.1825,1825,Peleg Tallman,TP0010,Republican,A03,1,1,0,0.0
+me.uscongress3.second.1825,1825,Stephen Parsons,PS0020,null,null,3,3,0,0.0
+me.uscongress3.third.1825,1825,Albert Smith,SA0006,null,null,1254,1254,0,0.0
+me.uscongress3.third.1825,1825,Crispus Grans,GC0007,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,Daniel Rose,RD0021,null,null,79,79,0,0.0
+me.uscongress3.third.1825,1825,Ebenezer Delano,DE0008,null,null,2,2,0,0.0
+me.uscongress3.third.1825,1825,Ebenezer Herrick,HE0005,Republican,A03,1960,1960,0,0.0
+me.uscongress3.third.1825,1825,Ebenzer Thatcher,TE0011,null,null,596,596,0,0.0
+me.uscongress3.third.1825,1825,Edmund Buxton,BE0016,null,null,4,4,0,0.0
+me.uscongress3.third.1825,1825,Edwin Smith,SE0025,null,null,20,20,0,0.0
+me.uscongress3.third.1825,1825,George Sprawl,SG0011,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,Henry True,TH0009,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,Isreal Cox,CI0012,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,James MacLellan,MJ0035,null,null,2,2,0,0.0
+me.uscongress3.third.1825,1825,John Merun,MJ0061,null,null,2,2,0,0.0
+me.uscongress3.third.1825,1825,John Pattee,PJ0025,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,John Ruggles,RJ0027,null,null,2,2,0,0.0
+me.uscongress3.third.1825,1825,Joseph F. Wingate,WJ0013,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,Mark L. Hill,HM0035,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,Moses Carlton,CM0019,null,null,4,4,0,0.0
+me.uscongress3.third.1825,1825,Nathaniel Green,GN0010,null,null,12,12,0,0.0
+me.uscongress3.third.1825,1825,Samuel T. Hinds,HS0009,null,null,1,1,0,0.0
+me.uscongress3.third.1825,1825,William J. Farley,FW0019,null,null,3,3,0,0.0
+me.uscongress3.third.1825,1825,William King,KW0033,null,null,4,4,0,0.0
+me.uscongress4.second.1825,1825,Joshua Cushman,CJ0007,null,null,32,32,0,0.0
+me.uscongress4.second.1825,1825,Peleg Sprague,SP0010,Republican,A03,988,988,0,0.0
+me.uscongress4.second.1825,1825,Peter Grant,GP0006,null,null,1,1,0,0.0
+me.uscongress4.second.1825,1825,Robert C. Vose,VR0002,null,null,225,225,0,0.0
+me.uscongress4.second.1825,1825,Sanford Kingsbury,KS0010,null,null,15,15,0,0.0
+me.uscongress4.second.1825,1825,Thomas Bond,BT0013,null,null,2,2,0,0.0
+me.uscongress4.second.1825,1825,Thomas Fillebrown,FT0009,null,null,204,204,0,0.0
+me.uscongress4.second.1825,1825,Timothy Boutelle,BT0009,null,null,31,31,0,0.0
+me.uscongress4.second.1825,1825,Williams Emmons,EW0027,null,null,2,2,0,0.0

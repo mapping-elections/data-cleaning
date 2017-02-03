@@ -1,0 +1,51 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0009,null,null,572
+2,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peleg Sprague,SP0010,Republican,A03,513
+3,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,Republican,A03,414
+4,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert C. Vose,VR0002,null,null,207
+5,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Sanford Kingsbury,KS0010,null,null,141
+6,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rufus Burnham,BR0012,null,null,88
+7,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Ebenezer T. Warren,WE0005,null,null,2
+8,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Comings,CJ0080,null,null,NA
+9,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Bond,BT0013,null,null,23
+10,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Timothy Boutelle,BT0009,null,null,17
+11,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Reuel Williams,WR0024,null,null,3
+12,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abijah Smith,SA0005,null,null,3
+13,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Coss,CT0013,null,null,2
+14,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,2
+15,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Pitts,PJ0022,null,null,1
+16,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,null,null,1
+17,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Clarke,CW0042,null,null,1
+18,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Francis,FT0010,null,null,1
+19,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Benjamin White, Jr.",WB0015,null,null,1
+20,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Currier,CS0040,null,null,1
+21,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Reuel Howard,HR0017,null,null,1
+22,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Baxter Crowell,CB0022,null,null,1
+23,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hobart Richardson,RH0009,null,null,1
+24,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Spearin,SW0036,null,null,1
+25,Kennebec,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Fillebrown,FT0009,null,null,30
+2,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peleg Sprague,SP0010,Republican,A03,NA
+3,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Cushman,CJ0007,Republican,A03,NA
+4,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert C. Vose,VR0002,null,null,NA
+5,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Sanford Kingsbury,KS0010,null,null,NA
+6,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rufus Burnham,BR0012,null,null,NA
+7,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Ebenezer T. Warren,WE0005,null,null,57
+8,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Comings,CJ0080,null,null,26
+9,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Bond,BT0013,null,null,NA
+10,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Timothy Boutelle,BT0009,null,null,NA
+11,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Reuel Williams,WR0024,null,null,NA
+12,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abijah Smith,SA0005,null,null,NA
+13,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Coss,CT0013,null,null,NA
+14,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Rice,RT0039,null,null,NA
+15,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Pitts,PJ0022,null,null,NA
+16,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joshua Gage,GJ0005,null,null,NA
+17,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Clarke,CW0042,null,null,NA
+18,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Francis,FT0010,null,null,NA
+19,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Benjamin White, Jr.",WB0015,null,null,NA
+20,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Currier,CS0040,null,null,NA
+21,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Reuel Howard,HR0017,null,null,NA
+22,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Baxter Crowell,CB0022,null,null,NA
+23,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Hobart Richardson,RH0009,null,null,NA
+24,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Spearin,SW0036,null,null,NA
+25,Lincoln,me.uscongress4.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,scattering,null,null,null,NA

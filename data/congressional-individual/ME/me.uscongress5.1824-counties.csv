@@ -1,0 +1,61 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,232
+2,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Howard,HJ0012,null,null,NA
+3,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Fessenden,FE0006,null,null,NA
+4,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Bean,BD0020,null,null,NA
+5,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Bucknell,BB0028,null,null,NA
+6,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Irish,IE0004,null,null,NA
+7,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+8,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Asa Charles,CA0009,null,null,NA
+9,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter C. Virgin,VP0010,null,null,NA
+10,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Charles,CS0042,null,null,NA
+11,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Moses Stone,SM0019,null,null,NA
+12,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,E. Richardson,RE0037,null,null,NA
+13,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James W. Ripley,RJ0021,null,null,NA
+14,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,C. Holland,HC0007,null,null,NA
+15,Cumberland,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Chandler,CB0014,null,null,NA
+1,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,45
+2,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Howard,HJ0012,null,null,NA
+3,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Fessenden,FE0006,null,null,NA
+4,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Bean,BD0020,null,null,NA
+5,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Bucknell,BB0028,null,null,NA
+6,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Irish,IE0004,null,null,NA
+7,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+8,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Asa Charles,CA0009,null,null,NA
+9,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter C. Virgin,VP0010,null,null,NA
+10,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Charles,CS0042,null,null,NA
+11,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Moses Stone,SM0019,null,null,NA
+12,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,E. Richardson,RE0037,null,null,NA
+13,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James W. Ripley,RJ0021,null,null,NA
+14,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,C. Holland,HC0007,null,null,NA
+15,Lincoln,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Chandler,CB0014,null,null,NA
+1,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,40
+2,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Howard,HJ0012,null,null,NA
+3,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Fessenden,FE0006,null,null,NA
+4,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Bean,BD0020,null,null,NA
+5,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Bucknell,BB0028,null,null,NA
+6,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Irish,IE0004,null,null,NA
+7,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+8,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Asa Charles,CA0009,null,null,NA
+9,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter C. Virgin,VP0010,null,null,NA
+10,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Charles,CS0042,null,null,NA
+11,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Moses Stone,SM0019,null,null,NA
+12,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,E. Richardson,RE0037,null,null,NA
+13,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James W. Ripley,RJ0021,null,null,NA
+14,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,C. Holland,HC0007,null,null,NA
+15,Kennebec,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Chandler,CB0014,null,null,NA
+1,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Enoch Lincoln,LE0006,Republican,A03,827
+2,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Howard,HJ0012,null,null,NA
+3,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Fessenden,FE0006,null,null,NA
+4,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Bean,BD0020,null,null,NA
+5,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Bucknell,BB0028,null,null,NA
+6,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Ebenezer Irish,IE0004,null,null,NA
+7,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Henry Rust,RH0061,null,null,NA
+8,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Asa Charles,CA0009,null,null,NA
+9,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter C. Virgin,VP0010,null,null,NA
+10,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Charles,CS0042,null,null,NA
+11,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Moses Stone,SM0019,null,null,NA
+12,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,E. Richardson,RE0037,null,null,NA
+13,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James W. Ripley,RJ0021,null,null,NA
+14,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,C. Holland,HC0007,null,null,NA
+15,Oxford,me.uscongress5.1824,1824-09,1824,General,"Maine 1824 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Benjamin Chandler,CB0014,null,null,NA

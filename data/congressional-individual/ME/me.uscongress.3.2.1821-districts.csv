@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Mark L. Hill,HM0035,Republican,A0001,1,Three,1285
+me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Joshua Head,HJ0009,null,null,2,Three,1060
+me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,Daniel Rose,RD0021,null,null,3,Three,14
+me.uscongress.3.2.1821,1821-01,1821,General,"Maine 1821 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON111,scattering,null,null,null,4,Three,13
