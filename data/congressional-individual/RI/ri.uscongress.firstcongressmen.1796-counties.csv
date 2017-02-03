@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bourne,BB0013,Federalist,A01,251
+2,Bristol,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Kent,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bourne,BB0013,Federalist,A01,611
+2,Kent,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Newport,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bourne,BB0013,Federalist,A01,789
+2,Newport,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Providence,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bourne,BB0013,Federalist,A01,1322
+2,Providence,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Washington,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bourne,BB0013,Federalist,A01,734
+2,Washington,ri.uscongress.firstcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,2

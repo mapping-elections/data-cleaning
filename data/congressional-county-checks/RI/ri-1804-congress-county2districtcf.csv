@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1804,1804,Nehemiah Knight,KN0024,Republican,A03,1618,NA,-1618,1.0
+ri.uscongress.1804,1804,Joseph Stanton,SJ1416,Republican,A03,1606,NA,-1606,1.0
+ri.uscongress.1804,1804,scattering,null,null,null,18,NA,-18,1.0

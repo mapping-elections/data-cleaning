@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1792,1792,Benjamin Bourn,BB0013,Federalist,A01,0,NA,0,NaN
+ri.uscongress.1792,1792,Francis Malbone,MF0037,Federalist,A01,0,NA,0,NaN
+ri.uscongress.1792,1792,Paul Mumford,MP0122,null,null,0,NA,0,NaN

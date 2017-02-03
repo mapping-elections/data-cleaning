@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.2ndrep.1798,1798,John Brown,BJ1311,Federalist,A01,2680,NA,-2680,1.0
+ri.uscongress.2ndrep.1798,1798,Thomas Tillinghast,TT0119,Republican,A03,1415,NA,-1415,1.0

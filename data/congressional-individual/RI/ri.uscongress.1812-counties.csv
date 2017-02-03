@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,"Richard Jackson, Jr.",JR0052,Federalist,A01,301
+2,Bristol,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,301
+3,Bristol,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Russell,RJ0591,Republican,A03,252
+4,Bristol,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Wilbour,WI0068,Republican,A03,250
+1,Kent,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,"Richard Jackson, Jr.",JR0052,Federalist,A01,714
+2,Kent,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,712
+3,Kent,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Russell,RJ0591,Republican,A03,376
+4,Kent,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Wilbour,WI0068,Republican,A03,377
+1,Newport,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,"Richard Jackson, Jr.",JR0052,Federalist,A01,866
+2,Newport,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,864
+3,Newport,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Russell,RJ0591,Republican,A03,709
+4,Newport,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Wilbour,WI0068,Republican,A03,701
+1,Providence,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,"Richard Jackson, Jr.",JR0052,Federalist,A01,1689
+2,Providence,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,1685
+3,Providence,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Russell,RJ0591,Republican,A03,1426
+4,Providence,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Wilbour,WI0068,Republican,A03,1424
+1,Washington,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,"Richard Jackson, Jr.",JR0052,Federalist,A01,884
+2,Washington,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,884
+3,Washington,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Russell,RJ0591,Republican,A03,401
+4,Washington,ri.uscongress.1812,1812,1812,General,Rhode Island 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Wilbour,WI0068,Republican,A03,402

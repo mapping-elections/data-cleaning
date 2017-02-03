@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1810,1810,Elisha Potter,PE0102,Federalist,A01,3648,NA,-3648,1.0
+ri.uscongress.1810,1810,"Richard Jackson, Jr.",JR0052,Federalist,A01,3638,NA,-3638,1.0
+ri.uscongress.1810,1810,Nathaniel Hazard,HN0066,Republican,A03,3475,NA,-3475,1.0
+ri.uscongress.1810,1810,Nathan Brown,BN0113,Republican,A03,3444,NA,-3444,1.0
+ri.uscongress.1810,1810,scattering,null,null,null,13,NA,-13,1.0

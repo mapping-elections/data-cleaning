@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Champlin,CC0006,Federalist,A01,252
+2,Bristol,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,William Greene,GW0161,Federalist,A01,1
+3,Bristol,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Kent,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Champlin,CC0006,Federalist,A01,33
+2,Kent,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,William Greene,GW0161,Federalist,A01,577
+3,Kent,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Newport,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Champlin,CC0006,Federalist,A01,759
+2,Newport,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,William Greene,GW0161,Federalist,A01,48
+3,Newport,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Providence,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Champlin,CC0006,Federalist,A01,331
+2,Providence,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,William Greene,GW0161,Federalist,A01,980
+3,Providence,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,7
+1,Washington,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Champlin,CC0006,Federalist,A01,540
+2,Washington,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,William Greene,GW0161,Federalist,A01,195
+3,Washington,ri.uscongress.secondcongressmen.1796,1796,1796,General,Rhode Island 1796 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA

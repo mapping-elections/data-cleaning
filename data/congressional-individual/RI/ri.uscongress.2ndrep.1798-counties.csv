@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,John Brown,BJ1311,Federalist,A01,302
+2,Bristol,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Republican,A03,1
+1,Kent,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,John Brown,BJ1311,Federalist,A01,304
+2,Kent,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Republican,A03,391
+1,Newport,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,John Brown,BJ1311,Federalist,A01,427
+2,Newport,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Republican,A03,289
+1,Providence,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,John Brown,BJ1311,Federalist,A01,1540
+2,Providence,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Republican,A03,314
+1,Washington,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,John Brown,BJ1311,Federalist,A01,107
+2,Washington,ri.uscongress.2ndrep.1798,1798,1798,General,Rhode Island 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Republican,A03,420

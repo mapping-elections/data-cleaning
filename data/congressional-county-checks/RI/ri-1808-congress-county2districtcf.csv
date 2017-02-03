@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1808,1808,"Richard Jackson, Jr.",JR0052,Federalist,A01,3308,NA,-3308,1.0
+ri.uscongress.1808,1808,Elisha Potter,PE0102,Federalist,A01,3278,NA,-3278,1.0
+ri.uscongress.1808,1808,Isaac Wilbour,WI0068,Republican,A03,2926,NA,-2926,1.0
+ri.uscongress.1808,1808,Jonathan Russell,RJ0591,Republican,A03,2910,NA,-2910,1.0
