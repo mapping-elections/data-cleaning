@@ -1,0 +1,32 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress10.1798,1798,Henry Woods,WH0059,Federalist,A01,2380,425,-1955,0.82
+pa.uscongress7.1798,1798,John W. Kittera,KJ0172,Federalist,A01,1810,NA,-1810,1.0
+pa.uscongress10.1798,1798,Thomas Johnston,JT0037,Federalist,A01,1228,15,-1213,0.99
+pa.uscongress10.1798,1798,David Bard,BD0120,Republican,A03,968,80,-888,0.92
+pa.uscongress10.1798,1798,Henry Woods,WH0059,Federalist,A01,2380,2546,166,0.07
+pa.uscongress4.1798,1798,Anthony Morris,MA0209,Federalist,A01,0,78,78,1.0
+pa.uscongress10.1798,1798,David Bard,BD0120,Republican,A03,968,968,0,0.0
+pa.uscongress10.1798,1798,Thomas Johnston,JT0037,Federalist,A01,1228,1228,0,0.0
+pa.uscongress11.1798,1798,James Guthrie,GJ0379,Federalist,A01,826,826,0,0.0
+pa.uscongress11.1798,1798,John Smilie,SJ0970,Republican,A03,1782,1782,0,0.0
+pa.uscongress11.1798,1798,William Todd,TW0090,Federalist,A01,1265,1265,0,0.0
+pa.uscongress12.1798,1798,Albert Gallatin,GA0061,Republican,A03,3926,3926,0,0.0
+pa.uscongress12.1798,1798,John Woods,WJ0613,Federalist,A01,2741,2741,0,0.0
+pa.uscongress2.1798,1798,Anthony Morris,MA0209,Federalist,A01,870,870,0,0.0
+pa.uscongress2.1798,1798,Michael Leib,LM0058,Republican,A03,1129,1129,0,0.0
+pa.uscongress2.1798,1798,Samuel Miles,MS0150,null,null,0,NA,0,NaN
+pa.uscongress3.1798,1798,John Pearson,PJ0431,Republican,A03,1514,1514,0,0.0
+pa.uscongress3.1798,1798,Richard Thomas,TR0064,Federalist,A01,3760,3760,0,0.0
+pa.uscongress4.1798,1798,Jacob Eyerly,EJ0166,Federalist,A01,3288,3288,0,0.0
+pa.uscongress4.1798,1798,John Chapman,CJ0685,Federalist,A01,3605,3605,0,0.0
+pa.uscongress4.1798,1798,Peter Muhlenberg,MP0089,Republican,A03,4935,4935,0,0.0
+pa.uscongress4.1798,1798,Robert Brown,BR0106,Republican,A03,5372,5372,0,0.0
+pa.uscongress5.1798,1798,Daniel Clymer,CD0166,Federalist,A01,1492,1492,0,0.0
+pa.uscongress5.1798,1798,Joseph Heister,HJ0793,Republican,A03,3461,3461,0,0.0
+pa.uscongress6.1798,1798,Daniel Smith,SD0132,Federalist,A01,1554,1554,0,0.0
+pa.uscongress6.1798,1798,John A. Hanna,HJ0754,Republican,A03,3052,3052,0,0.0
+pa.uscongress7.1798,1798,William Barton,BW0270,Republican,A03,0,NA,0,NaN
+pa.uscongress8.1798,1798,Henry Slagle,SH0129,Republican,A03,659,659,0,0.0
+pa.uscongress8.1798,1798,Thomas Hartley,HT0154,Federalist,A01,3857,3857,0,0.0
+pa.uscongress9.1798,1798,Andrew Gregg,GA0060,Republican,A03,2618,2618,0,0.0
+pa.uscongress9.1798,1798,James Armstrong,AJ0015,Federalist,A01,1912,1912,0,0.0

@@ -1,0 +1,137 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress3.1808,1808,John Whitehill,WJ0661,Republican,A03,10216,185,-10031,0.98
+pa.uscongress3.1808,1808,Roger Davis,DR0049,Republican,A03,10161,187,-9974,0.98
+pa.uscongress3.1808,1808,Matthias Richards,RM0041,Federalist,A01,10652,715,-9937,0.93
+pa.uscongress3.1808,1808,William Whitman,WW0223,Republican,A03,10121,187,-9934,0.98
+pa.uscongress3.1808,1808,Daniel Heister,HD0091,Federalist,A01,10625,713,-9912,0.93
+pa.uscongress3.1808,1808,Robert Jenkins,JR0043,Federalist,A01,10524,715,-9809,0.93
+pa.uscongress2.1808,1808,John Ross,RJ0312,Federalist,A01,9167,75,-9092,0.99
+pa.uscongress2.1808,1808,Robert Brown,BR0106,Republican,A03,9218,199,-9019,0.98
+pa.uscongress2.1808,1808,William Milnor,MW0326,Federalist,A01,9095,76,-9019,0.99
+pa.uscongress2.1808,1808,John Ross,RJ0312,Federalist,A01,9167,223,-8944,0.98
+pa.uscongress2.1808,1808,John Pugh,PJ0443,Republican,A03,9090,203,-8887,0.98
+pa.uscongress2.1808,1808,Rosewell Welles,WR0143,Federalist,A01,8941,71,-8870,0.99
+pa.uscongress2.1808,1808,William Milnor,MW0326,Federalist,A01,9095,230,-8865,0.97
+pa.uscongress2.1808,1808,John Ross,RJ0312,Federalist,A01,9167,337,-8830,0.96
+pa.uscongress2.1808,1808,John Hahn,HJ1003,Republican,A03,9026,198,-8828,0.98
+pa.uscongress2.1808,1808,Robert Brown,BR0106,Republican,A03,9218,406,-8812,0.96
+pa.uscongress2.1808,1808,William Milnor,MW0326,Federalist,A01,9095,343,-8752,0.96
+pa.uscongress2.1808,1808,Robert Brown,BR0106,Republican,A03,9218,476,-8742,0.95
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,72,-8735,0.99
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,81,-8726,0.99
+pa.uscongress2.1808,1808,Rosewell Welles,WR0143,Federalist,A01,8941,218,-8723,0.98
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,72,-8702,0.99
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,81,-8693,0.99
+pa.uscongress2.1808,1808,John Pugh,PJ0443,Republican,A03,9090,412,-8678,0.95
+pa.uscongress2.1808,1808,John Ross,RJ0312,Federalist,A01,9167,489,-8678,0.95
+pa.uscongress2.1808,1808,Robert Brown,BR0106,Republican,A03,9218,593,-8625,0.94
+pa.uscongress2.1808,1808,John Pugh,PJ0443,Republican,A03,9090,471,-8619,0.95
+pa.uscongress2.1808,1808,John Hahn,HJ1003,Republican,A03,9026,417,-8609,0.95
+pa.uscongress2.1808,1808,William Milnor,MW0326,Federalist,A01,9095,488,-8607,0.95
+pa.uscongress2.1808,1808,Rosewell Welles,WR0143,Federalist,A01,8941,341,-8600,0.96
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,211,-8596,0.98
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,232,-8575,0.97
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,212,-8562,0.98
+pa.uscongress2.1808,1808,John Hahn,HJ1003,Republican,A03,9026,471,-8555,0.95
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,232,-8542,0.97
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,273,-8534,0.97
+pa.uscongress2.1808,1808,John Pugh,PJ0443,Republican,A03,9090,584,-8506,0.94
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,273,-8501,0.97
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,338,-8469,0.96
+pa.uscongress2.1808,1808,Rosewell Welles,WR0143,Federalist,A01,8941,479,-8462,0.95
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,353,-8454,0.96
+pa.uscongress2.1808,1808,John Hahn,HJ1003,Republican,A03,9026,584,-8442,0.94
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,336,-8438,0.96
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,350,-8424,0.96
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,491,-8316,0.94
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,490,-8284,0.94
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,662,-8145,0.92
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,665,-8109,0.92
+pa.uscongress11.1808,1808,Samuel Smith,SS0274,Republican,A03,6206,360,-5846,0.94
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,72,-3434,0.98
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,113,-3393,0.97
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,132,-3374,0.96
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,168,-3338,0.95
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,205,-3301,0.94
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,23,-3208,0.99
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,62,-3169,0.98
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,69,-3162,0.98
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,23,-3142,0.99
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,365,-3141,0.9
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,109,-3122,0.97
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,114,-3117,0.96
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,118,-3113,0.96
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,63,-3102,0.98
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,131,-3100,0.96
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,69,-3096,0.98
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,111,-3054,0.96
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,114,-3051,0.96
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,118,-3047,0.96
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,185,-3046,0.94
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,129,-3036,0.96
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,159,-3029,0.95
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,180,-3008,0.94
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,181,-3007,0.94
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,185,-2980,0.94
+pa.uscongress1.1808,1808,Benjamin Say,SB0099,Republican,A03,4655,7598,2943,0.39
+pa.uscongress1.1808,1808,John Porter,PJ0433,Republican,A03,4650,7589,2939,0.39
+pa.uscongress1.1808,1808,William Anderson,AW0096,Republican,A03,4641,7559,2918,0.39
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,298,-2890,0.91
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,317,-2871,0.9
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,400,-2831,0.88
+pa.uscongress11.1808,1808,Alexander W. Foster,FA0053,Federalist,A01,2885,82,-2803,0.97
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,70,-2801,0.98
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,405,-2760,0.87
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,132,-2739,0.95
+pa.uscongress1.1808,1808,Joseph Hemphill,HJ0774,Federalist,A01,3393,6123,2730,0.45
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,150,-2721,0.95
+pa.uscongress1.1808,1808,Derick Peterson,PD0073,Federalist,A01,3381,6098,2717,0.45
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,162,-2709,0.94
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,488,-2700,0.85
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,176,-2695,0.94
+pa.uscongress1.1808,1808,Charles W. Hare,HC0120,Federalist,A01,3375,6052,2677,0.44
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,266,-2605,0.91
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,NA,-1732,1.0
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,1,-1731,1.0
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,1,-1731,1.0
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,2,-1730,1.0
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,NA,-1647,1.0
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,NA,-1647,1.0
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,2,-1645,1.0
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,2,-1645,1.0
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,100,-1632,0.94
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,129,-1603,0.93
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,82,-1565,0.95
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,215,-1432,0.87
+pa.uscongress11.1808,1808,Samuel Smith,SS0274,Republican,A03,6206,5071,-1135,0.18
+pa.uscongress11.1808,1808,Alexander W. Foster,FA0053,Federalist,A01,2885,2456,-429,0.15
+pa.uscongress5.1808,1808,George Smith,SG0084,Republican,A03,7417,7215,-202,0.03
+pa.uscongress5.1808,1808,John Bull,BJ0989,Federalist,A01,1588,1549,-39,0.02
+pa.uscongress3.1808,1808,Matthias Richards,RM0041,Federalist,A01,10652,10642,-10,0.0
+pa.uscongress4.1808,1808,John Glonninger,GJ0371,Federalist,A01,3231,3228,-3,0.0
+pa.uscongress10.1808,1808,Aaron Lyle,LA0096,Republican,A03,3425,3425,0,0.0
+pa.uscongress10.1808,1808,John Hamilton,HJ0746,Federalist,A01,1053,1053,0,0.0
+pa.uscongress2.1808,1808,John Hahn,HJ1003,Republican,A03,9026,9026,0,0.0
+pa.uscongress2.1808,1808,John Pugh,PJ0443,Republican,A03,9090,9090,0,0.0
+pa.uscongress2.1808,1808,John Ross,RJ0312,Federalist,A01,9167,9167,0,0.0
+pa.uscongress2.1808,1808,Robert Brown,BR0106,Republican,A03,9218,9218,0,0.0
+pa.uscongress2.1808,1808,Rosewell Welles,WR0143,Federalist,A01,8941,8941,0,0.0
+pa.uscongress2.1808,1808,William Milnor,MW0326,Federalist,A01,9095,9095,0,0.0
+pa.uscongress3.1808,1808,Daniel Heister,HD0091,Federalist,A01,10625,10625,0,0.0
+pa.uscongress3.1808,1808,John Whitehill,WJ0661,Republican,A03,10216,10216,0,0.0
+pa.uscongress3.1808,1808,Robert Jenkins,JR0043,Federalist,A01,10524,10524,0,0.0
+pa.uscongress3.1808,1808,Roger Davis,DR0049,Republican,A03,10161,10161,0,0.0
+pa.uscongress3.1808,1808,William Whitman,WW0223,Republican,A03,10121,10121,0,0.0
+pa.uscongress4.1808,1808,David Baird,BD0120,Republican,A03,8774,8774,0,0.0
+pa.uscongress4.1808,1808,Robert Whitehill,WR0153,Republican,A03,8807,8807,0,0.0
+pa.uscongress4.1808,1808,"William Alexander, Sr.",AW0097,Federalist,A01,3165,3165,0,0.0
+pa.uscongress6.1808,1808,James Kelly,KJ0173,Federalist,A01,3188,3188,0,0.0
+pa.uscongress6.1808,1808,William Crawford,CW0246,Republican,A03,3506,3506,0,0.0
+pa.uscongress7.1808,1808,Andrew Dunlop,DA0079,Federalist,A01,2191,2191,0,0.0
+pa.uscongress7.1808,1808,John Rea,RJ0310,Republican,A03,3496,3496,0,0.0
+pa.uscongress8.1808,1808,John Kimmel,KJ0248,null,null,44,44,0,0.0
+pa.uscongress8.1808,1808,John Kirkpatrick,KJ0247,Republican,A03,1732,1732,0,0.0
+pa.uscongress8.1808,1808,Robert Philson,PR0062,Republican,A03,1647,1647,0,0.0
+pa.uscongress8.1808,1808,William Findley,FW0062,Federalist,A01,2871,2871,0,0.0
+pa.uscongress9.1808,1808,John Smilie,SJ0970,Republican,A03,3183,3183,0,0.0
+pa.uscongress9.1808,1808,Thomas Meason,MT0141,Federalist,A01,1560,1560,0,0.0

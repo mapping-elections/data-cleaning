@@ -1,0 +1,25 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress6.1791,1791,Andrew Gregg,GA0060,Republican,A03,503,3437,2934,0.85
+pa.uscongress8.1791,1791,William Findley,FW0062,Republican,A03,2899,52,-2847,0.98
+pa.uscongress8.1791,1791,William Findley,FW0062,Republican,A03,2899,73,-2826,0.97
+pa.uscongress8.1791,1791,William Findley,FW0062,Republican,A03,2899,136,-2763,0.95
+pa.uscongress8.1791,1791,William Findley,FW0062,Republican,A03,2899,140,-2759,0.95
+pa.uscongress8.1791,1791,John Woods,WJ0613,Federalist,A01,1517,6,-1511,1.0
+pa.uscongress8.1791,1791,John Woods,WJ0613,Federalist,A01,1517,18,-1499,0.99
+pa.uscongress8.1791,1791,John Woods,WJ0613,Federalist,A01,1517,62,-1455,0.96
+pa.uscongress8.1791,1791,John Woods,WJ0613,Federalist,A01,1517,77,-1440,0.95
+pa.uscongress6.1791,1791,William Montgomery,MW0284,Republican,A03,0,623,623,1.0
+pa.uscongress6.1791,1791,James MacLean,MJ0807,Federalist,A01,145,728,583,0.8
+pa.uscongress6.1791,1791,John Allison,AJ0252,Federalist,A01,799,1229,430,0.35
+pa.uscongress6.1791,1791,Thomas Johnston,JT0037,Federalist,A01,645,692,47,0.07
+pa.uscongress2.1791,1791,Amos Gregg,GA0063,Republican,A03,0,NA,0,NaN
+pa.uscongress2.1791,1791,Frederick A. Muhlenberg,MF0016,Federalist,A01,0,NA,0,NaN
+pa.uscongress2.1791,1791,Jones,null,Republican,A03,0,NA,0,NaN
+pa.uscongress3.1791,1791,Israel Jacobs,JI0006,Federalist,A01,1878,1878,0,0.0
+pa.uscongress3.1791,1791,Peter Muhlenberg,MP0089,Republican,A03,1585,1585,0,0.0
+pa.uscongress4.1791,1791,Daniel Hiester,HD0091,Federalist,A01,0,NA,0,NaN
+pa.uscongress5.1791,1791,John W. Kittera,KJ0172,Federalist,A01,0,NA,0,NaN
+pa.uscongress7.1791,1791,Thomas Hartley,HT0154,Federalist,A01,2908,2908,0,0.0
+pa.uscongress7.1791,1791,William Irvine,IW0016,Republican,A03,1180,1180,0,0.0
+pa.uscongress8.1791,1791,John Woods,WJ0613,Federalist,A01,1517,1517,0,0.0
+pa.uscongress8.1791,1791,William Findley,FW0062,Republican,A03,2899,2899,0,0.0

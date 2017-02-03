@@ -1,0 +1,98 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.congress.12.1822,1822,John Brown,BJ1047,Republican,A03,5371,228,-5143,0.96
+pa.congress.9.1822,1822,George Kremer,KG0025,Republican,A03,6012,888,-5124,0.85
+pa.congress.9.1822,1822,Samuel MacKean,MS0187,Republican,A03,6024,907,-5117,0.85
+pa.congress.9.1822,1822,William Cox Ellis,EW0059,Federalist,A01,6215,1123,-5092,0.82
+pa.congress.8.1822,1822,Samuel D. Ingham,IS0001,Republican,A03,5417,498,-4919,0.91
+pa.congress.9.1822,1822,Joseph Woods,WJ0880,Republican,A03,5812,934,-4878,0.84
+pa.congress.9.1822,1822,Henry Welles,WH0073,Federalist,A01,5189,781,-4408,0.85
+pa.congress.8.1822,1822,Thomas J. Rogers,RT0097,Republican,A03,4629,487,-4142,0.89
+pa.congress.7.1822,1822,Daniel Udree,UD0000,Republican,A03,4183,474,-3709,0.89
+pa.congress.7.1822,1822,Henry Wilson,WH0095,Republican,A03,3962,461,-3501,0.88
+pa.congress.8.1822,1822,Samuel Sitgreaves,SS0245,Federalist,A01,3740,455,-3285,0.88
+pa.congress.18.1822,1822,Patrick Farrelly,FP0028,Republican,A03,3277,28,-3249,0.99
+pa.congress.18.1822,1822,Patrick Farrelly,FP0028,Republican,A03,3277,32,-3245,0.99
+pa.congress.9.1822,1822,Henry Yearick,YH0013,Federalist,A01,3608,410,-3198,0.89
+pa.congress.18.1822,1822,Patrick Farrelly,FP0028,Republican,A03,3277,145,-3132,0.96
+pa.congress.18.1822,1822,Patrick Farrelly,FP0028,Republican,A03,3277,232,-3045,0.93
+pa.congress.3.1822,1822,Daniel H. Miller,MD0183,Republican,A03,2891,50,-2841,0.98
+pa.congress.7.1822,1822,Ludwig Worman,WL0064,Federalist,A01,3213,731,-2482,0.77
+pa.congress.3.1822,1822,Daniel H. Miller,MD0183,Republican,A03,2891,433,-2458,0.85
+pa.congress.7.1822,1822,Peter Rhoads,RP0055,Federalist,A01,3109,717,-2392,0.77
+pa.congress.17.1822,1822,George Plumer,PG0067,Republican,A03,2372,200,-2172,0.92
+pa.congress.6.1822,1822,Robert Harris,HR0184,Republican,A03,2476,330,-2146,0.87
+pa.congress.17.1822,1822,Alexander W. Foster,FA0053,Federalist,A01,2133,226,-1907,0.89
+pa.congress.17.1822,1822,George Plumer,PG0067,Republican,A03,2372,567,-1805,0.76
+pa.congress.6.1822,1822,John Phillips,PJ0596,Federalist,A01,2057,345,-1712,0.83
+pa.congress.17.1822,1822,George Plumer,PG0067,Republican,A03,2372,701,-1671,0.7
+pa.congress.17.1822,1822,Alexander W. Foster,FA0053,Federalist,A01,2133,473,-1660,0.78
+pa.congress.17.1822,1822,Alexander W. Foster,FA0053,Federalist,A01,2133,558,-1575,0.74
+pa.congress.8.1822,1822,Francis B. Shaw,SF0048,Federalist,A01,1907,405,-1502,0.79
+pa.congress.3.1822,1822,Thomas Forrest,FT0063,Federalist,A01,1500,48,-1452,0.97
+pa.congress.3.1822,1822,Thomas Forrest,FT0063,Federalist,A01,1500,102,-1398,0.93
+pa.congress.10.1822,1822,James S. Mitchell,MJ1038,Republican,A03,1478,135,-1343,0.91
+pa.congress.18.1822,1822,Samuel Williamson,WS0171,Republican,A03,1312,1,-1311,1.0
+pa.congress.18.1822,1822,Samuel Williamson,WS0171,Republican,A03,1312,2,-1310,1.0
+pa.congress.18.1822,1822,Samuel Williamson,WS0171,Republican,A03,1312,20,-1292,0.98
+pa.congress.18.1822,1822,Samuel Williamson,WS0171,Republican,A03,1312,167,-1145,0.87
+pa.congress.10.1822,1822,James S. Mitchell,MJ1038,Republican,A03,1478,420,-1058,0.72
+pa.congress.17.1822,1822,George Plumer,PG0067,Republican,A03,2372,3073,701,0.23
+pa.congress.1.1822,1822,Joel B. Sutherland,SJ1275,Republican,A03,661,52,-609,0.92
+pa.congress.9.1822,1822,Ethan Baldwin,BE0201,Federalist,A01,984,375,-609,0.62
+pa.congress.1.1822,1822,Samuel Breck,BS0262,Federalist,A01,587,1083,496,0.46
+pa.congress.1.1822,1822,Samuel Breck,BS0262,Federalist,A01,587,103,-484,0.82
+pa.congress.17.1822,1822,Alexander W. Foster,FA0053,Federalist,A01,2133,2606,473,0.18
+pa.congress.9.1822,1822,Ethan Baldwin,BE0201,Federalist,A01,984,1279,295,0.23
+pa.congress.1.1822,1822,Joel B. Sutherland,SJ1275,Republican,A03,661,892,231,0.26
+pa.congress.1.1822,1822,Joel B. Sutherland,SJ1275,Republican,A03,661,433,-228,0.34
+pa.congress.1.1822,1822,Samuel Breck,BS0262,Federalist,A01,587,370,-217,0.37
+pa.congress.9.1822,1822,William Cox Ellis,EW0059,Federalist,A01,6215,6398,183,0.03
+pa.congress.9.1822,1822,Samuel MacKean,MS0187,Republican,A03,6024,6137,113,0.02
+pa.congress.9.1822,1822,Henry Welles,WH0073,Federalist,A01,5189,5290,101,0.02
+pa.congress.9.1822,1822,George Kremer,KG0025,Republican,A03,6012,6103,91,0.01
+pa.congress.9.1822,1822,Henry Yearick,YH0013,Federalist,A01,3608,3697,89,0.02
+pa.congress.9.1822,1822,Joseph Woods,WJ0880,Republican,A03,5812,5897,85,0.01
+pa.congress.1.1822,1822,Edward Heston,HE0120,Republican,A03,86,3,-83,0.97
+pa.congress.9.1822,1822,James Carson,CJ0675,null,null,0,50,50,1.0
+pa.congress.9.1822,1822,Ebenezer G. Bradford,BE0104,null,null,0,13,13,1.0
+pa.congress.1.1822,1822,Edward Heston,HE0120,Republican,A03,86,80,-6,0.07
+pa.congress.9.1822,1822,Ner Middlesworth,MN0070,Republican,A03,529,532,3,0.01
+pa.congress.1.1822,1822,Edward Heston,HE0120,Republican,A03,86,86,0,0.0
+pa.congress.10.1822,1822,James S. Mitchell,MJ1038,Republican,A03,1478,1478,0,0.0
+pa.congress.11.1822,1822,James MacSherry,MJ0972,Federalist,A01,4713,4713,0,0.0
+pa.congress.11.1822,1822,James Wilson,WJ0879,Republican,A03,4933,4933,0,0.0
+pa.congress.11.1822,1822,John Findlay,FJ0394,Republican,A03,5262,5262,0,0.0
+pa.congress.11.1822,1822,William N. Irvine,IW0012,Federalist,A01,4598,4598,0,0.0
+pa.congress.12.1822,1822,John Brown,BJ1047,Republican,A03,5371,5371,0,0.0
+pa.congress.13.1822,1822,John Tod,TJ0441,Republican,A03,4166,4166,0,0.0
+pa.congress.14.1822,1822,Andrew Stewart,SA0254,Republican,A03,2889,2889,0,0.0
+pa.congress.14.1822,1822,Joseph Huston,HJ0785,Federalist,A01,1865,1865,0,0.0
+pa.congress.15.1822,1822,Thomas Patterson,PT0153,Republican,A03,1745,1745,0,0.0
+pa.congress.15.1822,1822,Walter Craig,CW0292,Federalist,A01,830,830,0,0.0
+pa.congress.16.1822,1822,"James Allison, Jr.",AJ0332,Federalist,A01,4123,4123,0,0.0
+pa.congress.16.1822,1822,Joel Lewis,LJ0493,Republican,A03,2960,2960,0,0.0
+pa.congress.16.1822,1822,John A. Scroggs,SJ1157,Republican,A03,3118,3118,0,0.0
+pa.congress.16.1822,1822,Walter Forward,FW0098,Federalist,A01,4420,4420,0,0.0
+pa.congress.18.1822,1822,Patrick Farrelly,FP0028,Republican,A03,3277,3277,0,0.0
+pa.congress.18.1822,1822,Samuel Williamson,WS0171,Republican,A03,1312,1312,0,0.0
+pa.congress.3.1822,1822,Daniel H. Miller,MD0183,Republican,A03,2891,2891,0,0.0
+pa.congress.3.1822,1822,Thomas Forrest,FT0063,Federalist,A01,1500,1500,0,0.0
+pa.congress.4.1822,1822,Isaac Wayne,WI0051,Federalist,A01,6870,6870,0,0.0
+pa.congress.4.1822,1822,Jacob Hibshman,HJ0843,Republican,A03,5539,5539,0,0.0
+pa.congress.4.1822,1822,James Buchanan,BJ1089,Federalist,A01,7021,7021,0,0.0
+pa.congress.4.1822,1822,Samuel Edwards,ES0034,Federalist,A01,6839,6839,0,0.0
+pa.congress.4.1822,1822,William Anderson,AW0142,Republican,A03,5646,5646,0,0.0
+pa.congress.4.1822,1822,William Darlington,DW0154,Republican,A03,5723,5723,0,0.0
+pa.congress.5.1822,1822,John Hughes,HJ1017,Federalist,A01,1829,1829,0,0.0
+pa.congress.5.1822,1822,Philip S. Markley,MP0124,Republican,A03,2022,2022,0,0.0
+pa.congress.6.1822,1822,John Phillips,PJ0596,Federalist,A01,2057,2057,0,0.0
+pa.congress.6.1822,1822,Robert Harris,HR0184,Republican,A03,2476,2476,0,0.0
+pa.congress.7.1822,1822,Daniel Udree,UD0000,Republican,A03,4183,4183,0,0.0
+pa.congress.7.1822,1822,Henry Wilson,WH0095,Republican,A03,3962,3962,0,0.0
+pa.congress.7.1822,1822,Ludwig Worman,WL0064,Federalist,A01,3213,3213,0,0.0
+pa.congress.7.1822,1822,Peter Rhoads,RP0055,Federalist,A01,3109,3109,0,0.0
+pa.congress.8.1822,1822,Francis B. Shaw,SF0048,Federalist,A01,1907,1907,0,0.0
+pa.congress.8.1822,1822,Samuel D. Ingham,IS0001,Republican,A03,5417,5417,0,0.0
+pa.congress.8.1822,1822,Samuel Sitgreaves,SS0245,Federalist,A01,3740,3740,0,0.0
+pa.congress.8.1822,1822,Thomas J. Rogers,RT0097,Republican,A03,4629,4629,0,0.0
+pa.congress.9.1822,1822,Garrick Mallory,MG0061,null,null,2,2,0,0.0

@@ -1,0 +1,47 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.congress.atlarge.1788,1788,Frederick A. Muhlenberg,MF0016,Federalist,A01,6952,58,-6894,0.99
+pa.congress.atlarge.1788,1788,Frederick A. Muhlenberg,MF0016,Federalist,A01,6952,82,-6870,0.99
+pa.congress.atlarge.1788,1788,Daniel Hiester,HD0091,Anti-Federalist,A02,6659,2,-6657,1.0
+pa.congress.atlarge.1788,1788,Peter Muhlenberg,MP0089,Anti-Federalist,A02,6644,1,-6643,1.0
+pa.congress.atlarge.1788,1788,Daniel Hiester,HD0091,Anti-Federalist,A02,6659,170,-6489,0.97
+pa.congress.atlarge.1788,1788,Henry Wynkoop,WH0022,Federalist,A01,6537,59,-6478,0.99
+pa.congress.atlarge.1788,1788,Peter Muhlenberg,MP0089,Anti-Federalist,A02,6644,167,-6477,0.97
+pa.congress.atlarge.1788,1788,Henry Wynkoop,WH0022,Federalist,A01,6537,85,-6452,0.99
+pa.congress.atlarge.1788,1788,Thomas Hartley,HT0154,Federalist,A01,6465,58,-6407,0.99
+pa.congress.atlarge.1788,1788,Thomas Hartley,HT0154,Federalist,A01,6465,82,-6383,0.99
+pa.congress.atlarge.1788,1788,George Clymer,CG0011,Federalist,A01,6417,58,-6359,0.99
+pa.congress.atlarge.1788,1788,Thomas Fitzsimons,FT0061,Federalist,A01,6402,58,-6344,0.99
+pa.congress.atlarge.1788,1788,Daniel Hiester,HD0091,Anti-Federalist,A02,6659,323,-6336,0.95
+pa.congress.atlarge.1788,1788,George Clymer,CG0011,Federalist,A01,6417,83,-6334,0.99
+pa.congress.atlarge.1788,1788,Thomas Fitzsimons,FT0061,Federalist,A01,6402,82,-6320,0.99
+pa.congress.atlarge.1788,1788,Thomas Scott,ST0215,Federalist,A01,6378,58,-6320,0.99
+pa.congress.atlarge.1788,1788,Peter Muhlenberg,MP0089,Anti-Federalist,A02,6644,327,-6317,0.95
+pa.congress.atlarge.1788,1788,Thomas Scott,ST0215,Federalist,A01,6378,79,-6299,0.99
+pa.congress.atlarge.1788,1788,Frederick A. Muhlenberg,MF0016,Federalist,A01,6952,671,-6281,0.9
+pa.congress.atlarge.1788,1788,William Findley,FW0062,Anti-Federalist,A02,6262,1,-6261,1.0
+pa.congress.atlarge.1788,1788,William Irvine,IW0016,Anti-Federalist,A02,6211,1,-6210,1.0
+pa.congress.atlarge.1788,1788,Charles Pettit,PC0037,Anti-Federalist,A02,6179,1,-6178,1.0
+pa.congress.atlarge.1788,1788,William Montgomery,MW0284,Anti-Federalist,A02,6102,1,-6101,1.0
+pa.congress.atlarge.1788,1788,William Findley,FW0062,Anti-Federalist,A02,6262,172,-6090,0.97
+pa.congress.atlarge.1788,1788,William Findley,FW0062,Anti-Federalist,A02,6262,173,-6089,0.97
+pa.congress.atlarge.1788,1788,William Irvine,IW0016,Anti-Federalist,A02,6211,167,-6044,0.97
+pa.congress.atlarge.1788,1788,William Irvine,IW0016,Anti-Federalist,A02,6211,169,-6042,0.97
+pa.congress.atlarge.1788,1788,Charles Pettit,PC0037,Anti-Federalist,A02,6179,160,-6019,0.97
+pa.congress.atlarge.1788,1788,Charles Pettit,PC0037,Anti-Federalist,A02,6179,169,-6010,0.97
+pa.congress.atlarge.1788,1788,William Montgomery,MW0284,Anti-Federalist,A02,6102,158,-5944,0.97
+pa.congress.atlarge.1788,1788,William Montgomery,MW0284,Anti-Federalist,A02,6102,170,-5932,0.97
+pa.congress.atlarge.1788,1788,Henry Wynkoop,WH0022,Federalist,A01,6537,642,-5895,0.9
+pa.congress.atlarge.1788,1788,Blair MacClenachan,MB0070,Anti-Federalist,A02,5991,119,-5872,0.98
+pa.congress.atlarge.1788,1788,Thomas Hartley,HT0154,Federalist,A01,6465,630,-5835,0.9
+pa.congress.atlarge.1788,1788,John Allison,AJ0252,Federalist,A01,5884,57,-5827,0.99
+pa.congress.atlarge.1788,1788,Blair MacClenachan,MB0070,Anti-Federalist,A02,5991,170,-5821,0.97
+pa.congress.atlarge.1788,1788,John Allison,AJ0252,Federalist,A01,5884,77,-5807,0.99
+pa.congress.atlarge.1788,1788,Stephen Chambers,CS0038,Federalist,A01,5863,57,-5806,0.99
+pa.congress.atlarge.1788,1788,George Clymer,CG0011,Federalist,A01,6417,628,-5789,0.9
+pa.congress.atlarge.1788,1788,Stephen Chambers,CS0038,Federalist,A01,5863,77,-5786,0.99
+pa.congress.atlarge.1788,1788,Thomas Fitzsimons,FT0061,Federalist,A01,6402,624,-5778,0.9
+pa.congress.atlarge.1788,1788,Thomas Scott,ST0215,Federalist,A01,6378,629,-5749,0.9
+pa.congress.atlarge.1788,1788,Robert Whitehall,WR0153,Anti-Federalist,A02,5636,125,-5511,0.98
+pa.congress.atlarge.1788,1788,Robert Whitehall,WR0153,Anti-Federalist,A02,5636,168,-5468,0.97
+pa.congress.atlarge.1788,1788,John Allison,AJ0252,Federalist,A01,5884,466,-5418,0.92
+pa.congress.atlarge.1788,1788,Stephen Chambers,CS0038,Federalist,A01,5863,459,-5404,0.92

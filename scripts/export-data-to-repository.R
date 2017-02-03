@@ -5,7 +5,7 @@
 # <https://github.com/mapping-elections/elections-data/>.
 
 # STATES to export
-states <- c("NY", "VA", "NC", "MA", "ME", "NH", "VT", "CT", "RI")
+states <- c("NY", "VA", "NC", "MA", "ME", "NH", "VT", "CT", "RI", "PA")
 
 suppressMessages(library(tidyverse))
 suppressMessages(library(stringr))
@@ -103,6 +103,7 @@ cleanup_names <- function(df) {
                              "Other candidates", name_id),
            name_id = if_else(candidate == "scattering",
                              "Other candidates", name_id)) %>%
+    filter(!is.na(name_id)) %>%
     # Now the names have to be aggregated so that there aren't any duplicates
     group_by(election_id, name_id, affiliation_id, county) %>%
     summarize(vote = sum(vote, na.rm = TRUE),

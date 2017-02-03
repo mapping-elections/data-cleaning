@@ -1,0 +1,37 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress.1792,1792,William Findley,FW0062,null,null,31135,NA,-31135,1.0
+pa.uscongress.1792,1792,Frederick A. Muhlenberg,MF0016,null,null,30266,NA,-30266,1.0
+pa.uscongress.1792,1792,Daniel Heister,HD0091,null,null,30149,NA,-30149,1.0
+pa.uscongress.1792,1792,William Irvine,IW0016,null,null,29035,NA,-29035,1.0
+pa.uscongress.1792,1792,John W. Kittera,KJ0172,Federalist,A01,27664,NA,-27664,1.0
+pa.uscongress.1792,1792,Thomas Hartley,HT0154,Federalist,A01,26423,NA,-26423,1.0
+pa.uscongress.1792,1792,Peter Muhlenberg,MP0089,null,null,22876,NA,-22876,1.0
+pa.uscongress.1792,1792,Thomas Fitzsimons,FT0061,Federalist,A01,16736,NA,-16736,1.0
+pa.uscongress.1792,1792,Andrew Gregg,GA0060,Republican,A03,16357,NA,-16357,1.0
+pa.uscongress.1792,1792,James Armstrong,AJ0015,Federalist,A01,16134,NA,-16134,1.0
+pa.uscongress.1792,1792,John Smilie,SJ0970,Republican,A03,16002,NA,-16002,1.0
+pa.uscongress.1792,1792,William Montgomery,MW0284,Republican,A03,15839,NA,-15839,1.0
+pa.uscongress.1792,1792,Charles Thompson,TC0054,null,null,15348,NA,-15348,1.0
+pa.uscongress.1792,1792,Thomas Scott,ST0215,Federalist,A01,15278,NA,-15278,1.0
+pa.uscongress.1792,1792,Jonathan D. Sergeant,SJ0260,Republican,A03,14562,NA,-14562,1.0
+pa.uscongress.1792,1792,Samuel Sitgreaves,SS0245,Federalist,A01,14410,NA,-14410,1.0
+pa.uscongress.1792,1792,John Barclay,BJ0948,Republican,A03,13975,NA,-13975,1.0
+pa.uscongress.1792,1792,William Bingham,BW0271,Federalist,A01,13184,NA,-13184,1.0
+pa.uscongress.1792,1792,Henry Wynkoop,WH0022,Federalist,A01,13028,NA,-13028,1.0
+pa.uscongress.1792,1792,Israel Jacobs,JI0006,null,null,2626,NA,-2626,1.0
+pa.uscongress.1792,1792,John Wood,WJ0203,null,null,2439,NA,-2439,1.0
+pa.uscongress.1792,1792,William MacClay,MW0300,null,null,2168,NA,-2168,1.0
+pa.uscongress.1792,1792,Jared Jacob,JJ0036,null,null,1069,NA,-1069,1.0
+pa.uscongress.1792,1792,Robert Johnston,JR0010,null,null,1032,NA,-1032,1.0
+pa.uscongress.1792,1792,scattering,null,null,null,828,NA,-828,1.0
+pa.uscongress.1792,1792,John Arndt,AJ0249,null,null,574,NA,-574,1.0
+pa.uscongress.1792,1792,William Rawle,RW0147,Federalist,A01,522,NA,-522,1.0
+pa.uscongress.1792,1792,Moses MacClean,MM0028,null,null,329,NA,-329,1.0
+pa.uscongress.1792,1792,John MacDowell,MJ0365,null,null,148,NA,-148,1.0
+pa.uscongress.1792,1792,Charles Pettit,PC0037,null,null,146,NA,-146,1.0
+pa.uscongress.1792,1792,John A. Hanna,HJ0754,null,null,143,NA,-143,1.0
+pa.uscongress.1792,1792,James Ross,RJ0316,Federalist,A01,62,NA,-62,1.0
+pa.uscongress.1792,1792,Edie,null,null,null,14,NA,-14,1.0
+pa.uscongress.1792,1792,Daniel Jacobs,JD0003,null,null,1,NA,-1,1.0
+pa.uscongress.1792,1792,John Jacobs,JJ0032,null,null,1,NA,-1,1.0
+pa.uscongress.1792,1792,Tilghman,null,null,null,1,NA,-1,1.0

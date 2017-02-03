@@ -1,0 +1,58 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress1.1804,1804,Joseph Clay,CJ0754,Republican,A03,4456,141,-4315,0.97
+pa.uscongress1.1804,1804,Joseph Clay,CJ0754,Republican,A03,4456,409,-4047,0.91
+pa.uscongress1.1804,1804,Jacob Richards,RJ0353,Republican,A03,4038,138,-3900,0.97
+pa.uscongress1.1804,1804,Joseph Clay,CJ0754,Republican,A03,4456,824,-3632,0.82
+pa.uscongress1.1804,1804,Jacob Richards,RJ0353,Republican,A03,4038,410,-3628,0.9
+pa.uscongress5.1804,1804,Andrew Gregg,GA0060,Republican,A03,3318,80,-3238,0.98
+pa.uscongress1.1804,1804,Jacob Richards,RJ0353,Republican,A03,4038,829,-3209,0.79
+pa.uscongress1.1804,1804,Jacob Richards,RJ0353,Republican,A03,4038,7021,2983,0.42
+pa.uscongress1.1804,1804,Joseph Clay,CJ0754,Republican,A03,4456,7427,2971,0.4
+pa.uscongress1.1804,1804,Joseph Clay,CJ0754,Republican,A03,4456,1576,-2880,0.65
+pa.uscongress11.1804,1804,John B. Lucas,LJ0337,Republican,A03,2526,43,-2483,0.98
+pa.uscongress1.1804,1804,Jacob Richards,RJ0353,Republican,A03,4038,1573,-2465,0.61
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,56,-2383,0.98
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,135,-2304,0.94
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,195,-2244,0.92
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,247,-2192,0.9
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,87,-2063,0.96
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,110,-2040,0.95
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,172,-1978,0.92
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,197,-1953,0.91
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,500,-1939,0.79
+pa.uscongress11.1804,1804,John B. Lucas,LJ0337,Republican,A03,2526,672,-1854,0.73
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,322,-1828,0.85
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,494,-1656,0.77
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,3992,1553,0.39
+pa.uscongress1.1804,1804,William Penrose,PW0209,Federalist,A01,2150,3685,1535,0.42
+pa.uscongress11.1804,1804,James O'Hara,OJ0042,Federalist,A01,1373,17,-1356,0.99
+pa.uscongress1.1804,1804,Michael Leib,LM0058,Republican,A03,2439,1098,-1341,0.55
+pa.uscongress8.1804,1804,William Findley,FW0062,Republican,A03,1322,NA,-1322,1.0
+pa.uscongress11.1804,1804,James O'Hara,OJ0042,Federalist,A01,1373,263,-1110,0.81
+pa.uscongress8.1804,1804,John Brandon,BJ1002,Republican,A03,727,NA,-727,1.0
+pa.uscongress1.1804,1804,William Graham,GW0141,null,null,441,NA,-441,1.0
+pa.uscongress3.1804,1804,Thomas Boude,BT0242,Federalist,A01,2829,2929,100,0.03
+pa.uscongress10.1804,1804,John Hamilton,HJ0746,Republican,A03,868,868,0,0.0
+pa.uscongress10.1804,1804,John Israel,IJ0072,Quid,A04,0,NA,0,NaN
+pa.uscongress11.1804,1804,James O'Hara,OJ0042,Federalist,A01,1373,1373,0,0.0
+pa.uscongress11.1804,1804,John B. Lucas,LJ0337,Republican,A03,2526,2526,0,0.0
+pa.uscongress2.1804,1804,Frederick Conrad,CF0031,Republican,A03,6596,6596,0,0.0
+pa.uscongress2.1804,1804,John Pugh,PJ0443,Republican,A03,6701,6701,0,0.0
+pa.uscongress2.1804,1804,John Ross,RJ0312,Quid,A04,2710,2710,0,0.0
+pa.uscongress2.1804,1804,Joseph Clunn,CJ0770,null,null,38,38,0,0.0
+pa.uscongress2.1804,1804,Robert Brown,BR0106,Republican,A03,4532,4532,0,0.0
+pa.uscongress2.1804,1804,Samuel Preston,PS0087,null,null,268,268,0,0.0
+pa.uscongress3.1804,1804,Christian Lower,LC0033,Republican,A03,9079,9079,0,0.0
+pa.uscongress3.1804,1804,Isaac Anderson,AI0012,Republican,A03,6287,6287,0,0.0
+pa.uscongress3.1804,1804,Isaac Wayne,WI0051,Federalist,A01,2814,2814,0,0.0
+pa.uscongress3.1804,1804,John Whitehill,WJ0661,Republican,A03,6309,6309,0,0.0
+pa.uscongress4.1804,1804,David Bard,BD0120,Republican,A03,3247,3247,0,0.0
+pa.uscongress4.1804,1804,John A. Hanna,HJ0754,Republican,A03,3031,3031,0,0.0
+pa.uscongress4.1804,1804,Oliver Pollack,PO0022,Republican,A03,1600,1600,0,0.0
+pa.uscongress4.1804,1804,Robert Whitehill,WR0153,Republican,A03,1514,1514,0,0.0
+pa.uscongress5.1804,1804,Andrew Gregg,GA0060,Republican,A03,3318,3318,0,0.0
+pa.uscongress6.1804,1804,James Kelly,KJ0173,Federalist,A01,1705,1705,0,0.0
+pa.uscongress6.1804,1804,John Stewart,SJ0949,Republican,A03,1211,1211,0,0.0
+pa.uscongress7.1804,1804,John Rea,RJ0310,Republican,A03,1494,1494,0,0.0
+pa.uscongress7.1804,1804,Robert Shannon,SR0226,null,null,6,6,0,0.0
+pa.uscongress9.1804,1804,John Smilie,SJ0970,Republican,A03,0,NA,0,NaN

@@ -1,0 +1,113 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.congress.10.1820,1820,George Denison,DG0052,Republican,A03,9545,76,-9469,0.99
+pa.congress.1.1820,1820,John Sergeant,SJ1073,supported by both parties,A10,8119,324,-7795,0.96
+pa.congress.10.1820,1820,"Thomas Murray, Jr.",MT0172,Republican,A03,7415,68,-7347,0.99
+pa.congress.1.1820,1820,John Sergeant,SJ1073,supported by both parties,A10,8119,791,-7328,0.9
+pa.congress.1.1820,1820,John Sergeant,SJ1073,supported by both parties,A10,8119,839,-7280,0.9
+pa.congress.6.1820,1820,Samuel Moore,MS0176,Republican,A03,7418,334,-7084,0.95
+pa.congress.6.1820,1820,Samuel Moore,MS0176,Republican,A03,7418,510,-6908,0.93
+pa.congress.6.1820,1820,Samuel Moore,MS0176,Republican,A03,7418,653,-6765,0.91
+pa.congress.6.1820,1820,Thomas J. Rogers,RT0097,Republican,A03,6904,333,-6571,0.95
+pa.congress.5.1820,1820,James MacSherry,MJ0972,Federalist,A01,6925,391,-6534,0.94
+pa.congress.10.1820,1820,William Cox Ellis,EW0059,Federalist,A01,6528,35,-6493,0.99
+pa.congress.6.1820,1820,Thomas J. Rogers,RT0097,Republican,A03,6904,508,-6396,0.93
+pa.congress.5.1820,1820,James Duncan,DJ0409,Federalist,A01,6734,390,-6344,0.94
+pa.congress.6.1820,1820,Thomas J. Rogers,RT0097,Republican,A03,6904,648,-6256,0.91
+pa.congress.5.1820,1820,James MacSherry,MJ0972,Federalist,A01,6925,820,-6105,0.88
+pa.congress.5.1820,1820,James Duncan,DJ0409,Federalist,A01,6734,775,-5959,0.88
+pa.congress.5.1820,1820,James Wilson,WJ0862,Republican,A03,5887,343,-5544,0.94
+pa.congress.5.1820,1820,Isaiah Graham,GI0025,Republican,A03,5804,343,-5461,0.94
+pa.congress.5.1820,1820,James Wilson,WJ0862,Republican,A03,5887,814,-5073,0.86
+pa.congress.5.1820,1820,Isaiah Graham,GI0025,Republican,A03,5804,769,-5035,0.87
+pa.congress.6.1820,1820,Daniel W. Dingman,DD0081,Federalist,A01,5092,60,-5032,0.99
+pa.congress.6.1820,1820,Daniel W. Dingman,DD0081,Federalist,A01,5092,253,-4839,0.95
+pa.congress.6.1820,1820,Mathias Morris,MM0076,Federalist,A01,4739,59,-4680,0.99
+pa.congress.6.1820,1820,Daniel W. Dingman,DD0081,Federalist,A01,5092,588,-4504,0.88
+pa.congress.6.1820,1820,Mathias Morris,MM0076,Federalist,A01,4739,250,-4489,0.95
+pa.congress.10.1820,1820,Abiel Fellows,FA0063,Federalist,A01,4507,34,-4473,0.99
+pa.congress.1.1820,1820,John Sergeant,SJ1073,supported by both parties,A10,8119,12506,4387,0.35
+pa.congress.1.1820,1820,Joseph Hemphill,HJ0774,Federalist,A01,4497,192,-4305,0.96
+pa.congress.1.1820,1820,William Milnor,MW0326,Federalist,A01,4442,191,-4251,0.96
+pa.congress.6.1820,1820,Mathias Morris,MM0076,Federalist,A01,4739,581,-4158,0.88
+pa.congress.1.1820,1820,Joseph Hemphill,HJ0774,Federalist,A01,4497,383,-4114,0.91
+pa.congress.1.1820,1820,William Milnor,MW0326,Federalist,A01,4442,378,-4064,0.91
+pa.congress.1.1820,1820,Joseph Hemphill,HJ0774,Federalist,A01,4497,520,-3977,0.88
+pa.congress.1.1820,1820,William Milnor,MW0326,Federalist,A01,4442,507,-3935,0.89
+pa.congress.1.1820,1820,Samuel Edwards,ES0034,Federalist,A01,3951,188,-3763,0.95
+pa.congress.1.1820,1820,Thomas Forrest,FT0063,Republican,A03,3783,136,-3647,0.96
+pa.congress.1.1820,1820,Samuel Edwards,ES0034,Federalist,A01,3951,380,-3571,0.9
+pa.congress.1.1820,1820,Nicholas Biddle,BN0101,Republican,A03,3642,135,-3507,0.96
+pa.congress.1.1820,1820,Joseph Engle,EJ0192,Republican,A03,3621,133,-3488,0.96
+pa.congress.1.1820,1820,Thomas Forrest,FT0063,Republican,A03,3783,305,-3478,0.92
+pa.congress.1.1820,1820,Samuel Edwards,ES0034,Federalist,A01,3951,509,-3442,0.87
+pa.congress.15.1820,1820,Patrick Farrelly,FP0028,Republican,A03,3401,5,-3396,1.0
+pa.congress.15.1820,1820,Patrick Farrelly,FP0028,Republican,A03,3401,13,-3388,1.0
+pa.congress.1.1820,1820,Thomas Forrest,FT0063,Republican,A03,3783,413,-3370,0.89
+pa.congress.1.1820,1820,Nicholas Biddle,BN0101,Republican,A03,3642,299,-3343,0.92
+pa.congress.1.1820,1820,Joseph Engle,EJ0192,Republican,A03,3621,291,-3330,0.92
+pa.congress.15.1820,1820,Patrick Farrelly,FP0028,Republican,A03,3401,95,-3306,0.97
+pa.congress.7.1820,1820,Ludwig Worman,WL0064,Federalist,A01,4717,1433,-3284,0.7
+pa.congress.15.1820,1820,Patrick Farrelly,FP0028,Republican,A03,3401,149,-3252,0.96
+pa.congress.1.1820,1820,Nicholas Biddle,BN0101,Republican,A03,3642,412,-3230,0.89
+pa.congress.1.1820,1820,Joseph Engle,EJ0192,Republican,A03,3621,412,-3209,0.89
+pa.congress.7.1820,1820,"Gabriel Hiester, Jr.",HG0106,Republican,A03,3790,650,-3140,0.83
+pa.congress.1.1820,1820,Joseph Hemphill,HJ0774,Federalist,A01,4497,7592,3095,0.41
+pa.congress.1.1820,1820,William Milnor,MW0326,Federalist,A01,4442,7450,3008,0.4
+pa.congress.1.1820,1820,Samuel Edwards,ES0034,Federalist,A01,3951,6876,2925,0.43
+pa.congress.15.1820,1820,Robert Moore,MR0144,Republican,A03,2746,14,-2732,0.99
+pa.congress.15.1820,1820,Robert Moore,MR0144,Republican,A03,2746,24,-2722,0.99
+pa.congress.15.1820,1820,Robert Moore,MR0144,Republican,A03,2746,62,-2684,0.98
+pa.congress.15.1820,1820,Robert Moore,MR0144,Republican,A03,2746,75,-2671,0.97
+pa.congress.11.1820,1820,George Plumer,PG0067,Republican,A03,3161,705,-2456,0.78
+pa.congress.4.1820,1820,James S. Mitchell,MJ1038,Republican,A03,2577,175,-2402,0.93
+pa.congress.11.1820,1820,George Plumer,PG0067,Republican,A03,3161,863,-2298,0.73
+pa.congress.11.1820,1820,Alexander W. Foster,FA0053,Federalist,A01,2793,538,-2255,0.81
+pa.congress.4.1820,1820,Jacob Hostetter,HJ0778,Federalist,A01,2161,142,-2019,0.93
+pa.congress.11.1820,1820,Alexander W. Foster,FA0053,Federalist,A01,2793,803,-1990,0.71
+pa.congress.4.1820,1820,James S. Mitchell,MJ1038,Republican,A03,2577,675,-1902,0.74
+pa.congress.1.1820,1820,Nicholas Biddle,BN0101,Republican,A03,3642,5298,1656,0.31
+pa.congress.4.1820,1820,Jacob Hostetter,HJ0778,Federalist,A01,2161,657,-1504,0.7
+pa.congress.1.1820,1820,Thomas Forrest,FT0063,Republican,A03,3783,5281,1498,0.28
+pa.congress.1.1820,1820,Joseph Engle,EJ0192,Republican,A03,3621,4982,1361,0.27
+pa.congress.11.1820,1820,George Plumer,PG0067,Republican,A03,3161,4024,863,0.21
+pa.congress.11.1820,1820,Alexander W. Foster,FA0053,Federalist,A01,2793,3331,538,0.16
+pa.congress.15.1820,1820,Beavon Pearson,PB0072,Republican,A03,286,2,-284,0.99
+pa.congress.1.1820,1820,Gideon Humphrey,HG0154,Federalist,A01,428,428,0,0.0
+pa.congress.10.1820,1820,Abiel Fellows,FA0063,Federalist,A01,4507,4507,0,0.0
+pa.congress.10.1820,1820,George Denison,DG0052,Republican,A03,9545,9545,0,0.0
+pa.congress.10.1820,1820,"Thomas Murray, Jr.",MT0172,Republican,A03,7415,7415,0,0.0
+pa.congress.10.1820,1820,William Cox Ellis,EW0059,Federalist,A01,6528,6528,0,0.0
+pa.congress.12.1820,1820,Thomas MacGiffin,MT0193,Federalist,A01,1436,1436,0,0.0
+pa.congress.12.1820,1820,Thomas Patterson,PT0153,Republican,A03,2961,2961,0,0.0
+pa.congress.13.1820,1820,Andrew Stewart,SA0254,Republican,A03,2449,2449,0,0.0
+pa.congress.13.1820,1820,Charles Porter,PC0040,Federalist,A01,593,593,0,0.0
+pa.congress.13.1820,1820,Christian Tarr,TC0055,Republican,A03,2035,2035,0,0.0
+pa.congress.14.1820,1820,Henry Baldwin,BH0142,Federalist,A01,2973,2973,0,0.0
+pa.congress.14.1820,1820,William Marks,MW0335,Republican,A03,1675,1675,0,0.0
+pa.congress.15.1820,1820,Beavon Pearson,PB0072,Republican,A03,286,286,0,0.0
+pa.congress.15.1820,1820,Patrick Farrelly,FP0028,Republican,A03,3401,3401,0,0.0
+pa.congress.15.1820,1820,Robert Moore,MR0144,Republican,A03,2746,2746,0,0.0
+pa.congress.2.1820,1820,Charles Miner,MC0051,Federalist,A01,5646,5646,0,0.0
+pa.congress.2.1820,1820,John Henderson,HJ1075,Federalist,A01,5585,5585,0,0.0
+pa.congress.2.1820,1820,Samuel Gross,GS0076,Republican,A03,6105,6105,0,0.0
+pa.congress.2.1820,1820,William Darlington,DW0154,Republican,A03,6125,6125,0,0.0
+pa.congress.3.1820,1820,Jacob Hibshman,HJ0843,Republican,A03,6396,6396,0,0.0
+pa.congress.3.1820,1820,James Buchanan,BJ1089,Federalist,A01,7709,7709,0,0.0
+pa.congress.3.1820,1820,James M. Wallace,WJ0814,Republican,A03,6100,6100,0,0.0
+pa.congress.3.1820,1820,John Philips,PJ0596,Federalist,A01,7809,7809,0,0.0
+pa.congress.4.1820,1820,Jacob Hostetter,HJ0778,Federalist,A01,2161,2161,0,0.0
+pa.congress.4.1820,1820,James S. Mitchell,MJ1038,Republican,A03,2577,2577,0,0.0
+pa.congress.5.1820,1820,Isaiah Graham,GI0025,Republican,A03,5804,5804,0,0.0
+pa.congress.5.1820,1820,James Duncan,DJ0409,Federalist,A01,6734,6734,0,0.0
+pa.congress.5.1820,1820,James MacSherry,MJ0972,Federalist,A01,6925,6925,0,0.0
+pa.congress.5.1820,1820,James Wilson,WJ0862,Republican,A03,5887,5887,0,0.0
+pa.congress.6.1820,1820,Daniel W. Dingman,DD0081,Federalist,A01,5092,5092,0,0.0
+pa.congress.6.1820,1820,Mathias Morris,MM0076,Federalist,A01,4739,4739,0,0.0
+pa.congress.6.1820,1820,Samuel Moore,MS0176,Republican,A03,7418,7418,0,0.0
+pa.congress.6.1820,1820,Thomas J. Rogers,RT0097,Republican,A03,6904,6904,0,0.0
+pa.congress.7.1820,1820,"Gabriel Hiester, Jr.",HG0106,Republican,A03,3790,3790,0,0.0
+pa.congress.7.1820,1820,Ludwig Worman,WL0064,Federalist,A01,4717,4717,0,0.0
+pa.congress.8.1820,1820,John Todd,TJ0441,Republican,A03,4015,4015,0,0.0
+pa.congress.8.1820,1820,Robert Philson,PR0062,Republican,A03,1287,1287,0,0.0
+pa.congress.9.1820,1820,John Brown,BJ1047,Republican,A03,4247,4247,0,0.0
+pa.congress.9.1820,1820,William P. Maclay,MW0408,Federalist,A01,3533,3533,0,0.0

@@ -1,0 +1,133 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,14,-4699,1.0
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,19,-4694,1.0
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,19,-4694,1.0
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,31,-4682,0.99
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,31,-4682,0.99
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,31,-4682,0.99
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,59,-4654,0.99
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,74,-4639,0.98
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,89,-4624,0.98
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,19,-4214,1.0
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,20,-4213,1.0
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,20,-4213,1.0
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,26,-4207,0.99
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,29,-4204,0.99
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,36,-4197,0.99
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,57,-4176,0.99
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,74,-4159,0.98
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,87,-4146,0.98
+pa.uscongress1.1816,1816,Adam Seybert,SA0219,Republican,A03,4054,132,-3922,0.97
+pa.uscongress1.1816,1816,William Anderson,AW0096,Republican,A03,4038,139,-3899,0.97
+pa.uscongress1.1816,1816,Adam Seybert,SA0219,Republican,A03,4054,310,-3744,0.92
+pa.uscongress1.1816,1816,William Anderson,AW0096,Republican,A03,4038,315,-3723,0.92
+pa.uscongress1.1816,1816,Adam Seybert,SA0219,Republican,A03,4054,690,-3364,0.83
+pa.uscongress1.1816,1816,William Anderson,AW0096,Republican,A03,4038,684,-3354,0.83
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,38,-2980,0.99
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,63,-2955,0.98
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,71,-2947,0.98
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,92,-2926,0.97
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,98,-2920,0.97
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,107,-2911,0.96
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,134,-2884,0.96
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,150,-2868,0.95
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,157,-2861,0.95
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,38,-2722,0.99
+pa.uscongress1.1816,1816,John Sergeant,SJ1073,Federalist,A01,2701,5414,2713,0.5
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,62,-2698,0.98
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,70,-2690,0.97
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,83,-2677,0.97
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,96,-2664,0.97
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,102,-2658,0.96
+pa.uscongress1.1816,1816,Joseph Hopkinson,HJ0757,Federalist,A01,2672,5327,2655,0.5
+pa.uscongress1.1816,1816,William Milnor,MW0326,Federalist,A01,2669,5305,2636,0.5
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,134,-2626,0.95
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,147,-2613,0.95
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,148,-2612,0.95
+pa.uscongress1.1816,1816,John Sergeant,SJ1073,Federalist,A01,2701,102,-2599,0.96
+pa.uscongress1.1816,1816,Samuel Edwards,ES0034,Federalist,A01,2661,5259,2598,0.49
+pa.uscongress1.1816,1816,Joseph Hopkinson,HJ0757,Federalist,A01,2672,102,-2570,0.96
+pa.uscongress1.1816,1816,William Milnor,MW0326,Federalist,A01,2669,105,-2564,0.96
+pa.uscongress1.1816,1816,Samuel Edwards,ES0034,Federalist,A01,2661,106,-2555,0.96
+pa.uscongress1.1816,1816,John Sergeant,SJ1073,Federalist,A01,2701,168,-2533,0.94
+pa.uscongress1.1816,1816,Joseph Hopkinson,HJ0757,Federalist,A01,2672,168,-2504,0.94
+pa.uscongress1.1816,1816,William Milnor,MW0326,Federalist,A01,2669,170,-2499,0.94
+pa.uscongress1.1816,1816,Samuel Edwards,ES0034,Federalist,A01,2661,164,-2497,0.94
+pa.uscongress1.1816,1816,Jacob Sommer,SJ1311,New School Republican,A07,2565,103,-2462,0.96
+pa.uscongress1.1816,1816,John Conard,CJ0812,New School Republican,A07,2552,102,-2450,0.96
+pa.uscongress1.1816,1816,John Sergeant,SJ1073,Federalist,A01,2701,383,-2318,0.86
+pa.uscongress1.1816,1816,Jacob Sommer,SJ1311,New School Republican,A07,2565,253,-2312,0.9
+pa.uscongress1.1816,1816,John Conard,CJ0812,New School Republican,A07,2552,251,-2301,0.9
+pa.uscongress1.1816,1816,William Milnor,MW0326,Federalist,A01,2669,372,-2297,0.86
+pa.uscongress1.1816,1816,Joseph Hopkinson,HJ0757,Federalist,A01,2672,376,-2296,0.86
+pa.uscongress1.1816,1816,Samuel Edwards,ES0034,Federalist,A01,2661,367,-2294,0.86
+pa.uscongress1.1816,1816,Jacob Sommer,SJ1311,New School Republican,A07,2565,275,-2290,0.89
+pa.uscongress1.1816,1816,John Conard,CJ0812,New School Republican,A07,2552,297,-2255,0.88
+pa.uscongress1.1816,1816,Adam Seybert,SA0219,Republican,A03,4054,6054,2000,0.33
+pa.uscongress11.1816,1816,David Marchand,MD0187,Republican,A03,2600,601,-1999,0.77
+pa.uscongress1.1816,1816,William Anderson,AW0096,Republican,A03,4038,6001,1963,0.33
+pa.uscongress14.1816,1816,Henry Baldwin,BH0142,Federalist,A01,2139,283,-1856,0.87
+pa.uscongress14.1816,1816,Henry Baldwin,BH0142,Federalist,A01,2139,447,-1692,0.79
+pa.uscongress11.1816,1816,George Armstrong,AG0040,Federalist,A01,2324,635,-1689,0.73
+pa.uscongress1.1816,1816,William J. Duane,DW0162,Union Ticket,A07,1595,20,-1575,0.99
+pa.uscongress1.1816,1816,William J. Duane,DW0162,Union Ticket,A07,1595,38,-1557,0.98
+pa.uscongress1.1816,1816,Thomas Forrest,FT0063,Old School Republican,A07,1516,25,-1491,0.98
+pa.uscongress1.1816,1816,Thomas Forrest,FT0063,Old School Republican,A07,1516,39,-1477,0.97
+pa.uscongress14.1816,1816,Walter Lowrie,LW0173,Republican,A03,1336,67,-1269,0.95
+pa.uscongress14.1816,1816,Walter Lowrie,LW0173,Republican,A03,1336,71,-1265,0.95
+pa.uscongress1.1816,1816,Jacob Sommer,SJ1311,New School Republican,A07,2565,3807,1242,0.33
+pa.uscongress1.1816,1816,William J. Duane,DW0162,Union Ticket,A07,1595,2744,1149,0.42
+pa.uscongress1.1816,1816,William J. Duane,DW0162,Union Ticket,A07,1595,455,-1140,0.71
+pa.uscongress1.1816,1816,Thomas Forrest,FT0063,Old School Republican,A07,1516,437,-1079,0.71
+pa.uscongress1.1816,1816,John Conard,CJ0812,New School Republican,A07,2552,3516,964,0.27
+pa.uscongress4.1816,1816,Jacob Spangler,SJ1261,Republican,A03,1466,580,-886,0.6
+pa.uscongress9.1816,1816,William P. Maclay,MW0408,Republican,A03,766,NA,-766,1.0
+pa.uscongress1.1816,1816,Thomas Forrest,FT0063,Old School Republican,A07,1516,2247,731,0.33
+pa.uscongress6.1816,1816,Samuel D. Ingham,IS0001,New School Republican,A07,4860,5339,479,0.09
+pa.uscongress6.1816,1816,John Ross,RJ0312,New School Republican,A07,5038,5511,473,0.09
+pa.uscongress4.1816,1816,Jacob Hay,HJ1059,Federalist,A01,764,368,-396,0.52
+pa.uscongress10.1816,1816,Fressbak,null,null,null,0,386,386,1.0
+pa.uscongress9.1816,1816,James Banks,BJ1071,Republican,A03,246,NA,-246,1.0
+pa.uscongress10.1816,1816,Stees,null,null,null,0,143,143,1.0
+pa.uscongress10.1816,1816,Murry,null,null,null,0,32,32,1.0
+pa.uscongress8.1816,1816,scattering,null,null,null,6,NA,-6,1.0
+pa.uscongress10.1816,1816,Charles Maus,MC0062,Federalist,A01,667,667,0,0.0
+pa.uscongress10.1816,1816,David Scott,SD0165,Republican,A03,5920,5920,0,0.0
+pa.uscongress10.1816,1816,George Kremer,KG0025,Republican,A03,1660,1660,0,0.0
+pa.uscongress10.1816,1816,Rosewell Welles,WR0143,Federalist,A01,1658,1658,0,0.0
+pa.uscongress10.1816,1816,William F. Buyers,BW0340,Federalist,A01,2781,2781,0,0.0
+pa.uscongress10.1816,1816,William Wilson,WW0287,Republican,A03,6106,6106,0,0.0
+pa.uscongress11.1816,1816,David Marchand,MD0187,Republican,A03,2600,2600,0,0.0
+pa.uscongress11.1816,1816,George Armstrong,AG0040,Federalist,A01,2324,2324,0,0.0
+pa.uscongress12.1816,1816,John Hughes,HJ1017,Federalist,A01,275,275,0,0.0
+pa.uscongress12.1816,1816,scattering,null,null,null,56,56,0,0.0
+pa.uscongress12.1816,1816,Thomas Patterson,PT0153,Republican,A03,1870,1870,0,0.0
+pa.uscongress13.1816,1816,Christian Tarr,TC0055,Republican,A03,1090,1090,0,0.0
+pa.uscongress13.1816,1816,Henry Heaton,HH0067,Federalist,A01,546,546,0,0.0
+pa.uscongress13.1816,1816,Presley Carr Lane,LP0039,Republican,A03,760,760,0,0.0
+pa.uscongress13.1816,1816,Thomas Hersey,HT0188,Republican,A03,138,138,0,0.0
+pa.uscongress13.1816,1816,Thomas MacKibben,MT0180,Republican,A03,452,452,0,0.0
+pa.uscongress14.1816,1816,Henry Baldwin,BH0142,Federalist,A01,2139,2139,0,0.0
+pa.uscongress14.1816,1816,Walter Lowrie,LW0173,Republican,A03,1336,1336,0,0.0
+pa.uscongress15.1816,1816,Robert Moore,MR0144,Republican,A03,1723,1723,0,0.0
+pa.uscongress15.1816,1816,Thomas Wilson,WT0157,null,null,31,31,0,0.0
+pa.uscongress15.1816,1816,William Clark,CW0272,Republican,A03,1641,1641,0,0.0
+pa.uscongress2.1816,1816,Isaac Darlington,DI0059,Federalist,A01,4936,4936,0,0.0
+pa.uscongress2.1816,1816,John Hahn,HJ1003,Republican,A03,4788,4788,0,0.0
+pa.uscongress2.1816,1816,Levi Pawling,PL0018,Federalist,A01,5004,5004,0,0.0
+pa.uscongress2.1816,1816,William Darlington,DW0154,Republican,A03,4929,4929,0,0.0
+pa.uscongress3.1816,1816,Amos Slaymaker,SA0189,Federalist,A01,2266,2266,0,0.0
+pa.uscongress3.1816,1816,James M. Wallace,WJ0814,Republican,A03,4095,4095,0,0.0
+pa.uscongress3.1816,1816,John Whiteside,WJ0716,Republican,A03,4144,4144,0,0.0
+pa.uscongress4.1816,1816,Jacob Hay,HJ1059,Federalist,A01,764,764,0,0.0
+pa.uscongress4.1816,1816,Jacob Spangler,SJ1261,Republican,A03,1466,1466,0,0.0
+pa.uscongress5.1816,1816,Andrew Boden,BA0228,Republican,A03,4233,4233,0,0.0
+pa.uscongress5.1816,1816,James MacSherry,MJ0972,Federalist,A01,3018,3018,0,0.0
+pa.uscongress5.1816,1816,John MacClelland,MJ1110,Federalist,A01,2760,2760,0,0.0
+pa.uscongress5.1816,1816,William Crawford,CW0246,Republican,A03,503,503,0,0.0
+pa.uscongress5.1816,1816,William Maclay,MW0302,Republican,A03,4713,4713,0,0.0
+pa.uscongress7.1816,1816,"Charles Shoemaker, Jr.",SC0111,New School Republican,A07,314,314,0,0.0
+pa.uscongress7.1816,1816,Daniel Udree,UD0000,New School Republican,A07,289,289,0,0.0
+pa.uscongress7.1816,1816,Joseph Hiester,HJ0793,Old School Republican,A07,3420,3420,0,0.0
+pa.uscongress8.1816,1816,Alexander Ogle,OA0029,Republican,A03,3143,3143,0,0.0
+pa.uscongress8.1816,1816,John Fletcher,FJ0377,null,null,11,11,0,0.0

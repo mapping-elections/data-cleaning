@@ -1,0 +1,105 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.congress.11.1824,1824,James Wilson,WJ0898,Republican,A03,5929,578,-5351,0.9
+pa.congress.11.1824,1824,John Findlay,FJ0394,Republican,A03,5693,532,-5161,0.91
+pa.congress.10.1824,1824,James S. Mitchell,MJ1038,Republican,A03,4260,NA,-4260,1.0
+pa.congress.18.1824,1824,Patrick Farrelly,FP0028,Republican,A03,4137,41,-4096,0.99
+pa.congress.18.1824,1824,Patrick Farrelly,FP0028,Republican,A03,4137,131,-4006,0.97
+pa.congress.18.1824,1824,Patrick Farrelly,FP0028,Republican,A03,4137,237,-3900,0.94
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,6,-3784,1.0
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,12,-3778,1.0
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,14,-3776,1.0
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,29,-3761,0.99
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,48,-3742,0.99
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,51,-3739,0.99
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,4,-3718,1.0
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,12,-3710,1.0
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,14,-3708,1.0
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,29,-3693,0.99
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,48,-3674,0.99
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,116,-3674,0.97
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,49,-3673,0.99
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,115,-3607,0.97
+pa.congress.16.1824,1824,James S. Stevenson,SJ1347,Republican,A03,3307,3,-3304,1.0
+pa.congress.16.1824,1824,James S. Stevenson,SJ1347,Republican,A03,3307,14,-3293,1.0
+pa.congress.16.1824,1824,James Allison,AJ0332,Republican,A03,3327,35,-3292,0.99
+pa.congress.16.1824,1824,James Allison,AJ0332,Republican,A03,3327,53,-3274,0.98
+pa.congress.16.1824,1824,Robert Moore,MR0144,Republican,A03,2931,5,-2926,1.0
+pa.congress.16.1824,1824,Robert Moore,MR0144,Republican,A03,2931,7,-2924,1.0
+pa.congress.14.1824,1824,Andrew Stewart,SA0254,Republican,A03,0,2719,2719,1.0
+pa.congress.16.1824,1824,Walter Forward,FW0098,Federalist,A01,2722,28,-2694,0.99
+pa.congress.12.1824,1824,John Mitchell,MJ1130,Republican,A03,2731,50,-2681,0.98
+pa.congress.16.1824,1824,Walter Forward,FW0098,Federalist,A01,2722,46,-2676,0.98
+pa.congress.12.1824,1824,John Mitchell,MJ1130,Republican,A03,2731,78,-2653,0.97
+pa.congress.12.1824,1824,John Brown,BJ1047,Republican,A03,2644,76,-2568,0.97
+pa.congress.12.1824,1824,John Brown,BJ1047,Republican,A03,2644,78,-2566,0.97
+pa.congress.17.1824,1824,George Plumer,PG0067,Republican,A03,2786,381,-2405,0.86
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,4,-2079,1.0
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,6,-2077,1.0
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,7,-2076,1.0
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,21,-2062,0.99
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,30,-2053,0.99
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,53,-2030,0.97
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,69,-2014,0.97
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,4,-2005,1.0
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,6,-2003,1.0
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,13,-1996,0.99
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,22,-1987,0.99
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,35,-1974,0.98
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,53,-1956,0.97
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,68,-1941,0.97
+pa.congress.12.1824,1824,Robert Allison,AR0051,Republican,A03,1982,105,-1877,0.95
+pa.congress.17.1824,1824,John H. Wise,WJ0866,Federalist,A01,1991,302,-1689,0.85
+pa.congress.12.1824,1824,Robert Allison,AR0051,Republican,A03,1982,296,-1686,0.85
+pa.congress.5.1824,1824,Philip S. Markley,MP0124,Republican,A03,1817,183,-1634,0.9
+pa.congress.16.1824,1824,John Negley,NJ0115,Republican,A03,1469,4,-1465,1.0
+pa.congress.16.1824,1824,George Sutton,SG0153,Republican,A03,1343,2,-1341,1.0
+pa.congress.16.1824,1824,George Sutton,SG0153,Republican,A03,1343,11,-1332,0.99
+pa.congress.1.1824,1824,John Wurts,WJ0860,Federalist,A01,1221,99,-1122,0.92
+pa.congress.1.1824,1824,Joel B. Sutherland,SJ1275,Republican,A03,1124,111,-1013,0.9
+pa.congress.18.1824,1824,Samuel Williamson,WS0171,Republican,A03,1005,21,-984,0.98
+pa.congress.1.1824,1824,John Wurts,WJ0860,Federalist,A01,1221,507,-714,0.58
+pa.congress.1.1824,1824,Joel B. Sutherland,SJ1275,Republican,A03,1124,616,-508,0.45
+pa.congress.9.1824,1824,William Cox Ellis,EW0059,Federalist,A01,5707,5702,-5,0.0
+pa.congress.1.1824,1824,Joel B. Sutherland,SJ1275,Republican,A03,1124,1124,0,0.0
+pa.congress.1.1824,1824,John Wurts,WJ0860,Federalist,A01,1221,1221,0,0.0
+pa.congress.11.1824,1824,D. R. Keller,KD0050,Federalist,A01,86,86,0,0.0
+pa.congress.11.1824,1824,David Fullerton,FD0036,null,null,143,143,0,0.0
+pa.congress.11.1824,1824,Isaac Weirman,WI0064,null,null,99,99,0,0.0
+pa.congress.11.1824,1824,James Reily,RJ0572,null,null,176,176,0,0.0
+pa.congress.11.1824,1824,James Wilson,WJ0898,Republican,A03,5929,5929,0,0.0
+pa.congress.11.1824,1824,John Findlay,FJ0394,Republican,A03,5693,5693,0,0.0
+pa.congress.11.1824,1824,John King,KJ0360,null,null,98,98,0,0.0
+pa.congress.11.1824,1824,S. Alexander,AS0065,Federalist,A01,88,88,0,0.0
+pa.congress.12.1824,1824,John Brown,BJ1047,Republican,A03,2644,2644,0,0.0
+pa.congress.12.1824,1824,John Mitchell,MJ1130,Republican,A03,2731,2731,0,0.0
+pa.congress.12.1824,1824,Robert Allison,AR0051,Republican,A03,1982,1982,0,0.0
+pa.congress.13.1824,1824,Alexander Thomson,TA0068,Republican,A03,2723,2723,0,0.0
+pa.congress.15.1824,1824,Joseph Lawrence,LJ0456,Republican,A03,2082,2082,0,0.0
+pa.congress.16.1824,1824,George Sutton,SG0153,Republican,A03,1343,1343,0,0.0
+pa.congress.16.1824,1824,James Allison,AJ0332,Republican,A03,3327,3327,0,0.0
+pa.congress.16.1824,1824,James S. Stevenson,SJ1347,Republican,A03,3307,3307,0,0.0
+pa.congress.16.1824,1824,John Negley,NJ0115,Republican,A03,1469,1469,0,0.0
+pa.congress.16.1824,1824,Robert Moore,MR0144,Republican,A03,2931,2931,0,0.0
+pa.congress.16.1824,1824,Walter Forward,FW0098,Federalist,A01,2722,2722,0,0.0
+pa.congress.17.1824,1824,George Plumer,PG0067,Republican,A03,2786,2786,0,0.0
+pa.congress.17.1824,1824,John H. Wise,WJ0866,Federalist,A01,1991,1991,0,0.0
+pa.congress.18.1824,1824,Patrick Farrelly,FP0028,Republican,A03,4137,4137,0,0.0
+pa.congress.18.1824,1824,Samuel Williamson,WS0171,Republican,A03,1005,1005,0,0.0
+pa.congress.4.1824,1824,Charles Miner,MC0051,Federalist,A01,6756,6756,0,0.0
+pa.congress.4.1824,1824,Isaac D. Barnard,BI0041,Republican,A03,6129,6129,0,0.0
+pa.congress.4.1824,1824,James Buchanan,BJ1089,Federalist,A01,6968,6968,0,0.0
+pa.congress.4.1824,1824,Samuel Edwards,ES0034,Federalist,A01,6802,6802,0,0.0
+pa.congress.4.1824,1824,Samuel Houston,HS0223,Republican,A03,6028,6028,0,0.0
+pa.congress.4.1824,1824,William Anderson,AW0142,Republican,A03,6098,6098,0,0.0
+pa.congress.5.1824,1824,Philip S. Markley,MP0124,Republican,A03,1817,1817,0,0.0
+pa.congress.6.1824,1824,Christian Gleim,GC0068,Federalist,A01,1652,1652,0,0.0
+pa.congress.6.1824,1824,Robert Harris,HR0184,Republican,A03,2773,2773,0,0.0
+pa.congress.7.1824,1824,Daniel Rose,RD0055,Federalist,A01,2009,2009,0,0.0
+pa.congress.7.1824,1824,George Keck,KG0037,Federalist,A01,2083,2083,0,0.0
+pa.congress.7.1824,1824,Henry Wilson,WH0095,Republican,A03,3722,3722,0,0.0
+pa.congress.7.1824,1824,William Adams,AW0109,Republican,A03,3790,3790,0,0.0
+pa.congress.8.1824,1824,George Wolf,WG0097,Republican,A03,4962,4962,0,0.0
+pa.congress.8.1824,1824,Samuel D. Ingham,IS0001,Republican,A03,4982,4982,0,0.0
+pa.congress.9.1824,1824,Espy Van Horn,VE0023,Republican,A03,7295,7295,0,0.0
+pa.congress.9.1824,1824,George Kremer,KG0025,Republican,A03,10586,10586,0,0.0
+pa.congress.9.1824,1824,Samuel MacKean,MS0187,Republican,A03,10685,10685,0,0.0

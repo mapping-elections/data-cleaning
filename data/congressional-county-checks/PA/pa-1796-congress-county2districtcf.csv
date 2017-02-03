@@ -1,0 +1,39 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress7.1796,1796,John W. Kittera,KJ0172,Federalist,A01,1679,79,-1600,0.95
+pa.uscongress7.1796,1796,John W. Kittera,KJ0172,Federalist,A01,1679,148,-1531,0.91
+pa.uscongress7.1796,1796,John W. Kittera,KJ0172,Federalist,A01,1679,174,-1505,0.9
+pa.uscongress2.1796,1796,Blair MacClenachan,MB0070,Republican,A03,1182,NA,-1182,1.0
+pa.uscongress4.1796,1796,Peter Muhlenberg,MP0089,Republican,A03,1148,NA,-1148,1.0
+pa.uscongress4.1796,1796,John Richards,RJ0314,Federalist,A01,1081,NA,-1081,1.0
+pa.uscongress10.1796,1796,Abraham Smith,SA0174,Republican,A03,1062,NA,-1062,1.0
+pa.uscongress2.1796,1796,Robert Waln,WR0132,Federalist,A01,910,NA,-910,1.0
+pa.uscongress6.1796,1796,John A. Hanna,HJ0754,Republican,A03,898,NA,-898,1.0
+pa.uscongress10.1796,1796,William M. Brown,BW0273,Federalist,A01,862,NA,-862,1.0
+pa.uscongress7.1796,1796,John W. Kittera,KJ0172,Federalist,A01,1679,957,-722,0.43
+pa.uscongress4.1796,1796,Robert Lollar,LR0052,Republican,A03,604,NA,-604,1.0
+pa.uscongress10.1796,1796,David Bard,BD0120,Republican,A03,581,NA,-581,1.0
+pa.uscongress6.1796,1796,John Carson,CJ0686,Federalist,A01,255,NA,-255,1.0
+pa.uscongress7.1796,1796,William Webb,WW0218,Federalist,A01,77,4,-73,0.95
+pa.uscongress7.1796,1796,William Webb,WW0218,Federalist,A01,77,10,-67,0.87
+pa.uscongress7.1796,1796,William Webb,WW0218,Federalist,A01,77,11,-66,0.86
+pa.uscongress6.1796,1796,Samuel Maclay,MS0148,Republican,A03,56,NA,-56,1.0
+pa.uscongress7.1796,1796,William Webb,WW0218,Federalist,A01,77,33,-44,0.57
+pa.uscongress5.1796,1796,Joseph Hiester,HJ0793,Republican,A03,1528,1538,10,0.01
+pa.uscongress11.1796,1796,James Findlay,FJ0306,Federalist,A01,0,NA,0,NaN
+pa.uscongress11.1796,1796,William Findley,FW0062,Republican,A03,0,NA,0,NaN
+pa.uscongress12.1796,1796,Albert Gallatin,GA0061,Republican,A03,2522,2522,0,0.0
+pa.uscongress12.1796,1796,John Woods,WJ0613,Federalist,A01,1079,1079,0,0.0
+pa.uscongress12.1796,1796,Thomas Stokeley,ST0214,Federalist,A01,486,486,0,0.0
+pa.uscongress3.1796,1796,Richard Thomas,TR0064,Federalist,A01,1282,1282,0,0.0
+pa.uscongress3.1796,1796,William Gibbons,GW0130,Republican,A03,1143,1143,0,0.0
+pa.uscongress4.1796,1796,John Chapman,CJ0685,Federalist,A01,2214,2214,0,0.0
+pa.uscongress4.1796,1796,Samuel Sitgreaves,SS0245,Federalist,A01,3752,3752,0,0.0
+pa.uscongress5.1796,1796,George Ege,EG0009,Federalist,A01,2028,2028,0,0.0
+pa.uscongress7.1796,1796,John W. Kittera,KJ0172,Federalist,A01,1679,1679,0,0.0
+pa.uscongress7.1796,1796,William Webb,WW0218,Federalist,A01,77,77,0,0.0
+pa.uscongress8.1796,1796,Thomas Hartley,HT0154,Federalist,A01,1142,1142,0,0.0
+pa.uscongress9.1796,1796,Andrew Gregg,GA0060,Republican,A03,1141,1141,0,0.0
+pa.uscongress9.1796,1796,James Wallace,WJ0609,Federalist,A01,168,168,0,0.0
+pa.uscongress9.1796,1796,Robert Whitehill,WR0153,Republican,A03,86,86,0,0.0
+pa.uscongress9.1796,1796,Thomas Kennedy,KT0064,Federalist,A01,49,49,0,0.0
+pa.uscongress9.1796,1796,William Irvine,IW0016,Federalist,A01,678,678,0,0.0

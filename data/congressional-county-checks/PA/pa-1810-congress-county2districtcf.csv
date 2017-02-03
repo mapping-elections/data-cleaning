@@ -1,0 +1,139 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress3.1810,1810,Joseph Lefever,LJ0342,Republican,A03,6616,639,-5977,0.9
+pa.uscongress3.1810,1810,Roger Davis,DR0049,Republican,A03,6612,644,-5968,0.9
+pa.uscongress3.1810,1810,John M. Hyneman,HJ0847,Republican,A03,6201,523,-5678,0.92
+pa.uscongress2.1810,1810,Robert Brown,BR0106,Republican,A03,5444,59,-5385,0.99
+pa.uscongress2.1810,1810,Jonathan Roberts,RJ0414,Republican,A03,5409,59,-5350,0.99
+pa.uscongress2.1810,1810,William Rodman,RW0146,Republican,A03,5377,59,-5318,0.99
+pa.uscongress2.1810,1810,Robert Brown,BR0106,Republican,A03,5444,169,-5275,0.97
+pa.uscongress2.1810,1810,Jonathan Roberts,RJ0414,Republican,A03,5409,157,-5252,0.97
+pa.uscongress2.1810,1810,William Rodman,RW0146,Republican,A03,5377,156,-5221,0.97
+pa.uscongress2.1810,1810,Jonathan Roberts,RJ0414,Republican,A03,5409,343,-5066,0.94
+pa.uscongress2.1810,1810,William Rodman,RW0146,Republican,A03,5377,341,-5036,0.94
+pa.uscongress3.1810,1810,Daniel Hiester,HD0091,Federalist,A01,5770,774,-4996,0.87
+pa.uscongress3.1810,1810,Samuel Bethel,BS0250,Federalist,A01,5437,666,-4771,0.88
+pa.uscongress3.1810,1810,Marks John Biddle,BM0099,Federalist,A01,5410,672,-4738,0.88
+pa.uscongress2.1810,1810,Robert Brown,BR0106,Republican,A03,5444,848,-4596,0.84
+pa.uscongress2.1810,1810,William Milnor,MW0326,Constitutionalist,A07,4132,12,-4120,1.0
+pa.uscongress2.1810,1810,Levi Pawling,PL0018,Federalist,A01,4033,12,-4021,1.0
+pa.uscongress2.1810,1810,William Milnor,MW0326,Constitutionalist,A07,4132,125,-4007,0.97
+pa.uscongress2.1810,1810,William Lattimore,LW0156,Constitutionalist,A07,3955,12,-3943,1.0
+pa.uscongress2.1810,1810,Levi Pawling,PL0018,Federalist,A01,4033,122,-3911,0.97
+pa.uscongress2.1810,1810,William Milnor,MW0326,Constitutionalist,A07,4132,230,-3902,0.94
+pa.uscongress2.1810,1810,William Lattimore,LW0156,Constitutionalist,A07,3955,80,-3875,0.98
+pa.uscongress1.1810,1810,Adam Seybert,SA0219,Republican,A03,3991,132,-3859,0.97
+pa.uscongress1.1810,1810,William Anderson,AW0096,Republican,A03,3979,131,-3848,0.97
+pa.uscongress1.1810,1810,Adam Seybert,SA0219,Republican,A03,3991,153,-3838,0.96
+pa.uscongress1.1810,1810,William Anderson,AW0096,Republican,A03,3979,153,-3826,0.96
+pa.uscongress2.1810,1810,Levi Pawling,PL0018,Federalist,A01,4033,224,-3809,0.94
+pa.uscongress2.1810,1810,William Lattimore,LW0156,Constitutionalist,A07,3955,208,-3747,0.95
+pa.uscongress1.1810,1810,Adam Seybert,SA0219,Republican,A03,3991,260,-3731,0.93
+pa.uscongress1.1810,1810,William Anderson,AW0096,Republican,A03,3979,257,-3722,0.94
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,53,-3258,0.98
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,53,-3254,0.98
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,120,-3191,0.96
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,118,-3189,0.96
+pa.uscongress1.1810,1810,Adam Seybert,SA0219,Republican,A03,3991,818,-3173,0.8
+pa.uscongress1.1810,1810,William Anderson,AW0096,Republican,A03,3979,813,-3166,0.8
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,147,-3164,0.96
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,147,-3160,0.96
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,163,-3148,0.95
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,162,-3145,0.95
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,195,-3116,0.94
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,195,-3112,0.94
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,203,-3108,0.94
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,203,-3104,0.94
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,263,-3048,0.92
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,262,-3045,0.92
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,401,-2910,0.88
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,400,-2907,0.88
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,NA,-2735,1.0
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,56,-2679,0.98
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,95,-2640,0.97
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,101,-2634,0.96
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,684,-2627,0.79
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,685,-2622,0.79
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,141,-2594,0.95
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,169,-2566,0.94
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,176,-2559,0.94
+pa.uscongress1.1810,1810,James Milnor,MJ0945,Federalist,A01,1930,4359,2429,0.56
+pa.uscongress1.1810,1810,Thomas Truxton,TT0107,Federalist,A01,1927,4343,2416,0.56
+pa.uscongress1.1810,1810,Thomas B. Dick,DT0098,Federalist,A01,1890,4269,2379,0.56
+pa.uscongress1.1810,1810,John Porter,PJ0433,New School,A07,2415,87,-2328,0.96
+pa.uscongress1.1810,1810,John Porter,PJ0433,New School,A07,2415,106,-2309,0.96
+pa.uscongress6.1810,1810,William Crawford,CW0246,Republican,A03,2332,34,-2298,0.99
+pa.uscongress6.1810,1810,William Crawford,CW0246,Republican,A03,2332,37,-2295,0.98
+pa.uscongress1.1810,1810,Adam Seybert,SA0219,Republican,A03,3991,6276,2285,0.36
+pa.uscongress6.1810,1810,William Crawford,CW0246,Republican,A03,2332,53,-2279,0.98
+pa.uscongress6.1810,1810,William Crawford,CW0246,Republican,A03,2332,70,-2262,0.97
+pa.uscongress6.1810,1810,William Crawford,CW0246,Republican,A03,2332,85,-2247,0.96
+pa.uscongress1.1810,1810,William Anderson,AW0096,Republican,A03,3979,6218,2239,0.36
+pa.uscongress1.1810,1810,John Porter,PJ0433,New School,A07,2415,224,-2191,0.91
+pa.uscongress1.1810,1810,John Porter,PJ0433,New School,A07,2415,230,-2185,0.9
+pa.uscongress1.1810,1810,Adam Seybert,SA0219,Republican,A03,3991,1811,-2180,0.55
+pa.uscongress1.1810,1810,William Anderson,AW0096,Republican,A03,3979,1809,-2170,0.55
+pa.uscongress4.1810,1810,David Bard,BD0120,Republican,A03,3311,5436,2125,0.39
+pa.uscongress4.1810,1810,Robert Whitehill,WR0153,Republican,A03,3307,5429,2122,0.39
+pa.uscongress1.1810,1810,James Milnor,MJ0945,Federalist,A01,1930,84,-1846,0.96
+pa.uscongress1.1810,1810,Thomas Truxton,TT0107,Federalist,A01,1927,83,-1844,0.96
+pa.uscongress1.1810,1810,James Milnor,MJ0945,Federalist,A01,1930,115,-1815,0.94
+pa.uscongress1.1810,1810,Thomas Truxton,TT0107,Federalist,A01,1927,115,-1812,0.94
+pa.uscongress1.1810,1810,Thomas B. Dick,DT0098,Federalist,A01,1890,83,-1807,0.96
+pa.uscongress1.1810,1810,James Milnor,MJ0945,Federalist,A01,1930,126,-1804,0.93
+pa.uscongress1.1810,1810,Thomas Truxton,TT0107,Federalist,A01,1927,127,-1800,0.93
+pa.uscongress1.1810,1810,Thomas B. Dick,DT0098,Federalist,A01,1890,116,-1774,0.94
+pa.uscongress1.1810,1810,Thomas B. Dick,DT0098,Federalist,A01,1890,124,-1766,0.93
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,NA,-1757,1.0
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,16,-1741,0.99
+pa.uscongress6.1810,1810,David Cassat,CD0173,Federalist,A01,1790,53,-1737,0.97
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,21,-1736,0.99
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,39,-1718,0.98
+pa.uscongress6.1810,1810,David Cassat,CD0173,Federalist,A01,1790,79,-1711,0.96
+pa.uscongress6.1810,1810,David Cassat,CD0173,Federalist,A01,1790,101,-1689,0.94
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,78,-1679,0.96
+pa.uscongress6.1810,1810,David Cassat,CD0173,Federalist,A01,1790,122,-1668,0.93
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,94,-1663,0.95
+pa.uscongress1.1810,1810,James Milnor,MJ0945,Federalist,A01,1930,307,-1623,0.84
+pa.uscongress1.1810,1810,Thomas Truxton,TT0107,Federalist,A01,1927,309,-1618,0.84
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,168,-1589,0.9
+pa.uscongress1.1810,1810,Thomas B. Dick,DT0098,Federalist,A01,1890,302,-1588,0.84
+pa.uscongress1.1810,1810,Robert MacMullin,MR0024,Old School,A07,1601,33,-1568,0.98
+pa.uscongress1.1810,1810,Robert MacMullin,MR0024,Old School,A07,1601,45,-1556,0.97
+pa.uscongress1.1810,1810,Robert MacMullin,MR0024,Old School,A07,1601,46,-1555,0.97
+pa.uscongress1.1810,1810,Robert MacMullin,MR0024,Old School,A07,1601,3127,1526,0.49
+pa.uscongress6.1810,1810,David Cassat,CD0173,Federalist,A01,1790,309,-1481,0.83
+pa.uscongress1.1810,1810,Thomas Truxton,TT0107,Federalist,A01,1927,452,-1475,0.77
+pa.uscongress1.1810,1810,James Milnor,MJ0945,Federalist,A01,1930,456,-1474,0.76
+pa.uscongress1.1810,1810,Thomas B. Dick,DT0098,Federalist,A01,1890,443,-1447,0.77
+pa.uscongress9.1810,1810,John Smilie,SJ0970,Republican,A03,0,1401,1401,1.0
+pa.uscongress1.1810,1810,John Porter,PJ0433,New School,A07,2415,1123,-1292,0.53
+pa.uscongress1.1810,1810,Robert MacMullin,MR0024,Old School,A07,1601,586,-1015,0.63
+pa.uscongress1.1810,1810,Robert MacMullin,MR0024,Old School,A07,1601,706,-895,0.56
+pa.uscongress1.1810,1810,John Porter,PJ0433,New School,A07,2415,3143,728,0.23
+pa.uscongress1.1810,1810,NA,NA,NA,NA,0,NA,0,NaN
+pa.uscongress1.1810,1810,NA,NA,NA,NA,0,NA,0,NaN
+pa.uscongress10.1810,1810,Aaron Lyle,LA0096,Republican,A03,1344,1344,0,0.0
+pa.uscongress10.1810,1810,Thomas L. Birch,BT0278,Republican,A03,564,564,0,0.0
+pa.uscongress11.1810,1810,Abner Lacock,LA0102,Republican,A03,2897,2897,0,0.0
+pa.uscongress11.1810,1810,Adamson Tannehill,TA0049,Republican,A03,2455,2455,0,0.0
+pa.uscongress11.1810,1810,Samuel Smith,SS0274,Republican,A03,326,326,0,0.0
+pa.uscongress2.1810,1810,Charles Miner,MC0051,Federalist,A01,102,102,0,0.0
+pa.uscongress2.1810,1810,Jonathan Roberts,RJ0414,Republican,A03,5409,5409,0,0.0
+pa.uscongress2.1810,1810,Levi Pawling,PL0018,Federalist,A01,4033,4033,0,0.0
+pa.uscongress2.1810,1810,Robert Brown,BR0106,Republican,A03,5444,5444,0,0.0
+pa.uscongress2.1810,1810,William Lattimore,LW0156,Constitutionalist,A07,3955,3955,0,0.0
+pa.uscongress2.1810,1810,William Milnor,MW0326,Constitutionalist,A07,4132,4132,0,0.0
+pa.uscongress2.1810,1810,William Rodman,RW0146,Republican,A03,5377,5377,0,0.0
+pa.uscongress3.1810,1810,Daniel Hiester,HD0091,Federalist,A01,5770,5770,0,0.0
+pa.uscongress3.1810,1810,John M. Hyneman,HJ0847,Republican,A03,6201,6201,0,0.0
+pa.uscongress3.1810,1810,Joseph Lefever,LJ0342,Republican,A03,6616,6616,0,0.0
+pa.uscongress3.1810,1810,Marks John Biddle,BM0099,Federalist,A01,5410,5410,0,0.0
+pa.uscongress3.1810,1810,Roger Davis,DR0049,Republican,A03,6612,6612,0,0.0
+pa.uscongress3.1810,1810,Samuel Bethel,BS0250,Federalist,A01,5437,5437,0,0.0
+pa.uscongress5.1810,1810,George Smith,SG0084,Republican,A03,3576,3576,0,0.0
+pa.uscongress6.1810,1810,David Cassat,CD0173,Federalist,A01,1790,1790,0,0.0
+pa.uscongress6.1810,1810,William Crawford,CW0246,Republican,A03,2332,2332,0,0.0
+pa.uscongress7.1810,1810,John Rea,RJ0310,Republican,A03,1015,1015,0,0.0
+pa.uscongress7.1810,1810,William Piper,PW0228,Republican,A03,1428,1428,0,0.0
+pa.uscongress8.1810,1810,John Kirkpatrick,KJ0247,Federalist,A01,1757,1757,0,0.0
+pa.uscongress8.1810,1810,William Findley,FW0062,Federalist,A01,2735,2735,0,0.0

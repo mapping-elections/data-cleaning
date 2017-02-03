@@ -1,0 +1,35 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.uscongress4.1794,1794,Samuel Sitgreaves,SS0245,Federalist,A01,2954,NA,-2954,1.0
+pa.uscongress10.1794,1794,David Bard,BD0120,Republican,A03,290,1808,1518,0.84
+pa.uscongress4.1794,1794,Robert Loller,LR0052,Republican,A03,1072,NA,-1072,1.0
+pa.uscongress12.1794,1794,Albert Gallatin,GA0061,Republican,A03,769,NA,-769,1.0
+pa.uscongress4.1794,1794,Peter Muhlenberg,MP0089,Republican,A03,661,NA,-661,1.0
+pa.uscongress12.1794,1794,Thomas Scott,ST0215,Federalist,A01,643,NA,-643,1.0
+pa.uscongress10.1794,1794,James MacLene,MJ0807,Republican,A03,508,1090,582,0.53
+pa.uscongress10.1794,1794,James MacLene,MJ0807,Republican,A03,508,99,-409,0.81
+pa.uscongress12.1794,1794,Daniel Hamilton,HD0085,Republican,A03,377,NA,-377,1.0
+pa.uscongress9.1794,1794,William Irvine,IW0016,Republican,A03,470,97,-373,0.79
+pa.uscongress10.1794,1794,James Chambers,CJ0705,Federalist,A01,461,116,-345,0.75
+pa.uscongress9.1794,1794,James Wallace,WJ0609,Federalist,A01,525,180,-345,0.66
+pa.uscongress4.1794,1794,John Barclay,BJ0948,Republican,A03,195,NA,-195,1.0
+pa.uscongress9.1794,1794,Andrew Gregg,GA0060,Republican,A03,383,217,-166,0.43
+pa.uscongress4.1794,1794,John Richards,RJ0314,Federalist,A01,1635,1791,156,0.09
+pa.uscongress12.1794,1794,Henry H. Brackenridge,BH0114,Republican,A03,140,NA,-140,1.0
+pa.uscongress12.1794,1794,John Woods,WJ0613,Federalist,A01,137,NA,-137,1.0
+pa.uscongress4.1794,1794,James Morris,MJ0785,Republican,A03,1648,1779,131,0.07
+pa.uscongress6.1794,1794,John A. Hanna,HJ0754,Republican,A03,1882,1988,106,0.05
+pa.uscongress10.1794,1794,James Chambers,CJ0705,Federalist,A01,461,519,58,0.11
+pa.uscongress6.1794,1794,John Carson,CJ0686,Federalist,A01,438,466,28,0.06
+pa.uscongress6.1794,1794,Samuel MacClay,MS0148,Republican,A03,1982,1985,3,0.0
+pa.uscongress11.1794,1794,William Findley,FW0062,Republican,A03,0,NA,0,NaN
+pa.uscongress2.1794,1794,Frederick A. Muhlenberg,MF0016,Federalist,A01,656,656,0,0.0
+pa.uscongress2.1794,1794,Samuel Miles,MS0150,Republican,A03,510,510,0,0.0
+pa.uscongress3.1794,1794,Richard Thomas,TR0064,Federalist,A01,1240,1240,0,0.0
+pa.uscongress3.1794,1794,Thomas Ross,RT0087,Republican,A03,599,599,0,0.0
+pa.uscongress5.1794,1794,Collinson Read,RC0007,null,null,0,NA,0,NaN
+pa.uscongress5.1794,1794,Daniel Hiester,HD0091,Federalist,A01,0,NA,0,NaN
+pa.uscongress7.1794,1794,John W. Kittera,KJ0172,Federalist,A01,0,NA,0,NaN
+pa.uscongress8.1794,1794,Thomas Hartley,HT0154,Federalist,A01,0,NA,0,NaN
+pa.uscongress9.1794,1794,Ephraim Blaine,BE0191,null,null,0,NA,0,NaN
+pa.uscongress9.1794,1794,James Armstrong,AJ0015,null,null,0,NA,0,NaN
+pa.uscongress9.1794,1794,Samuel Laind,LS0108,null,null,0,NA,0,NaN

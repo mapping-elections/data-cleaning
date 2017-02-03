@@ -6,7 +6,7 @@ library(stringr)
 library(purrr)
 
 # Set the state you are working on here
-STATE <- "RI"
+STATE <- "PA"
 
 # Export individual elections
 elections <- read_csv("data/congressional-elections-list.csv")
@@ -15,7 +15,8 @@ elections <- read_csv("data/congressional-elections-list.csv")
 keepers <- elections %>%
   filter(!special,
          state == STATE,
-         !str_detect(id, "nomination")) %>%
+         !str_detect(id, "nomination"),
+         !str_detect(id, "vacancy")) %>%
   arrange(state, year, district)
          # str_detect(id, "uscongress"),
          # !str_detect(id, "spring"))

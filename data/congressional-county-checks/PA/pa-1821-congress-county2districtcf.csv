@@ -1,0 +1,33 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,10,-6036,1.0
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,14,-6032,1.0
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,26,-6020,1.0
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,30,-6016,1.0
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,43,-6003,0.99
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,69,-5977,0.99
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,70,-5976,0.99
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,1,-5959,1.0
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,3,-5957,1.0
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,10,-5950,1.0
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,11,-5949,1.0
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,11,-5949,1.0
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,22,-5938,1.0
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,115,-5931,0.98
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,123,-5923,0.98
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,126,-5920,0.98
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,49,-5911,0.99
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,51,-5909,0.99
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,156,-5890,0.97
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,89,-5871,0.99
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,218,-5828,0.96
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,169,-5791,0.97
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,193,-5767,0.97
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,291,-5669,0.95
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,863,-5183,0.86
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,888,-5072,0.85
+pa.congress.5.1821,1821,John Findlay,FJ0394,Republican,A03,4981,641,-4340,0.87
+pa.congress.5.1821,1821,Thomas G. MacCullough,MT0157,Federalist,A01,4310,361,-3949,0.92
+pa.congress.10.1821,1821,"Thomas Murray, Jr.",MT0172,Republican,A03,6046,6049,3,0.0
+pa.congress.10.1821,1821,William Cox Ellis,EW0059,Federalist,A01,5960,5960,0,0.0
+pa.congress.5.1821,1821,John Findlay,FJ0394,Republican,A03,4981,4981,0,0.0
+pa.congress.5.1821,1821,Thomas G. MacCullough,MT0157,Federalist,A01,4310,4310,0,0.0
