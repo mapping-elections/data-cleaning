@@ -1,0 +1,913 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,526
+2,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,512
+3,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,515
+4,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,423
+5,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,354
+6,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,267
+7,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,236
+8,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,164
+9,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,14
+10,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,NA
+11,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,NA
+12,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,NA
+13,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,NA
+14,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,NA
+15,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,NA
+16,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,NA
+17,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,NA
+19,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,NA
+21,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,NA
+22,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,NA
+23,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,29
+24,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,NA
+25,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+26,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,NA
+27,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+28,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,NA
+32,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,NA
+35,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,NA
+38,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,NA
+39,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,NA
+40,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+41,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,NA
+43,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,NA
+44,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,NA
+47,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,NA
+51,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+52,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,NA
+53,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,NA
+57,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+60,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,NA
+61,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,NA
+66,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+70,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,Fairfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,1079
+2,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,1065
+3,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,1046
+4,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,786
+5,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,828
+6,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,697
+7,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,403
+8,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,248
+9,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,223
+10,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,31
+11,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,32
+12,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,56
+13,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,4
+14,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,24
+15,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,26
+16,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,23
+17,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,53
+19,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,18
+21,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,14
+22,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,1
+23,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,NA
+24,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,NA
+25,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,7
+26,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,3
+27,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,18
+28,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,23
+30,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,3
+32,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,2
+35,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,1
+38,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,NA
+39,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,2
+40,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,1
+41,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,1
+43,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,2
+44,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,2
+47,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,1
+51,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,1
+52,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,1
+53,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,5
+55,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,2
+57,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,4
+58,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,3
+60,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,1
+61,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,NA
+66,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,3
+69,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,1
+70,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,2
+72,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,2
+81,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,1
+91,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,1
+97,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,1
+99,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,1
+107,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,1
+110,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,Hartford,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,591
+2,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,574
+3,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,561
+4,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,501
+5,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,465
+6,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,432
+7,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,166
+8,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,106
+9,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,74
+10,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,1
+11,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,12
+12,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,NA
+13,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,2
+14,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,3
+15,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,NA
+16,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,3
+17,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,1
+19,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,NA
+21,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,NA
+22,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,1
+23,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,2
+24,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,1
+25,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,15
+26,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,10
+27,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,10
+28,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,1
+32,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,1
+35,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,NA
+38,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,NA
+39,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,NA
+40,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+41,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,2
+43,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,NA
+44,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,NA
+47,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,NA
+51,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+52,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,NA
+53,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,2
+57,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,1
+60,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,NA
+61,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,NA
+66,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+70,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,Litchfield,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,402
+2,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,394
+3,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,396
+4,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,287
+5,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,199
+6,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,148
+7,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,203
+8,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,236
+9,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,96
+10,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,7
+11,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,7
+12,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,10
+13,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,1
+14,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,2
+15,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,NA
+16,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,3
+17,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,NA
+19,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,3
+21,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,6
+22,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,NA
+23,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,NA
+24,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,7
+25,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+26,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,5
+27,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,1
+28,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,8
+32,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,3
+35,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,4
+38,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,NA
+39,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,NA
+40,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+41,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,5
+43,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,5
+44,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,NA
+47,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,2
+51,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,1
+52,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,NA
+53,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,NA
+57,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+60,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,NA
+61,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,1
+66,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+70,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,Middlesex,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,951
+2,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,906
+3,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,939
+4,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,772
+5,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,784
+6,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,716
+7,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,288
+8,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,172
+9,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,168
+10,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,27
+11,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,33
+12,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,21
+13,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,2
+14,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,20
+15,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,NA
+16,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,20
+17,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,NA
+19,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,20
+21,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,NA
+22,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,7
+23,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,1
+24,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,8
+25,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,8
+26,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,2
+27,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+28,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,1
+32,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,21
+34,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,5
+35,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,NA
+38,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,2
+39,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,1
+40,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+41,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,NA
+43,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,1
+44,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,2
+47,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,NA
+51,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+52,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,NA
+53,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,5
+54,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,NA
+57,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+60,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,2
+61,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,3
+62,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,3
+64,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,2
+66,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,3
+67,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,2
+70,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,1
+89,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,1
+108,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,New Haven,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,743
+2,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,702
+3,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,710
+4,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,668
+5,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,684
+6,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,604
+7,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,60
+8,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,229
+9,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,51
+10,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,22
+11,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,2
+12,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,16
+13,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,9
+14,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,15
+15,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,NA
+16,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,1
+17,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,1
+19,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,NA
+21,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,14
+22,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,NA
+23,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,NA
+24,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,6
+25,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+26,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,3
+27,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+28,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,NA
+32,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,4
+35,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,7
+38,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,1
+39,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,2
+40,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,3
+41,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,NA
+43,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,NA
+44,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,NA
+47,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,2
+51,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,3
+52,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,4
+53,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,1
+57,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+60,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,NA
+61,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,NA
+66,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+70,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,New London,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,357
+2,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,359
+3,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,335
+4,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,243
+5,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,249
+6,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,200
+7,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,124
+8,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,159
+9,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,116
+10,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,30
+11,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,2
+12,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,10
+13,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,NA
+14,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,1
+15,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,22
+16,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,2
+17,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,NA
+19,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,NA
+21,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,NA
+22,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,24
+23,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,NA
+24,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,NA
+25,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+26,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,6
+27,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+28,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,1
+32,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,NA
+35,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,NA
+38,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,NA
+39,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,6
+40,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,7
+41,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,NA
+43,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,NA
+44,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,1
+47,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,NA
+51,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+52,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,NA
+53,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,NA
+57,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+60,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,NA
+61,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,NA
+66,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+70,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,Tolland,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA
+1,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,655
+2,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,607
+3,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,604
+4,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitman,WL0000,Republican,null,563
+5,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,601
+6,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,555
+7,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,101
+8,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,14
+9,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,44
+10,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,52
+11,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,58
+12,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,7
+13,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,58
+14,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Dixon,DC0082,null,null,10
+15,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Caton,CJ1107,null,null,10
+16,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,6
+17,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William T. Williams,WW0015,Federalist,null,NA
+18,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,NA
+19,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph I. Ingersoll,IR0000,Republican,null,NA
+20,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,unknown,null,null,null,NA
+21,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Willey,WA0004,Federalist,null,NA
+22,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan W. Edwards,EJ0007,Federalist,null,NA
+23,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Whitman,WS0250,null,null,NA
+24,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,10
+25,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+26,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Goddard,GC0005,Federalist,null,1
+27,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+28,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Gabil,GJ0624,null,null,NA
+29,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Griffin,GN0055,Federalist,null,NA
+30,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Lord,LW0220,Federalist,null,NA
+31,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,5
+32,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis B. Sturges,SL0001,Federalist,null,NA
+33,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Erastus Lyman,LE0108,Federalist,null,NA
+34,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Republican,null,2
+35,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Strong,SH0167,null,null,NA
+36,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Haley,HE0203,Republican,null,NA
+37,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sylvester Wells,WS0011,null,null,2
+38,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William P. Cleveland,CW0390,null,null,10
+39,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,1
+40,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+41,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William F. Brainard,BW0436,null,null,NA
+42,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,2
+43,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Epaphroditus Champion,CE0020,Federalist,null,NA
+44,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Sterling,SH0151,null,null,NA
+45,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hungerford,HW0332,Federalist,null,NA
+46,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,1
+47,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel Holmes,HU0000,Federalist,null,NA
+48,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,George Larned,LG0089,Federalist,null,NA
+49,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pitkin,PS0234,Federalist,null,NA
+50,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William W. Ellsworth,EW0092,null,null,NA
+51,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+52,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Learned,LE0109,null,null,NA
+53,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Orange Merwin,MO0000,Republican,null,NA
+54,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Peters,PJ0016,Republican,null,NA
+55,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Smith,SN0016,Federalist,null,NA
+56,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Terry,TN0001,Federalist,null,NA
+57,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Tomlinson,TD0009,Republican,null,NA
+58,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Huntington,HJ1285,null,null,NA
+59,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+60,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Rufus Adams,AR0068,Republican,null,NA
+61,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Sherman Boardman,BS0324,null,null,NA
+62,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Burrows,BE0023,Republican,null,NA
+63,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Burrows,BS0295,null,null,NA
+64,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Butler,BC0193,Federalist,null,NA
+65,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Edwards,EH0027,Republican,null,NA
+66,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Goddard,GE0082,null,null,NA
+67,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Loomis,LL0006,Republican,null,NA
+68,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah A. Phelps,PN0004,Republican,null,NA
+69,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+70,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Simeon Baldwin,BS0001,Federalist,null,NA
+71,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bristol,BW0017,Republican,null,NA
+72,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Fornig,FE0086,null,null,NA
+73,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Minor Hotchkiss,HM0131,Republican,null,NA
+74,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Lanman,LJ0005,Republican,null,NA
+75,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Manwarring,MC0000,Republican,null,NA
+76,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0144,Republican,null,NA
+77,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Severn,SC0173,null,null,NA
+78,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Stoddard,SG0200,null,null,NA
+79,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Leonard E. Welles,WL0076,null,null,NA
+80,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Wells,WM0074,Republican,null,NA
+81,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Allen,AH0040,null,null,NA
+82,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Barrows,BJ1539,null,null,NA
+83,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Dyer T. Brainard,BD0243,null,null,NA
+84,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Bran,BJ1543,null,null,NA
+85,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Brockway,BE0263,Republican,null,NA
+86,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman B. Brown,BN0133,null,null,NA
+87,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Dana,DS0003,Federalist,null,NA
+88,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Fowler,FE0083,Federalist,null,NA
+89,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Griswold,GC0074,Federalist,null,NA
+90,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Alanson Hamlin,HA0258,null,null,NA
+91,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hill,HD0001,Republican,null,NA
+92,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles P. Huntington,HC0160,null,null,NA
+93,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+94,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jirah Isham,IJ0016,Federalist,null,NA
+95,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0315,Republican,null,NA
+96,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Johnson,JN0022,Republican,null,NA
+97,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Johnson,JS0000,Federalist,null,NA
+98,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+99,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,William Moseley,MW0006,Republican,null,NA
+100,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Perkins,PE0010,Federalist,null,NA
+101,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Perkins,PT0160,Republican,null,NA
+102,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Peters,PJ0758,null,null,NA
+103,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Pierson,PL0051,null,null,NA
+104,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Solomon Saintoh,SS0348,Federalist,null,NA
+105,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Smith,SJ0013,Federalist,null,NA
+106,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Sterling,SE0209,null,null,NA
+107,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+108,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stoddard,SJ1515,null,null,NA
+109,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Todd,TE0002,Republican,null,NA
+110,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Selden Warner,WS0252,Federalist,null,NA
+111,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Webb,WP0002,Republican,null,NA
+112,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan A. Welch,WJ1020,null,null,NA
+113,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Wheeler,WA0224,Republican,null,NA
+114,Windham,ct.uscongress.1823,1823,1823,General,Connecticut 1823 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whiting,WL0084,null,null,NA

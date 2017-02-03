@@ -6,7 +6,7 @@ library(stringr)
 library(purrr)
 
 # Set the state you are working on here
-STATE <- "VT"
+STATE <- "CT"
 
 # Export individual elections
 elections <- read_csv("data/congressional-elections-list.csv")
@@ -14,7 +14,8 @@ elections <- read_csv("data/congressional-elections-list.csv")
 # Adjust this to get just the elections you need
 keepers <- elections %>%
   filter(!special,
-         state == STATE) %>%
+         state == STATE,
+         !str_detect(id, "nomination")) %>%
   arrange(state, year, district)
          # str_detect(id, "uscongress"),
          # !str_detect(id, "spring"))
@@ -46,3 +47,4 @@ run_check <- function(df) {
 keepers %>%
   distinct(state, year) %>%
   by_row(run_check)
+

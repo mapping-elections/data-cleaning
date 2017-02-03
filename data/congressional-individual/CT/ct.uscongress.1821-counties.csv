@@ -1,0 +1,313 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,842
+2,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,834
+3,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,833
+4,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,830
+5,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,835
+6,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,826
+7,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,694
+8,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,86
+9,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,8
+10,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,27
+11,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,8
+12,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,NA
+13,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,17
+14,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,NA
+15,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,1
+16,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,8
+17,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+18,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,8
+19,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,1
+20,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,8
+21,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,NA
+22,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,NA
+23,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,2
+24,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+25,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+26,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,NA
+27,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,8
+28,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+29,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+30,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,NA
+31,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+32,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,NA
+33,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,1
+34,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,NA
+35,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,NA
+36,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,Fairfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,1009
+2,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,957
+3,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,962
+4,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,955
+5,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,916
+6,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,939
+7,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,818
+8,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,119
+9,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,95
+10,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,73
+11,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,160
+12,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,120
+13,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,93
+14,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,114
+15,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,17
+16,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,33
+17,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,2
+18,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,54
+19,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,NA
+20,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,17
+21,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,12
+22,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,19
+23,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,NA
+24,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,53
+25,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,31
+26,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,8
+27,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,54
+28,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,53
+29,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,4
+30,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,3
+31,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,1
+32,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,3
+33,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,1
+34,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,1
+35,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,1
+36,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,1
+37,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,1
+38,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,1
+39,Hartford,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,704
+2,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,701
+3,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,701
+4,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,699
+5,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,695
+6,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,593
+7,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,352
+8,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,353
+9,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,41
+10,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,2
+11,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,40
+12,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,13
+13,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,4
+14,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,23
+15,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,30
+16,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,21
+17,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+18,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,8
+19,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,NA
+20,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,64
+21,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,67
+22,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,23
+23,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,3
+24,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,12
+25,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,5
+26,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,10
+27,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+28,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,1
+29,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,9
+30,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,13
+31,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,5
+32,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,NA
+33,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,NA
+34,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,1
+35,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,NA
+36,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,Litchfield,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,435
+2,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,430
+3,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,437
+4,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,428
+5,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,434
+6,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,431
+7,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,384
+8,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,66
+9,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,72
+10,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,6
+11,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,5
+12,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,11
+13,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,1
+14,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,5
+15,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,63
+16,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,1
+17,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,4
+18,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,7
+19,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,NA
+20,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,NA
+21,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,NA
+22,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,60
+23,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,22
+24,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+25,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,1
+26,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,48
+27,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+28,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+29,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+30,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,1
+31,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+32,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,NA
+33,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,NA
+34,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,NA
+35,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,NA
+36,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,Middlesex,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,1222
+2,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,1218
+3,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,1062
+4,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,1074
+5,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,1077
+6,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,989
+7,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,946
+8,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,105
+9,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,10
+10,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,NA
+11,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,4
+12,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,11
+13,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,143
+14,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,NA
+15,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,12
+16,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+17,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,130
+18,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,NA
+19,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,157
+20,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,2
+21,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,5
+22,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,1
+23,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,13
+24,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,1
+25,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+26,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,NA
+27,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+28,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+29,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,1
+30,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,1
+31,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+32,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,1
+33,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,NA
+34,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,NA
+35,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,NA
+36,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,New Haven,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,1073
+2,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,1000
+3,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,1046
+4,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,1017
+5,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,1022
+6,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,1005
+7,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,682
+8,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,351
+9,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,87
+10,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,175
+11,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,65
+12,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,56
+13,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,22
+14,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,41
+15,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,2
+16,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,21
+17,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,31
+18,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,NA
+19,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,NA
+20,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,2
+21,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,18
+22,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,5
+23,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,8
+24,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,NA
+25,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,9
+26,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,3
+27,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+28,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,2
+29,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,2
+30,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,NA
+31,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+32,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,1
+33,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,NA
+34,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,NA
+35,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,NA
+36,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,New London,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,530
+2,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,475
+3,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,500
+4,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,498
+5,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,500
+6,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,495
+7,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,243
+8,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,304
+9,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,2
+10,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,24
+11,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,20
+12,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,42
+13,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,NA
+14,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,1
+15,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,8
+16,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,NA
+17,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+18,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,24
+19,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,NA
+20,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,1
+21,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,18
+22,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,7
+23,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,42
+24,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,24
+25,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,41
+26,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,NA
+27,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+28,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,NA
+29,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,NA
+30,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,2
+31,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+32,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,NA
+33,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,2
+34,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,NA
+35,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,1
+36,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,Tolland,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
+1,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Tomlinson,TG0001,Republican,null,762
+2,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noyes Barber,BN0014,Republican,null,729
+3,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry W. Edwards,EH0001,Republican,null,742
+4,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stoddard,SE0220,Republican,null,739
+5,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Russ,RJ0004,Republican,null,741
+6,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ansel Sterling,SA0013,Republican,null,732
+7,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Burrows,BD0248,Republican,null,313
+8,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Calvin Willey,WC0000,Federalist,null,518
+9,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Pitkin,PT0001,Federalist,null,149
+10,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Tracy,TE0007,Republican,null,112
+11,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman Law,LL0001,Federalist,null,49
+12,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas S. Williams,WT0003,Federalist,null,40
+13,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Phelps,PE0012,Republican,null,1
+14,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel B. Sherwood,SS0000,Federalist,null,43
+15,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger M. Sherman,SR0005,Federalist,null,90
+16,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan O. Moseley,MJ0022,Federalist,null,89
+17,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,James Stevens,SJ0029,Republican,null,NA
+18,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Sterling,SE0001,Federalist,null,63
+19,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel A. Foote,FS0001,Republican,null,NA
+20,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Denison,DC0000,Federalist,null,52
+21,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Bacon,BA0002,Federalist,null,24
+22,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Zephaniah Swift,SZ0000,Federalist,null,6
+23,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Staples,SS0021,Federalist,null,13
+24,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Noah B. Benedict,BN0004,Federalist,null,2
+25,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob B. Gurley,GJ0012,Federalist,null,NA
+26,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Smith,SN0000,Federalist,null,1
+27,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hall,HJ0022,Federalist,null,NA
+28,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Huntington,HE0008,Federalist,null,1
+29,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth P. Beers,BS0029,Republican,null,9
+30,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Daggett,DD0000,Federalist,null,2
+31,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Wolcott,WF0018,Republican,null,NA
+32,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph J. Ingersoll,IR0000,Republican,null,NA
+33,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry L. Ellsworth,EH0032,Federalist,null,NA
+34,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Kingsbury,KA0001,Federalist,null,NA
+35,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Stodard,SD0248,null,null,NA
+36,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0040,Federalist,null,NA
+37,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Ogden Moseley,MO0017,null,null,NA
+38,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,David Plant,PD0008,Republican,null,NA
+39,Windham,ct.uscongress.1821,1821,1821,General,Connecticut 1821 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Gilman,GS0139,null,null,NA
