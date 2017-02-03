@@ -1,0 +1,28 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.secondballot.westerndistrict.1795,1795,scattering,null,null,null,0,81,81,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Jonathan Hunt,HJ1284,null,null,0,59,59,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Daniel Buck,BD0212,Federalist,A01,1151,1198,47,0.04
+vt.uscongress.secondballot.easterndistrict.1795,1795,Nathaniel Niles,NN0014,Republican,A03,803,842,39,0.05
+vt.uscongress.secondballot.easterndistrict.1795,1795,Stephen Jacob,JS0060,null,null,0,39,39,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Lewis R. Morris,ML0045,Federalist,null,0,7,7,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Samuel Cutler,CS0216,null,null,0,5,5,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Cornelius Lynde,LC0073,null,null,0,4,4,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Paul Brigham,BP0101,null,null,0,4,4,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,James Whitlaw,WJ0968,null,null,0,2,2,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Stephen R. Bradley,BS0312,null,null,0,2,2,1.0
+vt.uscongress.secondballot.easterndistrict.1795,1795,Lot Hall,HL0043,Federalist,null,0,1,1,1.0
+vt.uscongress.secondballot.westerndistrict.1795,1795,Amos Marsh,MA0292,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Enoch Woodbridge,WE0152,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Gideon Olin,OG0018,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Gideon Seeger,SG0022,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Isaac Tichenor,TI0032,Federalist,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Israel Smith,SI0092,Federalist,A01,1804,1804,0,0.0
+vt.uscongress.secondballot.westerndistrict.1795,1795,John Strong,SJ1546,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Jonas Galusha,GJ0613,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Matthew Lyon,LM0053,Republican,A03,1783,1783,0,0.0
+vt.uscongress.secondballot.westerndistrict.1795,1795,Nathaniel Chittenden,CN0070,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Noah Smith,SN0074,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Samuel Mattocks,MS0245,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Samuel Safford,SS0310,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Samuel Williams,WS0226,null,null,0,NA,0,NaN
+vt.uscongress.secondballot.westerndistrict.1795,1795,Thaddeus Tuttle,TT0062,null,null,0,NA,0,NaN

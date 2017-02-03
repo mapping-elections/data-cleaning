@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.eastern.2.1800,1800,Lewis R. Morris,ML0045,Federalist,A01,1629,NA,-1629,1.0
+vt.uscongress.eastern.2.1800,1800,Nathaniel Niles,NN0014,Republican,A03,702,NA,-702,1.0
+vt.uscongress.eastern.2.1800,1800,Amasa Paine,PA0117,Federalist,A01,341,NA,-341,1.0
+vt.uscongress.eastern.2.1800,1800,William Chamberlain,CW0352,Federalist,A01,124,NA,-124,1.0
+vt.uscongress.eastern.2.1800,1800,Stephen Jacobs,JS0060,Federalist,A01,25,NA,-25,1.0
+vt.uscongress.eastern.2.1800,1800,Charles Marsh,MC0079,Federalist,null,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,Daniel Farrand,FD0052,null,null,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,David Dunbar,DD0007,null,null,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,Lot Hall,HL0043,Federalist,A01,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,Robert Niles,NR0009,null,null,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,Samuel Chamberlain,CS0044,null,null,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,scattering,null,null,null,0,NA,0,NaN
+vt.uscongress.eastern.2.1800,1800,Stephen R. Bradley,BS0312,null,null,0,NA,0,NaN

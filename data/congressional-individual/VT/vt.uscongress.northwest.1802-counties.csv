@@ -1,0 +1,61 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Udney Hay,HU0003,Republican,A03,606
+2,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,240
+3,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos Marsh,MA0292,Federalist,A01,208
+4,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+5,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,Federalist,A01,NA
+6,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,NA
+7,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsley,LJ0546,null,null,NA
+8,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Israel Smith,SI0092,null,null,NA
+9,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Woodbridge,WE0152,null,null,NA
+10,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Hitchcock,HS0250,null,null,NA
+11,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel B. Sheldon,SS0258,null,null,NA
+12,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,null,null,NA
+13,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,NA
+14,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ira Allen,AI0025,null,null,NA
+15,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,"Joshua Stanton, Jr.",SJ1150,null,null,NA
+16,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Bull,BI0087,null,null,NA
+17,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chipman,CN0071,null,null,NA
+18,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,null,null,NA
+19,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Reuben Saxton,SR0133,null,null,NA
+20,Addison,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Udney Hay,HU0003,Republican,A03,407
+2,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,470
+3,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos Marsh,MA0292,Federalist,A01,155
+4,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+5,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,Federalist,A01,NA
+6,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,NA
+7,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsley,LJ0546,null,null,NA
+8,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Israel Smith,SI0092,null,null,NA
+9,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Woodbridge,WE0152,null,null,NA
+10,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Hitchcock,HS0250,null,null,NA
+11,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel B. Sheldon,SS0258,null,null,NA
+12,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,null,null,NA
+13,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,NA
+14,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ira Allen,AI0025,null,null,NA
+15,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,"Joshua Stanton, Jr.",SJ1150,null,null,NA
+16,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Bull,BI0087,null,null,NA
+17,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chipman,CN0071,null,null,NA
+18,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,null,null,NA
+19,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Reuben Saxton,SR0133,null,null,NA
+20,Chittenden,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Udney Hay,HU0003,Republican,A03,422
+2,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,184
+3,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos Marsh,MA0292,Federalist,A01,257
+4,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+5,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,Federalist,A01,NA
+6,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,NA
+7,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsley,LJ0546,null,null,NA
+8,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Israel Smith,SI0092,null,null,NA
+9,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Woodbridge,WE0152,null,null,NA
+10,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Hitchcock,HS0250,null,null,NA
+11,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel B. Sheldon,SS0258,null,null,NA
+12,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,null,null,NA
+13,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,NA
+14,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ira Allen,AI0025,null,null,NA
+15,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,"Joshua Stanton, Jr.",SJ1150,null,null,NA
+16,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Bull,BI0087,null,null,NA
+17,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chipman,CN0071,null,null,NA
+18,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,null,null,NA
+19,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Reuben Saxton,SR0133,null,null,NA
+20,Franklin,vt.uscongress.northwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

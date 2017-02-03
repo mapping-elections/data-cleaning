@@ -1,0 +1,73 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,799
+2,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,589
+3,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,191
+4,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,182
+5,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Slade,SW0372,null,null,26
+6,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Apolus Austin,AA0040,null,null,NA
+7,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Stoddard Martin,MS0156,null,null,2
+8,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Newell,NN0024,null,null,NA
+9,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Esaisa Butts,BE0130,null,null,1
+10,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John B. Catlin,CJ0798,null,null,1
+11,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Chambers,CR0177,null,null,1
+12,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,NA
+13,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert B. Hazard,HR0110,null,null,1
+14,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Miner,MB0072,null,null,1
+15,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Reuben Nash,NR0010,null,null,NA
+16,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Rich,RT0084,null,null,1
+17,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,E. D. Woodbridge,WE0152,null,null,1
+18,Addison,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,18
+1,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,65
+2,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,90
+3,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,314
+4,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,4
+5,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Slade,SW0372,null,null,NA
+6,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Apolus Austin,AA0040,null,null,NA
+7,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Stoddard Martin,MS0156,null,null,NA
+8,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Newell,NN0024,null,null,2
+9,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Esaisa Butts,BE0130,null,null,NA
+10,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John B. Catlin,CJ0798,null,null,NA
+11,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Chambers,CR0177,null,null,NA
+12,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1
+13,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert B. Hazard,HR0110,null,null,NA
+14,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Miner,MB0072,null,null,NA
+15,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Reuben Nash,NR0010,null,null,NA
+16,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Rich,RT0084,null,null,NA
+17,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,E. D. Woodbridge,WE0152,null,null,NA
+18,Chittenden,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,361
+2,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,119
+3,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,4
+4,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,246
+5,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Slade,SW0372,null,null,NA
+6,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Apolus Austin,AA0040,null,null,13
+7,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Stoddard Martin,MS0156,null,null,NA
+8,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Newell,NN0024,null,null,NA
+9,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Esaisa Butts,BE0130,null,null,NA
+10,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John B. Catlin,CJ0798,null,null,NA
+11,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Chambers,CR0177,null,null,NA
+12,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,NA
+13,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert B. Hazard,HR0110,null,null,NA
+14,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Miner,MB0072,null,null,NA
+15,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Reuben Nash,NR0010,null,null,1
+16,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Rich,RT0084,null,null,NA
+17,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,E. D. Woodbridge,WE0152,null,null,NA
+18,Rutland,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,6
+2,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,84
+3,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,27
+4,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,7
+5,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Slade,SW0372,null,null,NA
+6,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Apolus Austin,AA0040,null,null,NA
+7,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Stoddard Martin,MS0156,null,null,NA
+8,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nathaniel Newell,NN0024,null,null,NA
+9,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Esaisa Butts,BE0130,null,null,NA
+10,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John B. Catlin,CJ0798,null,null,NA
+11,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert Chambers,CR0177,null,null,NA
+12,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,NA
+13,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Robert B. Hazard,HR0110,null,null,NA
+14,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Miner,MB0072,null,null,NA
+15,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Reuben Nash,NR0010,null,null,NA
+16,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Rich,RT0084,null,null,NA
+17,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,E. D. Woodbridge,WE0152,null,null,NA
+18,Washington,vt.uscongress3.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2

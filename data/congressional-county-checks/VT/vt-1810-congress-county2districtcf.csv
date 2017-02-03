@@ -1,0 +1,144 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.southeast.1810,1810,scattering,null,null,null,8,1,-7,0.88
+vt.uscongress.northwest.1810,1810,Cyrus Curtis,CC0111,null,null,5,3,-2,0.4
+vt.uscongress.northeast.1810,1810,Jonathan Bass,BJ1097,null,null,0,1,1,1.0
+vt.uscongress.northeast.1810,1810,Abel Trapp,TA0085,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Ariel Aldrich,AA0035,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Bartholomew Sommer,SB0142,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,Bela Shaw,SB0143,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Benjamin H. Oak,OB0012,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Benjamin Swan,SB0024,null,null,5,5,0,0.0
+vt.uscongress.northeast.1810,1810,Charles Marsh,MC0079,Federalist,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Dudley Chase,CD0206,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,Edward Trefield,TE0058,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,Elias Chamberlain,CE0144,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,Elisha Thayer,TE0086,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,George Rich,RG0034,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Isaac Tichenor,TI0032,Federalist,null,7,7,0,0.0
+vt.uscongress.northeast.1810,1810,James Fisk,FJ0462,Republican,A03,3177,3177,0,0.0
+vt.uscongress.northeast.1810,1810,Jedediah P. Buckingham,BJ0158,null,null,3,3,0,0.0
+vt.uscongress.northeast.1810,1810,Jeremiah Nodden,NJ0202,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,John Duncan,DJ0574,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,John W. Chandler,CJ0762,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,John Warner,WJ0787,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Jonas Galusha,GJ0613,Republican,A03,13,13,0,0.0
+vt.uscongress.northeast.1810,1810,Jonathan Fisk,FJ0436,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Joseph Ormsby,OJ0131,null,null,4,4,0,0.0
+vt.uscongress.northeast.1810,1810,Joseph Woodworth,WJ0784,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Lewis R. Morris,ML0045,Federalist,null,3,3,0,0.0
+vt.uscongress.northeast.1810,1810,Moulton Mosey,MM0105,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,Paul Brigham,BP0101,Republican,A03,6,6,0,0.0
+vt.uscongress.northeast.1810,1810,Pres West,WP0061,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,R. Graves,GR0058,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Ralph Parker,PR0115,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Samuel C. Crafts,CS0219,null,null,27,27,0,0.0
+vt.uscongress.northeast.1810,1810,scattering,null,null,null,7,7,0,0.0
+vt.uscongress.northeast.1810,1810,Simon Stevens,SS0285,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,Timothy Herman,HT0145,null,null,2,2,0,0.0
+vt.uscongress.northeast.1810,1810,Timothy Hurtsin,HT0158,null,null,1,1,0,0.0
+vt.uscongress.northeast.1810,1810,William Chamberlain,CW0352,Federalist,A01,2316,2316,0,0.0
+vt.uscongress.northeast.1810,1810,William Tratter,TW0172,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Abel Carpenter,CA0223,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Alpheus Hale,HA0224,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Amos W. Barnum,BA0249,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Asa Aldis,AA0064,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Asa Lyon,LA0126,Federalist,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Asaph Howard,HA0225,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,Benjamin Swan,SB0024,null,null,5,5,0,0.0
+vt.uscongress.northwest.1810,1810,Bushnett B. Tawens,TB0020,null,null,4,4,0,0.0
+vt.uscongress.northwest.1810,1810,Carter Hickok,HC0123,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,Charles Rich,RC0058,null,null,34,34,0,0.0
+vt.uscongress.northwest.1810,1810,Daniel Chipman,CD0204,Federalist,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,David Whitney,WD0121,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Ebenezer Butler,BE0166,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Eleazer Hutchings,HE0150,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Elijah Deeyun,DE0091,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Elijah Shane,SE0182,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Enoch Chilton,CE0145,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,Ezra Butler,BE0213,Republican,A03,2863,2863,0,0.0
+vt.uscongress.northwest.1810,1810,Ezra Hoyt,HE0151,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,George Kennan,KG0044,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Heman Allen,AH0032,Republican,A03,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Horatio Seymour,SH0191,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Isaac Butler,BI0086,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Isaac Tichenor,TI0032,Federalist,null,12,12,0,0.0
+vt.uscongress.northwest.1810,1810,Jack Brownman,BJ1126,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Jarel Jackson,JJ0211,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Jeva French,FJ0366,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Joel Linsly,LJ0471,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,John Pists,PJ0495,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Jonas Brigham,BJ1127,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Jonas Galusha,GJ0613,Republican,A03,10,10,0,0.0
+vt.uscongress.northwest.1810,1810,Jonathan Hoit,HJ0975,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Joseph Lewis,LJ0543,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Joseph Willoughby,WJ0807,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Josiah Land,LJ0475,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,Lewis R. Morris,ML0045,Federalist,null,7,7,0,0.0
+vt.uscongress.northwest.1810,1810,Martin Chittenden,CM0084,Federalist,A01,3014,3014,0,0.0
+vt.uscongress.northwest.1810,1810,Martin Folk,FM0028,null,null,3,3,0,0.0
+vt.uscongress.northwest.1810,1810,Moses Chittenden,CM0095,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Nathan Leavenworth,LN0032,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,Noah Chittenden,CN0046,Republican,A03,7,7,0,0.0
+vt.uscongress.northwest.1810,1810,Paul Brigham,BP0101,Republican,A03,7,7,0,0.0
+vt.uscongress.northwest.1810,1810,Philip Loop,LP0023,null,null,5,5,0,0.0
+vt.uscongress.northwest.1810,1810,Samuel Jewett,JS0040,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Samuel Shary,SS0257,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,scattering,null,null,null,8,8,0,0.0
+vt.uscongress.northwest.1810,1810,Solom Wallbridge,WS0218,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Thomas D. Rood,RT0110,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Thomas W. Rich,RT0111,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,Timothy Allen,AT0057,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,Truman Chittenden,CT0025,null,null,1,1,0,0.0
+vt.uscongress.northwest.1810,1810,William C. Harrington,HW0348,null,null,2,2,0,0.0
+vt.uscongress.northwest.1810,1810,William Goodrich,GW0107,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Aaron Leland,LA0135,Republican,A03,108,108,0,0.0
+vt.uscongress.southeast.1810,1810,Amos Heath,HA0220,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Asa Wheelock,WA0203,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Asahel Smith,SA0244,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Benjamin Burt,BB0038,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Benjamin Clapp,CB0077,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Benjamin Swan,SB0024,null,null,8,8,0,0.0
+vt.uscongress.southeast.1810,1810,Charles Marsh,MC0079,Federalist,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Daniel Dana,DD0041,null,null,5,5,0,0.0
+vt.uscongress.southeast.1810,1810,Daniel Jewitt,JD0038,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Daniel Stearn,SD0201,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Darius Bullock,BD0200,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Eleazer May,ME0090,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Elias Keyes,KE0050,null,null,24,24,0,0.0
+vt.uscongress.southeast.1810,1810,Elijah Knight,KE0039,null,null,3,3,0,0.0
+vt.uscongress.southeast.1810,1810,Elijah Mason,ME0091,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Elijah Sterns,SE0184,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Elisha Ives,IE0011,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Horace Everett,EH0029,null,null,53,53,0,0.0
+vt.uscongress.southeast.1810,1810,Isaac Tichenor,TI0032,Federalist,null,5,5,0,0.0
+vt.uscongress.southeast.1810,1810,Ivegar Leavett,LI0041,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Jabez Barne,BJ1130,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Jabez Delano,DJ0445,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,James Fisk,FJ0462,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,James Huntington,HJ0946,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,James Topleff,TJ0431,null,null,2,2,0,0.0
+vt.uscongress.southeast.1810,1810,Jason Duncan,DJ0446,null,null,4,4,0,0.0
+vt.uscongress.southeast.1810,1810,Jesse Williams,WJ0785,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,John Dyer,DJ0450,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,John Nott,NJ0155,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,John Noyes,NJ0168,Federalist,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Jonas Galusha,GJ0613,Republican,A03,9,9,0,0.0
+vt.uscongress.southeast.1810,1810,Jonathan H. Hubbard,HJ1289,Federalist,A01,2670,2670,0,0.0
+vt.uscongress.southeast.1810,1810,Joseph Seldon,SJ1151,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Joseph Winston,WJ0809,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Lemuel Ide,IL0005,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Lewis R. Morris,ML0045,Federalist,null,12,12,0,0.0
+vt.uscongress.southeast.1810,1810,Mark Richards,RM0056,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Oliver Lathrop,LO0005,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Pascal P. Enos,EP0028,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Paul Brigham,BP0101,Republican,A03,6,6,0,0.0
+vt.uscongress.southeast.1810,1810,Peter Robinson,RP0054,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Samuel Elliot,ES0058,Republican,A03,64,64,0,0.0
+vt.uscongress.southeast.1810,1810,Samuel Fletcher,FS0133,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Samuel Richardson,RS0118,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Stephen Otis,OS0009,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Thomas Freeman,FT0062,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,Titus Hutchinson,HT0218,null,null,3,3,0,0.0
+vt.uscongress.southeast.1810,1810,William C. Bradley,BW0418,null,null,3,3,0,0.0
+vt.uscongress.southeast.1810,1810,William Hunter,HW0335,null,null,1,1,0,0.0
+vt.uscongress.southeast.1810,1810,William Strong,SW0343,Republican,A03,3474,3474,0,0.0

@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,837
+2,Addison,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,699
+3,Addison,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,38
+4,Addison,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,36
+5,Addison,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,"Stephen Haight, Jr.",HS0258,null,null,NA
+6,Addison,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Enoch D. Woodbridge,WE0152,null,null,NA
+1,Chittenden,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,44
+2,Chittenden,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,115
+3,Chittenden,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,91
+4,Chittenden,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,NA
+5,Chittenden,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,"Stephen Haight, Jr.",HS0258,null,null,NA
+6,Chittenden,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Enoch D. Woodbridge,WE0152,null,null,NA
+1,Rutland,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,295
+2,Rutland,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,122
+3,Rutland,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1
+4,Rutland,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,14
+5,Rutland,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,"Stephen Haight, Jr.",HS0258,null,null,NA
+6,Rutland,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Enoch D. Woodbridge,WE0152,null,null,NA
+1,Washington,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,10
+2,Washington,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,116
+3,Washington,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,3
+4,Washington,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Henry Olin,OH0015,Republican,A03,7
+5,Washington,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,"Stephen Haight, Jr.",HS0258,null,null,NA
+6,Washington,vt.uscongress3.2.1820,1820-12,1820,General,"Vermont 1820 U.S. House of Representatives, District 3, Ballot 2",U.S. House of Representatives,ON125,Enoch D. Woodbridge,WE0152,null,null,NA

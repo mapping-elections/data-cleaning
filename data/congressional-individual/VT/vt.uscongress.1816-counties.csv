@@ -1,0 +1,274 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1437
+2,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,1433
+3,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1436
+4,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1419
+5,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1433
+6,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,1434
+7,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1366
+8,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1367
+9,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1358
+10,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,1360
+11,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,1361
+12,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1362
+13,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Addison,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,24
+1,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1231
+2,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,1233
+3,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1221
+4,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1221
+5,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1147
+6,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,1212
+7,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,971
+8,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,977
+9,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,958
+10,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,957
+11,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,958
+12,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,957
+13,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Bennington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1105
+2,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,1103
+3,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1105
+4,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1101
+5,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1097
+6,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,1021
+7,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,862
+8,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,839
+9,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,837
+10,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,844
+11,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,837
+12,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,804
+13,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,32
+15,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Caledonia,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,17
+1,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1016
+2,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,1017
+3,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1019
+4,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1016
+5,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1019
+6,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,1006
+7,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1133
+8,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1132
+9,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1129
+10,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,1131
+11,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,1130
+12,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1131
+13,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Chittenden,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,234
+2,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,234
+3,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,234
+4,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,234
+5,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,234
+6,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,233
+7,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,187
+8,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,187
+9,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,187
+10,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,187
+11,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,187
+12,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,187
+13,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Essex,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,967
+2,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,967
+3,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,967
+4,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,966
+5,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,963
+6,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,963
+7,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1133
+8,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1134
+9,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1131
+10,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,1131
+11,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,1131
+12,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1131
+13,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Franklin,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,149
+2,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,149
+3,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,149
+4,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,149
+5,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,149
+6,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,149
+7,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,258
+8,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,259
+9,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,258
+10,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,258
+11,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,258
+12,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,258
+13,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Grande Isle,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,2080
+2,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,2079
+3,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,2079
+4,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,2077
+5,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,2077
+6,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,2081
+7,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1313
+8,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1314
+9,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1313
+10,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,1309
+11,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,1312
+12,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1313
+13,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Orange,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,445
+2,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,446
+3,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,446
+4,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,446
+5,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,446
+6,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,446
+7,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,473
+8,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,473
+9,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,473
+10,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,473
+11,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,472
+12,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,473
+13,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1
+19,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,1
+21,Orleans,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,2
+1,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,2524
+2,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,2520
+3,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,2522
+4,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,2508
+5,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,2506
+6,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,2487
+7,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1469
+8,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1478
+9,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1463
+10,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,1459
+11,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,1462
+12,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1465
+13,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Rutland,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,22
+1,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,989
+2,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,988
+3,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,986
+4,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,986
+5,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,987
+6,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,967
+7,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,826
+8,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,826
+9,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,825
+10,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,824
+11,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,822
+12,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,822
+13,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1
+16,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,1
+17,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,1
+18,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,1
+20,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Washington,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1490
+2,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,1493
+3,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1493
+4,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1497
+5,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1494
+6,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,1480
+7,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,2595
+8,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,2590
+9,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,2587
+10,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,2587
+11,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,2578
+12,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,2585
+13,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Windham,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,12
+1,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,3243
+2,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,3236
+3,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,3239
+4,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,3240
+5,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,3238
+6,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,3230
+7,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1474
+8,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1474
+9,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1468
+10,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan C. Hubbard,HJ1289,Federalist,A01,1465
+11,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,1469
+12,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1467
+13,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,null,null,NA
+14,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wheldon,WJ0806,null,null,NA
+15,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+16,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+17,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Huntington,HW0215,null,null,NA
+18,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+19,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rich,RS0113,null,null,NA
+20,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+21,Windsor,vt.uscongress.1816,1816-09,1816,General,Vermont 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,14

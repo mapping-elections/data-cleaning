@@ -1,0 +1,45 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.northwest.secondballot.1803,1803,Noah Chittenden,CN0046,Republican,A03,4,14,10,0.71
+vt.uscongress.northwest.thirdballot.1803,1803,scattering,null,null,null,14,24,10,0.42
+vt.uscongress.southeast.secondballot.1803,1803,James Elliot,EJ0292,Federalist,A03,2495,2485,-10,0.0
+vt.uscongress.northwest.thirdballot.1803,1803,Amos Marsh,MA0292,null,null,6,NA,-6,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Daniel Chipman,CD0204,Federalist,A01,13,18,5,0.28
+vt.uscongress.northwest.thirdballot.1803,1803,Samuel Hitchcock,HS0250,null,null,5,NA,-5,1.0
+vt.uscongress.northwest.thirdballot.1803,1803,Daniel Chipman,CD0204,Federalist,null,2,NA,-2,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Addington Conger,CA0222,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Asa Lyon,LA0126,Federalist,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Daniel Drury,DD0045,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Eeo Balo,BE0127,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Erastus Bostwick,BE0126,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Horatio Seymour,SH0191,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Martin Chittenden,CM0084,Federalist,A01,1248,1247,-1,0.0
+vt.uscongress.northwest.secondballot.1803,1803,Reuben Saxon,SR0133,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Solomon Miller,MS0218,null,null,0,1,1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Udney Hay,HU0003,Republican,A03,2065,2066,1,0.0
+vt.uscongress.northwest.thirdballot.1803,1803,Enoch Woodbridge,WE0152,null,null,1,NA,-1,1.0
+vt.uscongress.northwest.thirdballot.1803,1803,Stephen Frank,FS0128,null,null,1,NA,-1,1.0
+vt.uscongress.northwest.secondballot.1803,1803,Amos Marsh,MA0292,Federalist,A01,836,836,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,blank,null,null,null,1,1,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,Enoch Woodbridge,WE0152,null,null,1,1,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,George Motes,MG0129,null,null,1,1,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,Joseph J. Tobias,TJ0432,null,null,1,1,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,Nathaniel Cushman,CN0073,null,null,1,1,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,scattering,null,null,null,19,19,0,0.0
+vt.uscongress.northwest.secondballot.1803,1803,William Wilson,WW0264,null,null,1,1,0,0.0
+vt.uscongress.northwest.thirdballot.1803,1803,Elias Bidel,BE0125,null,null,0,NA,0,NaN
+vt.uscongress.northwest.thirdballot.1803,1803,Martin Chittenden,CM0084,Federalist,A01,2355,2355,0,0.0
+vt.uscongress.northwest.thirdballot.1803,1803,Noah Chittenden,CN0046,null,null,0,NA,0,NaN
+vt.uscongress.northwest.thirdballot.1803,1803,Udney Hay,HU0003,Republican,A03,1951,1951,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Aaron Leland,LA0135,Republican,A03,206,206,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Alden Spooner,SA0275,null,null,1,1,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Amasa Paine,PA0117,null,null,22,22,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Benjamin Emmons,EB0022,null,null,1,1,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Benjamin Swan,SB0024,null,null,1,1,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Daniel Buck,BD0212,Federalist,null,3,3,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Daniel Farrand,FD0052,Federalist,A01,1730,1730,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Lewis R. Morris,ML0045,Federalist,A01,42,42,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Lot Hall,HL0043,Federalist,null,8,8,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Paul Brigham,BP0101,null,null,26,26,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,scattering,null,null,null,49,49,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Stephen Jacob,JS0060,null,null,22,22,0,0.0
+vt.uscongress.southeast.secondballot.1803,1803,Thomas Gross,GT0053,null,null,3,3,0,0.0

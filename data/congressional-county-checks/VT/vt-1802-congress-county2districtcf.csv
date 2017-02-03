@@ -1,0 +1,55 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.southeast.1802,1802,Lewis R. Morris,ML0045,Federalist,A01,429,1270,841,0.66
+vt.uscongress.southeast.1802,1802,James Elliot,EJ0292,Federalist,A03,939,1188,249,0.21
+vt.uscongress.southeast.1802,1802,Paul Brigham,BP0101,Republican,A03,49,150,101,0.67
+vt.uscongress.southeast.1802,1802,Amasa Paine,PA0117,Federalist,A01,3,82,79,0.96
+vt.uscongress.northwest.1802,1802,Daniel Chipman,CD0204,Federalist,A01,0,74,74,1.0
+vt.uscongress.northwest.1802,1802,William C. Harrington,HW0348,Federalist,A01,0,60,60,1.0
+vt.uscongress.northwest.1802,1802,Noah Chittenden,CN0046,Republican,A03,0,28,28,1.0
+vt.uscongress.southeast.1802,1802,scattering,null,null,null,0,25,25,1.0
+vt.uscongress.northwest.1802,1802,Joel Linsley,LJ0546,null,null,0,22,22,1.0
+vt.uscongress.southeast.1802,1802,Lot Hall,HL0043,Federalist,A01,4,24,20,0.83
+vt.uscongress.southeast.1802,1802,Daniel Farrand,FD0052,Federalist,A01,0,18,18,1.0
+vt.uscongress.southeast.1802,1802,Jonathan Hunt,HJ1284,null,null,9,1,-8,0.89
+vt.uscongress.southeast.1802,1802,Stephen Jacob,JS0060,Federalist,A01,8,16,8,0.5
+vt.uscongress.northwest.1802,1802,Udney Hay,HU0003,Republican,A03,1435,1441,6,0.0
+vt.uscongress.northeast.1802,1802,James Fisk,FJ0462,Republican,A03,113,108,-5,0.04
+vt.uscongress.southeast.1802,1802,Mark Richards,RM0056,null,null,1,5,4,0.8
+vt.uscongress.southeast.1802,1802,Daniel Buck,BD0212,Federalist,null,0,2,2,1.0
+vt.uscongress.southeast.1802,1802,Aaron Leland,LA0135,Republican,A03,9,10,1,0.1
+vt.uscongress.southeast.1802,1802,Alden Spooner,SA0275,null,null,6,7,1,0.14
+vt.uscongress.southeast.1802,1802,Nathaniel Niles,NN0014,null,null,0,1,1,1.0
+vt.uscongress.northeast.1802,1802,James Whitlaw,WJ0968,null,null,1,1,0,0.0
+vt.uscongress.northeast.1802,1802,Jedediah P. Buckingham,BJ0158,null,null,1,1,0,0.0
+vt.uscongress.northeast.1802,1802,Nathaniel Niles,NN0014,Republican,A03,679,679,0,0.0
+vt.uscongress.northeast.1802,1802,Samuel C. Crafts,CS0219,null,null,3,3,0,0.0
+vt.uscongress.northeast.1802,1802,scattering,null,Republican,A03,1,1,0,0.0
+vt.uscongress.northeast.1802,1802,William Chamberlain,CW0352,Federalist,A01,891,891,0,0.0
+vt.uscongress.northwest.1802,1802,Amos Marsh,MA0292,Federalist,A01,620,620,0,0.0
+vt.uscongress.northwest.1802,1802,Asa Lyon,LA0126,Federalist,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Enoch Woodbridge,WE0152,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Ezra Butler,BE0213,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Gamaliel Painter,PG0094,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Ira Allen,AI0025,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Isaac Bull,BI0087,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Israel Smith,SI0092,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,"Joshua Stanton, Jr.",SJ1150,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Martin Chittenden,CM0084,Federalist,A01,894,894,0,0.0
+vt.uscongress.northwest.1802,1802,Noah Chipman,CN0071,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Reuben Saxton,SR0133,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Samuel B. Sheldon,SS0258,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,Samuel Hitchcock,HS0250,null,null,0,NA,0,NaN
+vt.uscongress.northwest.1802,1802,scattering,null,null,null,0,NA,0,NaN
+vt.uscongress.southeast.1802,1802,Nathan Coolidge,CN0074,null,null,8,8,0,0.0
+vt.uscongress.southeast.1802,1802,T. Gross,GT0053,null,null,1,1,0,0.0
+vt.uscongress.southwest.1802,1802,Abel Spencer,SA0276,Federalist,A01,360,360,0,0.0
+vt.uscongress.southwest.1802,1802,C. Smith,SC0144,null,null,8,8,0,0.0
+vt.uscongress.southwest.1802,1802,Chauncey Langdon,LC0074,Federalist,A01,253,253,0,0.0
+vt.uscongress.southwest.1802,1802,Daniel Fay,FD0008,null,null,48,48,0,0.0
+vt.uscongress.southwest.1802,1802,Gideon Olin,OG0018,Republican,A03,1380,1380,0,0.0
+vt.uscongress.southwest.1802,1802,James Wetherill,WJ0969,null,null,12,12,0,0.0
+vt.uscongress.southwest.1802,1802,Jonas Galusha,GJ0613,Republican,A03,462,462,0,0.0
+vt.uscongress.southwest.1802,1802,Jonathan Bell,BJ0148,null,null,1,1,0,0.0
+vt.uscongress.southwest.1802,1802,Moses Robinson,RM0051,null,null,5,5,0,0.0
+vt.uscongress.southwest.1802,1802,scattering,null,null,null,12,12,0,0.0
+vt.uscongress.southwest.1802,1802,Theophilus Harrington,HT0031,null,null,1,1,0,0.0

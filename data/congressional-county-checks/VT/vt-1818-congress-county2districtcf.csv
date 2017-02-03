@@ -1,0 +1,72 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.1818,1818,Charles Rich,RC0058,Republican,A03,13957,NA,-13957,1.0
+vt.uscongress.1818,1818,Mark Richards,RM0056,Republican,A03,13880,NA,-13880,1.0
+vt.uscongress.1818,1818,William Strong,SW0343,Republican,A03,13019,NA,-13019,1.0
+vt.uscongress.1818,1818,Samuel C. Crafts,CS0219,Republican,A03,11194,NA,-11194,1.0
+vt.uscongress.1818,1818,Ezra Meach,ME0130,Republican,A03,10454,NA,-10454,1.0
+vt.uscongress.1818,1818,Rollin C. Mallary,MR0206,Republican,A03,7102,NA,-7102,1.0
+vt.uscongress.1818,1818,William A. Griswold,GW0183,Republican,A03,7075,NA,-7075,1.0
+vt.uscongress.1818,1818,Orsamus C. Merrill,MO0010,Republican,A03,7039,NA,-7039,1.0
+vt.uscongress.1818,1818,John Peck,PJ0719,Republican,A03,6828,NA,-6828,1.0
+vt.uscongress.1818,1818,David Edmond,ED0031,Federalist,A01,4885,NA,-4885,1.0
+vt.uscongress.1818,1818,Horace Everett,EH0029,Federalist,A01,4827,NA,-4827,1.0
+vt.uscongress.1818,1818,Phineas White,WP0105,Federalist,A01,4741,NA,-4741,1.0
+vt.uscongress.1818,1818,Richard Skinner,SR0206,Federalist,A01,3679,NA,-3679,1.0
+vt.uscongress.1818,1818,Elias Keyes,KE0050,Republican,A03,817,NA,-817,1.0
+vt.uscongress.1818,1818,Asa Lyon,LA0126,Federalist,A01,620,NA,-620,1.0
+vt.uscongress.1818,1818,Samuel Prentiss,PS0139,Federalist,A01,360,NA,-360,1.0
+vt.uscongress.1818,1818,John Mattocks,MJ1397,Federalist,A01,265,NA,-265,1.0
+vt.uscongress.1818,1818,Chauncey Langdon,LC0074,Federalist,A01,256,NA,-256,1.0
+vt.uscongress.1818,1818,scattering,null,null,null,191,NA,-191,1.0
+vt.uscongress.1818,1818,Daniel Chipman,CD0204,Federalist,A01,86,NA,-86,1.0
+vt.uscongress.1818,1818,Charles K. Williams,WC0090,Federalist,A01,43,NA,-43,1.0
+vt.uscongress.1818,1818,Heman Allen,AH0032,Federalist,A01,39,NA,-39,1.0
+vt.uscongress.1818,1818,William Hunter,HW0335,Republican,A03,39,NA,-39,1.0
+vt.uscongress.1818,1818,Levi Barnard,BL0003,Federalist,A01,30,NA,-30,1.0
+vt.uscongress.1818,1818,William Chamberlain,CW0352,Federalist,A01,30,NA,-30,1.0
+vt.uscongress.1818,1818,Charles Marsh,MC0079,Federalist,A01,20,NA,-20,1.0
+vt.uscongress.1818,1818,Daniel Farrand,FD0052,Federalist,A01,15,NA,-15,1.0
+vt.uscongress.1818,1818,Gamaliel Painter,PG0094,Federalist,A01,13,NA,-13,1.0
+vt.uscongress.1818,1818,Martin Chittenden,CM0084,Federalist,A01,9,NA,-9,1.0
+vt.uscongress.1818,1818,Phineas Smith,SP0019,null,null,9,NA,-9,1.0
+vt.uscongress.1818,1818,Aaron Leland,LA0135,Republican,A03,7,NA,-7,1.0
+vt.uscongress.1818,1818,Pliny Smith,SP0018,Republican,A03,6,NA,-6,1.0
+vt.uscongress.1818,1818,Ezra Butler,BE0213,Republican,A03,5,NA,-5,1.0
+vt.uscongress.1818,1818,Truman Chittenden,CT0025,Republican,A03,5,NA,-5,1.0
+vt.uscongress.1818,1818,Asa Aldis,AA0064,null,null,4,NA,-4,1.0
+vt.uscongress.1818,1818,Uriel C. Hatch,HU0004,Republican,A03,4,NA,-4,1.0
+vt.uscongress.1818,1818,Beriah Loomis,LB0014,Federalist,A01,3,NA,-3,1.0
+vt.uscongress.1818,1818,George Robinson,RG0006,null,null,3,NA,-3,1.0
+vt.uscongress.1818,1818,Martin Field,FM0005,null,null,3,NA,-3,1.0
+vt.uscongress.1818,1818,William Page,PW0143,Federalist,A01,3,NA,-3,1.0
+vt.uscongress.1818,1818,Horatio Seymour,SH0191,null,null,2,NA,-2,1.0
+vt.uscongress.1818,1818,Lemuel Whitney,WL0006,null,null,2,NA,-2,1.0
+vt.uscongress.1818,1818,Richard Sherman,SR0022,null,null,2,NA,-2,1.0
+vt.uscongress.1818,1818,Timothy Stanley,ST0009,Republican,A03,2,NA,-2,1.0
+vt.uscongress.1818,1818,William A. Volmer,VW0010,null,null,2,NA,-2,1.0
+vt.uscongress.1818,1818,William C. Crafts,CW0099,null,null,2,NA,-2,1.0
+vt.uscongress.1818,1818,Zerah Willoby,WZ0002,Federalist,A01,2,NA,-2,1.0
+vt.uscongress.1818,1818,Abel Tomlinson,TA0067,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Benjamin Prentiss,PB0068,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,D.A.A. Buck,BD0173,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1818,1818,David Fay,FD0057,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Denison Smith,SD0031,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Ezra White,WE0175,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,George E. Wales,WG0119,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Gideon Olin,OG0018,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Horace Ellis,EH0018,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Isaac Clark,CI0053,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,J. H. Hubbard,HJ1289,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,J. Tarbox,TJ0420,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1818,1818,John Pearl,PJ0132,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Moses Robinson,RM0013,Federalist,A01,1,NA,-1,1.0
+vt.uscongress.1818,1818,Phineas Strong,SP0020,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Samuel Elliot,ES0058,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Samuel Fey,FS0003,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Sanford Gadcomb,GS0014,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Theophilus Crawford,CT0117,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1818,1818,Thomas Hammond,HT0030,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1818,1818,William Everett,EW0047,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,William Hall,HW0039,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,William Meach,MW0058,null,null,1,NA,-1,1.0
+vt.uscongress.1818,1818,Heman Allen,AH0034,Republican,A03,0,NA,0,NaN

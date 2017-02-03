@@ -1,0 +1,71 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.eastern.1796,1796,Daniel Buck,BD0212,Federalist,null,0,2931,2931,1.0
+vt.uscongress.western.1796,1796,Matthew Lyon,LM0053,null,null,0,1783,1783,1.0
+vt.uscongress.western.1796,1796,Israel Smith,SI0092,null,null,0,967,967,1.0
+vt.uscongress.western.1796,1796,Samuel Williams,WS0226,null,null,0,322,322,1.0
+vt.uscongress.western.1796,1796,Nathaniel Chipman,CN0042,Federalist,null,0,310,310,1.0
+vt.uscongress.western.1796,1796,Isaac Tichenor,TI0032,Federalist,null,0,287,287,1.0
+vt.uscongress.western.1796,1796,Gideon Olin,OG0018,null,null,0,198,198,1.0
+vt.uscongress.western.1796,1796,Enoch Woodbridge,WE0152,null,null,0,188,188,1.0
+vt.uscongress.western.1796,1796,Jonas Galusha,GJ0613,null,null,0,147,147,1.0
+vt.uscongress.western.1796,1796,Daniel Chipman,CD0204,Federalist,null,0,86,86,1.0
+vt.uscongress.2.1796,1796,Samuel Williams,WS0226,null,null,33,109,76,0.7
+vt.uscongress.western.1796,1796,Samuel Hitchcock,HS0250,null,null,0,52,52,1.0
+vt.uscongress.2.1796,1796,Gideon Olin,OG0018,null,null,14,40,26,0.65
+vt.uscongress.2.1796,1796,Nathaniel Chipman,CN0042,Federalist,null,0,26,26,1.0
+vt.uscongress.eastern.1796,1796,Nathaniel Niles,NN0014,null,null,0,20,20,1.0
+vt.uscongress.2.1796,1796,scattering,null,null,null,169,150,-19,0.11
+vt.uscongress.2.1796,1796,Daniel Chipman,CD0204,Federalist,null,0,13,13,1.0
+vt.uscongress.2.1796,1796,Jonas Galusha,GJ0613,null,null,14,23,9,0.39
+vt.uscongress.western.1796,1796,Samuel Safford,SS0310,null,null,0,8,8,1.0
+vt.uscongress.western.1796,1796,Jonathan Robinson,RJ0696,null,null,0,5,5,1.0
+vt.uscongress.western.1796,1796,Noah Smith,SN0074,null,null,0,4,4,1.0
+vt.uscongress.western.1796,1796,Ebenezer Marvin,ME0125,null,null,0,3,3,1.0
+vt.uscongress.2.1796,1796,Noah Smith,SN0074,null,null,0,2,2,1.0
+vt.uscongress.western.1796,1796,Gameliel Painter,PG0094,null,null,0,2,2,1.0
+vt.uscongress.western.1796,1796,Timothy Todd,TT0088,null,null,0,2,2,1.0
+vt.uscongress.western.1796,1796,William C. Harrington,HW0348,null,null,0,2,2,1.0
+vt.uscongress.2.1796,1796,Ebenezer Marvin,ME0125,null,null,1,2,1,0.5
+vt.uscongress.2.1796,1796,Isaac Tichenor,TI0032,Federalist,null,0,1,1,1.0
+vt.uscongress.2.1796,1796,John Bowman,BJ1426,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Chauncey Langdon,LC0074,Federalist,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Cole,null,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,David Robinson,RD0116,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,David Sheldon,SD0207,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,David Whitney,WD0121,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Eli Cogfell,CE0158,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Enos Smith,SE0129,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Hubbard Barlow,BH0172,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Ira Allen,AI0025,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Joshua Hyde,HJ1286,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Josiah Smith,SJ1548,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Levi House,HL0044,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Nathan Osgood,ON0001,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Peter Wright,WP0098,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Roswell Hopkins,HR0214,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Samuel Miller,MS0246,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Samuel Williams,WS0226,null,null,0,1,1,1.0
+vt.uscongress.western.1796,1796,Solomon Waldbridge,WS0231,null,null,0,1,1,1.0
+vt.uscongress.2.1796,1796,Abner Hawley,HA0188,null,null,1,1,0,0.0
+vt.uscongress.2.1796,1796,Chauncey Smith,SC0144,null,null,1,1,0,0.0
+vt.uscongress.2.1796,1796,Enoch Woodbridge,WE0152,null,null,1,1,0,0.0
+vt.uscongress.2.1796,1796,Israel Smith,SI0092,null,null,813,813,0,0.0
+vt.uscongress.2.1796,1796,Joel Lindy,LJ0471,null,null,1,1,0,0.0
+vt.uscongress.2.1796,1796,Martin Chittenden,CM0084,Federalist,null,1,1,0,0.0
+vt.uscongress.2.1796,1796,Matthew Lyon,LM0053,null,null,1874,1874,0,0.0
+vt.uscongress.2.1796,1796,Samuel Hitchcock,HS0250,null,null,980,980,0,0.0
+vt.uscongress.2.1796,1796,Samuel Safford,SS0310,null,null,5,5,0,0.0
+vt.uscongress.2.1796,1796,Thomas D. Rodd,RT0110,null,null,1,1,0,0.0
+vt.uscongress.2.1796,1796,Udney Hay,HU0003,null,null,1,1,0,0.0
+vt.uscongress.eastern.1796,1796,Abel Stevens,SA0241,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Benjamin Burt,BB0038,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Benjamin Henry,HB0147,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Elias Stevens,SE0177,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Isaac Tichenor,TI0032,Federalist,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Lewis R. Morris,ML0045,Federalist,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Lot Hall,HL0043,Federalist,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Martin Tuller,TM0027,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Oliver Gallup,GO0011,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Paul Brigham,BP0101,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,scattering,null,null,null,0,NA,0,NaN
+vt.uscongress.eastern.1796,1796,Stephen Jacobs,JS0060,null,null,0,NA,0,NaN

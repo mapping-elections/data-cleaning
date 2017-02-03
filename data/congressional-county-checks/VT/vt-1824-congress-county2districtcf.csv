@@ -1,0 +1,207 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress1.1824,1824,William C. Bradley,BW0418,Republican,A03,2012,1961,-51,0.03
+vt.uscongress1.1824,1824,scattering,null,null,null,2,1,-1,0.5
+vt.uscongress4.1824,1824,G. O. Dixon,DG0065,null,null,2,1,-1,0.5
+vt.uscongress4.1824,1824,Noel Dowry,DN0055,null,null,0,1,1,1.0
+vt.uscongress1.1824,1824,Aaron Barney,BA0246,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Alexander Campbell,CA0208,null,null,5,5,0,0.0
+vt.uscongress1.1824,1824,Amos Brown,BA0252,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Andrew Lyman,LA0103,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,"Asa Keyes, 2nd",KA0058,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Barzillai Burges,BB0152,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Benjamin Lee,LB0028,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Benjamin Swift,SB0127,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Calvin Sheldon,SC0145,Republican,A03,420,420,0,0.0
+vt.uscongress1.1824,1824,Cornelius P. Van Ness,VC0022,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Darius Clark,CD0151,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,David Burr,BD0205,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,David Colvin,CD0150,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,David Henry,HD0167,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,David Rugg,RD0087,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Edward Houghton,HE0154,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Elisha Hopkins,HE0155,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Hazelton Price,PH0073,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Jairus Hall,HJ0944,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,"Jason Duncan, Jr.",DJ0464,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,John Bartlett,BJ1086,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,John Mason,MJ0872,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,John Phelps,PJ0486,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,John Roberts,RJ0501,null,null,3,3,0,0.0
+vt.uscongress1.1824,1824,John S. Pettibone,PJ0499,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Jonas Galusha,GJ0613,null,null,3,3,0,0.0
+vt.uscongress1.1824,1824,Jonathan Hunt,HJ0949,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Joseph Boyden,BJ1100,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Joseph Burr,BJ1101,null,null,7,7,0,0.0
+vt.uscongress1.1824,1824,Joseph Window,WJ0791,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Josiah Burton,BJ1102,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Lemuel Whitney,WL0006,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Martin Field,FM0005,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Myron Clark,CM0097,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Nathan H. Battum,BN0081,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Oliver Hanks,HO0036,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Orsamus C. Merrill,MO0010,Republican,A03,15,15,0,0.0
+vt.uscongress1.1824,1824,Peter R. Taft,TP0045,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Phineas White,WP0105,Federalist,A01,1455,1455,0,0.0
+vt.uscongress1.1824,1824,Richard Skinner,SR0206,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Rollin C. Mallory,MR0206,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Samuel Elliot,ES0058,Federalist,A01,13,13,0,0.0
+vt.uscongress1.1824,1824,Samuel Fay,FS0003,null,null,3,3,0,0.0
+vt.uscongress1.1824,1824,Seth Moore,MS0154,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Solomon Wright,WS0114,null,null,1,1,0,0.0
+vt.uscongress1.1824,1824,Theophilus Crawford,CT0117,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,William Hall,HW0333,Federalist,null,1,1,0,0.0
+vt.uscongress1.1824,1824,"William Stutney, Jr.",SW0378,null,null,2,2,0,0.0
+vt.uscongress1.1824,1824,Zadowick Stanton,SZ0006,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Aaron Leland,LA0135,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Amos W. Basman,BA0251,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,Artemas Hyman,HA0227,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Calvin Solace,SC0179,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Chad Phillips,PC0078,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Charles K. Williams,WC0090,Republican,A03,74,74,0,0.0
+vt.uscongress2.1824,1824,Charles Rich,RC0058,Republican,A03,32,32,0,0.0
+vt.uscongress2.1824,1824,Chauncey Langdon,LC0074,Federalist,null,2,2,0,0.0
+vt.uscongress2.1824,1824,Christopher Denison,DC0074,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,"Christopher Denison, Jr.",DC0075,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Cornelius P. Van Ness,VC0022,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,D. A.A. Buck,BD0173,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,E. H. Judd,JE0040,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Joel Doolittle,DJ0058,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,John Kellogg,KJ0276,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,John Rawson,RJ0520,null,null,5,5,0,0.0
+vt.uscongress2.1824,1824,John S. Gevierber,GJ0497,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Linsey Round,RL0031,null,null,4,4,0,0.0
+vt.uscongress2.1824,1824,Luther Everts,EL0014,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Moses Cotton,CM0096,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Nathan Fisher,FN0043,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Raymond Hotchkiss,HR0107,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Reuben Monkton,MR0182,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,Robert Pierpoint,PR0116,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Robert Temple,TR0066,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,Rollin C. Mallory,MR0206,Republican,A03,3284,3284,0,0.0
+vt.uscongress2.1824,1824,Samuel Howard,HS0254,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Samuel Swift,SS0254,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Seth Blossom,BS0197,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Seth Wallis,WS0219,null,null,1,1,0,0.0
+vt.uscongress2.1824,1824,Silas W. Hodgen,HS0255,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,Stephen Haight,HS0258,null,null,2,2,0,0.0
+vt.uscongress2.1824,1824,Zidon Edson,EZ0001,null,null,2,2,0,0.0
+vt.uscongress3.1824,1824,Aaron Leland,LA0135,null,null,3,3,0,0.0
+vt.uscongress3.1824,1824,Charles Leavent,LC0050,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Dudley Chase,CD0206,null,null,2,2,0,0.0
+vt.uscongress3.1824,1824,Ebenezer E. Wales,WE0178,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Edward Ingalls,IE0010,null,null,4,4,0,0.0
+vt.uscongress3.1824,1824,Edward Simons,SE0178,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Elias Keyes,KE0050,Republican,A03,189,189,0,0.0
+vt.uscongress3.1824,1824,Elihu Luce,LE0070,null,null,2,2,0,0.0
+vt.uscongress3.1824,1824,George E. Wales,WG0119,Republican,A03,2763,2763,0,0.0
+vt.uscongress3.1824,1824,Horace Everett,EH0029,Federalist,A01,944,944,0,0.0
+vt.uscongress3.1824,1824,Isaac N. Cushman,CI0014,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Jabez Delano,DJ0445,null,null,6,6,0,0.0
+vt.uscongress3.1824,1824,James Parker,PJ0483,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Joel Black,BJ1083,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,John Bridge,BJ1087,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,John Brown,BJ1140,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Jonathan Shead,SJ1123,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Lebbeus Cheese,CL0043,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Moses Haven,HM0113,null,null,3,3,0,0.0
+vt.uscongress3.1824,1824,Phineas T. Wales,WP0063,null,null,3,3,0,0.0
+vt.uscongress3.1824,1824,Phineas White,WP0105,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Rodolphus Dewey,DR0073,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Rollin C. Mallory,MR0206,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Samuel C. Loudand,LS0118,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Thomas Emmerson,ET0036,null,null,2,2,0,0.0
+vt.uscongress3.1824,1824,Thomas H. Hammond,HT0030,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,Titus Hutchinson,HT0218,null,null,6,6,0,0.0
+vt.uscongress3.1824,1824,William Heaton,HW0226,null,null,2,2,0,0.0
+vt.uscongress3.1824,1824,William Nutting,NW0048,null,null,1,1,0,0.0
+vt.uscongress3.1824,1824,William Thayer,TW0173,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Abner Keeler,KA0052,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Alfred Wheeler,WA0209,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Amos B. Cooper,CA0228,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Asa Aldis,AA0064,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,Asa Lyon,LA0126,Federalist,null,4,4,0,0.0
+vt.uscongress4.1824,1824,Augustus Young,YA0011,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Austin Fuller,FA0102,null,null,6,6,0,0.0
+vt.uscongress4.1824,1824,Benjamin Hinman,HB0113,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Benjamin Swift,SB0127,Republican,A03,1836,1836,0,0.0
+vt.uscongress4.1824,1824,Charles Adams,AC0027,null,null,7,7,0,0.0
+vt.uscongress4.1824,1824,Chauncey Brownall,BC0172,null,null,3,3,0,0.0
+vt.uscongress4.1824,1824,D. M. Camp,CD0153,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,E. T. Englesby,EE0033,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Edward Jones,JE0039,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Elisha Boundman,BE0152,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Ephraim Bradley,BE0153,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Ezra Meech,ME0130,Republican,A03,3095,3095,0,0.0
+vt.uscongress4.1824,1824,Frederick Fuller,FF0016,null,null,3,3,0,0.0
+vt.uscongress4.1824,1824,Garrad Burnett,BG0123,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,George Robinson,RG0006,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Heman Allen,AH0032,Federalist,A01,204,204,0,0.0
+vt.uscongress4.1824,1824,Israel P. Richardson,RI0035,null,null,4,4,0,0.0
+vt.uscongress4.1824,1824,J. Burton,BJ1138,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Jabez Penniman,PJ0500,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Jeremiah Finch,FJ0375,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,John Kimball,KJ0285,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,John Warner,WJ0787,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Jonathan Berry,BJ1139,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,Joseph Scott,SJ1124,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Luther B. Hunt,HL0063,null,null,4,4,0,0.0
+vt.uscongress4.1824,1824,Moses Davis,DM0044,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,Nathan Bryan,BN0082,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Nathaniel Newall,NN0024,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,Pernuel Leavins,LP0025,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Roger Enos,ER0034,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,Rosewell Butler,BR0165,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Samuel C. Crafts,CS0219,Republican,A03,34,34,0,0.0
+vt.uscongress4.1824,1824,Samuel Chamberlain,CS0194,null,null,3,3,0,0.0
+vt.uscongress4.1824,1824,Samuel Hover,HS0273,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Samuel Mead,MS0155,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,scattering,null,null,null,6,6,0,0.0
+vt.uscongress4.1824,1824,Solomon Balch,BS0201,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,"Stephen Royce, Jr.",RS0121,Republican,A03,409,409,0,0.0
+vt.uscongress4.1824,1824,Thaddeus Murdock,MT0130,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Timothy Stanley,ST0009,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,William A. Griswold,GW0183,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,William Felton,FW0111,null,null,4,4,0,0.0
+vt.uscongress4.1824,1824,William Munson,MW0278,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,William P. Richardson,RW0162,null,null,3,3,0,0.0
+vt.uscongress4.1824,1824,William Rhodes,RW0161,null,null,2,2,0,0.0
+vt.uscongress4.1824,1824,Zara Cushman,CZ0010,null,null,1,1,0,0.0
+vt.uscongress4.1824,1824,Zerah Willoughby,WZ0002,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Abeel Lyman,LA0104,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Abel Keyes,KA0049,null,null,2,2,0,0.0
+vt.uscongress5.1824,1824,Andrew Brown,BA0255,null,null,2,2,0,0.0
+vt.uscongress5.1824,1824,Augustine Clark,CA0227,null,null,4,4,0,0.0
+vt.uscongress5.1824,1824,B. Newcomb,NB0010,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Benjamin Deming,DB0032,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Benjamin Rolfe,RB0038,null,null,5,5,0,0.0
+vt.uscongress5.1824,1824,Chester Nye,NC0017,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Cornelius P. Van Ness,VC0022,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Daniel Arzo A. Buck,BD0173,Republican,A03,2349,2349,0,0.0
+vt.uscongress5.1824,1824,Daniel Hopkinson,HD0168,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Dyer Hibbard,HD0163,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,E. G. MacLaughlin,ME0094,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Ebenezer Coos,CE0148,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Ernie Ile,IE0012,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,George W. Denison,DG0069,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Jabez Bigelow,BJ1135,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,James Matus,MJ0884,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,"Jesse Merrill, 2nd",MJ0885,null,null,3,3,0,0.0
+vt.uscongress5.1824,1824,John Mattocks,MJ1397,Federalist,A01,2629,2629,0,0.0
+vt.uscongress5.1824,1824,John Peck,PJ0719,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,John Rand,RJ0521,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Jonah Carpenter,CJ0794,null,null,3,3,0,0.0
+vt.uscongress5.1824,1824,Josiah Holliston,HJ0986,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Leonard Everett,EL0012,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Moulton Morey,MM0105,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Nicholas Bayless,BN0078,null,null,2,2,0,0.0
+vt.uscongress5.1824,1824,Robert,null,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Samuel Chamberlain,CS0194,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Samuel Duncan,DS0084,null,null,3,3,0,0.0
+vt.uscongress5.1824,1824,Samuel Prentiss,PS0139,Federalist,null,3,3,0,0.0
+vt.uscongress5.1824,1824,scattering,null,null,null,5,5,0,0.0
+vt.uscongress5.1824,1824,Slyvanus Hemingway,HS0257,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,Sylvester Holt,HS0267,null,null,2,2,0,0.0
+vt.uscongress5.1824,1824,Walter Harvey,HW0217,null,null,1,1,0,0.0
+vt.uscongress5.1824,1824,William Cahoon,CW0373,Republican,A03,23,23,0,0.0
+vt.uscongress5.1824,1824,William Chamberlain,CW0352,null,null,4,4,0,0.0
+vt.uscongress5.1824,1824,William Mattocks,MW0275,null,null,3,3,0,0.0

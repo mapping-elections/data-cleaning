@@ -1,0 +1,45 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.southeast.secondballot.1808,1808,Reuben Hatch,HR0106,Federalist,A01,0,2,2,1.0
+vt.uscongress.southeast.secondballot.1808,1808,Titus Hutchinson,HT0218,Republican,A03,3,1,-2,0.67
+vt.uscongress.northeast.1808,1808,Nathaniel King,KN0020,null,null,0,1,1,1.0
+vt.uscongress.northeast.1808,1808,Aaron Porter,PA0154,null,null,4,4,0,0.0
+vt.uscongress.northeast.1808,1808,Benjamin Swan,SB0024,null,null,2,2,0,0.0
+vt.uscongress.northeast.1808,1808,Cyrus Ware,WC0078,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Dudley Chase,CD0206,null,null,2,2,0,0.0
+vt.uscongress.northeast.1808,1808,Elishu Taylor,TE0061,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Ezra Butler,BE0213,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Isaac Tichenor,TI0032,Federalist,null,3,3,0,0.0
+vt.uscongress.northeast.1808,1808,Israel Smith,SI0092,null,null,15,15,0,0.0
+vt.uscongress.northeast.1808,1808,James Fisk,FJ0462,Republican,A03,2833,2833,0,0.0
+vt.uscongress.northeast.1808,1808,Jedediah P. Buckingham,BJ0158,Federalist,A01,2867,2867,0,0.0
+vt.uscongress.northeast.1808,1808,John Hutchinson,HJ0948,null,null,2,2,0,0.0
+vt.uscongress.northeast.1808,1808,John Lyon,LJ0474,null,null,2,2,0,0.0
+vt.uscongress.northeast.1808,1808,Jonathan Bass,BJ1097,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Josiah Dana,DJ0452,null,null,2,2,0,0.0
+vt.uscongress.northeast.1808,1808,Leonard Worcester,WL0066,null,null,5,5,0,0.0
+vt.uscongress.northeast.1808,1808,Moulton Morey,MM0105,null,null,2,2,0,0.0
+vt.uscongress.northeast.1808,1808,Paul Brigham,BP0101,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Samuel Crafts,CS0219,null,null,24,24,0,0.0
+vt.uscongress.northeast.1808,1808,Samuel Smith,SS0253,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Thaddeus White,WT0124,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Thomas Jefferson,JT0079,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,Timothy Edson,ET0037,null,null,4,4,0,0.0
+vt.uscongress.northeast.1808,1808,William A. Griswold,GW0183,null,null,1,1,0,0.0
+vt.uscongress.northeast.1808,1808,William Chamberlain,CW0352,Federalist,A01,81,81,0,0.0
+vt.uscongress.northeast.2.1808,1808,Dudley Chase,CD0206,null,null,2,2,0,0.0
+vt.uscongress.northeast.2.1808,1808,Ebenezer Chamberlain,CE0139,null,null,1,1,0,0.0
+vt.uscongress.northeast.2.1808,1808,James Fisk,FJ0462,Republican,A03,2579,2579,0,0.0
+vt.uscongress.northeast.2.1808,1808,Jedediah P. Buckingham,BJ0158,null,null,1,1,0,0.0
+vt.uscongress.northeast.2.1808,1808,Nathaniel Niles,NN0014,null,null,2,2,0,0.0
+vt.uscongress.northeast.2.1808,1808,Samuel C. Crafts,CS0219,null,null,4,4,0,0.0
+vt.uscongress.northeast.2.1808,1808,scattering,null,null,null,34,34,0,0.0
+vt.uscongress.northeast.2.1808,1808,William Chamberlain,CW0352,Federalist,A01,2783,2783,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Aaron Leland,LA0135,Republican,A03,2569,2569,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Benjamin Swan,SB0024,Federalist,A01,1,1,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Charles Marsh,MC0079,Federalist,A01,2,2,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Elias Keyes,KE0050,Republican,A03,84,84,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Elijah Knight,KE0039,Republican,A03,1,1,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Jonathan H. Hubbard,HJ1289,Federalist,A01,3142,3142,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Paul Brigham,BP0101,Republican,A03,23,23,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,Royal Tyler,TR0035,Republican,A03,1,1,0,0.0
+vt.uscongress.southeast.secondballot.1808,1808,William C. Bradley,BW0418,Republican,A03,263,263,0,0.0

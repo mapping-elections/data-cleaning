@@ -1,0 +1,53 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1365
+2,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,1119
+3,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,112
+4,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,null,null,NA
+5,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Gardner Chandler,CG0109,null,null,NA
+6,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Josiah Taft,TJ0436,null,null,NA
+7,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,"William Slade, Jr.",SW0372,null,null,NA
+8,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,John Bush,BJ1557,null,null,NA
+9,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Solomon Drake,DS0161,null,null,NA
+10,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Stephen Hughes,HS0318,null,null,NA
+11,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Putnam Bishop,BP0139,null,null,NA
+12,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Clark Meach,MC0110,null,null,NA
+13,Addison,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,scattering,null,null,null,12
+1,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,112
+2,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,198
+3,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,205
+4,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,null,null,NA
+5,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Gardner Chandler,CG0109,null,null,NA
+6,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Josiah Taft,TJ0436,null,null,NA
+7,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,"William Slade, Jr.",SW0372,null,null,NA
+8,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,John Bush,BJ1557,null,null,NA
+9,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Solomon Drake,DS0161,null,null,NA
+10,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Stephen Hughes,HS0318,null,null,NA
+11,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Putnam Bishop,BP0139,null,null,NA
+12,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Clark Meach,MC0110,null,null,NA
+13,Chittenden,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,653
+2,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,287
+3,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1
+4,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,null,null,NA
+5,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Gardner Chandler,CG0109,null,null,NA
+6,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Josiah Taft,TJ0436,null,null,NA
+7,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,"William Slade, Jr.",SW0372,null,null,NA
+8,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,John Bush,BJ1557,null,null,NA
+9,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Solomon Drake,DS0161,null,null,NA
+10,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Stephen Hughes,HS0318,null,null,NA
+11,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Putnam Bishop,BP0139,null,null,NA
+12,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Clark Meach,MC0110,null,null,NA
+13,Rutland,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,28
+2,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,158
+3,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,NA
+4,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Henry Olin,OH0015,null,null,NA
+5,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Gardner Chandler,CG0109,null,null,NA
+6,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Josiah Taft,TJ0436,null,null,NA
+7,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,"William Slade, Jr.",SW0372,null,null,NA
+8,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,John Bush,BJ1557,null,null,NA
+9,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Solomon Drake,DS0161,null,null,NA
+10,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Stephen Hughes,HS0318,null,null,NA
+11,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Putnam Bishop,BP0139,null,null,NA
+12,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,Clark Meach,MC0110,null,null,NA
+13,Washington,vt.uscongress3.thirdballot.1821,1821-02,1821,General,"Vermont 1821 U.S. House of Representatives, District 3, Ballot 3",U.S. House of Representatives,ON125,scattering,null,null,null,3

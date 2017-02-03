@@ -1,0 +1,924 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1048
+2,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1043
+3,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,914
+4,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,787
+5,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,655
+6,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,855
+7,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,750
+8,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,270
+9,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,793
+10,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,559
+11,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,547
+12,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,548
+13,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,478
+14,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,62
+15,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,NA
+16,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,NA
+17,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,NA
+19,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1
+26,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Addison,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1008
+2,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,997
+3,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,993
+4,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1386
+5,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1374
+6,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,63
+7,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,53
+8,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,970
+9,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,66
+10,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,430
+11,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,428
+12,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,430
+13,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,425
+14,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,NA
+15,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,NA
+16,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,NA
+17,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,NA
+19,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,7
+23,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,6
+24,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,2
+34,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,1
+38,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,1
+42,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,2
+45,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,1
+56,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Bennington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1132
+2,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1246
+3,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1132
+4,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,266
+5,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,88
+6,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,1180
+7,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,1304
+8,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,7
+9,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,1124
+10,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,490
+11,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,488
+12,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,486
+13,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,94
+14,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,1
+15,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,217
+16,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,217
+17,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,212
+18,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,3
+19,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,29
+25,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,1
+71,Caledonia,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,959
+2,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,961
+3,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,959
+4,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1163
+5,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1123
+6,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,96
+7,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,42
+8,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,866
+9,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,63
+10,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,331
+11,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,325
+12,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,322
+13,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,240
+14,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,NA
+15,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,69
+16,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,29
+17,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,40
+18,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,70
+19,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1
+26,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,1
+27,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,1
+46,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Chittenden,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,9
+1,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,223
+2,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,222
+3,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,188
+4,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,150
+5,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,212
+6,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,224
+7,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,306
+8,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,11
+9,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,67
+10,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,107
+11,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,107
+12,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,107
+13,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,2
+14,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,36
+15,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,NA
+16,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,NA
+17,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,NA
+19,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1
+20,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1
+26,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,1
+29,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1
+32,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,1
+38,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,1
+46,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,1
+50,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,1
+60,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,1
+63,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Essex,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,852
+2,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,734
+3,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,814
+4,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1090
+5,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1053
+6,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,40
+7,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,62
+8,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,801
+9,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,46
+10,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,497
+11,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,418
+12,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,456
+13,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,262
+14,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,NA
+15,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,165
+16,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,NA
+17,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,NA
+19,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,1
+35,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Franklin,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,141
+2,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,142
+3,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,141
+4,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,269
+5,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,269
+6,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,NA
+7,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,NA
+8,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,140
+9,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,NA
+10,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,142
+11,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,142
+12,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,142
+13,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,127
+14,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,NA
+15,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,15
+16,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,9
+17,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,16
+19,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,7
+30,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,1
+57,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Grande Isle,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1440
+2,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1374
+3,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1381
+4,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1130
+5,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1101
+6,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,520
+7,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,517
+8,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,918
+9,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,515
+10,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,256
+11,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,257
+12,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,256
+13,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,180
+14,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,53
+15,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,47
+16,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,44
+17,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,NA
+19,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,44
+20,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Orange,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,492
+2,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,470
+3,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,448
+4,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,528
+5,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,433
+6,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,184
+7,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,139
+8,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,288
+9,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,203
+10,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,192
+11,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,192
+12,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,185
+13,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,145
+14,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,33
+15,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,17
+16,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,13
+17,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,13
+18,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,NA
+19,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,6
+33,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,1
+61,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Orleans,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,2299
+2,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,2310
+3,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,2049
+4,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,315
+5,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,291
+6,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,2285
+7,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,2256
+8,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,39
+9,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,2250
+10,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,298
+11,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,282
+12,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,265
+13,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,247
+14,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,245
+15,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,26
+16,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,NA
+17,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,79
+19,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,2
+21,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,7
+26,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,2
+29,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Rutland,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,38
+1,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,718
+2,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,720
+3,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,689
+4,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,731
+5,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,655
+6,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,284
+7,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,278
+8,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,449
+9,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,391
+10,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,387
+11,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,386
+12,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,341
+13,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,404
+14,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,12
+15,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,31
+16,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,47
+17,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,2
+19,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,NA
+20,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,40
+21,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,1
+25,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,NA
+26,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,13
+27,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,13
+28,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+31,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,NA
+32,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,2
+34,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,NA
+36,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,3
+39,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+40,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,NA
+48,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,1
+54,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,1
+66,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Washington,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,143
+1,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1214
+2,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,1219
+3,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1172
+4,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1495
+5,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1379
+6,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,327
+7,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,294
+8,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,859
+9,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,359
+10,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,701
+11,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,723
+12,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,719
+13,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,618
+14,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,11
+15,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,5
+16,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,1
+17,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,7
+19,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1
+20,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,1
+21,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,NA
+22,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,32
+23,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,33
+24,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,8
+26,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,1
+27,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,NA
+29,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,NA
+30,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,6
+31,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,2
+32,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,4
+35,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,1
+36,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,3
+37,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,1
+38,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,2
+40,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,NA
+41,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+42,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,NA
+43,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,2
+44,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,1
+48,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,1
+49,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,NA
+51,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,1
+52,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,NA
+53,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,NA
+55,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,1
+58,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,NA
+59,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,1
+62,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,1
+64,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,NA
+65,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,1
+67,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,NA
+68,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,NA
+69,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,NA
+70,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Windham,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,2431
+2,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Richards,RM0056,Republican,A03,2442
+3,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,2139
+4,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,Republican,A03,1884
+5,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Meach,ME0130,Republican,A03,1821
+6,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Rollin C. Mallary,MR0206,Republican,A03,1044
+7,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,Republican,A03,1074
+8,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1421
+9,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Peck,PJ0719,Republican,A03,951
+10,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Edmond,ED0031,Federalist,A01,495
+11,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,532
+12,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,484
+13,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Federalist,A01,457
+14,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,364
+15,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,28
+16,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Prentiss,PS0139,Federalist,A01,NA
+17,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mattocks,MJ1397,Federalist,A01,NA
+18,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,79
+19,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,40
+20,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+21,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,30
+22,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0032,Federalist,A01,NA
+23,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0335,Republican,A03,NA
+24,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,Federalist,A01,NA
+25,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,2
+26,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Farrand,FD0052,Federalist,A01,NA
+27,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gamaliel Painter,PG0094,Federalist,A01,NA
+28,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,6
+29,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Smith,SP0019,null,null,2
+30,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,1
+31,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,2
+32,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Pliny Smith,SP0018,Republican,A03,NA
+33,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+34,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Truman Chittenden,CT0025,Republican,A03,NA
+35,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,3
+36,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Martin Field,FM0005,null,null,NA
+37,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Beriah Loomis,LB0014,Federalist,A01,NA
+38,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Page,PW0143,Federalist,A01,NA
+39,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,1
+40,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Crafts,CW0099,null,null,2
+41,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,1
+42,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Sherman,SR0022,null,null,2
+43,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Stanley,ST0009,Republican,A03,NA
+44,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Volmer,VW0010,null,null,NA
+45,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zerah Willoby,WZ0002,Federalist,A01,NA
+46,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Heman Allen,AH0034,Republican,A03,NA
+47,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lemuel Whitney,WL0006,null,null,1
+48,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,D.A.A. Buck,BD0173,Republican,A03,NA
+49,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Clark,CI0053,null,null,NA
+50,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theophilus Crawford,CT0117,Republican,A03,1
+51,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+52,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Horace Ellis,EH0018,null,null,1
+53,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Everett,EW0047,null,null,NA
+54,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fay,FD0057,null,null,1
+55,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fey,FS0003,null,null,NA
+56,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Sanford Gadcomb,GS0014,null,null,NA
+57,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hall,HW0039,null,null,NA
+58,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hammond,HT0030,Republican,A03,1
+59,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. H. Hubbard,HJ1289,null,null,NA
+60,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Tarbox,TJ0420,Republican,A03,NA
+61,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Meach,MW0058,null,null,NA
+62,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gideon Olin,OG0018,null,null,NA
+63,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pearl,PJ0132,null,null,NA
+64,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prentiss,PB0068,null,null,1
+65,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+66,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Denison Smith,SD0031,null,null,NA
+67,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Phineas Strong,SP0020,null,null,1
+68,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Tomlinson,TA0067,null,null,1
+69,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George E. Wales,WG0119,null,null,1
+70,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra White,WE0175,null,null,NA
+71,Windsor,vt.uscongress.1818,1818-09,1818,General,Vermont 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA

@@ -1,0 +1,12 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Gideon Olin,OG0018,Republican,A03,1,Southwest,1380
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,2,Southwest,462
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Abel Spencer,SA0276,Federalist,A01,3,Southwest,360
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,4,Southwest,253
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Daniel Fay,FD0008,null,null,5,Southwest,48
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,James Wetherill,WJ0969,null,null,6,Southwest,12
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,C. Smith,SC0144,null,null,7,Southwest,8
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Moses Robinson,RM0051,null,null,8,Southwest,5
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Jonathan Bell,BJ0148,null,null,9,Southwest,1
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,Theophilus Harrington,HT0031,null,null,10,Southwest,1
+vt.uscongress.southwest.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Southwest District",U.S. House of Representatives,ON125,scattering,null,null,null,11,Southwest,12

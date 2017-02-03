@@ -1,0 +1,152 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress3.2.1820,1820,"Stephen Haight, Jr.",HS0258,null,null,0,6,6,1.0
+vt.uscongress3.2.1820,1820,Enoch D. Woodbridge,WE0152,null,null,0,1,1,1.0
+vt.uscongress1.1820,1820,Charles K. Williams,WC0090,Federalist,A01,7,7,0,0.0
+vt.uscongress1.1820,1820,Chauncey Langdon,LC0074,Federalist,A01,508,508,0,0.0
+vt.uscongress1.1820,1820,David Robinson,RD0084,null,null,1,1,0,0.0
+vt.uscongress1.1820,1820,Elijah Fillemore,FE0067,null,null,1,1,0,0.0
+vt.uscongress1.1820,1820,Moses Robinson,RM0013,Federalist,A01,1,1,0,0.0
+vt.uscongress1.1820,1820,Orsamus C. Merrill,MO0010,Republican,A03,1192,1192,0,0.0
+vt.uscongress1.1820,1820,Robert Pierpoint,PR0116,null,null,4,4,0,0.0
+vt.uscongress1.1820,1820,Rollin C. Mallory,MR0206,Republican,A03,1985,1985,0,0.0
+vt.uscongress1.1820,1820,scattering,null,null,null,53,53,0,0.0
+vt.uscongress1.1820,1820,William Henry,HW0200,null,null,1,1,0,0.0
+vt.uscongress1.1820,1820,Zadowick Stanton,SZ0006,null,null,11,11,0,0.0
+vt.uscongress2.1820,1820,Aaron Barney,BA0246,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,Aaron Heald,HA0219,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,Aaron Leland,LA0135,Republican,A03,69,69,0,0.0
+vt.uscongress2.1820,1820,Abner Holbrook,HA0229,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Abner W. Field,FA0098,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,Alexander Campbell,CA0208,null,null,7,7,0,0.0
+vt.uscongress2.1820,1820,Amos Hulet,HA0228,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Ebenezer Goodall,GE0041,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Edward R. Campbell,CE0134,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Edward Simons,SE0178,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,Ephraim Park,PE0128,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,"Henry Lake, Jr.",LH0058,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,James Elliot,EJ0292,Federalist,A01,434,434,0,0.0
+vt.uscongress2.1820,1820,Joel Black,BJ1083,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,John Roberts,RJ0501,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Jonas Mann,MJ0875,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,"Jonathan Hunt, Jr.",HJ0949,null,null,9,9,0,0.0
+vt.uscongress2.1820,1820,Joseph Boyden,BJ1100,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,Joseph Wilson,WJ0825,null,null,2,2,0,0.0
+vt.uscongress2.1820,1820,Luther Verny,VL0012,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Mark Richards,RM0056,Republican,A03,948,948,0,0.0
+vt.uscongress2.1820,1820,Martin Field,FM0005,null,null,12,12,0,0.0
+vt.uscongress2.1820,1820,Nathan Robinson,RN0000,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Peter W. Taft,TP0044,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Phinehas White,WP0105,Federalist,A01,1030,1030,0,0.0
+vt.uscongress2.1820,1820,Samuel Arnold,AS0085,null,null,4,4,0,0.0
+vt.uscongress2.1820,1820,Samuel Elliot,ES0058,Federalist,A01,78,78,0,0.0
+vt.uscongress2.1820,1820,Sherburne Hale,HS0256,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,Thomas Boyden,BT0155,null,null,1,1,0,0.0
+vt.uscongress2.1820,1820,William C. Bradley,BW0418,Republican,A03,19,19,0,0.0
+vt.uscongress2.1820,1820,William Cahoon,CW0373,Republican,A03,1,1,0,0.0
+vt.uscongress2.1820,1820,"William Hall, Jr.",HW0333,Federalist,A01,115,115,0,0.0
+vt.uscongress2.1820,1820,William Jarvis,JW0062,null,null,2,2,0,0.0
+vt.uscongress2.2.1820,1820,Aaron Leland,LA0135,Republican,A03,19,19,0,0.0
+vt.uscongress2.2.1820,1820,Edward Richards,RE0081,null,null,1,1,0,0.0
+vt.uscongress2.2.1820,1820,James Elliot,EJ0292,Federalist,A01,227,227,0,0.0
+vt.uscongress2.2.1820,1820,Jonathan Hunt Jr.,HJ0949,null,null,88,88,0,0.0
+vt.uscongress2.2.1820,1820,Linus Austin,AL0016,null,null,1,1,0,0.0
+vt.uscongress2.2.1820,1820,Mark Richards,RM0056,Republican,A03,763,763,0,0.0
+vt.uscongress2.2.1820,1820,Martin Field,FM0005,null,null,2,2,0,0.0
+vt.uscongress2.2.1820,1820,Phinehas White,WP0105,Federalist,A01,846,846,0,0.0
+vt.uscongress2.2.1820,1820,Samuel Elliot,ES0058,Federalist,A01,91,91,0,0.0
+vt.uscongress2.2.1820,1820,William Hall Jr.,HW0333,Federalist,A01,12,12,0,0.0
+vt.uscongress3.1820,1820,Apolus Austin,AA0040,null,null,13,13,0,0.0
+vt.uscongress3.1820,1820,Benjamin Miner,MB0072,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Charles Rich,RC0058,Republican,A03,1231,1231,0,0.0
+vt.uscongress3.1820,1820,David Edmond,ED0031,Federalist,A01,882,882,0,0.0
+vt.uscongress3.1820,1820,E. D. Woodbridge,WE0152,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Esaisa Butts,BE0130,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Ezra Meach,ME0130,Republican,A03,536,536,0,0.0
+vt.uscongress3.1820,1820,Henry Olin,OH0015,Republican,A03,439,439,0,0.0
+vt.uscongress3.1820,1820,John B. Catlin,CJ0798,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Nathaniel Newell,NN0024,null,null,2,2,0,0.0
+vt.uscongress3.1820,1820,Reuben Nash,NR0010,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Robert B. Hazard,HR0110,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Robert Chambers,CR0177,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,Samuel C. Crafts,CS0219,Republican,A03,1,1,0,0.0
+vt.uscongress3.1820,1820,scattering,null,null,null,21,21,0,0.0
+vt.uscongress3.1820,1820,Stoddard Martin,MS0156,null,null,2,2,0,0.0
+vt.uscongress3.1820,1820,Thomas Rich,RT0084,null,null,1,1,0,0.0
+vt.uscongress3.1820,1820,William Slade,SW0372,null,null,26,26,0,0.0
+vt.uscongress3.2.1820,1820,Charles Rich,RC0058,Republican,A03,1186,1186,0,0.0
+vt.uscongress3.2.1820,1820,David Edmond,ED0031,Federalist,A01,1052,1052,0,0.0
+vt.uscongress3.2.1820,1820,Ezra Meach,ME0130,Republican,A03,133,133,0,0.0
+vt.uscongress3.2.1820,1820,Henry Olin,OH0015,Republican,A03,57,57,0,0.0
+vt.uscongress4.1820,1820,Aaron Leland,LA0135,Republican,A03,1,1,0,0.0
+vt.uscongress4.1820,1820,Abner Weston,WA0202,null,null,1,1,0,0.0
+vt.uscongress4.1820,1820,Asa Aiken,AA0065,Republican,A03,35,35,0,0.0
+vt.uscongress4.1820,1820,Asa Hunt,HA0230,null,null,2,2,0,0.0
+vt.uscongress4.1820,1820,Elias Keyes,KE0050,Republican,A03,1865,1865,0,0.0
+vt.uscongress4.1820,1820,Elpheus D. Briggs,BE0129,null,null,1,1,0,0.0
+vt.uscongress4.1820,1820,Horace Everett,EH0029,Federalist,A01,915,915,0,0.0
+vt.uscongress4.1820,1820,John Bridge,BJ1087,null,null,1,1,0,0.0
+vt.uscongress4.1820,1820,Lebbeus Egerton,EL0010,null,null,3,3,0,0.0
+vt.uscongress4.1820,1820,Luther Chaney,CL0042,null,null,1,1,0,0.0
+vt.uscongress4.1820,1820,Rodolphus Dewey,DR0073,null,null,1,1,0,0.0
+vt.uscongress4.1820,1820,scattering,null,null,null,32,32,0,0.0
+vt.uscongress4.1820,1820,Timothy Baylis,BT0156,null,null,4,4,0,0.0
+vt.uscongress4.1820,1820,Titus Hutchinson,HT0218,null,null,1,1,0,0.0
+vt.uscongress4.1820,1820,Uriel C. Hatch,HU0004,Republican,A03,581,581,0,0.0
+vt.uscongress4.1820,1820,William Jarvis,JW0062,null,null,2,2,0,0.0
+vt.uscongress4.1820,1820,William Nutting,NW0048,null,null,23,23,0,0.0
+vt.uscongress4.1820,1820,William Strong,SW0343,Republican,A03,214,214,0,0.0
+vt.uscongress4.1820,1820,Zebina Eaton,EZ0000,null,null,2,2,0,0.0
+vt.uscongress5.1820,1820,Abner Flanders,FA0101,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,Asa Lyon,LA0126,Federalist,A01,16,16,0,0.0
+vt.uscongress5.1820,1820,Benjamin Henman,HB0112,null,null,2,2,0,0.0
+vt.uscongress5.1820,1820,Benjamin Swift,SB0127,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,Calvin Bugbee,BC0171,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,D. A. A. Buck,BD0173,Republican,A03,1,1,0,0.0
+vt.uscongress5.1820,1820,Daniel Dodge,DD0046,null,null,2,2,0,0.0
+vt.uscongress5.1820,1820,Daniel Farrand,FD0052,Federalist,A01,1,1,0,0.0
+vt.uscongress5.1820,1820,Ezra Butler,BE0213,Republican,A03,1,1,0,0.0
+vt.uscongress5.1820,1820,Heman Allen,AH0032,Federalist,A01,1480,1480,0,0.0
+vt.uscongress5.1820,1820,Isaac Allen,AI0021,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,James Brown,BJ1137,null,null,4,4,0,0.0
+vt.uscongress5.1820,1820,Jareb Jackson,JJ0213,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,John Wares,WJ0813,null,null,2,2,0,0.0
+vt.uscongress5.1820,1820,Joseph Beman,BJ1136,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,Joseph D. Farnsworth,FJ0363,null,null,3,3,0,0.0
+vt.uscongress5.1820,1820,Luther Dixon,DL0024,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,Samuel C. Crafts,CS0219,Republican,A03,2161,2161,0,0.0
+vt.uscongress5.1820,1820,Samuel H. Harvey,HS0272,null,null,3,3,0,0.0
+vt.uscongress5.1820,1820,Silas Hathaway,HS0237,null,null,2,2,0,0.0
+vt.uscongress5.1820,1820,"Stephen Royce, Jr.",RS0121,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,Uriah Hozen,HU0006,null,null,1,1,0,0.0
+vt.uscongress5.1820,1820,William A. Griswold,GW0183,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Abner Miles,MA0221,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Daniel Azro A. Buck,BD0173,Republican,A03,1744,1744,0,0.0
+vt.uscongress6.1820,1820,Daniel Cook,CD0140,null,null,5,5,0,0.0
+vt.uscongress6.1820,1820,Daniel Peaslee,PD0105,Republican,A03,1,1,0,0.0
+vt.uscongress6.1820,1820,Enoch Burnham,BE0128,null,null,2,2,0,0.0
+vt.uscongress6.1820,1820,G. Wheelock,WG0112,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Israel P. Dana,DI0026,null,null,3,3,0,0.0
+vt.uscongress6.1820,1820,Jeremiah Sias,SJ1161,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,John Mattocks,MJ1397,Federalist,A01,2270,2270,0,0.0
+vt.uscongress6.1820,1820,John Rankin,RJ0496,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,John W. Chandler,CJ0762,Federalist,A01,1,1,0,0.0
+vt.uscongress6.1820,1820,Jona Fisk,FJ0374,null,null,3,3,0,0.0
+vt.uscongress6.1820,1820,Joseph A. Ingalls,IJ0047,null,null,2,2,0,0.0
+vt.uscongress6.1820,1820,Joseph Monroe,MJ0882,null,null,2,2,0,0.0
+vt.uscongress6.1820,1820,"Joseph Morrill, Jr.",MJ0883,null,null,3,3,0,0.0
+vt.uscongress6.1820,1820,Joseph Whipple,WJ0812,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Josiah B. Strong,SJ1160,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Josiah Dana,DJ0452,null,null,7,7,0,0.0
+vt.uscongress6.1820,1820,Levi Rodgers,RL0032,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Martin Kellogg,KM0019,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Nathan Hines,HN0079,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Naum Kelton,KN0019,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Orsamus C. Merrill,MO0010,Republican,A03,2,2,0,0.0
+vt.uscongress6.1820,1820,Pres West,WP0061,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Samuel Prentiss,PS0139,Federalist,A01,15,15,0,0.0
+vt.uscongress6.1820,1820,scattering,null,null,null,28,28,0,0.0
+vt.uscongress6.1820,1820,Silas Spalding,SS0261,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,Stuart Brown,BS0200,null,null,2,2,0,0.0
+vt.uscongress6.1820,1820,Timothy Merrill,MT0129,null,null,1,1,0,0.0
+vt.uscongress6.1820,1820,William A. Griswold,GW0183,Republican,A03,1,1,0,0.0
+vt.uscongress6.1820,1820,William Cahoon,CW0373,Republican,A03,77,77,0,0.0

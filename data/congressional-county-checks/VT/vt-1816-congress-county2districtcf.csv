@@ -1,0 +1,22 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.1816,1816,Mark Richards,RM0056,Republican,A03,16910,NA,-16910,1.0
+vt.uscongress.1816,1816,William Hunter,HW0335,Republican,A03,16898,NA,-16898,1.0
+vt.uscongress.1816,1816,Samuel C. Crafts,CS0219,Republican,A03,16896,NA,-16896,1.0
+vt.uscongress.1816,1816,Charles Rich,RC0058,Republican,A03,16860,NA,-16860,1.0
+vt.uscongress.1816,1816,Orsamus C. Merrill,MO0010,Republican,A03,16790,NA,-16790,1.0
+vt.uscongress.1816,1816,Heman Allen,AH0032,Republican,A03,16709,NA,-16709,1.0
+vt.uscongress.1816,1816,Asa Lyon,LA0126,Federalist,A01,14060,NA,-14060,1.0
+vt.uscongress.1816,1816,Chauncey Langdon,LC0074,Federalist,A01,14050,NA,-14050,1.0
+vt.uscongress.1816,1816,David Edmond,ED0031,Federalist,A01,13987,NA,-13987,1.0
+vt.uscongress.1816,1816,Jonathan C. Hubbard,HJ1289,Federalist,A01,13985,NA,-13985,1.0
+vt.uscongress.1816,1816,Phineas White,WP0105,Federalist,A01,13977,NA,-13977,1.0
+vt.uscongress.1816,1816,Samuel Prentiss,PS0139,Federalist,A01,13955,NA,-13955,1.0
+vt.uscongress.1816,1816,scattering,null,null,null,91,NA,-91,1.0
+vt.uscongress.1816,1816,James Wheldon,WJ0806,null,null,32,NA,-32,1.0
+vt.uscongress.1816,1816,Charles Marsh,MC0079,Federalist,A01,1,NA,-1,1.0
+vt.uscongress.1816,1816,Daniel Dana,DD0041,Federalist,A01,1,NA,-1,1.0
+vt.uscongress.1816,1816,Ezra Butler,BE0213,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1816,1816,Samuel Rich,RS0113,null,null,1,NA,-1,1.0
+vt.uscongress.1816,1816,Timothy Stanley,ST0009,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1816,1816,William Huntington,HW0215,null,null,1,NA,-1,1.0
+vt.uscongress.1816,1816,James Fisk,FJ0462,null,null,0,NA,0,NaN

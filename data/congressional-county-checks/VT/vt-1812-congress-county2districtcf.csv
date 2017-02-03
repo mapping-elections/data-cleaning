@@ -1,0 +1,60 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.1812,1812,Richard Skinner,SR0206,Republican,A03,16016,NA,-16016,1.0
+vt.uscongress.1812,1812,Ezra Butler,BE0213,Republican,A03,16010,NA,-16010,1.0
+vt.uscongress.1812,1812,William Strong,SW0343,Republican,A03,16000,NA,-16000,1.0
+vt.uscongress.1812,1812,James Fisk,FJ0462,Republican,A03,15999,NA,-15999,1.0
+vt.uscongress.1812,1812,Charles Rich,RC0058,Republican,A03,15995,NA,-15995,1.0
+vt.uscongress.1812,1812,William C. Bradley,BW0418,Republican,A03,15988,NA,-15988,1.0
+vt.uscongress.1812,1812,Martin Chittenden,CM0084,Federalist,A01,15747,NA,-15747,1.0
+vt.uscongress.1812,1812,Chauncey Langdon,LC0074,Federalist,A01,15731,NA,-15731,1.0
+vt.uscongress.1812,1812,Daniel Chipman,CD0204,Federalist,A01,15723,NA,-15723,1.0
+vt.uscongress.1812,1812,Jonathan H. Hubbard,HJ1289,Federalist,A01,15722,NA,-15722,1.0
+vt.uscongress.1812,1812,William Chamberlain,CW0352,Federalist,A01,15720,NA,-15720,1.0
+vt.uscongress.1812,1812,John Noyes,NJ0168,Federalist,A01,15705,NA,-15705,1.0
+vt.uscongress.1812,1812,"Moses Robinson, Jr.",RM0013,Federalist,A01,12,NA,-12,1.0
+vt.uscongress.1812,1812,Samuel C. Crafts,CS0219,Republican,A03,11,NA,-11,1.0
+vt.uscongress.1812,1812,William C. Harrington,HW0348,Republican,A03,11,NA,-11,1.0
+vt.uscongress.1812,1812,Aaron Leland,LA0135,null,null,5,NA,-5,1.0
+vt.uscongress.1812,1812,David Fay,FD0057,null,null,3,NA,-3,1.0
+vt.uscongress.1812,1812,Elias Keyes,KE0050,Republican,A03,3,NA,-3,1.0
+vt.uscongress.1812,1812,Joseph Burr,BJ1101,null,null,3,NA,-3,1.0
+vt.uscongress.1812,1812,Asa Lyon,LA0126,Federalist,A01,2,NA,-2,1.0
+vt.uscongress.1812,1812,Charles Marsh,MC0079,Federalist,null,2,NA,-2,1.0
+vt.uscongress.1812,1812,Henry Olin,OH0015,null,null,2,NA,-2,1.0
+vt.uscongress.1812,1812,John Peck,PJ0719,null,null,2,NA,-2,1.0
+vt.uscongress.1812,1812,Noah Chittenden,CN0046,Republican,A03,2,NA,-2,1.0
+vt.uscongress.1812,1812,Samuel Swift,SS0254,null,null,2,NA,-2,1.0
+vt.uscongress.1812,1812,William Hunter,HW0335,Republican,A03,2,NA,-2,1.0
+vt.uscongress.1812,1812,Asa Aldis,AA0064,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Charles Buck,BC0170,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Charles Fisk,FC0035,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Cornelius P. Van Ness,VC0022,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Daniel Dana,DD0041,Federalist,A01,1,NA,-1,1.0
+vt.uscongress.1812,1812,David Edmonds,ED0031,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,David Farrand,FD0064,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Elijah Knight,KE0039,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Elliott Keyes,KE0025,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Ezra Bliss,BE0121,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Gamaliel Painter,PG0094,Federalist,A01,1,NA,-1,1.0
+vt.uscongress.1812,1812,Gideon Olin,OG0018,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Horatio Seymour,SH0191,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1812,1812,Isaac Tichenor,TI0032,Federalist,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,James Roberts,RJ0495,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Jesse Merrill,MJ0880,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,John Langdon,LJ0473,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,John W. Blake,BJ0143,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Josiah Dana,DJ0452,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Josiah Dunham,DJ0467,Federalist,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Mark Richards,RM0056,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Pliny Smith,SP0018,Republican,A03,1,NA,-1,1.0
+vt.uscongress.1812,1812,R. C. Mallory,MR0206,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,R. Tyler,TR0035,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Samuel Elliot,ES0058,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Samuel Fletcher,FS0133,Federalist,A01,1,NA,-1,1.0
+vt.uscongress.1812,1812,Samuel Shaw,SS0314,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Theophilus Harrenton,HT0031,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,Thomas Hammond,HT0030,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,William A. Palmer,PW0142,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,William G. Griswold,GW0183,null,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,William Hall,HW0333,Federalist,null,1,NA,-1,1.0
+vt.uscongress.1812,1812,William Skinner,SW0371,null,null,1,NA,-1,1.0

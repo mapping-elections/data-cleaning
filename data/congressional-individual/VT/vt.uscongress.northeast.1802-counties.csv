@@ -1,0 +1,29 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,370
+2,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Nathaniel Niles,NN0014,Republican,A03,279
+3,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,31
+4,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,null,null,1
+5,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Jedediah P. Buckingham,BJ0158,null,null,NA
+6,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Whitlaw,WJ0968,null,null,NA
+7,Caledonia,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,scattering,null,Republican,A03,NA
+1,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,77
+2,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Nathaniel Niles,NN0014,Republican,A03,40
+3,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,NA
+4,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,null,null,NA
+5,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Jedediah P. Buckingham,BJ0158,null,null,NA
+6,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Whitlaw,WJ0968,null,null,1
+7,Essex,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,scattering,null,Republican,A03,NA
+1,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,345
+2,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Nathaniel Niles,NN0014,Republican,A03,317
+3,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,75
+4,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,null,null,2
+5,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Jedediah P. Buckingham,BJ0158,null,null,1
+6,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Whitlaw,WJ0968,null,null,NA
+7,Orange,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,scattering,null,Republican,A03,NA
+1,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,99
+2,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Nathaniel Niles,NN0014,Republican,A03,43
+3,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,7
+4,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,null,null,NA
+5,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Jedediah P. Buckingham,BJ0158,null,null,NA
+6,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Whitlaw,WJ0968,null,null,NA
+7,Orleans,vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,scattering,null,Republican,A03,1

@@ -1,0 +1,112 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress2.5.1821,1821,Mark Richards,RM0056,Republican,A03,1384,1306,-78,0.06
+vt.uscongress3.thirdballot.1821,1821,scattering,null,null,null,16,NA,-16,1.0
+vt.uscongress2.5.1821,1821,"William Hall, Jr.",HW0333,Federalist,null,1,11,10,0.91
+vt.uscongress2.5.1821,1821,Phinehas White,WP0105,Federalist,A01,1262,1253,-9,0.01
+vt.uscongress3.thirdballot.1821,1821,Charles Rich,RC0058,Republican,A03,2158,2163,5,0.0
+vt.uscongress2.6.1821,1821,Peter Blanchard,BP0133,null,null,0,3,3,1.0
+vt.uscongress3.thirdballot.1821,1821,Ezra Meach,ME0130,Republican,A03,318,321,3,0.01
+vt.uscongress2.5.1821,1821,Martin Field,FM0005,null,null,4,2,-2,0.5
+vt.uscongress2.6.1821,1821,Oliver Farrer,FO0011,null,null,0,2,2,1.0
+vt.uscongress2.4.1821,1821,Cephas L. Rockwood,RC0033,null,null,2,1,-1,0.5
+vt.uscongress2.4.1821,1821,E. Allbee,AE0052,null,null,0,1,1,1.0
+vt.uscongress2.5.1821,1821,Aaron Leland,LA0135,Republican,A03,6,5,-1,0.17
+vt.uscongress2.5.1821,1821,John White,WJ0208,null,null,2,1,-1,0.5
+vt.uscongress2.5.1821,1821,"Jonathan Hunt, Jr.",HJ0949,null,null,1,2,1,0.5
+vt.uscongress2.5.1821,1821,Joseph Elliot,EJ0231,null,null,11,12,1,0.08
+vt.uscongress2.5.1821,1821,Thomas G. Fessenden,FT0059,null,null,1,2,1,0.5
+vt.uscongress2.5.1821,1821,William C. Bradley,BW0418,Republican,A03,0,1,1,1.0
+vt.uscongress2.6.1821,1821,Elijah Stearns,SE0184,null,null,0,1,1,1.0
+vt.uscongress2.6.1821,1821,Thomas S. Fullerton,FT0064,null,null,0,1,1,1.0
+vt.uscongress2.3.1821,1821,Aaron Heald,HA0219,null,null,1,1,0,0.0
+vt.uscongress2.3.1821,1821,Aaron Leland,LA0135,Republican,A03,98,98,0,0.0
+vt.uscongress2.3.1821,1821,Daniel Kellogg,KD0036,null,null,1,1,0,0.0
+vt.uscongress2.3.1821,1821,David Leavitt,LD0072,null,null,9,9,0,0.0
+vt.uscongress2.3.1821,1821,Edward R. Campbell,CE0134,null,null,1,1,0,0.0
+vt.uscongress2.3.1821,1821,James Elliot,EJ0292,Federalist,null,347,347,0,0.0
+vt.uscongress2.3.1821,1821,John Croker,CJ0793,null,null,2,2,0,0.0
+vt.uscongress2.3.1821,1821,John Phelps,PJ0486,null,null,3,3,0,0.0
+vt.uscongress2.3.1821,1821,"Jonathan Hunt, Jr.",HJ0949,null,null,5,5,0,0.0
+vt.uscongress2.3.1821,1821,Mark Richards,RM0056,Republican,A03,1073,1073,0,0.0
+vt.uscongress2.3.1821,1821,Nathaniel Thomas,TN0028,null,null,2,2,0,0.0
+vt.uscongress2.3.1821,1821,Phinehas White,WP0105,Federalist,A01,1198,1198,0,0.0
+vt.uscongress2.3.1821,1821,Samuel Elliot,ES0058,null,null,15,15,0,0.0
+vt.uscongress2.3.1821,1821,Thomas G. Fessenden,FT0059,null,null,102,102,0,0.0
+vt.uscongress2.3.1821,1821,"William Hall, Jr.",HW0333,Federalist,null,2,2,0,0.0
+vt.uscongress2.4.1821,1821,Aaron Leland,LA0135,Republican,A03,108,108,0,0.0
+vt.uscongress2.4.1821,1821,Daniel Kellogg,KD0036,null,null,1,1,0,0.0
+vt.uscongress2.4.1821,1821,James Elliot,EJ0292,Federalist,null,215,215,0,0.0
+vt.uscongress2.4.1821,1821,John Aiken,AJ0231,null,null,1,1,0,0.0
+vt.uscongress2.4.1821,1821,"Jonathan Hunt, Jr.",HJ0949,null,null,1,1,0,0.0
+vt.uscongress2.4.1821,1821,Mark Richards,RM0056,Republican,A03,1187,1187,0,0.0
+vt.uscongress2.4.1821,1821,Martin Field,FM0005,null,null,15,15,0,0.0
+vt.uscongress2.4.1821,1821,Phinehas White,WP0105,Federalist,A01,1075,1075,0,0.0
+vt.uscongress2.4.1821,1821,Samuel Elliot,ES0058,null,null,13,13,0,0.0
+vt.uscongress2.4.1821,1821,Thomas G. Fessenden,FT0059,null,null,100,100,0,0.0
+vt.uscongress2.4.1821,1821,"William Hall, Jr.",HW0333,Federalist,null,3,3,0,0.0
+vt.uscongress2.5.1821,1821,Cephas L. Rockwood,RC0033,null,null,1,1,0,0.0
+vt.uscongress2.5.1821,1821,James Elliot,EJ0292,Federalist,null,79,79,0,0.0
+vt.uscongress2.5.1821,1821,Samuel Elliot,ES0058,null,null,2,2,0,0.0
+vt.uscongress2.5.1821,1821,scattering,null,null,null,0,NA,0,NaN
+vt.uscongress2.5.1821,1821,William Jarvis,JW0062,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Aaron Leland,LA0135,Republican,A03,2,2,0,0.0
+vt.uscongress2.6.1821,1821,Abner W. Field,FA0098,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Benjamin Storey,SB0113,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Benoni Lockwood,LB0029,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Charles Richard,RC0034,null,null,7,7,0,0.0
+vt.uscongress2.6.1821,1821,Dana Miller,MD0080,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Daniel Kellogg,KD0036,null,null,3,3,0,0.0
+vt.uscongress2.6.1821,1821,Ebenezer Goodall,GE0041,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Ellery Allbe,AE0052,null,null,5,5,0,0.0
+vt.uscongress2.6.1821,1821,Hazelton Rice,RH0085,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,"Henry Lake, Jr.",LH0058,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Isaac Johnson,JI0013,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,James Elliot,EJ0292,Federalist,null,75,75,0,0.0
+vt.uscongress2.6.1821,1821,Jarius Hall,HJ0944,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,John Aiken,AJ0231,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,John Stevens,SJ1163,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Jonas Mann,MJ0875,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,"Jonathan Hunt, Jr.",HJ0949,null,null,9,9,0,0.0
+vt.uscongress2.6.1821,1821,Jonathan Whipple,WJ0815,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Joseph Boyden,BJ1100,null,null,2,2,0,0.0
+vt.uscongress2.6.1821,1821,Joseph Elliot,EJ0231,null,null,32,32,0,0.0
+vt.uscongress2.6.1821,1821,Joseph Winslow,WJ0791,null,null,2,2,0,0.0
+vt.uscongress2.6.1821,1821,Luther Cory,CL0070,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Mark Richards,RM0056,Republican,A03,1897,1897,0,0.0
+vt.uscongress2.6.1821,1821,Martin Field,FM0005,null,null,10,10,0,0.0
+vt.uscongress2.6.1821,1821,Munnis Kenny,KM0020,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Nath. Chamberlain,CN0076,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Nomlar Cobb,CN0075,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Phineas White,WP0105,Federalist,A01,1799,1799,0,0.0
+vt.uscongress2.6.1821,1821,Richard Skinner,SR0206,Republican,A03,2,2,0,0.0
+vt.uscongress2.6.1821,1821,Samuel Clark,CS0197,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Samuel Elliot,ES0058,null,null,19,19,0,0.0
+vt.uscongress2.6.1821,1821,scattering,null,null,null,45,45,0,0.0
+vt.uscongress2.6.1821,1821,Silas Axtell,AS0082,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Simon Adams,AS0083,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Sylvanus Sherwin,SS0263,null,null,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Theophilus Crawford,CT0117,Republican,A03,1,1,0,0.0
+vt.uscongress2.6.1821,1821,Thomas G. Fessenden,FT0059,null,null,9,9,0,0.0
+vt.uscongress2.6.1821,1821,William C. Bradley,BW0418,Republican,A03,1,1,0,0.0
+vt.uscongress2.6.1821,1821,"William Hall, Jr.",HW0333,Federalist,null,18,18,0,0.0
+vt.uscongress2.7.1821,1821,Aaron Leland,LA0135,Republican,A03,7,7,0,0.0
+vt.uscongress2.7.1821,1821,Charles Mann,MC0100,null,null,1,1,0,0.0
+vt.uscongress2.7.1821,1821,Daniel Kellogg,KD0036,null,null,1,1,0,0.0
+vt.uscongress2.7.1821,1821,James Elliot,EJ0292,Federalist,null,71,71,0,0.0
+vt.uscongress2.7.1821,1821,"Jonathan Hunt, Jr.",HJ0949,null,null,7,7,0,0.0
+vt.uscongress2.7.1821,1821,Joseph Elliot,EJ0231,null,null,6,6,0,0.0
+vt.uscongress2.7.1821,1821,Mark Richards,RM0056,Republican,A03,1046,1046,0,0.0
+vt.uscongress2.7.1821,1821,Martin Field,FM0005,null,null,29,29,0,0.0
+vt.uscongress2.7.1821,1821,Phineas White,WP0105,Federalist,A01,1234,1234,0,0.0
+vt.uscongress2.7.1821,1821,Samuel Elliot,ES0058,null,null,12,12,0,0.0
+vt.uscongress2.7.1821,1821,"William Hall, Jr.",HW0333,Federalist,null,39,39,0,0.0
+vt.uscongress3.thirdballot.1821,1821,Clark Meach,MC0110,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,David Edmond,ED0031,Federalist,A01,1762,1762,0,0.0
+vt.uscongress3.thirdballot.1821,1821,Gardner Chandler,CG0109,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,Henry Olin,OH0015,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,John Bush,BJ1557,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,Josiah Taft,TJ0436,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,Putnam Bishop,BP0139,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,Solomon Drake,DS0161,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,Stephen Hughes,HS0318,null,null,0,NA,0,NaN
+vt.uscongress3.thirdballot.1821,1821,"William Slade, Jr.",SW0372,null,null,0,NA,0,NaN

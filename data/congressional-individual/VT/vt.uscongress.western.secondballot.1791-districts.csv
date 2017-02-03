@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+vt.uscongress.western.secondballot.1791,1791-09,1791,General,"Vermont 1791 U.S. House of Representatives, Western District, Ballot 2",U.S. House of Representatives,ON125,Israel Smith,SI0092,null,null,1,Two,2588
+vt.uscongress.western.secondballot.1791,1791-09,1791,General,"Vermont 1791 U.S. House of Representatives, Western District, Ballot 2",U.S. House of Representatives,ON125,Matthew Lyon,LM0053,null,null,2,Two,1112
+vt.uscongress.western.secondballot.1791,1791-09,1791,General,"Vermont 1791 U.S. House of Representatives, Western District, Ballot 2",U.S. House of Representatives,ON125,Isaac Tichenor,TI0032,Federalist,null,3,Two,85

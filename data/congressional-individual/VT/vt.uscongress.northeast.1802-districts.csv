@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,William Chamberlain,CW0352,Federalist,A01,1,Northeast,891
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Nathaniel Niles,NN0014,Republican,A03,2,Northeast,679
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,3,Northeast,108
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Samuel C. Crafts,CS0219,null,null,4,Northeast,3
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,Jedediah P. Buckingham,BJ0158,null,null,5,Northeast,1
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,James Whitlaw,WJ0968,null,null,6,Northeast,1
+vt.uscongress.northeast.1802,1802-12,1802,General,"Vermont 1802 U.S. House of Representatives, Northeast District",U.S. House of Representatives,ON125,scattering,null,Republican,A03,7,Northeast,1

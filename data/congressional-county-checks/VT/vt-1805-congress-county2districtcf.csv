@@ -1,0 +1,8 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.northeast.3.1805,1805,James Fisk,FJ0462,Republican,A03,2353,2352,-1,0.0
+vt.uscongress.northeast.3.1805,1805,Alexander Gilchrist,GA0101,null,null,1,1,0,0.0
+vt.uscongress.northeast.3.1805,1805,Nathaniel Niles,NN0014,null,null,1,1,0,0.0
+vt.uscongress.northeast.3.1805,1805,Pres West,WP0061,null,null,1,1,0,0.0
+vt.uscongress.northeast.3.1805,1805,Samuel C. Crafts,CS0219,Republican,A03,39,39,0,0.0
+vt.uscongress.northeast.3.1805,1805,scattering,null,null,null,7,7,0,0.0
+vt.uscongress.northeast.3.1805,1805,William Chamberlain,CW0352,Federalist,A01,1789,1789,0,0.0

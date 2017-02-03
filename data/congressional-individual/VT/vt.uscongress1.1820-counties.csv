@@ -1,0 +1,23 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Rollin C. Mallory,MR0206,Republican,A03,122
+2,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,1070
+3,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,242
+4,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Zadowick Stanton,SZ0006,null,null,11
+5,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,NA
+6,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Pierpoint,PR0116,null,null,NA
+7,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Elijah Fillemore,FE0067,null,null,1
+8,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Henry,HW0200,null,null,1
+9,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Robinson,RD0084,null,null,1
+10,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,1
+11,Bennington,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,24
+1,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Rollin C. Mallory,MR0206,Republican,A03,1863
+2,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,122
+3,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,266
+4,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Zadowick Stanton,SZ0006,null,null,NA
+5,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles K. Williams,WC0090,Federalist,A01,7
+6,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Pierpoint,PR0116,null,null,4
+7,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Elijah Fillemore,FE0067,null,null,NA
+8,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Henry,HW0200,null,null,NA
+9,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Robinson,RD0084,null,null,NA
+10,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Moses Robinson,RM0013,Federalist,A01,NA
+11,Rutland,vt.uscongress1.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,29

@@ -1,0 +1,39 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,237
+2,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,210
+3,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,233
+4,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,19
+5,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Asa Aiken,AA0065,Republican,A03,2
+6,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Nutting,NW0048,null,null,23
+7,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Timothy Baylis,BT0156,null,null,4
+8,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Lebbeus Egerton,EL0010,null,null,3
+9,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Zebina Eaton,EZ0000,null,null,NA
+10,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Asa Hunt,HA0230,null,null,NA
+11,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Jarvis,JW0062,null,null,NA
+12,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Bridge,BJ1087,null,null,NA
+13,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Elpheus D. Briggs,BE0129,null,null,NA
+14,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Luther Chaney,CL0042,null,null,NA
+15,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rodolphus Dewey,DR0073,null,null,NA
+16,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,1
+17,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+18,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abner Weston,WA0202,null,null,1
+19,Orange,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,scattering,null,null,null,2
+1,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Elias Keyes,KE0050,Republican,A03,1628
+2,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Horace Everett,EH0029,Federalist,A01,705
+3,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Uriel C. Hatch,HU0004,Republican,A03,348
+4,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,195
+5,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Asa Aiken,AA0065,Republican,A03,33
+6,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Nutting,NW0048,null,null,NA
+7,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Timothy Baylis,BT0156,null,null,NA
+8,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Lebbeus Egerton,EL0010,null,null,NA
+9,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Zebina Eaton,EZ0000,null,null,2
+10,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Asa Hunt,HA0230,null,null,2
+11,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Jarvis,JW0062,null,null,2
+12,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Bridge,BJ1087,null,null,1
+13,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Elpheus D. Briggs,BE0129,null,null,1
+14,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Luther Chaney,CL0042,null,null,1
+15,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Rodolphus Dewey,DR0073,null,null,1
+16,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+17,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,1
+18,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Abner Weston,WA0202,null,null,NA
+19,Windsor,vt.uscongress4.1820,1820-09,1820,General,"Vermont 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,scattering,null,null,null,30

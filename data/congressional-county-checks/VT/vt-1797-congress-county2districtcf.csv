@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.western.thirdballot.1797,1797,Matthew Lyon,LM0053,Republican,A03,0,2143,2143,1.0
+vt.uscongress.western.thirdballot.1797,1797,Samuel Hitchcock,HS0250,Federalist,A01,0,1143,1143,1.0
+vt.uscongress.western.thirdballot.1797,1797,Israel Smith,SI0092,Republican,A03,0,346,346,1.0
+vt.uscongress.western.thirdballot.1797,1797,Jonas Galusha,GJ0613,Republican,A03,0,151,151,1.0
+vt.uscongress.western.thirdballot.1797,1797,scattering,null,null,null,0,73,73,1.0
+vt.uscongress.western.thirdballot.1797,1797,Samuel Williams,WS0226,Federalist,A01,0,27,27,1.0
+vt.uscongress.western.thirdballot.1797,1797,Daniel Chipman,CD0204,Federalist,null,0,NA,0,NaN
+vt.uscongress.western.thirdballot.1797,1797,Enoch Woodbridge,WE0152,null,null,0,NA,0,NaN
+vt.uscongress.western.thirdballot.1797,1797,James Lyon,LJ0470,null,null,0,NA,0,NaN
+vt.uscongress.western.thirdballot.1797,1797,Jonathan Robinson,RJ0696,null,null,0,NA,0,NaN
+vt.uscongress.western.thirdballot.1797,1797,Nathaniel Chipman,CN0042,Federalist,null,0,NA,0,NaN
+vt.uscongress.western.thirdballot.1797,1797,Noah Smith,SN0074,null,null,0,NA,0,NaN
+vt.uscongress.western.thirdballot.1797,1797,Thomas D. Rood,RT0110,null,null,0,NA,0,NaN

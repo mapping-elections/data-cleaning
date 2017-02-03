@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+vt.uscongress.western.1793,1793-01,1793,General,"Vermont 1793 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,Israel Smith,SI0092,null,null,1,834
+vt.uscongress.western.1793,1793-01,1793,General,"Vermont 1793 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,Matthew Lyon,LM0053,null,null,2,638
+vt.uscongress.western.1793,1793-01,1793,General,"Vermont 1793 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,Isaac Tichenor,TI0032,Federalist,null,3,336
+vt.uscongress.western.1793,1793-01,1793,General,"Vermont 1793 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,Samuel Hitchcock,HS0250,null,null,4,79

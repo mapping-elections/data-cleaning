@@ -4,6 +4,9 @@
 # repository so that the public-facing data repository can contain only data:
 # <https://github.com/mapping-elections/elections-data/>.
 
+# STATES to export
+states <- c("NY", "VA", "NC", "MA", "ME", "NH", "VT")
+
 suppressMessages(library(tidyverse))
 suppressMessages(library(stringr))
 suppressMessages(library(USAboundaries))
@@ -142,7 +145,6 @@ normalize_county_returns <- function(df) {
 }
 
 # Actually read in the files and run the cleaning functions on them
-states <- c("NY", "VA", "NC", "MA", "ME", "NH")
 congressional_counties_raw <- states %>%
   map(get_county_returns_by_state)
 congressional_counties <- congressional_counties_raw %>%

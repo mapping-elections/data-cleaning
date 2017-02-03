@@ -1,0 +1,217 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,1006
+2,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1137
+3,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Charles Rich,RC0058,null,null,33
+4,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Tichenor,TI0032,Federalist,null,1
+5,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,4
+6,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,3
+7,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,2
+8,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Lewis R. Morris,ML0045,Federalist,null,4
+9,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Philip Loop,LP0023,null,null,NA
+10,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Benjamin Swan,SB0024,null,null,4
+11,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Bushnett B. Tawens,TB0020,null,null,NA
+12,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Cyrus Curtis,CC0111,null,null,5
+13,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Folk,FM0028,null,null,NA
+14,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Chilton,CE0145,null,null,NA
+15,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,null,null,NA
+16,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Carter Hickok,HC0123,null,null,NA
+17,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asaph Howard,HA0225,null,null,2
+18,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Josiah Land,LJ0475,null,null,2
+19,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Nathan Leavenworth,LN0032,null,null,NA
+20,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas W. Rich,RT0111,null,null,2
+21,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+22,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,NA
+23,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Timothy Allen,AT0057,null,null,NA
+24,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos W. Barnum,BA0249,null,null,1
+25,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Brigham,BJ1127,null,null,NA
+26,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jack Brownman,BJ1126,null,null,NA
+27,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ebenezer Butler,BE0166,null,null,NA
+28,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Butler,BI0086,null,null,NA
+29,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Abel Carpenter,CA0223,null,null,NA
+30,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,null,1
+31,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Moses Chittenden,CM0095,null,null,1
+32,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Truman Chittenden,CT0025,null,null,NA
+33,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Deeyun,DE0091,null,null,NA
+34,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jeva French,FJ0366,null,null,NA
+35,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William Goodrich,GW0107,null,null,1
+36,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Alpheus Hale,HA0224,null,null,NA
+37,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonathan Hoit,HJ0975,null,null,NA
+38,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Hoyt,HE0151,null,null,1
+39,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Eleazer Hutchings,HE0150,null,null,NA
+40,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jarel Jackson,JJ0211,null,null,NA
+41,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Jewett,JS0040,null,null,1
+42,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,George Kennan,KG0044,null,null,NA
+43,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Lewis,LJ0543,null,null,NA
+44,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsly,LJ0471,null,null,1
+45,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,NA
+46,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,John Pists,PJ0495,null,null,NA
+47,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas D. Rood,RT0110,null,null,NA
+48,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,1
+49,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Shane,SE0182,null,null,NA
+50,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Shary,SS0257,null,null,NA
+51,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Solom Wallbridge,WS0218,null,null,NA
+52,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,David Whitney,WD0121,null,null,1
+53,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Willoughby,WJ0807,null,null,1
+54,Addison,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,1007
+2,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,869
+3,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Charles Rich,RC0058,null,null,1
+4,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Tichenor,TI0032,Federalist,null,8
+5,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,1
+6,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,1
+7,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,2
+8,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Lewis R. Morris,ML0045,Federalist,null,NA
+9,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Philip Loop,LP0023,null,null,NA
+10,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Benjamin Swan,SB0024,null,null,NA
+11,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Bushnett B. Tawens,TB0020,null,null,NA
+12,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Cyrus Curtis,CC0111,null,null,NA
+13,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Folk,FM0028,null,null,NA
+14,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Chilton,CE0145,null,null,2
+15,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,null,null,2
+16,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Carter Hickok,HC0123,null,null,NA
+17,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asaph Howard,HA0225,null,null,NA
+18,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Josiah Land,LJ0475,null,null,NA
+19,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Nathan Leavenworth,LN0032,null,null,2
+20,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas W. Rich,RT0111,null,null,NA
+21,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+22,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,1
+23,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Timothy Allen,AT0057,null,null,NA
+24,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos W. Barnum,BA0249,null,null,NA
+25,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Brigham,BJ1127,null,null,NA
+26,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jack Brownman,BJ1126,null,null,1
+27,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ebenezer Butler,BE0166,null,null,NA
+28,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Butler,BI0086,null,null,NA
+29,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Abel Carpenter,CA0223,null,null,1
+30,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,null,NA
+31,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Moses Chittenden,CM0095,null,null,NA
+32,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Truman Chittenden,CT0025,null,null,1
+33,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Deeyun,DE0091,null,null,NA
+34,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jeva French,FJ0366,null,null,1
+35,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William Goodrich,GW0107,null,null,NA
+36,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Alpheus Hale,HA0224,null,null,NA
+37,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonathan Hoit,HJ0975,null,null,NA
+38,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Hoyt,HE0151,null,null,NA
+39,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Eleazer Hutchings,HE0150,null,null,1
+40,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jarel Jackson,JJ0211,null,null,NA
+41,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Jewett,JS0040,null,null,NA
+42,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,George Kennan,KG0044,null,null,1
+43,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Lewis,LJ0543,null,null,1
+44,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsly,LJ0471,null,null,NA
+45,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,1
+46,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,John Pists,PJ0495,null,null,1
+47,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas D. Rood,RT0110,null,null,1
+48,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+49,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Shane,SE0182,null,null,NA
+50,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Shary,SS0257,null,null,NA
+51,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Solom Wallbridge,WS0218,null,null,NA
+52,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,David Whitney,WD0121,null,null,NA
+53,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Willoughby,WJ0807,null,null,NA
+54,Chittenden,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,772
+2,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,746
+3,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Charles Rich,RC0058,null,null,NA
+4,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Tichenor,TI0032,Federalist,null,2
+5,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,3
+6,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,3
+7,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,3
+8,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Lewis R. Morris,ML0045,Federalist,null,3
+9,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Philip Loop,LP0023,null,null,NA
+10,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Benjamin Swan,SB0024,null,null,NA
+11,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Bushnett B. Tawens,TB0020,null,null,4
+12,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Cyrus Curtis,CC0111,null,null,NA
+13,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Folk,FM0028,null,null,3
+14,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Chilton,CE0145,null,null,NA
+15,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,null,null,NA
+16,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Carter Hickok,HC0123,null,null,2
+17,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asaph Howard,HA0225,null,null,NA
+18,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Josiah Land,LJ0475,null,null,NA
+19,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Nathan Leavenworth,LN0032,null,null,NA
+20,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas W. Rich,RT0111,null,null,NA
+21,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,1
+22,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,NA
+23,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Timothy Allen,AT0057,null,null,NA
+24,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos W. Barnum,BA0249,null,null,NA
+25,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Brigham,BJ1127,null,null,1
+26,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jack Brownman,BJ1126,null,null,NA
+27,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ebenezer Butler,BE0166,null,null,1
+28,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Butler,BI0086,null,null,1
+29,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Abel Carpenter,CA0223,null,null,NA
+30,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,null,NA
+31,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Moses Chittenden,CM0095,null,null,NA
+32,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Truman Chittenden,CT0025,null,null,NA
+33,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Deeyun,DE0091,null,null,1
+34,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jeva French,FJ0366,null,null,NA
+35,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William Goodrich,GW0107,null,null,NA
+36,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Alpheus Hale,HA0224,null,null,NA
+37,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonathan Hoit,HJ0975,null,null,1
+38,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Hoyt,HE0151,null,null,NA
+39,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Eleazer Hutchings,HE0150,null,null,NA
+40,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jarel Jackson,JJ0211,null,null,1
+41,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Jewett,JS0040,null,null,NA
+42,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,George Kennan,KG0044,null,null,NA
+43,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Lewis,LJ0543,null,null,NA
+44,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsly,LJ0471,null,null,NA
+45,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,NA
+46,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,John Pists,PJ0495,null,null,NA
+47,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas D. Rood,RT0110,null,null,NA
+48,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+49,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Shane,SE0182,null,null,1
+50,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Shary,SS0257,null,null,1
+51,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Solom Wallbridge,WS0218,null,null,1
+52,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,David Whitney,WD0121,null,null,NA
+53,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Willoughby,WJ0807,null,null,NA
+54,Franklin,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,8
+1,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Chittenden,CM0084,Federalist,A01,229
+2,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,111
+3,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Charles Rich,RC0058,null,null,NA
+4,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Tichenor,TI0032,Federalist,null,1
+5,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,2
+6,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+7,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Noah Chittenden,CN0046,Republican,A03,NA
+8,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Lewis R. Morris,ML0045,Federalist,null,NA
+9,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Philip Loop,LP0023,null,null,5
+10,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Benjamin Swan,SB0024,null,null,1
+11,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Bushnett B. Tawens,TB0020,null,null,NA
+12,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Cyrus Curtis,CC0111,null,null,NA
+13,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Martin Folk,FM0028,null,null,NA
+14,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Enoch Chilton,CE0145,null,null,NA
+15,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William C. Harrington,HW0348,null,null,NA
+16,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Carter Hickok,HC0123,null,null,NA
+17,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asaph Howard,HA0225,null,null,NA
+18,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Josiah Land,LJ0475,null,null,NA
+19,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Nathan Leavenworth,LN0032,null,null,NA
+20,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas W. Rich,RT0111,null,null,NA
+21,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Aldis,AA0064,null,null,NA
+22,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Heman Allen,AH0032,Republican,A03,NA
+23,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Timothy Allen,AT0057,null,null,1
+24,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Amos W. Barnum,BA0249,null,null,NA
+25,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonas Brigham,BJ1127,null,null,NA
+26,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jack Brownman,BJ1126,null,null,NA
+27,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ebenezer Butler,BE0166,null,null,NA
+28,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Isaac Butler,BI0086,null,null,NA
+29,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Abel Carpenter,CA0223,null,null,NA
+30,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,null,NA
+31,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Moses Chittenden,CM0095,null,null,NA
+32,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Truman Chittenden,CT0025,null,null,NA
+33,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Deeyun,DE0091,null,null,NA
+34,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jeva French,FJ0366,null,null,NA
+35,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,William Goodrich,GW0107,null,null,NA
+36,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Alpheus Hale,HA0224,null,null,1
+37,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jonathan Hoit,HJ0975,null,null,NA
+38,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Ezra Hoyt,HE0151,null,null,NA
+39,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Eleazer Hutchings,HE0150,null,null,NA
+40,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Jarel Jackson,JJ0211,null,null,NA
+41,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Jewett,JS0040,null,null,NA
+42,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,George Kennan,KG0044,null,null,NA
+43,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Lewis,LJ0543,null,null,NA
+44,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joel Linsly,LJ0471,null,null,NA
+45,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,null,NA
+46,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,John Pists,PJ0495,null,null,NA
+47,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Thomas D. Rood,RT0110,null,null,NA
+48,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Horatio Seymour,SH0191,null,null,NA
+49,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Elijah Shane,SE0182,null,null,NA
+50,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Samuel Shary,SS0257,null,null,NA
+51,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Solom Wallbridge,WS0218,null,null,NA
+52,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,David Whitney,WD0121,null,null,NA
+53,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,Joseph Willoughby,WJ0807,null,null,NA
+54,Grande Isle,vt.uscongress.northwest.1810,1810-09,1810,General,"Vermont 1810 U.S. House of Representatives, Northwest District",U.S. House of Representatives,ON125,scattering,null,null,null,NA

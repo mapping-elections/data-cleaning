@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+vt.uscongress.runoff.western.1798,1798,Matthew Lyon,LM0053,Republican,A03,532,3576,3044,0.85
+vt.uscongress.runoff.western.1798,1798,Samuel Williams,WS0226,Federalist,A01,594,2444,1850,0.76
+vt.uscongress.runoff.western.1798,1798,Israel Smith,SI0092,Federalist,A01,105,428,323,0.75
+vt.uscongress.runoff.western.1798,1798,scattering,null,null,null,13,NA,-13,1.0
+vt.uscongress.runoff.western.1798,1798,Abel Lyon,LA0115,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,Abel Spencer,SA0276,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,Daniel Chipman,CD0204,Federalist,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,Gideon Olin,OG0018,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,James Lyon,LJ0470,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,John White,WJ0208,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,Jonas Galusha,GJ0613,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,Jonathan Robinson,RJ0696,null,null,0,NA,0,NaN
+vt.uscongress.runoff.western.1798,1798,Samuel Hitchcock,HS0250,Federalist,A01,0,NA,0,NaN

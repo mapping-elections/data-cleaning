@@ -1,0 +1,664 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1823
+2,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1826
+3,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1820
+4,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1825
+5,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1824
+6,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1822
+7,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1569
+8,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,1569
+9,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,1570
+10,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,1571
+11,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1571
+12,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1560
+13,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,2
+23,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,1
+29,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,1
+36,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,1
+44,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,1
+46,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Addison,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1201
+2,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1201
+3,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1202
+4,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1199
+5,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1202
+6,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1202
+7,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1339
+8,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,1337
+9,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,1335
+10,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,1335
+11,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1335
+12,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1338
+13,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,1
+32,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,1
+33,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,1
+37,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,1
+38,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,1
+39,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,1
+45,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,1
+48,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Bennington,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1143
+2,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1139
+3,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1140
+4,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1139
+5,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1138
+6,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1132
+7,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1048
+8,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,1047
+9,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,1047
+10,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,1047
+11,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1043
+12,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1047
+13,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,3
+17,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,2
+22,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,1
+51,Caledonia,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1482
+2,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1480
+3,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1482
+4,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1481
+5,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1482
+6,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1482
+7,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1047
+8,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,1047
+9,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,1047
+10,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,1047
+11,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1047
+12,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1046
+13,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,1
+16,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,2
+18,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,1
+41,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Chittenden,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,249
+2,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,249
+3,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,249
+4,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,249
+5,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,250
+6,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,249
+7,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,218
+8,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,218
+9,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,218
+10,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,218
+11,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,218
+12,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,218
+13,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Essex,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1510
+2,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1510
+3,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1511
+4,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1511
+5,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1509
+6,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1510
+7,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,904
+8,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,905
+9,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,904
+10,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,904
+11,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,904
+12,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,904
+13,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,1
+28,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,1
+31,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Franklin,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,322
+2,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,321
+3,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,322
+4,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,322
+5,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,322
+6,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,322
+7,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,106
+8,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,106
+9,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,106
+10,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,106
+11,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,106
+12,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,106
+13,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,1
+18,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Grande Isle,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,897
+2,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,897
+3,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,898
+4,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,898
+5,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,897
+6,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,897
+7,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,959
+8,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,962
+9,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,963
+10,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,959
+11,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,963
+12,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,963
+13,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,1
+20,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,1
+35,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,1
+43,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Jefferson,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1478
+2,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1480
+3,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1479
+4,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1477
+5,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1476
+6,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1476
+7,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,2050
+8,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,2054
+9,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,2052
+10,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,2054
+11,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,2053
+12,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,2048
+13,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,5
+14,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,4
+15,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,1
+16,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,2
+21,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,1
+26,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,1
+30,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,1
+40,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Orange,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,575
+2,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,575
+3,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,575
+4,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,575
+5,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,575
+6,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,575
+7,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,426
+8,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,426
+9,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,426
+10,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,426
+11,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,426
+12,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,424
+13,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Orleans,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,1990
+2,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,1989
+3,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,1984
+4,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,1988
+5,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,1986
+6,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,1985
+7,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,2571
+8,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,2568
+9,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,2567
+10,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,2571
+11,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,2567
+12,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,2569
+13,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,1
+15,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,3
+19,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,2
+24,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,1
+42,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,1
+49,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Rutland,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,1
+1,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,2971
+2,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,2966
+3,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,2970
+4,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,2971
+5,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,2967
+6,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,2970
+7,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,1404
+8,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,1403
+9,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,1403
+10,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,1401
+11,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,1399
+12,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,1402
+13,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,NA
+16,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,NA
+20,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,2
+25,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,NA
+26,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,1
+27,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,1
+34,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,NA
+47,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,NA
+50,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Windham,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
+1,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Chauncey Langdon,LC0074,Federalist,A01,2164
+2,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Lyon,LA0126,Federalist,A01,2163
+3,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Marsh,MC0079,Federalist,A01,2164
+4,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Chipman,CD0204,Federalist,A01,2159
+5,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Noyes,NJ0168,Federalist,A01,2162
+6,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Luther Jewitt,JL0015,Federalist,A01,2162
+7,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Butler,BE0213,Republican,A03,3407
+8,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Skinner,SR0206,Republican,A03,3405
+9,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,3406
+10,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Fisk,FJ0462,Republican,A03,3404
+11,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Strong,SW0343,Republican,A03,3408
+12,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Rich,RC0058,Republican,A03,3406
+13,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Brigham,BP0101,Republican,A03,NA
+14,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonas Galusha,GJ0613,Republican,A03,NA
+15,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Dana,DD0041,Federalist,A01,2
+16,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Barnard,BL0003,null,null,NA
+17,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Robinson,RG0006,null,null,NA
+18,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard L. Smith,SR0139,null,null,NA
+19,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tarbox,TJ0420,Republican,A03,2
+20,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Butler,BJ1122,null,null,NA
+21,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Chandler,CJ0762,null,null,NA
+22,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dudley Chase,CD0206,null,null,NA
+23,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Eaton,EA0062,null,null,NA
+24,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Leland,LA0135,Republican,A03,NA
+25,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Skinner,SW0371,null,null,1
+26,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Aaron,AA0039,null,null,NA
+27,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Adams,AJ0227,null,null,NA
+28,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Bayless,BN0078,Federalist,A01,NA
+29,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bliss,BE0121,null,null,NA
+30,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William C. Chamberlain,CW0352,Federalist,A01,NA
+31,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Chandler,CW0281,null,null,NA
+32,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Dolittle,DJ0058,Republican,A03,NA
+33,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Elliot,ES0058,null,null,NA
+34,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Griswold,GW0183,null,null,NA
+35,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Hall, Jr.",HW0333,Federalist,A01,NA
+36,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Norman Hendell,HN0077,null,null,NA
+37,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Hutchinson,HT0218,null,null,NA
+38,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Marsh,MD0165,null,null,NA
+39,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Isaac Nichols, Jr.",NI0016,null,null,NA
+40,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Norton,ND0017,null,null,NA
+41,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pearson,PS0183,null,null,NA
+42,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathan Robinson,RN0000,null,null,NA
+43,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Horatio Seymour,SH0191,Republican,A03,NA
+44,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Skinner,SB0111,null,null,NA
+45,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Strong,SJ1145,null,null,NA
+46,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Strong,SR0138,null,null,1
+47,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Swan,SB0024,Republican,A03,NA
+48,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Temple,TR0066,null,null,NA
+49,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Whipple,WO0021,null,null,1
+50,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Whitelaw,WJ0968,null,null,NA
+51,Windsor,vt.uscongress.1814,1814-09,1814,General,Vermont 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Woodworth,WJ0784,Republican,A03,NA
