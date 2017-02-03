@@ -1,0 +1,61 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,2098
+2,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,2108
+3,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Federalist,A01,10
+4,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,1
+5,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,1
+6,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Lee,LJ0162,null,null,NA
+7,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+8,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+9,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+10,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard M. Cooper,CR0058,null,null,NA
+11,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Sloan,SJ0553,null,null,NA
+12,Burlington,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Gervas Hall,HG0137,null,null,NA
+1,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,394
+2,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,397
+3,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Federalist,A01,NA
+4,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,NA
+5,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,NA
+6,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Lee,LJ0162,null,null,NA
+7,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+8,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+9,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+10,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard M. Cooper,CR0058,null,null,NA
+11,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Sloan,SJ0553,null,null,NA
+12,Cape May,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Gervas Hall,HG0137,null,null,NA
+1,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,619
+2,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,615
+3,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Federalist,A01,1
+4,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,3
+5,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,NA
+6,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Lee,LJ0162,null,null,2
+7,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+8,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+9,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+10,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard M. Cooper,CR0058,null,null,NA
+11,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Sloan,SJ0553,null,null,NA
+12,Cumberland,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Gervas Hall,HG0137,null,null,NA
+1,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1186
+2,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,1173
+3,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Federalist,A01,1
+4,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,4
+5,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,1
+6,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Lee,LJ0162,null,null,1
+7,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,2
+8,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,1
+9,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,1
+10,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard M. Cooper,CR0058,null,null,1
+11,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Sloan,SJ0553,null,null,NA
+12,Gloucester,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Gervas Hall,HG0137,null,null,NA
+1,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,732
+2,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,703
+3,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Federalist,A01,22
+4,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,10
+5,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,10
+6,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Lee,LJ0162,null,null,NA
+7,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+8,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+9,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+10,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard M. Cooper,CR0058,null,null,NA
+11,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Sloan,SJ0553,null,null,1
+12,Salem,nj.uscongress3.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Gervas Hall,HG0137,null,null,1

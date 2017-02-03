@@ -1,0 +1,33 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1806,1806,William Helmes,HW0205,Republican,A03,12599,NA,-12599,1.0
+nj.uscongress.1806,1806,Henry Southard,SH0055,Republican,A03,11458,NA,-11458,1.0
+nj.uscongress.1806,1806,Ezra Darby,DE0037,Republican,A03,10937,NA,-10937,1.0
+nj.uscongress.1806,1806,John Lambert,LJ0153,Republican,A03,10792,NA,-10792,1.0
+nj.uscongress.1806,1806,Thomas Newbold,NT0008,Republican,A03,10573,NA,-10573,1.0
+nj.uscongress.1806,1806,James Sloan,SJ0553,Republican,A03,10254,NA,-10254,1.0
+nj.uscongress.1806,1806,Aaron Ogden,OA0025,Federalist,A01,5021,NA,-5021,1.0
+nj.uscongress.1806,1806,Ebenezer Elmer,EE0016,Federalist,A01,4950,NA,-4950,1.0
+nj.uscongress.1806,1806,John Beatty,BJ0587,Federalist,A01,4161,NA,-4161,1.0
+nj.uscongress.1806,1806,George C. Maxwell,MG0041,Federalist,A01,3108,NA,-3108,1.0
+nj.uscongress.1806,1806,Adam Boyd,BA0122,Federalist,A01,2524,NA,-2524,1.0
+nj.uscongress.1806,1806,Jonathan Dayton,DJ0209,Federalist,A01,546,NA,-546,1.0
+nj.uscongress.1806,1806,Richard Stockton,SR0121,Federalist,A01,543,NA,-543,1.0
+nj.uscongress.1806,1806,Franklin Davenport,DF0014,Federalist,A01,469,NA,-469,1.0
+nj.uscongress.1806,1806,William Coxe,CW0104,Federalist,A01,413,NA,-413,1.0
+nj.uscongress.1806,1806,James Schureman,SJ0522,Federalist,A01,354,NA,-354,1.0
+nj.uscongress.1806,1806,Lewis Condict,CL0013,null,null,283,NA,-283,1.0
+nj.uscongress.1806,1806,James H. Imlay,IJ0057,Federalist,A01,279,NA,-279,1.0
+nj.uscongress.1806,1806,Jonathan Elmer,EJ0094,Federalist,A01,269,NA,-269,1.0
+nj.uscongress.1806,1806,William Campfield,CW0098,Federalist,A01,137,NA,-137,1.0
+nj.uscongress.1806,1806,Thomas Henderson,HT0100,Federalist,A01,87,NA,-87,1.0
+nj.uscongress.1806,1806,Thomas Sinnickson,ST0147,Federalist,A01,40,NA,-40,1.0
+nj.uscongress.1806,1806,John A. Scudder,SJ0547,null,null,10,NA,-10,1.0
+nj.uscongress.1806,1806,Caleb Newbold,NC0006,null,null,6,NA,-6,1.0
+nj.uscongress.1806,1806,Joseph Cooper,CJ0399,null,null,4,NA,-4,1.0
+nj.uscongress.1806,1806,Joseph Budd,BJ0601,null,null,3,NA,-3,1.0
+nj.uscongress.1806,1806,George Burgin,BG0058,null,null,2,NA,-2,1.0
+nj.uscongress.1806,1806,James Mott,MJ0399,null,null,2,NA,-2,1.0
+nj.uscongress.1806,1806,Amos Cooper,CA0077,null,null,1,NA,-1,1.0
+nj.uscongress.1806,1806,Isaac Mickle,MI0028,null,null,1,NA,-1,1.0
+nj.uscongress.1806,1806,John Doughty,DJ0215,null,null,1,NA,-1,1.0
+nj.uscongress.1806,1806,Aaron Bennett,BA0049,null,null,0,NA,0,NaN

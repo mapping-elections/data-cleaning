@@ -1,0 +1,26 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1804,1804,William Helmes,HW0205,Republican,A03,9257,NA,-9257,1.0
+nj.uscongress.1804,1804,Henry Southard,SH0055,Republican,A03,9255,NA,-9255,1.0
+nj.uscongress.1804,1804,Ebenezer Elmer,EE0016,Republican,A03,9245,NA,-9245,1.0
+nj.uscongress.1804,1804,John Lambert,LJ0153,Republican,A03,9222,NA,-9222,1.0
+nj.uscongress.1804,1804,James Sloan,SJ0553,Republican,A03,9143,NA,-9143,1.0
+nj.uscongress.1804,1804,Ezra Darby,DE0037,Republican,A03,9123,NA,-9123,1.0
+nj.uscongress.1804,1804,Aaron Ogden,OA0025,Federalist,A01,103,NA,-103,1.0
+nj.uscongress.1804,1804,Peter D. Vroom,VP0002,Federalist,A01,98,NA,-98,1.0
+nj.uscongress.1804,1804,Franklin Davenport,DF0014,Federalist,A01,91,NA,-91,1.0
+nj.uscongress.1804,1804,James H. Imlay,IJ0057,Federalist,A01,90,NA,-90,1.0
+nj.uscongress.1804,1804,Lambert Cadwallader,CL0010,Federalist,A01,88,NA,-88,1.0
+nj.uscongress.1804,1804,William Colefax,CW0122,Federalist,A01,82,NA,-82,1.0
+nj.uscongress.1804,1804,Richard Stockton,SR0121,Federalist,A01,12,NA,-12,1.0
+nj.uscongress.1804,1804,Isaac Smith,SI0045,Federalist,A01,5,NA,-5,1.0
+nj.uscongress.1804,1804,John Bayard,BJ0588,Federalist,A01,4,NA,-4,1.0
+nj.uscongress.1804,1804,George C. Maxwell,MG0041,null,null,3,NA,-3,1.0
+nj.uscongress.1804,1804,Joseph Cooper,CJ0399,null,null,3,NA,-3,1.0
+nj.uscongress.1804,1804,Silas Dickerson,DS0109,Republican,A03,3,NA,-3,1.0
+nj.uscongress.1804,1804,Adam Boyd,BA0122,null,null,2,NA,-2,1.0
+nj.uscongress.1804,1804,John Doughty,DJ0215,Federalist,A01,2,NA,-2,1.0
+nj.uscongress.1804,1804,George Burgin,BG0058,null,null,1,NA,-1,1.0
+nj.uscongress.1804,1804,Jacob Hufty,HJ0423,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1804,1804,John Doty,DJ0503,null,null,1,NA,-1,1.0
+nj.uscongress.1804,1804,John Mehelm,MJ0011,null,null,1,NA,-1,1.0
+nj.uscongress.1804,1804,David Austin,AD0004,null,null,0,NA,0,NaN

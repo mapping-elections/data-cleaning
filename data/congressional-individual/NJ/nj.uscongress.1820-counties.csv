@@ -1,0 +1,911 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,595
+2,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,592
+3,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,643
+4,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,593
+5,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,543
+6,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,554
+7,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,41
+8,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,11
+9,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,1
+10,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,2
+11,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,2
+12,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,NA
+13,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,1
+14,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,NA
+15,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,3
+16,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,6
+17,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,NA
+20,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1
+21,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Bergen,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,111
+2,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,116
+3,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,91
+4,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,95
+5,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,114
+6,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,91
+7,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,19
+8,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,17
+9,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,27
+10,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,47
+11,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,36
+12,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,34
+13,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,14
+14,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,9
+15,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,13
+16,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,1
+17,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,38
+19,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,37
+20,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,25
+21,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,15
+23,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,3
+24,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Burlington,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,47
+2,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,19
+3,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,19
+4,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,19
+5,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,46
+6,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,13
+7,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,27
+8,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,26
+9,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,NA
+10,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,28
+11,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,12
+12,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,NA
+13,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,NA
+14,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,1
+15,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,NA
+16,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,NA
+17,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,NA
+20,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+21,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,1
+32,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,1
+39,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,1
+47,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,1
+49,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,1
+64,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,1
+66,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,1
+67,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,1
+68,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,1
+69,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Cape May,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,167
+2,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,138
+3,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,137
+4,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,138
+5,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,152
+6,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,133
+7,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,10
+8,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,7
+9,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,NA
+10,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,16
+11,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,6
+12,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,NA
+13,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,2
+14,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,2
+15,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,NA
+16,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,NA
+17,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,NA
+20,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+21,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,1
+31,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,1
+37,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,3
+39,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,3
+43,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,1
+46,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,1
+47,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,1
+48,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,1
+53,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,1
+54,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,1
+55,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Cumberland,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,725
+2,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,643
+3,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,545
+4,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,581
+5,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,423
+6,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,437
+7,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,497
+8,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,87
+9,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,31
+10,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,41
+11,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,24
+12,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,1
+13,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,7
+14,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,2
+15,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,52
+16,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,72
+17,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,1
+20,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+21,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,1
+22,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,4
+31,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,6
+34,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Essex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,240
+2,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,154
+3,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,149
+4,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,146
+5,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,158
+6,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,256
+7,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,67
+8,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,48
+9,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,NA
+10,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,124
+11,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,48
+12,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,3
+13,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,70
+14,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,23
+15,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,1
+16,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,NA
+17,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,10
+19,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,1
+20,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,10
+21,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,7
+26,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,8
+32,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,9
+33,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,6
+37,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,5
+42,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,1
+46,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,1
+48,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,1
+49,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,2
+50,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,2
+51,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,1
+52,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,1
+70,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,1
+71,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,1
+72,Gloucester,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,275
+2,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,252
+3,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,222
+4,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,212
+5,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,222
+6,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,209
+7,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,58
+8,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,100
+9,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,121
+10,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,6
+11,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,58
+12,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,97
+13,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,33
+14,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,7
+15,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,1
+16,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,3
+17,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,1
+20,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+21,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,19
+22,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,1
+23,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,1
+27,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,1
+28,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,4
+40,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,1
+52,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Hunterdon,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,307
+2,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,304
+3,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,253
+4,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,257
+5,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,187
+6,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,238
+7,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,153
+8,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,1
+9,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,104
+10,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,NA
+11,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,16
+12,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,80
+13,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,21
+14,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,14
+15,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,NA
+16,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,14
+17,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,82
+18,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,18
+19,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,13
+20,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,3
+21,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,8
+22,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,3
+24,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,1
+31,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Middlesex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,217
+2,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,236
+3,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,181
+4,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,153
+5,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,185
+6,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,153
+7,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,21
+8,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,34
+9,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,76
+10,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,20
+11,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,30
+12,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,38
+13,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,34
+14,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,14
+15,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,9
+16,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,12
+17,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,6
+18,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,1
+20,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,3
+21,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,1
+22,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,27
+23,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,29
+24,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,9
+26,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,2
+28,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,12
+29,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,2
+34,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,3
+44,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Monmouth,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,1
+1,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,742
+2,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,696
+3,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,649
+4,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,685
+5,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,376
+6,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,248
+7,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,511
+8,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,43
+9,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,3
+10,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,43
+11,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,61
+12,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,4
+13,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,7
+14,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,1
+15,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,43
+16,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,1
+17,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,NA
+20,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,2
+21,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,12
+27,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,10
+30,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,2
+31,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Morris,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,133
+2,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,138
+3,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,136
+4,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,136
+5,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,136
+6,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,132
+7,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,NA
+8,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,NA
+9,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,NA
+10,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,NA
+11,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,NA
+12,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,1
+13,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,NA
+14,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,NA
+15,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,NA
+16,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,2
+17,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,NA
+18,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,NA
+20,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,3
+21,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,3
+22,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,5
+24,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,NA
+31,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Salem,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,411
+2,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,356
+3,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,344
+4,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,348
+5,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,297
+6,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,271
+7,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,107
+8,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,6
+9,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,34
+10,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,4
+11,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,26
+12,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,58
+13,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,130
+14,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,49
+15,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,2
+16,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,2
+17,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,1
+18,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,NA
+19,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,NA
+20,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+21,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,16
+22,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,NA
+25,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,NA
+27,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,NA
+28,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,1
+31,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,8
+35,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+36,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+38,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,NA
+39,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,NA
+40,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+45,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+56,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+57,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,NA
+58,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,NA
+59,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,NA
+60,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,NA
+61,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,NA
+62,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,NA
+63,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Somerset,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA
+1,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,731
+2,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,675
+3,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,649
+4,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,611
+5,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,648
+6,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,Republican,A03,626
+7,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Anti-Caucus,A07,97
+8,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,Anti-Caucus,A07,92
+9,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Anti-Caucus,A07,20
+10,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,71
+11,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,Anti-Caucus,A07,78
+12,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,9
+13,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Anti-Caucus,A07,3
+14,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,37
+15,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Anti-Caucus,A07,1
+16,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas T. Kinney,KT0046,Anti-Caucus,A07,NA
+17,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,11
+18,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Anti-Caucus,A07,2
+19,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,Anti-Caucus,A07,5
+20,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1
+21,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Hedge Thompson,TH0015,null,null,NA
+22,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lucius H. Stockton,SL0048,Federalist,A01,NA
+23,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Newbold,NC0011,Anti-Caucus,A07,NA
+24,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Matlack,MS0165,null,null,31
+25,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,NA
+26,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,1
+27,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Anti-Caucus,A07,9
+28,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eyck,TW0174,null,null,NA
+29,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Upson,UJ0021,Anti-Caucus,A07,NA
+30,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Anti-Caucus,A07,1
+31,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,NA
+32,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+33,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,Anti-Caucus,A07,NA
+34,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Anti-Caucus,A07,NA
+35,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,8
+36,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Elmer,ED0013,null,null,NA
+37,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,6
+38,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,null,null,2
+39,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert C. Thomson,TR0044,null,null,5
+40,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Boswell,BW0350,null,null,NA
+42,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Kinsey,KJ0264,null,null,NA
+43,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stacy Lloyd,LS0043,null,null,NA
+44,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,2
+45,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,null,null,NA
+46,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James D. Westcott,WJ0061,null,null,NA
+47,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac W. Crane,CI0013,null,null,NA
+48,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Bilderback,BP0130,null,null,NA
+49,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Rogers,RJ0058,null,null,NA
+50,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ira Moore White,WI0049,null,null,NA
+51,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Carson,CC0114,null,null,NA
+52,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cassedy,CC0144,null,null,NA
+53,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. James,JS0038,null,null,NA
+54,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+55,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,1
+56,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,1
+57,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Swayze,SD0066,null,null,1
+58,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hopkinson,HJ1026,null,null,1
+59,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Fore,FD0071,null,null,1
+60,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hankinson,HH0034,null,null,1
+61,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Sherrerd,SJ0067,null,null,1
+62,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Kinney, Jr.",KJ0088,null,null,1
+63,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Archer,AB0022,null,null,NA
+64,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philimon Dickerson,DP0053,null,null,NA
+66,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Smith,SI0114,null,null,NA
+67,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Masaille,MP0069,null,null,NA
+68,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis H. Stoughton,SL0047,null,null,NA
+69,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+70,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Howell,HS0282,null,null,NA
+71,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Yarrow,YT0005,null,null,NA
+72,Sussex,nj.uscongress.1820,1820-10,1820,General,New Jersey 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Andruss,AI0024,null,null,NA

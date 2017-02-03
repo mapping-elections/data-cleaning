@@ -1,0 +1,339 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,691
+2,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,694
+3,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,699
+4,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,694
+5,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,694
+6,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,906
+7,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,908
+8,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,902
+9,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,900
+10,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,901
+11,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Bergen,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,702
+2,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,698
+3,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,700
+4,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,675
+5,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,675
+6,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,2626
+7,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,2646
+8,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,2618
+9,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,2618
+10,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,2641
+11,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Burlington,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,43
+2,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,43
+3,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,43
+4,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,37
+5,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,42
+6,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,241
+7,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,240
+8,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,240
+9,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,243
+10,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,240
+11,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Cape May,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,786
+2,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,796
+3,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,778
+4,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,782
+5,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,782
+6,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,613
+7,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,618
+8,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,616
+9,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,607
+10,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,606
+11,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,1
+24,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Cumberland,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,3412
+2,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,3400
+3,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,3440
+4,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,3420
+5,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,3422
+6,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1005
+7,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,991
+8,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,987
+9,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,980
+10,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,984
+11,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Essex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,930
+2,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,930
+3,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,925
+4,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,923
+5,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,826
+6,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1402
+7,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,1403
+8,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1402
+9,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1388
+10,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1406
+11,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,98
+12,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,1
+13,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Gloucester,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,798
+2,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,794
+3,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,749
+4,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,779
+5,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,783
+6,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1763
+7,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,1735
+8,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1739
+9,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1718
+10,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1701
+11,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,2
+15,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,1
+16,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,18
+19,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,1
+21,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,1
+22,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,1
+23,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Hunterdon,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,669
+2,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,668
+3,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,672
+4,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,667
+5,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,669
+6,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1348
+7,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,1350
+8,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1343
+9,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1351
+10,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1345
+11,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Middlesex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,617
+2,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,554
+3,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,562
+4,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,550
+5,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,560
+6,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,829
+7,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,809
+8,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,832
+9,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,815
+10,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,796
+11,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,2
+16,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,1
+19,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,30
+20,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,1
+23,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,14
+25,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,1
+26,Monmouth,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,1
+1,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,2687
+2,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,2691
+3,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,2697
+4,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,2681
+5,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,2694
+6,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,277
+7,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,269
+8,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,270
+9,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,270
+10,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,271
+11,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Morris,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,872
+2,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,875
+3,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,870
+4,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,872
+5,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,874
+6,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,723
+7,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,721
+8,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,725
+9,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,724
+10,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,723
+11,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,NA
+19,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,NA
+20,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Salem,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,552
+2,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,544
+3,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,552
+4,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,550
+5,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,571
+6,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1279
+7,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,1263
+8,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1281
+9,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1278
+10,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1272
+11,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+14,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+15,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,NA
+16,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,NA
+17,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,NA
+18,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,1
+19,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,1
+20,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,NA
+21,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Somerset,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA
+1,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,1967
+2,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,1950
+3,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,1959
+4,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,1972
+5,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1955
+6,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1165
+7,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter D. Vroom,VP0002,Federalist,A01,1165
+8,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1151
+9,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1145
+10,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1140
+11,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Southard,SW0048,null,null,NA
+12,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+13,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,2
+14,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,6
+15,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchell,KA0027,null,null,10
+16,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,M. Furman,FM0029,null,null,1
+17,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Lambert,LJ0012,null,null,2
+18,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Artis Seagrave,SA0103,null,null,5
+19,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Marsh,MD0004,null,null,1
+20,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Woodhull,WW0142,null,null,1
+21,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parrett,PW0145,Republican,A03,NA
+22,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+23,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+24,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,W. Camfield,CW0039,null,null,NA
+25,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+26,Sussex,nj.congress.1800,1800,1800,General,New Jersey 1800 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Sayre,SS0011,null,null,NA

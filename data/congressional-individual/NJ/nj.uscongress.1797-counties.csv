@@ -1,0 +1,452 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,264
+2,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,123
+3,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,115
+4,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,56
+5,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,106
+6,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,91
+7,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,69
+8,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,45
+9,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,51
+10,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,42
+11,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,23
+12,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,12
+13,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,NA
+14,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,NA
+15,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+16,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,251
+17,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,NA
+21,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+22,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,NA
+31,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Bergen,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,910
+2,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,429
+3,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,780
+4,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,490
+5,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,560
+6,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,210
+7,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,574
+8,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,88
+9,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,179
+10,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,163
+11,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,NA
+12,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,205
+13,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,NA
+14,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,1
+15,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+16,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,NA
+21,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+22,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,NA
+31,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Burlington,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,320
+2,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,87
+3,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,173
+4,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,78
+5,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,232
+6,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,185
+7,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,220
+8,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,27
+9,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,254
+10,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,3
+11,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,NA
+12,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,96
+13,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,14
+14,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,1
+15,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,316
+16,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,5
+18,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,1
+20,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,NA
+21,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,6
+22,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,1
+23,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,1
+25,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,40
+27,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,17
+28,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,7
+29,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,1
+30,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,1
+31,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,1
+37,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,1
+41,Cumberland,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,935
+2,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,617
+3,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,271
+4,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,521
+5,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,479
+6,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,1074
+7,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,155
+8,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,671
+9,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,671
+10,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,1024
+11,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,826
+12,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,460
+13,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,162
+14,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,4
+15,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,52
+16,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,106
+17,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,21
+21,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,13
+22,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,2
+23,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,40
+26,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,2
+28,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,3
+31,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,1
+35,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,6
+37,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,4
+38,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Essex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,423
+2,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,336
+3,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,321
+4,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,358
+5,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,358
+6,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,135
+7,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,141
+8,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,68
+9,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,102
+10,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+11,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,3
+12,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,244
+13,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,5
+14,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,1
+15,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,70
+16,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,1
+21,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+22,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,1
+31,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1
+39,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Gloucester,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,671
+2,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,621
+3,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,471
+4,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,515
+5,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,358
+6,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,279
+7,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,218
+8,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,194
+9,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,140
+10,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,129
+11,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,NA
+12,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,86
+13,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,128
+14,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,362
+15,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+16,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,NA
+21,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+22,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,NA
+31,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Hunterdon,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,814
+2,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,489
+3,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,519
+4,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,679
+5,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,502
+6,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,373
+7,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,258
+8,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,115
+9,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,13
+10,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+11,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,NA
+12,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,NA
+13,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,NA
+14,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,NA
+15,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,27
+16,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,NA
+21,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+22,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,NA
+31,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Middlesex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,481
+2,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,416
+3,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,482
+4,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,423
+5,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,214
+6,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,103
+7,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,68
+8,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,44
+9,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,18
+10,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,6
+11,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,146
+12,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,33
+13,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,14
+14,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,1
+15,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,3
+16,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,75
+20,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,52
+21,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,7
+22,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,1
+24,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,20
+25,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1
+27,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,25
+29,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,1
+30,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,1
+31,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,6
+33,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,1
+38,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Monmouth,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,409
+2,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,140
+3,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,98
+4,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,121
+5,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,82
+6,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,795
+7,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,68
+8,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,475
+9,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,444
+10,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,625
+11,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,NA
+12,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,303
+13,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,542
+14,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,NA
+15,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+16,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,NA
+20,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,NA
+21,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,NA
+22,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,NA
+23,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,NA
+25,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,NA
+28,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,NA
+31,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Morris,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,458
+2,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,229
+3,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,278
+4,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,477
+5,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,233
+6,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,226
+7,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,32
+8,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,447
+9,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,12
+10,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,62
+11,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,147
+12,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,5
+13,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,50
+14,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,7
+15,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,1
+16,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,NA
+17,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,301
+18,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,NA
+19,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,5
+20,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,3
+21,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,10
+22,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,18
+23,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,NA
+24,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,2
+25,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,4
+28,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,NA
+30,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,3
+31,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,NA
+32,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,NA
+34,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,NA
+36,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,NA
+37,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,NA
+38,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,NA
+40,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Somerset,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA
+1,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,944
+2,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,820
+3,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,391
+4,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,156
+5,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,305
+6,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,271
+7,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,547
+8,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,232
+9,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,93
+10,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,7
+11,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Crane,CW0093,Federalist,A01,302
+12,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,Republican,A03,9
+13,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helms,HW0205,Republican,A03,349
+14,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lowrey,LT0048,Federalist,A01,287
+15,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,34
+16,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,Federalist,A01,1
+17,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+18,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel H. Ford,FG0015,Federalist,A01,205
+19,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Lawrence,LE0040,Federalist,A01,36
+20,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,Federalist,A01,3
+21,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,Republican,A03,28
+22,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,41
+23,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Haring,HP0008,Republican,A03,1
+24,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,Federalist,A01,4
+25,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Terrill,TJ0266,Federalist,A01,NA
+26,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+27,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel S. Smith,SS0154,Federalist,A01,3
+28,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron D. Woodruff,WA0095,Federalist,A01,NA
+29,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Vancleve,VJ0046,Federalist,A01,12
+30,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Scott,SM0059,Republican,A03,3
+31,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Westervelt,WA0098,Republican,A03,2
+32,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Cox,CR0052,Federalist,A01,NA
+33,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Bell,BW0171,Federalist,A01,1
+34,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Westervelt,WJ0344,Republican,A03,NA
+35,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ackerman,AJ0157,Federalist,A01,1
+36,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander C. MacWhortes,MA0097,Federalist,A01,1
+37,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,William Linn,LW0095,Republican,A03,2
+38,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+39,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,James Henry,HJ0393,Federalist,A01,1
+40,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+41,Sussex,nj.uscongress.1797,1797,1797,General,New Jersey 1797 U.S. House of Representatives,U.S. House of Representatives,ON125,Anthony W. White,WA0097,Federalist,A01,NA

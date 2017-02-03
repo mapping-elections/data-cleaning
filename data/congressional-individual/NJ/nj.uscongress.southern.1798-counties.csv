@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cape May,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+2,Cape May,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Republican,A03,NA
+3,Cape May,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,NA
+1,Cumberland,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,188
+2,Cumberland,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Republican,A03,404
+3,Cumberland,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,1
+1,Gloucester,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,664
+2,Gloucester,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Republican,A03,330
+3,Gloucester,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,1
+1,Salem,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,792
+2,Salem,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Republican,A03,532
+3,Salem,nj.uscongress.southern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,NA

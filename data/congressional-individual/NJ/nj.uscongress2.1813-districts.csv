@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nj.uscongress2.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,1,Two,6852
+nj.uscongress2.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,2,Two,6826
+nj.uscongress2.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,3,Two,5410
+nj.uscongress2.1813,1813,1813,General,"New Jersey 1813 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Morgan,MJ0401,Republican,A03,4,Two,5342

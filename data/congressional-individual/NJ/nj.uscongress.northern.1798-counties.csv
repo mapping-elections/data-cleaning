@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Morris,nj.uscongress.northern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,1754
+2,Morris,nj.uscongress.northern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,302
+1,Sussex,nj.uscongress.northern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,1645
+2,Sussex,nj.uscongress.northern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,Mark Thompson,TM0030,Federalist,A01,1075

@@ -1,0 +1,44 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1789,1789,James Schureman,SJ0522,null,null,13891,NA,-13891,1.0
+nj.uscongress.1789,1789,Lambert Cadwallader,CL0010,null,null,9051,NA,-9051,1.0
+nj.uscongress.1789,1789,Elias Boudinot,BE0179,Federalist,A01,8702,NA,-8702,1.0
+nj.uscongress.1789,1789,Thomas Sinnickson,ST0147,Federalist,A01,8364,NA,-8364,1.0
+nj.uscongress.1789,1789,Abraham Clark,CA0071,null,null,7287,NA,-7287,1.0
+nj.uscongress.1789,1789,Jonathan Dayton,DJ0209,Federalist,A01,6859,NA,-6859,1.0
+nj.uscongress.1789,1789,Robert Hoops,HR0098,null,null,2562,NA,-2562,1.0
+nj.uscongress.1789,1789,Whitten Cripps,CW0159,null,null,2375,NA,-2375,1.0
+nj.uscongress.1789,1789,Benjamin Van Cleve,VB0016,null,null,1983,NA,-1983,1.0
+nj.uscongress.1789,1789,James Parker,PJ0264,null,null,1724,NA,-1724,1.0
+nj.uscongress.1789,1789,John Witherspoon,WJ0338,null,null,1711,NA,-1711,1.0
+nj.uscongress.1789,1789,Thomas Henderson,HT0100,Federalist,A01,1156,NA,-1156,1.0
+nj.uscongress.1789,1789,Robert L. Hooper,HR0099,null,null,964,NA,-964,1.0
+nj.uscongress.1789,1789,Josiah Hornblower,HJ0383,null,null,708,NA,-708,1.0
+nj.uscongress.1789,1789,James Linn,LJ0151,null,null,515,NA,-515,1.0
+nj.uscongress.1789,1789,Aaron Kitchel,KA0023,null,null,396,NA,-396,1.0
+nj.uscongress.1789,1789,"John Stevens, Jr.",SJ0741,null,null,258,NA,-258,1.0
+nj.uscongress.1789,1789,William Winds,WW0298,null,null,230,NA,-230,1.0
+nj.uscongress.1789,1789,John Stevens,SJ0729,null,null,184,NA,-184,1.0
+nj.uscongress.1789,1789,John Fell,FJ0209,null,null,137,NA,-137,1.0
+nj.uscongress.1789,1789,Silas Condit,CS0064,null,null,107,NA,-107,1.0
+nj.uscongress.1789,1789,Henry Stites,SH0158,null,null,69,NA,-69,1.0
+nj.uscongress.1789,1789,Robert Ogden,OR0010,null,null,65,NA,-65,1.0
+nj.uscongress.1789,1789,Charles Stewart,SC0069,null,null,64,NA,-64,1.0
+nj.uscongress.1789,1789,Alex MacWhorter,MA0097,null,null,52,NA,-52,1.0
+nj.uscongress.1789,1789,Benjamin Thompson,TB0034,null,null,42,NA,-42,1.0
+nj.uscongress.1789,1789,Abraham Kitchel,KA0027,null,null,32,NA,-32,1.0
+nj.uscongress.1789,1789,Kitchel,null,null,null,23,NA,-23,1.0
+nj.uscongress.1789,1789,Joseph Sheppard,SJ0730,null,null,20,NA,-20,1.0
+nj.uscongress.1789,1789,John Rutherford,RJ0171,null,null,18,NA,-18,1.0
+nj.uscongress.1789,1789,William Woodhull,WW0142,null,null,15,NA,-15,1.0
+nj.uscongress.1789,1789,Abraham Ogden,OA0023,null,null,14,NA,-14,1.0
+nj.uscongress.1789,1789,Frederick Frelinghuysen,FF0012,Federalist,A01,9,NA,-9,1.0
+nj.uscongress.1789,1789,Samuel Tuthill,TS0106,null,null,9,NA,-9,1.0
+nj.uscongress.1789,1789,Jacob Hardenburgh,HJ0078,null,null,7,NA,-7,1.0
+nj.uscongress.1789,1789,Thomas Fenimore,FT0042,null,null,6,NA,-6,1.0
+nj.uscongress.1789,1789,Hugh Hughes,HH0114,null,null,3,NA,-3,1.0
+nj.uscongress.1789,1789,John Armstrong,AJ0012,null,null,1,NA,-1,1.0
+nj.uscongress.1789,1789,John Mehelm,MJ0011,null,null,1,NA,-1,1.0
+nj.uscongress.1789,1789,John Neilson,NJ0051,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1789,1789,Mark Thompson,TM0030,null,null,1,NA,-1,1.0
+nj.uscongress.1789,1789,Patrick Dennis,DP0005,null,null,1,NA,-1,1.0
+nj.uscongress.1789,1789,Samuel Smith,SS0154,Federalist,A01,1,NA,-1,1.0

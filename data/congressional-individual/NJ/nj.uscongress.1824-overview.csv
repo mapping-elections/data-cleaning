@@ -1,0 +1,37 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Holcombe,HG0047,Republican,A03,1,17706
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Swan,SS0156,Republican,A03,2,17672
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Republican,A03,3,17667
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Garrison,GD0024,Republican,A03,4,17585
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cassedy,CG0110,Republican,A03,5,17550
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Tucker,TE0055,Republican,A03,6,17027
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlock,MJ0888,null,null,7,416
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Asa Smith,SA0258,null,null,8,19
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,9,10
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,G. D. Wall,WG0048,Federalist,A01,10,2
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,null,null,11,2
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah J. Foster,FJ0376,null,null,12,2
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ackerman,AA0047,null,null,13,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Hagerman,HH0128,null,null,14,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Hornblower,HJ0996,Federalist,A01,15,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gerard Rutgers,RG0036,null,null,16,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Ryerson,RT0070,null,null,17,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Ten Eycke,TW0174,null,null,18,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bullock,BJ1166,null,null,19,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cadwalader,CT0123,null,null,20,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cavanagh,CJ0051,null,null,21,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philemon Dickenson,DP0053,null,null,22,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Merseles,MP0068,null,null,23,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Condit,CE0150,null,null,24,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fowler,FS0081,null,null,25,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherfurd,RR0029,null,null,26,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Ephraim Green, Jr.",GE0065,null,null,27,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Scott,SJ0628,null,null,28,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Baleman,BE0134,null,null,29,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. T. Blackwell,BJ1165,null,null,30,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,P. J. Clark,CP0104,null,null,31,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. S. Thompson,TJ0448,null,null,32,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Cooper,CB0080,null,null,33,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clement,CJ0437,null,null,34,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Armstrong,AR0037,null,null,35,1
+nj.uscongress.1824,1824,1824,General,New Jersey 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Garret D. Wall,WG0048,Federalist,A01,36,1

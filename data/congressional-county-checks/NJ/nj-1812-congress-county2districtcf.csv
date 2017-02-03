@@ -1,0 +1,13 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1812,1812,James Morgan,MJ0401,Republican,A03,1674,NA,-1674,1.0
+nj.uscongress.1812,1812,Lewis Condict,CL0013,Republican,A03,1673,NA,-1673,1.0
+nj.uscongress.1812,1812,Isaiah Shinn,SI0050,Republican,A03,1672,NA,-1672,1.0
+nj.uscongress.1812,1812,Thomas Ward,WT0111,Republican,A03,1672,NA,-1672,1.0
+nj.uscongress.1812,1812,Thomas Hendry,HT0115,Republican,A03,1671,NA,-1671,1.0
+nj.uscongress.1812,1812,Henry Southard,SH0055,Republican,A03,1670,NA,-1670,1.0
+nj.uscongress.1812,1812,Adam Boyd,BA0122,Federalist,A01,2,NA,-2,1.0
+nj.uscongress.1812,1812,Jacob Hufty,HJ0423,Federalist,A01,2,NA,-2,1.0
+nj.uscongress.1812,1812,James Schureman,SJ0522,Federalist,A01,2,NA,-2,1.0
+nj.uscongress.1812,1812,William Cox,CW0104,Federalist,A01,2,NA,-2,1.0
+nj.uscongress.1812,1812,Jacob S. Thomson,TJ0271,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1812,1812,Theodore Newbold,NT0020,Republican,A03,1,NA,-1,1.0

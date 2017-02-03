@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.uscongress.eastern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,569
+2,Bergen,nj.uscongress.eastern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,926
+1,Essex,nj.uscongress.eastern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,2372
+2,Essex,nj.uscongress.eastern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,907
+1,Middlesex,nj.uscongress.eastern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,437
+2,Middlesex,nj.uscongress.eastern.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,1221

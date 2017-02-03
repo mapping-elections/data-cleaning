@@ -1,0 +1,599 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,914
+2,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,915
+3,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,918
+4,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,913
+5,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,918
+6,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,569
+7,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,670
+8,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,NA
+9,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Bergen,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,409
+2,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,409
+3,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,603
+4,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,407
+5,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,407
+6,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,409
+7,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,60
+8,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,NA
+9,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Burlington,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,47
+2,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,45
+3,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,35
+4,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,44
+5,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,48
+6,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,44
+7,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,NA
+8,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,NA
+9,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,1
+10,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,1
+14,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,1
+15,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,1
+16,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1
+23,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,1
+24,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,3
+27,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,3
+28,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,2
+33,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,1
+34,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,1
+39,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Cape May,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,555
+2,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,430
+3,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,445
+4,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,428
+5,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,430
+6,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,418
+7,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,151
+8,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,139
+9,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,1
+10,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,2
+11,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,1
+16,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,12
+20,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,2
+21,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,5
+23,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,2
+29,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,1
+35,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Cumberland,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,2217
+2,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,2235
+3,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,1327
+4,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,1327
+5,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1344
+6,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,781
+7,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,1719
+8,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,16
+9,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Essex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,984
+2,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,982
+3,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,995
+4,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,983
+5,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,984
+6,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,979
+7,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,1
+8,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,NA
+9,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,9
+15,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,1
+18,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,9
+21,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,1
+29,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,1
+30,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,1
+35,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,1
+36,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,1
+40,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,1
+41,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,1
+42,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Gloucester,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,1736
+2,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,1740
+3,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,1801
+4,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,1734
+5,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1748
+6,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,1703
+7,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,539
+8,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,354
+9,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,50
+10,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,24
+13,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,11
+14,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,2
+16,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,8
+24,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,9
+25,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,5
+26,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,1
+30,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,1
+37,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,1
+43,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Hunterdon,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,748
+2,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,749
+3,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,797
+4,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,775
+5,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,766
+6,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,563
+7,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,556
+8,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,318
+9,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Middlesex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,242
+2,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,235
+3,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,261
+4,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,140
+5,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,247
+6,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,155
+7,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,78
+8,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,6
+9,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,16
+10,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,103
+11,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,47
+12,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,5
+13,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,16
+14,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,16
+15,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,17
+16,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,14
+18,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,15
+19,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,1
+20,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,4
+23,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,1
+24,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,1
+30,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,1
+31,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,1
+36,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,2
+38,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,1
+44,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,1
+45,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Monmouth,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,1573
+2,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,1570
+3,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,1422
+4,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,1550
+5,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1375
+6,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,464
+7,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,1112
+8,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,49
+9,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,166
+10,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Morris,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,1390
+2,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,1387
+3,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,1389
+4,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,1387
+5,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1387
+6,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,1386
+7,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,NA
+8,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,NA
+9,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Salem,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,346
+2,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,358
+3,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,334
+4,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,366
+5,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,287
+6,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,144
+7,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,591
+8,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,NA
+9,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,NA
+10,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,NA
+13,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,NA
+17,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+21,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,NA
+22,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,NA
+31,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,NA
+32,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,NA
+34,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+37,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,NA
+46,Somerset,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,NA
+1,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,2788
+2,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,2767
+3,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,2832
+4,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,Republican,A03,2814
+5,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,2828
+6,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,1025
+7,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,1742
+8,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condit,CL0013,Republican,A03,6
+9,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,Federalist,A01,1
+10,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennet,BB0035,Republican,A03,NA
+11,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Phillips,PJ0506,null,null,NA
+12,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,Federalist,A01,1
+13,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+14,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Griffith,GW0076,Federalist,A01,NA
+15,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+16,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,null,null,18
+17,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rosell,RW0004,null,null,NA
+18,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Brown,BA0022,null,null,NA
+19,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William B. Ewing,EW0062,null,null,NA
+20,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,1
+21,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Sharp,SE0048,null,null,12
+22,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+23,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cummins,CJ0833,null,null,NA
+24,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+25,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bennet,BJ1169,null,null,NA
+26,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Clemens,CJ0832,null,null,NA
+27,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Matlack,MJ0888,null,null,NA
+28,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+29,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Zachariah Rossell,RZ0001,null,null,NA
+30,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Frelinghuysen,FT0037,null,null,2
+31,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Gabriel S. Ford,FG0046,null,null,3
+32,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James B. Caldwell,CJ0831,null,null,NA
+33,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,null,null,1
+34,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Merriman Smith,SM0002,null,null,NA
+35,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+36,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,1
+37,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+38,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Moore White,WJ0069,null,null,NA
+39,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0538,null,null,NA
+40,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel J. Read,RS0058,Federalist,A01,NA
+41,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kenney,KC0041,null,null,NA
+42,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ralph Hunt,HR0109,null,null,NA
+43,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wilson,WJ0096,null,null,NA
+44,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph MacIlvaine,MJ0436,null,null,NA
+45,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel L. Southard,SS0165,null,null,1
+46,Sussex,nj.uscongress.1818,1818,1818,General,New Jersey 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,David Welsh,WD0122,null,null,1

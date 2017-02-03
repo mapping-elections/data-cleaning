@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Burlington,nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1397
+2,Burlington,nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,279
+3,Burlington,nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,William E. Imlay,IW0000,Republican,A03,NA
+1,Monmouth,nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,217
+2,Monmouth,nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,100
+3,Monmouth,nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,William E. Imlay,IW0000,Republican,A03,27

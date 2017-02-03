@@ -1,0 +1,295 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,19
+2,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,19
+3,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,19
+4,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,19
+5,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,19
+6,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,17
+7,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,3
+8,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,3
+9,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,NA
+10,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+11,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+12,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,NA
+13,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,3
+14,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+15,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,3
+16,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,3
+17,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,NA
+18,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,NA
+19,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,NA
+20,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,NA
+21,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,NA
+22,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,NA
+23,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+24,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+25,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,NA
+26,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,NA
+27,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,NA
+28,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,NA
+29,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+30,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,3
+31,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,NA
+32,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+33,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,NA
+34,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,NA
+35,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+36,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,NA
+37,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,NA
+38,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,NA
+39,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,NA
+40,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,NA
+41,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,NA
+42,Cape May,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+1,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,288
+2,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,289
+3,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,287
+4,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,285
+5,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,288
+6,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,284
+7,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,2
+8,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,2
+9,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,NA
+10,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,1
+11,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+12,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,NA
+13,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1
+14,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+15,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,1
+16,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,2
+17,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,NA
+18,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,NA
+19,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,NA
+20,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,NA
+21,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,NA
+22,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,NA
+23,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+24,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+25,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,NA
+26,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,NA
+27,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,NA
+28,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,NA
+29,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+30,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,NA
+31,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,1
+32,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+33,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,NA
+34,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,NA
+35,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+36,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,1
+37,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,1
+38,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,NA
+39,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,NA
+40,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,NA
+41,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,NA
+42,Cumberland,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+1,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,204
+2,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,204
+3,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,204
+4,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,204
+5,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,193
+6,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,204
+7,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,NA
+8,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+9,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,NA
+10,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,17
+11,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,17
+12,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,NA
+13,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,17
+14,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+15,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,17
+16,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,17
+17,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,NA
+18,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,16
+19,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,NA
+20,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,NA
+21,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,NA
+22,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,NA
+23,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+24,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+25,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,NA
+26,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,NA
+27,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,NA
+28,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,NA
+29,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+30,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,NA
+31,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,NA
+32,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+33,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,NA
+34,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,1
+35,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+36,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,NA
+37,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,NA
+38,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,NA
+39,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,NA
+40,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,NA
+41,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,NA
+42,Gloucester,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+1,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,620
+2,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,615
+3,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,620
+4,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,619
+5,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,618
+6,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,616
+7,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,53
+8,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,51
+9,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,47
+10,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,57
+11,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,45
+12,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,32
+13,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+14,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+15,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,4
+16,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,3
+17,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,14
+18,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,NA
+19,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,NA
+20,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,1
+21,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,NA
+22,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,NA
+23,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+24,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+25,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,NA
+26,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,NA
+27,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,NA
+28,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,NA
+29,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+30,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,NA
+31,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,NA
+32,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+33,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,NA
+34,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,NA
+35,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+36,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,NA
+37,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,NA
+38,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,NA
+39,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,NA
+40,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,NA
+41,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,NA
+42,Hunterdon,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+1,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,NA
+2,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,NA
+3,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,NA
+4,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,NA
+5,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,NA
+6,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,NA
+7,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,NA
+8,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+9,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,NA
+10,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+11,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+12,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,NA
+13,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+14,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+15,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,NA
+16,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+17,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,NA
+18,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,NA
+19,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,NA
+20,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,NA
+21,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,NA
+22,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,NA
+23,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+24,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+25,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,NA
+26,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,NA
+27,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,NA
+28,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,NA
+29,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+30,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,NA
+31,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,NA
+32,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,NA
+33,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,2
+34,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,NA
+35,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+36,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,NA
+37,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,NA
+38,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,NA
+39,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,NA
+40,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,NA
+41,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,NA
+42,Middlesex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+1,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,460
+2,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,459
+3,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,456
+4,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,458
+5,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,448
+6,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,456
+7,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,NA
+8,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,1
+9,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,NA
+10,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,NA
+11,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,NA
+12,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,NA
+13,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+14,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,NA
+15,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,NA
+16,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+17,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,NA
+18,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,NA
+19,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,NA
+20,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,NA
+21,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,NA
+22,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,NA
+23,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,1
+24,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,NA
+25,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,NA
+26,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,NA
+27,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,NA
+28,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,NA
+29,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,NA
+30,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,NA
+31,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,NA
+32,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,1
+33,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,NA
+34,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,NA
+35,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,1
+36,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,NA
+37,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,NA
+38,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,1
+39,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,1
+40,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,NA
+41,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,NA
+42,Monmouth,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,NA
+1,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Linn,LJ0197,Republican,A03,778
+2,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,Republican,A03,711
+3,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,714
+4,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bloomfield,BJ0589,Republican,A03,682
+5,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bennett,BB0035,Republican,A03,694
+6,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Bateman,BE0175,Republican,A03,639
+7,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Frelinghuysen,FJ0154,null,null,44
+8,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,29
+9,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thompson,TJ0271,null,null,38
+10,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Ewing,EC0012,null,null,9
+11,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel W. Harrison,HS0123,null,null,8
+12,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cummings,CJ0834,null,null,22
+13,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,13
+14,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Johnson,JJ0112,null,null,29
+15,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,NA
+16,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Giles,GJ0265,null,null,NA
+17,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Colfax,CW0122,null,null,9
+18,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Kinsey,KC0008,null,null,NA
+19,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jerediah Duboice,DJ0269,null,null,9
+20,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,7
+21,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Canfield,CI0009,null,null,8
+22,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Williamson,WI0019,Republican,A03,8
+23,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,7
+24,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacCullough,MW0179,null,null,7
+25,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph C. Hornblower,HJ0996,Federalist,A01,7
+26,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Southard,SS0165,null,null,7
+27,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,null,null,6
+28,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Simpson,SJ1173,null,null,6
+29,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Outwater,OJ0033,null,null,6
+30,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Gervas Hale,HG0137,null,null,1
+31,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Colfax,CR0051,null,null,3
+32,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert W. Rutherford,RR0029,null,null,2
+33,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kinsey,KJ0269,null,null,NA
+34,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Smith,SJ1223,null,null,NA
+35,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0608,null,null,NA
+36,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Wescott,WJ0884,null,null,NA
+37,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bernard Smith,SB0049,null,null,NA
+38,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Pennington,PS0048,null,null,NA
+39,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,David Thompson,TD0046,null,null,NA
+40,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Vansyckel,VA0006,null,null,1
+41,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0017,Federalist,A01,1
+42,Sussex,nj.uscongress.1816,1816,1816,General,New Jersey 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sharp,SJ0530,null,null,1

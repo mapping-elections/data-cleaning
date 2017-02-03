@@ -1,0 +1,16 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1808,1808,Henry Southard,SH0055,Republican,A03,18705,NA,-18705,1.0
+nj.uscongress.1808,1808,Adam Boyd,BA0122,Republican,A03,18691,NA,-18691,1.0
+nj.uscongress.1808,1808,William Helms,HW0205,Republican,A03,18684,NA,-18684,1.0
+nj.uscongress.1808,1808,Thomas Newbold,NT0008,Republican,A03,18657,NA,-18657,1.0
+nj.uscongress.1808,1808,James Cox,CJ0405,Republican,A03,18649,NA,-18649,1.0
+nj.uscongress.1808,1808,Jacob Hufty,HJ0423,Republican,A03,18586,NA,-18586,1.0
+nj.uscongress.1808,1808,Aaron Ogden,OA0025,Federalist,A01,14709,NA,-14709,1.0
+nj.uscongress.1808,1808,John Neilson,NJ0051,Federalist,A01,14705,NA,-14705,1.0
+nj.uscongress.1808,1808,John Beatty,BJ0587,Federalist,A01,14702,NA,-14702,1.0
+nj.uscongress.1808,1808,William Coxe,CW0104,Federalist,A01,14678,NA,-14678,1.0
+nj.uscongress.1808,1808,William Campfield,CW0098,Federalist,A01,14672,NA,-14672,1.0
+nj.uscongress.1808,1808,Samuel W. Harrison,HS0123,Federalist,A01,14496,NA,-14496,1.0
+nj.uscongress.1808,1808,James Sloan,SJ0553,null,null,2,NA,-2,1.0
+nj.uscongress.1808,1808,John Lambert,LJ0153,null,null,1,NA,-1,1.0
+nj.uscongress.1808,1808,Richard Stockton,SR0121,Federalist,A01,1,NA,-1,1.0

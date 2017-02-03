@@ -1,0 +1,27 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.congress.1810,1810,Adam Boyd,BA0122,Republican,A03,13734,NA,-13734,1.0
+nj.congress.1810,1810,Lewis Condict,CL0013,Republican,A03,13720,NA,-13720,1.0
+nj.congress.1810,1810,George C. Maxwell,MG0041,Republican,A03,13696,NA,-13696,1.0
+nj.congress.1810,1810,Jacob Hufty,HJ0423,Republican,A03,13629,NA,-13629,1.0
+nj.congress.1810,1810,Thomas Newbold,NT0008,Republican,A03,13602,NA,-13602,1.0
+nj.congress.1810,1810,James Morgan,MJ0401,Republican,A03,13509,NA,-13509,1.0
+nj.congress.1810,1810,Aaron Ogden,OA0025,Federalist,A01,289,NA,-289,1.0
+nj.congress.1810,1810,John Beatty,BJ0587,Federalist,A01,135,NA,-135,1.0
+nj.congress.1810,1810,William Coxe,CW0104,Federalist,A01,127,NA,-127,1.0
+nj.congress.1810,1810,John Doughty,DJ0215,Federalist,A01,107,NA,-107,1.0
+nj.congress.1810,1810,John Neilson,NJ0051,Federalist,A01,100,NA,-100,1.0
+nj.congress.1810,1810,Jacob Thomson,TJ0271,null,null,57,NA,-57,1.0
+nj.congress.1810,1810,James Parker,PJ0264,Federalist,A01,39,NA,-39,1.0
+nj.congress.1810,1810,Richard Stockton,SR0121,Federalist,A01,36,NA,-36,1.0
+nj.congress.1810,1810,James Schureman,SJ0522,Federalist,A01,26,NA,-26,1.0
+nj.congress.1810,1810,William Campfield,CW0137,null,null,22,NA,-22,1.0
+nj.congress.1810,1810,John L. Howell,HJ1007,null,null,19,NA,-19,1.0
+nj.congress.1810,1810,Ebenezer Elmer,EE0016,null,null,14,NA,-14,1.0
+nj.congress.1810,1810,Samuel Bayard,BS0160,Federalist,A01,8,NA,-8,1.0
+nj.congress.1810,1810,Thomas Sinnickson,ST0147,Federalist,A01,7,NA,-7,1.0
+nj.congress.1810,1810,J. Sipison,SJ1188,null,null,6,NA,-6,1.0
+nj.congress.1810,1810,James H. Imlay,IJ0057,Federalist,A01,2,NA,-2,1.0
+nj.congress.1810,1810,John Simpson,SJ1173,null,null,2,NA,-2,1.0
+nj.congress.1810,1810,D. Stuart,SD0218,null,null,1,NA,-1,1.0
+nj.congress.1810,1810,J. A. Westervelt,WJ0872,null,null,1,NA,-1,1.0
+nj.congress.1810,1810,John Linn,LJ0197,null,null,1,NA,-1,1.0

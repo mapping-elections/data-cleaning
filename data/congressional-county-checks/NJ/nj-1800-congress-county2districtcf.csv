@@ -1,0 +1,27 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.congress.1800,1800,James Mott,MJ0399,Republican,A03,14726,NA,-14726,1.0
+nj.congress.1800,1800,John Condit,CJ0382,Republican,A03,14646,NA,-14646,1.0
+nj.congress.1800,1800,Ebenezer Elmer,EE0016,Republican,A03,14637,NA,-14637,1.0
+nj.congress.1800,1800,William Helms,HW0205,Republican,A03,14602,NA,-14602,1.0
+nj.congress.1800,1800,Henry Southard,SH0055,Republican,A03,14547,NA,-14547,1.0
+nj.congress.1800,1800,Aaron Ogden,OA0025,Federalist,A01,14177,NA,-14177,1.0
+nj.congress.1800,1800,Peter D. Vroom,VP0002,Federalist,A01,14118,NA,-14118,1.0
+nj.congress.1800,1800,James H. Imlay,IJ0057,Federalist,A01,14106,NA,-14106,1.0
+nj.congress.1800,1800,Franklin Davenport,DF0014,Federalist,A01,14037,NA,-14037,1.0
+nj.congress.1800,1800,William Coxe,CW0104,Federalist,A01,14026,NA,-14026,1.0
+nj.congress.1800,1800,William Southard,SW0048,null,null,98,NA,-98,1.0
+nj.congress.1800,1800,D. Marsh,MD0004,null,null,32,NA,-32,1.0
+nj.congress.1800,1800,Artis Seagrave,SA0103,null,null,25,NA,-25,1.0
+nj.congress.1800,1800,W. Camfield,CW0039,null,null,14,NA,-14,1.0
+nj.congress.1800,1800,Abraham Kitchell,KA0027,null,null,13,NA,-13,1.0
+nj.congress.1800,1800,Thomas Newbold,NT0008,null,null,8,NA,-8,1.0
+nj.congress.1800,1800,Jonathan Lambert,LJ0012,null,null,2,NA,-2,1.0
+nj.congress.1800,1800,Joseph Cooper,CJ0399,null,null,2,NA,-2,1.0
+nj.congress.1800,1800,Silas Condit,CS0064,Republican,A03,2,NA,-2,1.0
+nj.congress.1800,1800,W. Woodhull,WW0142,null,null,2,NA,-2,1.0
+nj.congress.1800,1800,Aaron Kitchell,KA0023,Republican,A03,1,NA,-1,1.0
+nj.congress.1800,1800,John Outwater,OJ0033,null,null,1,NA,-1,1.0
+nj.congress.1800,1800,Jonathan Elmer,EJ0094,Federalist,A01,1,NA,-1,1.0
+nj.congress.1800,1800,M. Furman,FM0029,null,null,1,NA,-1,1.0
+nj.congress.1800,1800,Stephen Sayre,SS0011,null,null,1,NA,-1,1.0
+nj.congress.1800,1800,William Parrett,PW0145,Republican,A03,1,NA,-1,1.0

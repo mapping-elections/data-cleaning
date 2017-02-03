@@ -1,0 +1,71 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1820,1820,Ephraim Bateman,BE0175,Republican,A03,4701,NA,-4701,1.0
+nj.uscongress.1820,1820,George Holcombe,HG0047,Republican,A03,4319,NA,-4319,1.0
+nj.uscongress.1820,1820,George Cassedy,CG0110,Republican,A03,4018,NA,-4018,1.0
+nj.uscongress.1820,1820,Samuel Swan,SS0156,Republican,A03,3974,NA,-3974,1.0
+nj.uscongress.1820,1820,John Linn,LJ0197,Republican,A03,3487,NA,-3487,1.0
+nj.uscongress.1820,1820,James Matlack,MJ0888,Republican,A03,3361,NA,-3361,1.0
+nj.uscongress.1820,1820,Lewis Condict,CL0013,Anti-Caucus,A07,1608,NA,-1608,1.0
+nj.uscongress.1820,1820,John Rutherford,RJ0608,Anti-Caucus,A07,472,NA,-472,1.0
+nj.uscongress.1820,1820,James Parker,PJ0264,Anti-Caucus,A07,417,NA,-417,1.0
+nj.uscongress.1820,1820,Joseph MacIlvaine,MJ0436,Anti-Caucus,A07,402,NA,-402,1.0
+nj.uscongress.1820,1820,Samuel L. Southard,SS0165,Anti-Caucus,A07,397,NA,-397,1.0
+nj.uscongress.1820,1820,Joseph Hopkinson,HJ0994,Anti-Caucus,A07,325,NA,-325,1.0
+nj.uscongress.1820,1820,John Frelinghuysen,FJ0154,Anti-Caucus,A07,322,NA,-322,1.0
+nj.uscongress.1820,1820,Joseph C. Hornblower,HJ0996,Anti-Caucus,A07,159,NA,-159,1.0
+nj.uscongress.1820,1820,Charles Kinsey,KC0008,Anti-Caucus,A07,125,NA,-125,1.0
+nj.uscongress.1820,1820,Thomas T. Kinney,KT0046,Anti-Caucus,A07,113,NA,-113,1.0
+nj.uscongress.1820,1820,Theodore Frelinghuysen,FT0037,Anti-Caucus,A07,100,NA,-100,1.0
+nj.uscongress.1820,1820,Richard Stockton,SR0121,Anti-Caucus,A07,68,NA,-68,1.0
+nj.uscongress.1820,1820,Charles Ewing,EC0012,Anti-Caucus,A07,59,NA,-59,1.0
+nj.uscongress.1820,1820,Aaron Ogden,OA0025,Federalist,A01,48,NA,-48,1.0
+nj.uscongress.1820,1820,Hedge Thompson,TH0015,null,null,48,NA,-48,1.0
+nj.uscongress.1820,1820,Lucius H. Stockton,SL0048,Federalist,A01,43,NA,-43,1.0
+nj.uscongress.1820,1820,Caleb Newbold,NC0011,Anti-Caucus,A07,40,NA,-40,1.0
+nj.uscongress.1820,1820,Samuel Matlack,MS0165,null,null,31,NA,-31,1.0
+nj.uscongress.1820,1820,Jeremiah J. Foster,FJ0376,null,null,16,NA,-16,1.0
+nj.uscongress.1820,1820,"David Thompson, Jr.",TD0046,Anti-Caucus,A07,14,NA,-14,1.0
+nj.uscongress.1820,1820,Benjamin Bennett,BB0035,Anti-Caucus,A07,12,NA,-12,1.0
+nj.uscongress.1820,1820,William Ten Eyck,TW0174,null,null,12,NA,-12,1.0
+nj.uscongress.1820,1820,Bernard Smith,SB0049,Anti-Caucus,A07,10,NA,-10,1.0
+nj.uscongress.1820,1820,Jesse Upson,UJ0021,Anti-Caucus,A07,10,NA,-10,1.0
+nj.uscongress.1820,1820,John Clement,CJ0437,null,null,9,NA,-9,1.0
+nj.uscongress.1820,1820,Robert C. Thomson,TR0044,null,null,9,NA,-9,1.0
+nj.uscongress.1820,1820,William Griffith,GW0076,Federalist,A01,9,NA,-9,1.0
+nj.uscongress.1820,1820,Jacob S. Thomson,TJ0271,null,null,8,NA,-8,1.0
+nj.uscongress.1820,1820,John Condit,CJ0382,Anti-Caucus,A07,8,NA,-8,1.0
+nj.uscongress.1820,1820,John Wilson,WJ0096,Anti-Caucus,A07,8,NA,-8,1.0
+nj.uscongress.1820,1820,Daniel Elmer,ED0013,null,null,7,NA,-7,1.0
+nj.uscongress.1820,1820,Joseph Bloomfield,BJ0589,null,null,6,NA,-6,1.0
+nj.uscongress.1820,1820,William MacCullough,MW0179,null,null,6,NA,-6,1.0
+nj.uscongress.1820,1820,William Boswell,BW0350,null,null,5,NA,-5,1.0
+nj.uscongress.1820,1820,James Kinsey,KJ0264,null,null,3,NA,-3,1.0
+nj.uscongress.1820,1820,Stacy Lloyd,LS0043,null,null,3,NA,-3,1.0
+nj.uscongress.1820,1820,Charles Carson,CC0114,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Ebenezer Elmer,EE0016,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Ira Moore White,WI0049,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Isaac W. Crane,CI0013,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,James D. Westcott,WJ0061,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Joseph Rogers,RJ0058,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Peter Bilderback,BP0130,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Robert W. Rutherford,RR0029,null,null,2,NA,-2,1.0
+nj.uscongress.1820,1820,Benjamin Archer,AB0022,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Charles Cassedy,CC0144,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Daniel Swayze,SD0066,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,David Fore,FD0071,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Henry Hankinson,HH0034,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Isaac Andruss,AI0024,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Isaac Smith,SI0114,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Jacob Hopkinson,HJ1026,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,James Giles,GJ0265,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,James Schureman,SJ0522,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,"John Kinney, Jr.",KJ0088,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,John M. Sherrerd,SJ0067,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Joseph Sharp,SJ0530,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Lewis H. Stoughton,SL0047,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Peter Masaille,MP0069,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Philimon Dickerson,DP0053,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Samuel S. Howell,HS0282,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Samuel S. James,JS0038,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Silas Condit,CS0064,null,null,1,NA,-1,1.0
+nj.uscongress.1820,1820,Thomas Yarrow,YT0005,null,null,1,NA,-1,1.0

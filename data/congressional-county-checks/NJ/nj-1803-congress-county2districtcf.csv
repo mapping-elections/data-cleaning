@@ -1,0 +1,37 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1803,1803,James Mott,MJ0399,Republican,A03,13897,NA,-13897,1.0
+nj.uscongress.1803,1803,Henry Southard,SH0055,Republican,A03,13883,NA,-13883,1.0
+nj.uscongress.1803,1803,William Helmes,HW0205,Republican,A03,13839,NA,-13839,1.0
+nj.uscongress.1803,1803,Ebenezer Elmer,EE0016,Republican,A03,13795,NA,-13795,1.0
+nj.uscongress.1803,1803,Adam Boyd,BA0122,Republican,A03,13770,NA,-13770,1.0
+nj.uscongress.1803,1803,James Sloan,SJ0553,Republican,A03,13746,NA,-13746,1.0
+nj.uscongress.1803,1803,Aaron Ogden,OA0025,Federalist,A01,253,NA,-253,1.0
+nj.uscongress.1803,1803,Frederick Frelinghuysen,FF0012,Federalist,A01,231,NA,-231,1.0
+nj.uscongress.1803,1803,William Coxe,CW0104,Federalist,A01,164,NA,-164,1.0
+nj.uscongress.1803,1803,James H. Imlay,IJ0057,Federalist,A01,163,NA,-163,1.0
+nj.uscongress.1803,1803,Jonathan Elmer,EJ0094,Federalist,A01,137,NA,-137,1.0
+nj.uscongress.1803,1803,Mark Thompson,TM0030,null,null,124,NA,-124,1.0
+nj.uscongress.1803,1803,Richard Stockton,SR0121,Federalist,A01,118,NA,-118,1.0
+nj.uscongress.1803,1803,Peter Studiford,SP0159,null,null,87,NA,-87,1.0
+nj.uscongress.1803,1803,Franklin Davenport,DF0014,Federalist,A01,63,NA,-63,1.0
+nj.uscongress.1803,1803,James Schureman,SJ0522,null,null,51,NA,-51,1.0
+nj.uscongress.1803,1803,Aaron Kitchell,KA0023,Republican,A03,29,NA,-29,1.0
+nj.uscongress.1803,1803,John Condit,CJ0382,Republican,A03,29,NA,-29,1.0
+nj.uscongress.1803,1803,John Lambert,LJ0153,Republican,A03,22,NA,-22,1.0
+nj.uscongress.1803,1803,James Linn,LJ0151,Republican,A03,20,NA,-20,1.0
+nj.uscongress.1803,1803,William S. Pennington,PW0135,Republican,A03,18,NA,-18,1.0
+nj.uscongress.1803,1803,"Matthias Williamson, Jr.",WM0049,null,null,8,NA,-8,1.0
+nj.uscongress.1803,1803,Andrew Hunter,HA0008,null,null,7,NA,-7,1.0
+nj.uscongress.1803,1803,John Doughty,DJ0215,null,null,7,NA,-7,1.0
+nj.uscongress.1803,1803,Alexander MacWhorter,MA0097,null,null,6,NA,-6,1.0
+nj.uscongress.1803,1803,John Neilson,NJ0051,Federalist,A01,6,NA,-6,1.0
+nj.uscongress.1803,1803,Silas Dickerson,DS0109,Republican,A03,5,NA,-5,1.0
+nj.uscongress.1803,1803,William Campfield,CW0098,null,null,4,NA,-4,1.0
+nj.uscongress.1803,1803,Joel Fithian,FJ0156,null,null,3,NA,-3,1.0
+nj.uscongress.1803,1803,Joseph Cooper,CJ0399,null,null,3,NA,-3,1.0
+nj.uscongress.1803,1803,Joseph Crane,CJ0595,null,null,2,NA,-2,1.0
+nj.uscongress.1803,1803,William Parret,PW0145,null,null,2,NA,-2,1.0
+nj.uscongress.1803,1803,Ezra Darby,DE0037,Republican,A03,1,NA,-1,1.0
+nj.uscongress.1803,1803,Robert Smith,SR0125,null,null,1,NA,-1,1.0
+nj.uscongress.1803,1803,Samuel Kennedy,KS0044,null,null,1,NA,-1,1.0
+nj.uscongress.1803,1803,Thomas Newbold,NT0008,null,null,1,NA,-1,1.0

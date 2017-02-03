@@ -1,0 +1,469 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,450
+2,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,449
+3,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,448
+4,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,450
+5,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,425
+6,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,443
+7,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Bergen,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,695
+2,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,693
+3,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,691
+4,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,695
+5,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,668
+6,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,687
+7,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Burlington,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,81
+2,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,80
+3,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,81
+4,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,81
+5,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,80
+6,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,81
+7,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Cape May,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,847
+2,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,845
+3,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,842
+4,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,848
+5,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,845
+6,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,831
+7,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,7
+8,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,6
+9,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,8
+10,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,7
+11,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,6
+12,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,10
+13,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,2
+14,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,4
+16,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,1
+20,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,2
+25,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,1
+26,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,2
+30,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,3
+31,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Cumberland,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,2300
+2,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,2312
+3,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,2304
+4,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,2309
+5,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,2277
+6,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,2286
+7,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Essex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,1028
+2,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1027
+3,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,1025
+4,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,1018
+5,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,1026
+6,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,1012
+7,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,81
+8,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,76
+9,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,76
+10,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,56
+11,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,77
+12,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,79
+13,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,31
+16,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,4
+18,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,1
+19,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,3
+25,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,3
+29,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,1
+30,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,1
+34,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Gloucester,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,1645
+2,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1638
+3,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,1631
+4,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,1638
+5,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,1637
+6,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,1632
+7,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,62
+8,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,62
+9,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,60
+10,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,62
+11,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,1
+12,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,62
+14,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,64
+15,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,4
+16,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,1
+17,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,1
+24,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,1
+25,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,2
+26,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,1
+29,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Hunterdon,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,653
+2,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,652
+3,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,650
+4,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,647
+5,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,648
+6,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,642
+7,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Middlesex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,748
+2,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,740
+3,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,721
+4,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,729
+5,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,743
+6,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,723
+7,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,17
+8,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,9
+9,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,13
+10,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,26
+11,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,7
+12,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,9
+14,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,16
+16,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,1
+17,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,1
+25,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Monmouth,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,2452
+2,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,2456
+3,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,2424
+4,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,2453
+5,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,2452
+6,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,2449
+7,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Morris,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,867
+2,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,867
+3,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,867
+4,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,871
+5,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,865
+6,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,866
+7,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,NA
+8,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+9,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,NA
+10,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,NA
+11,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,NA
+12,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,NA
+15,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,NA
+16,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,NA
+17,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,NA
+18,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Salem,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,702
+2,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,718
+3,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,704
+4,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,702
+5,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,698
+6,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,695
+7,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,14
+8,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,27
+9,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,1
+10,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,3
+11,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,9
+12,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,NA
+13,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+14,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,17
+15,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,1
+16,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,11
+17,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,1
+18,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,NA
+19,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,NA
+20,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,NA
+21,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,NA
+22,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,NA
+23,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,NA
+24,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+26,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,NA
+27,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,NA
+28,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,NA
+32,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,NA
+33,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,NA
+35,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,NA
+36,Somerset,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,NA
+1,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Mott,MJ0399,Republican,A03,1429
+2,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,1406
+3,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Helmes,HW0205,Republican,A03,1451
+4,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Elmer,EE0016,Republican,A03,1354
+5,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Republican,A03,1406
+6,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Sloan,SJ0553,Republican,A03,1399
+7,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Ogden,OA0025,Federalist,A01,72
+8,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,51
+9,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Coxe,CW0104,Federalist,A01,6
+10,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,9
+11,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Stockton,SR0121,Federalist,A01,18
+12,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Elmer,EJ0094,Federalist,A01,48
+13,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,51
+14,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Studiford,SP0159,null,null,6
+15,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Franklin Davenport,DF0014,Federalist,A01,7
+16,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,38
+17,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchell,KA0023,Republican,A03,24
+18,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Condit,CJ0382,Republican,A03,28
+19,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lambert,LJ0153,Republican,A03,21
+20,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,20
+21,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William S. Pennington,PW0135,Republican,A03,18
+22,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,"Matthias Williamson, Jr.",WM0049,null,null,8
+23,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Doughty,DJ0215,null,null,6
+24,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Hunter,HA0008,null,null,NA
+25,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,3
+26,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander MacWhorter,MA0097,null,null,6
+27,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Dickerson,DS0109,Republican,A03,5
+28,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Campfield,CW0098,null,null,NA
+29,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Cooper,CJ0399,null,null,NA
+30,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Fithian,FJ0156,null,null,NA
+31,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,William Parret,PW0145,null,null,2
+32,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Crane,CJ0595,null,null,2
+33,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Darby,DE0037,Republican,A03,NA
+34,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Kennedy,KS0044,null,null,1
+35,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Smith,SR0125,null,null,1
+36,Sussex,nj.uscongress.1803,1803-12,1803,General,New Jersey 1803 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Newbold,NT0008,null,null,1

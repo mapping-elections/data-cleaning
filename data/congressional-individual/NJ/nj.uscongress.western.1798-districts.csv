@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nj.uscongress.western.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,James Linn,LJ0151,Republican,A03,1,Western,1496
+nj.uscongress.western.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,Samuel R. Stewart,SS0155,Federalist,A01,2,Western,969
+nj.uscongress.western.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Western District",U.S. House of Representatives,ON125,Archibald Mercer,MA0098,Federalist,A01,3,Western,679

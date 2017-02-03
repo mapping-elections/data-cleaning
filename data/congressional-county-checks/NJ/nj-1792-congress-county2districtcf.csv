@@ -1,0 +1,24 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1792,1792,John Beatty,BJ0587,Federalist,A01,2888,NA,-2888,1.0
+nj.uscongress.1792,1792,Jonathan Dayton,DJ0209,Federalist,A01,2149,NA,-2149,1.0
+nj.uscongress.1792,1792,Abraham Clark,CA0071,null,null,2139,NA,-2139,1.0
+nj.uscongress.1792,1792,Aaron Kitchel,KA0023,null,null,1752,NA,-1752,1.0
+nj.uscongress.1792,1792,Elias Boudinot,BE0179,Federalist,A01,1530,NA,-1530,1.0
+nj.uscongress.1792,1792,Lambert Cadwalader,CL0010,Federalist,A01,1421,NA,-1421,1.0
+nj.uscongress.1792,1792,James Linn,LJ0151,null,null,1136,NA,-1136,1.0
+nj.uscongress.1792,1792,Thomas Sinnickson,ST0147,Federalist,A01,997,NA,-997,1.0
+nj.uscongress.1792,1792,Thomas Henderson,HT0100,Federalist,A01,694,NA,-694,1.0
+nj.uscongress.1792,1792,Jonathan Elmer,EJ0094,Federalist,A01,512,NA,-512,1.0
+nj.uscongress.1792,1792,Samuel Dick,DS0108,null,null,480,NA,-480,1.0
+nj.uscongress.1792,1792,John Bayard,BJ0588,null,null,208,NA,-208,1.0
+nj.uscongress.1792,1792,John Witherspoon,WJ0338,null,null,92,NA,-92,1.0
+nj.uscongress.1792,1792,James F. Armstrong,AJ0153,null,null,52,NA,-52,1.0
+nj.uscongress.1792,1792,Elias Dayton,DE0029,null,null,46,NA,-46,1.0
+nj.uscongress.1792,1792,John Chetwood,CJ0383,null,null,29,NA,-29,1.0
+nj.uscongress.1792,1792,Joseph Smith,SJ0524,null,null,22,NA,-22,1.0
+nj.uscongress.1792,1792,Joseph Bloomfield,BJ0589,null,null,13,NA,-13,1.0
+nj.uscongress.1792,1792,John Harring,HJ0385,null,null,5,NA,-5,1.0
+nj.uscongress.1792,1792,Abraham Kitchell,KA0027,null,null,0,NA,0,NaN
+nj.uscongress.1792,1792,Frederick Frelinghuysen,FF0012,Federalist,A01,0,NA,0,NaN
+nj.uscongress.1792,1792,James Kinsey,KJ0079,null,null,0,NA,0,NaN
+nj.uscongress.1792,1792,James Schureman,SJ0522,null,null,0,NA,0,NaN

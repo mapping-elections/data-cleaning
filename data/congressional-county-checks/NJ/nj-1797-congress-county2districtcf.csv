@@ -1,0 +1,42 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1797,1797,Jonathan Dayton,DJ0209,Federalist,A01,6629,NA,-6629,1.0
+nj.uscongress.1797,1797,Mark Thompson,TM0030,Federalist,A01,4307,NA,-4307,1.0
+nj.uscongress.1797,1797,James H. Imlay,IJ0057,Federalist,A01,3899,NA,-3899,1.0
+nj.uscongress.1797,1797,James Schureman,SJ0522,Federalist,A01,3874,NA,-3874,1.0
+nj.uscongress.1797,1797,Aaron Kitchell,KA0023,Republican,A03,3742,NA,-3742,1.0
+nj.uscongress.1797,1797,Thomas Sinnickson,ST0147,Federalist,A01,3429,NA,-3429,1.0
+nj.uscongress.1797,1797,James Linn,LJ0151,Republican,A03,2406,NA,-2406,1.0
+nj.uscongress.1797,1797,Joseph Bloomfield,BJ0589,Republican,A03,2350,NA,-2350,1.0
+nj.uscongress.1797,1797,John Condit,CJ0382,Republican,A03,2061,NA,-2061,1.0
+nj.uscongress.1797,1797,Ebenezer Elmer,EE0016,Republican,A03,1977,NA,-1977,1.0
+nj.uscongress.1797,1797,Joseph Cooper,CJ0399,Republican,A03,1453,NA,-1453,1.0
+nj.uscongress.1797,1797,William Crane,CW0093,Federalist,A01,1447,NA,-1447,1.0
+nj.uscongress.1797,1797,William Helms,HW0205,Republican,A03,1264,NA,-1264,1.0
+nj.uscongress.1797,1797,Thomas Lowrey,LT0048,Federalist,A01,664,NA,-664,1.0
+nj.uscongress.1797,1797,Jonathan Elmer,EJ0094,Federalist,A01,503,NA,-503,1.0
+nj.uscongress.1797,1797,John Outwater,OJ0033,Federalist,A01,358,NA,-358,1.0
+nj.uscongress.1797,1797,Henry Southard,SH0055,Republican,A03,306,NA,-306,1.0
+nj.uscongress.1797,1797,Gabriel H. Ford,FG0015,Federalist,A01,205,NA,-205,1.0
+nj.uscongress.1797,1797,Elisha Lawrence,LE0040,Federalist,A01,117,NA,-117,1.0
+nj.uscongress.1797,1797,"Matthias Williamson, Jr.",WM0049,Federalist,A01,80,NA,-80,1.0
+nj.uscongress.1797,1797,Silas Condit,CS0064,Republican,A03,64,NA,-64,1.0
+nj.uscongress.1797,1797,Thomas Henderson,HT0100,Republican,A03,62,NA,-62,1.0
+nj.uscongress.1797,1797,Franklin Davenport,DF0014,Federalist,A01,41,NA,-41,1.0
+nj.uscongress.1797,1797,John Terrill,TJ0266,Federalist,A01,40,NA,-40,1.0
+nj.uscongress.1797,1797,Aaron D. Woodruff,WA0095,Federalist,A01,32,NA,-32,1.0
+nj.uscongress.1797,1797,John Doughty,DJ0215,Federalist,A01,27,NA,-27,1.0
+nj.uscongress.1797,1797,Samuel S. Smith,SS0154,Federalist,A01,26,NA,-26,1.0
+nj.uscongress.1797,1797,John W. Vancleve,VJ0046,Federalist,A01,14,NA,-14,1.0
+nj.uscongress.1797,1797,Moses Scott,SM0059,Republican,A03,12,NA,-12,1.0
+nj.uscongress.1797,1797,Alexander C. MacWhortes,MA0097,Federalist,A01,8,NA,-8,1.0
+nj.uscongress.1797,1797,William Linn,LW0095,Republican,A03,7,NA,-7,1.0
+nj.uscongress.1797,1797,Richard Cox,CR0052,Federalist,A01,6,NA,-6,1.0
+nj.uscongress.1797,1797,Abraham Westervelt,WA0098,Republican,A03,2,NA,-2,1.0
+nj.uscongress.1797,1797,Peter Haring,HP0008,Republican,A03,2,NA,-2,1.0
+nj.uscongress.1797,1797,Aaron Ogden,OA0025,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1797,1797,James Ackerman,AJ0157,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1797,1797,James Henry,HJ0393,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1797,1797,John J. Westervelt,WJ0344,Republican,A03,1,NA,-1,1.0
+nj.uscongress.1797,1797,John Neilson,NJ0051,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1797,1797,William B. Bell,BW0171,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1797,1797,Anthony W. White,WA0097,Federalist,A01,0,NA,0,NaN

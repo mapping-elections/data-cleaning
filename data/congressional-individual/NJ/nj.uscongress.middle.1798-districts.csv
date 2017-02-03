@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James H. Imlay,IJ0057,Federalist,A01,1,Middle,1614
+nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Republican,A03,2,Middle,379
+nj.uscongress.middle.1798,1798,1798,General,"New Jersey 1798 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,William E. Imlay,IW0000,Republican,A03,3,Middle,27

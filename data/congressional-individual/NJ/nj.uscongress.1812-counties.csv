@@ -1,0 +1,49 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Morgan,MJ0401,Republican,A03,389
+2,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Republican,A03,389
+3,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Ward,WT0111,Republican,A03,389
+4,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,389
+5,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,389
+6,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,389
+7,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,NA
+8,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Cox,CW0104,Federalist,A01,NA
+9,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,NA
+10,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Federalist,A01,NA
+11,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,Federalist,A01,NA
+12,Cumberland,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Newbold,NT0020,Republican,A03,NA
+1,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Morgan,MJ0401,Republican,A03,533
+2,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Republican,A03,532
+3,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Ward,WT0111,Republican,A03,532
+4,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,533
+5,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,531
+6,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,532
+7,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,1
+8,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Cox,CW0104,Federalist,A01,1
+9,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,1
+10,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Federalist,A01,1
+11,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,Federalist,A01,NA
+12,Gloucester,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Newbold,NT0020,Republican,A03,NA
+1,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Morgan,MJ0401,Republican,A03,255
+2,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Republican,A03,255
+3,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Ward,WT0111,Republican,A03,255
+4,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,255
+5,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,255
+6,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,255
+7,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,NA
+8,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Cox,CW0104,Federalist,A01,NA
+9,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,NA
+10,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Federalist,A01,NA
+11,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,Federalist,A01,NA
+12,Hunterdon,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Newbold,NT0020,Republican,A03,NA
+1,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Morgan,MJ0401,Republican,A03,497
+2,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis Condict,CL0013,Republican,A03,497
+3,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Ward,WT0111,Republican,A03,496
+4,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaiah Shinn,SI0050,Republican,A03,495
+5,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hendry,HT0115,Republican,A03,496
+6,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Southard,SH0055,Republican,A03,494
+7,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hufty,HJ0423,Federalist,A01,1
+8,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Cox,CW0104,Federalist,A01,1
+9,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,Federalist,A01,1
+10,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Adam Boyd,BA0122,Federalist,A01,1
+11,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob S. Thomson,TJ0271,Federalist,A01,1
+12,Sussex,nj.uscongress.1812,1812,1812,General,New Jersey 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Theodore Newbold,NT0020,Republican,A03,1

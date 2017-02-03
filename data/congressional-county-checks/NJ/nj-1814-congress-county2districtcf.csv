@@ -1,0 +1,15 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1814,1814,Henry Southard,SH0055,Republican,A03,17859,NA,-17859,1.0
+nj.uscongress.1814,1814,Lewis Condit,CL0013,Republican,A03,17833,NA,-17833,1.0
+nj.uscongress.1814,1814,Ephraim Bateman,BE0175,Republican,A03,17803,NA,-17803,1.0
+nj.uscongress.1814,1814,Ezra Baker,BE0168,Republican,A03,17791,NA,-17791,1.0
+nj.uscongress.1814,1814,Benjamin Bennett,BB0035,Republican,A03,17776,NA,-17776,1.0
+nj.uscongress.1814,1814,Thomas Ward,WT0111,Republican,A03,17741,NA,-17741,1.0
+nj.uscongress.1814,1814,John Frelinghuysen,FJ0154,Federalist,A01,16697,NA,-16697,1.0
+nj.uscongress.1814,1814,John N. Cumming,CJ0450,Federalist,A01,16680,NA,-16680,1.0
+nj.uscongress.1814,1814,James Parker,PJ0264,Federalist,A01,16666,NA,-16666,1.0
+nj.uscongress.1814,1814,James Giles,GJ0265,Federalist,A01,16644,NA,-16644,1.0
+nj.uscongress.1814,1814,Samuel W. Harrison,HS0123,Federalist,A01,16639,NA,-16639,1.0
+nj.uscongress.1814,1814,Jacob S. Thompson,TJ0271,Federalist,A01,16598,NA,-16598,1.0
+nj.uscongress.1814,1814,Aaron Ogden,OA0025,Federalist,A01,1,NA,-1,1.0
+nj.uscongress.1814,1814,William B. Ewing,EW0062,null,null,1,NA,-1,1.0

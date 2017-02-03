@@ -1,0 +1,43 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nj.uscongress.1791,1791,Abraham Clark,CA0071,null,null,5453,NA,-5453,1.0
+nj.uscongress.1791,1791,Jonathan Dayton,DJ0209,Federalist,A01,4143,NA,-4143,1.0
+nj.uscongress.1791,1791,Elias Boudinot,BE0179,Federalist,A01,2789,NA,-2789,1.0
+nj.uscongress.1791,1791,Aaron Kitchel,KA0023,null,null,2546,NA,-2546,1.0
+nj.uscongress.1791,1791,James Linn,LJ0151,null,null,1658,NA,-1658,1.0
+nj.uscongress.1791,1791,Robert Hoops,HR0098,null,null,1073,NA,-1073,1.0
+nj.uscongress.1791,1791,Lambert Cadwalader,CL0010,Federalist,A01,931,NA,-931,1.0
+nj.uscongress.1791,1791,Thomas Henderson,HT0100,Federalist,A01,572,NA,-572,1.0
+nj.uscongress.1791,1791,Thomas Sinnickson,ST0147,Federalist,A01,521,NA,-521,1.0
+nj.uscongress.1791,1791,John Witherspoon,WJ0338,null,null,481,NA,-481,1.0
+nj.uscongress.1791,1791,John Beatty,BJ0587,Federalist,A01,432,NA,-432,1.0
+nj.uscongress.1791,1791,James Schureman,SJ0522,null,null,390,NA,-390,1.0
+nj.uscongress.1791,1791,John Harring,HJ0385,null,null,362,NA,-362,1.0
+nj.uscongress.1791,1791,Joseph Ellis,EJ0229,null,null,362,NA,-362,1.0
+nj.uscongress.1791,1791,Joseph Hugg,HJ0386,null,null,301,NA,-301,1.0
+nj.uscongress.1791,1791,John Sheppard,SJ0521,null,null,176,NA,-176,1.0
+nj.uscongress.1791,1791,Job Smith,SJ0523,null,null,146,NA,-146,1.0
+nj.uscongress.1791,1791,Ebenezer Elmer,EE0016,null,null,98,NA,-98,1.0
+nj.uscongress.1791,1791,Robert Ogden,OR0010,null,null,90,NA,-90,1.0
+nj.uscongress.1791,1791,Abraham Ogden,OA0023,null,null,31,NA,-31,1.0
+nj.uscongress.1791,1791,Samuel Sharp,SS0153,null,null,23,NA,-23,1.0
+nj.uscongress.1791,1791,James Parker,PJ0264,null,null,18,NA,-18,1.0
+nj.uscongress.1791,1791,William Eugene Imlay,IW0000,null,null,12,NA,-12,1.0
+nj.uscongress.1791,1791,Samuel Dick,DS0108,null,null,10,NA,-10,1.0
+nj.uscongress.1791,1791,John Bayard,BJ0588,null,null,7,NA,-7,1.0
+nj.uscongress.1791,1791,Richard Howell,HR0100,null,null,7,NA,-7,1.0
+nj.uscongress.1791,1791,Archibald Campbell,CA0072,null,null,3,NA,-3,1.0
+nj.uscongress.1791,1791,Franklin Davenport,DF0014,Federalist,A01,3,NA,-3,1.0
+nj.uscongress.1791,1791,Garret Leydecker,LG0015,null,null,3,NA,-3,1.0
+nj.uscongress.1791,1791,Joseph Bloomfield,BJ0589,null,null,2,NA,-2,1.0
+nj.uscongress.1791,1791,Robert Hooper,HR0101,null,null,2,NA,-2,1.0
+nj.uscongress.1791,1791,Henry Land,LH0024,null,null,1,NA,-1,1.0
+nj.uscongress.1791,1791,Jeremiah Elbridge,EJ0093,null,null,1,NA,-1,1.0
+nj.uscongress.1791,1791,Robert L. Hooper,HR0099,null,null,1,NA,-1,1.0
+nj.uscongress.1791,1791,Abraham Ryerson,RA0022,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,Adonijah Schuyler,SA0107,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,Bateman Lloyd,LB0030,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,Cornelius Hunnison,HC0052,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,Ebenezer Howell,HE0075,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,George Dooremus,DG0026,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,James Cadwalader,CJ0388,null,null,0,NA,0,NaN
+nj.uscongress.1791,1791,John Benson,BJ0590,null,null,0,NA,0,NaN

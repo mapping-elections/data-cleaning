@@ -1,0 +1,517 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,366
+2,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,NA
+3,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,286
+4,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,NA
+5,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,125
+6,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,358
+7,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,NA
+8,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,NA
+9,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,NA
+10,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+11,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,NA
+12,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,155
+13,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,124
+21,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Bergen,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,2686
+2,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,2728
+3,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,2763
+4,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,2800
+5,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,7
+6,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,118
+7,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,20
+8,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,NA
+9,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,7
+10,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+11,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,NA
+12,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,NA
+13,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Burlington,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,984
+2,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,1312
+3,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,575
+4,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,929
+5,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,NA
+6,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,NA
+7,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,NA
+8,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,NA
+9,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,NA
+10,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+11,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,NA
+12,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,NA
+13,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Cape May,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,1274
+2,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,17
+3,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,448
+4,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,124
+5,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,2762
+6,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,2984
+7,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,505
+8,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,469
+9,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,206
+10,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,248
+11,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,105
+12,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,290
+13,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,188
+14,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,679
+15,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,13
+16,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,268
+17,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,223
+19,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,1
+20,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,13
+21,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,106
+22,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,69
+23,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,64
+24,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,1
+25,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,52
+26,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,30
+28,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,20
+30,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,12
+31,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,6
+32,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,14
+33,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,6
+34,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,6
+35,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,2
+36,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,2
+38,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,1
+40,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Essex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,3267
+2,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,3269
+3,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,3270
+4,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,3271
+5,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,NA
+6,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,2
+7,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,NA
+8,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,1
+9,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,NA
+10,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+11,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,3
+12,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,1
+13,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Gloucester,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,946
+2,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,455
+3,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,185
+4,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,131
+5,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,710
+6,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,135
+7,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,468
+8,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,32
+9,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,754
+10,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,247
+11,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,635
+12,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,94
+13,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,586
+14,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,158
+18,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,23
+29,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Hunterdon,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,898
+2,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,38
+3,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,57
+4,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,104
+5,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,682
+6,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,403
+7,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,17
+8,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,6
+9,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,160
+10,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,446
+11,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,503
+12,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,170
+13,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,16
+15,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,15
+17,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,81
+18,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Middlesex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,434
+2,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,66
+3,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,352
+4,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,21
+5,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,213
+6,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,406
+7,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,NA
+8,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,5
+9,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,159
+10,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,142
+11,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,47
+12,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,445
+13,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,131
+14,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,99
+17,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,4
+31,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,5
+36,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,1
+43,Monmouth,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,1160
+2,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,8
+3,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,16
+4,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,5
+5,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,1180
+6,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,1241
+7,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,416
+8,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,532
+9,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,475
+10,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,529
+11,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,10
+12,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,1
+13,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,19
+14,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,13
+15,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,23
+16,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,12
+17,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,4
+19,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,6
+20,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,1
+22,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,42
+27,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,2
+28,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,9
+32,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,1
+34,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,3
+35,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,6
+37,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,1
+38,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Morris,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,1
+1,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,220
+2,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,731
+3,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,672
+4,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,886
+5,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,35
+6,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,41
+7,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,NA
+8,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,700
+9,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,NA
+10,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,NA
+11,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,NA
+12,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,NA
+13,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,NA
+16,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Salem,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,992
+2,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,23
+3,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,30
+4,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,72
+5,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,899
+6,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,774
+7,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,110
+8,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,489
+9,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,19
+10,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,26
+11,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,189
+12,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,NA
+13,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,NA
+14,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,244
+16,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,NA
+17,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,19
+18,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,NA
+19,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,NA
+20,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,NA
+24,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,NA
+25,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,NA
+31,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,NA
+34,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,NA
+39,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,NA
+41,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,NA
+42,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Somerset,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
+1,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Schureman,SJ0522,null,null,664
+2,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Lambert Cadwallader,CL0010,null,null,404
+3,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias Boudinot,BE0179,Federalist,A01,48
+4,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Sinnickson,ST0147,Federalist,A01,21
+5,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Clark,CA0071,null,null,674
+6,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Dayton,DJ0209,Federalist,A01,397
+7,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Hoops,HR0098,null,null,1026
+8,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Whitten Cripps,CW0159,null,null,141
+9,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Van Cleve,VB0016,null,null,203
+10,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0264,null,null,86
+11,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Witherspoon,WJ0338,null,null,219
+12,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Henderson,HT0100,Federalist,A01,NA
+13,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert L. Hooper,HR0099,null,null,40
+14,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Hornblower,HJ0383,null,null,NA
+15,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James Linn,LJ0151,null,null,235
+16,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Kitchel,KA0023,null,null,2
+17,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Stevens, Jr.",SJ0741,null,null,NA
+18,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Winds,WW0298,null,null,3
+19,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stevens,SJ0729,null,null,177
+20,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fell,FJ0209,null,null,NA
+21,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Condit,CS0064,null,null,NA
+22,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Stites,SH0158,null,null,NA
+23,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Ogden,OR0010,null,null,1
+24,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Stewart,SC0069,null,null,63
+25,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Alex MacWhorter,MA0097,null,null,NA
+26,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Thompson,TB0034,null,null,NA
+27,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Kitchel,KA0027,null,null,NA
+28,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Kitchel,null,null,null,NA
+29,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sheppard,SJ0730,null,null,NA
+30,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rutherford,RJ0171,null,null,2
+31,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Woodhull,WW0142,null,null,NA
+32,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Ogden,OA0023,null,null,NA
+33,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick Frelinghuysen,FF0012,Federalist,A01,2
+34,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tuthill,TS0106,null,null,NA
+35,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Hardenburgh,HJ0078,null,null,NA
+36,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fenimore,FT0042,null,null,NA
+37,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Hugh Hughes,HH0114,null,null,NA
+38,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Armstrong,AJ0012,null,null,1
+39,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Patrick Dennis,DP0005,null,null,NA
+40,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mehelm,MJ0011,null,null,1
+41,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Neilson,NJ0051,Federalist,A01,1
+42,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0154,Federalist,A01,NA
+43,Sussex,nj.uscongress.1789,1789,1789,General,New Jersey 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Mark Thompson,TM0030,null,null,NA
