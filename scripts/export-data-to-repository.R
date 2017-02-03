@@ -7,6 +7,7 @@ suppressMessages(library(tidyverse))
 suppressMessages(library(stringr))
 suppressMessages(library(USAboundaries))
 suppressMessages(library(humaniformat))
+suppressMessages(library(xml2))
 source("R/helpers.R")
 
 # Setup the export directories
@@ -16,7 +17,24 @@ dir.create("export/congressional/county", recursive = TRUE, showWarnings = FALSE
 
 # Create the candidate records from the candidate authority files
 message("Parsing candidate authority records")
-source("scripts/create-name-table.R")
+names_dir <- "data-raw/nnv-names/candidate"
+name_authorities <- list.files(names_dir, full.names = TRUE, pattern = "\\.xml")
+
+parse_name_auth <- function(x) {
+  candidate_name <- x %>%
+    xml_find_all("auth:candidate") %>%
+    xml_attr("name")
+  candidate_id <- x %>%
+    xml_find_all("auth:candidate") %>%
+    xml_attr("id")
+  tibble(candidate_id, candidate_name)
+}
+
+candidates <- name_authorities %>%
+  map(read_xml) %>%
+  map_df(parse_name_auth) %>%
+  arrange(candidate_id) %>%
+  filter(candidate_id != "AA0000")
 
 # Read in the county join codes for each state
 read_county_join_codes <- function(path) {
