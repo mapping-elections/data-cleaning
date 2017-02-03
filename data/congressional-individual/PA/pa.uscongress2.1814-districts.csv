@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress2.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Darlington,DW0154,Republican,A03,1,Two,4827
+pa.uscongress2.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Hahn,HJ1003,Republican,A03,2,Two,4796
+pa.uscongress2.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaac Wayne,WI0051,Federalist,A01,3,Two,4792
+pa.uscongress2.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Henderson,HS0185,Federalist,A01,4,Two,4787

@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Philadelphia,pa.uscongress2.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Michael Leib,LM0058,Republican,A03,1129
+2,Philadelphia,pa.uscongress2.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Anthony Morris,MA0209,Federalist,A01,870
+3,Philadelphia,pa.uscongress2.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Miles,MS0150,null,null,NA

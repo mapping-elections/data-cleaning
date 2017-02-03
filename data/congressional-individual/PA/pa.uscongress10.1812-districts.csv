@@ -1,0 +1,15 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Jared Irwin,IJ0076,Republican,A03,1,Ten,3526
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Jared Irwin,IJ0076,Republican,A03,1,Cliffsburg,1
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Isaac Smith,SI0076,Republican,A03,2,Ten,3346
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Isaac Smith,SI0076,Republican,A03,2,Cliffsburg,1
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George Smith,SG0084,Republican,A03,3,Ten,2831
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George Smith,SG0084,Republican,A03,3,Cliffsburg,75
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Daniel Montgomery,MD0192,Republican,A03,4,Ten,2763
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Daniel Montgomery,MD0192,Republican,A03,4,Cliffsburg,75
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Enoch Smith,SE0113,Federalist,A01,5,Ten,1307
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Nathan Beach,BN0092,Federalist,A01,6,Ten,1303
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Smith Baily,BS0189,null,null,7,Ten,1
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George Deal,DG0054,null,null,8,Ten,1
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Smith,SJ1080,null,null,9,Ten,1
+pa.uscongress10.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Roswell Wells,WR0143,null,null,10,Ten,1

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.10.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,George Denison,DG0052,Republican,A03,1,9545
+pa.congress.10.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,"Thomas Murray, Jr.",MT0172,Republican,A03,2,7415
+pa.congress.10.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,3,6528
+pa.congress.10.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Abiel Fellows,FA0063,Federalist,A01,4,4507

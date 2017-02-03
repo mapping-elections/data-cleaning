@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress7.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Piper,PW0228,Republican,A03,1,Seven,1428
+pa.uscongress7.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Rea,RJ0310,Republican,A03,2,Seven,1015

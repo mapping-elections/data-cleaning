@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,York,pa.uscongress8.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,3857
+2,York,pa.uscongress8.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Henry Slagle,SH0129,Republican,A03,659

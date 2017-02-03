@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress3.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Thomas,TR0064,Federalist,A01,2922
+2,Chester,pa.uscongress3.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Pearson,PJ0431,Republican,A03,1168
+1,Delaware,pa.uscongress3.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Thomas,TR0064,Federalist,A01,838
+2,Delaware,pa.uscongress3.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Pearson,PJ0431,Republican,A03,346

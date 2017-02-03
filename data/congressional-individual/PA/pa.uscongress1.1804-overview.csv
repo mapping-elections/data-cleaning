@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress1.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Clay,CJ0754,Republican,A03,1,7427
+pa.uscongress1.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Richards,RJ0353,Republican,A03,2,7021
+pa.uscongress1.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Michael Leib,LM0058,Republican,A03,3,3992
+pa.uscongress1.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Penrose,PW0209,Federalist,A01,4,3685
+pa.uscongress1.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Graham,GW0141,null,null,5,NA

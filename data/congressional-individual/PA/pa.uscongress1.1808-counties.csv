@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Say,SB0099,Republican,A03,749
+2,Delaware,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Porter,PJ0433,Republican,A03,750
+3,Delaware,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Anderson,AW0096,Republican,A03,752
+4,Delaware,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,1339
+5,Delaware,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Derick Peterson,PD0073,Federalist,A01,1341
+6,Delaware,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles W. Hare,HC0120,Federalist,A01,1341
+1,Philadelphia,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin Say,SB0099,Republican,A03,3906
+2,Philadelphia,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Porter,PJ0433,Republican,A03,3900
+3,Philadelphia,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Anderson,AW0096,Republican,A03,3889
+4,Philadelphia,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,2054
+5,Philadelphia,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Derick Peterson,PD0073,Federalist,A01,2040
+6,Philadelphia,pa.uscongress1.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles W. Hare,HC0120,Federalist,A01,2034

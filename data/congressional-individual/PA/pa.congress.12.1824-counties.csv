@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,1178
+2,Centre,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,589
+3,Centre,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,230
+1,Clearfield,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,258
+2,Clearfield,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,80
+3,Clearfield,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,14
+1,Huntingdon,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,885
+2,Huntingdon,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,433
+3,Huntingdon,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,1243
+1,Mifflin,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,410
+2,Mifflin,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,1542
+3,Mifflin,pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,495

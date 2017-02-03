@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress7.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Rea,RJ0310,Republican,A03,1,1511
+pa.uscongress7.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Andrew Dunlap,DA0079,Federalist,A01,2,852
+pa.uscongress7.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Woods,WH0059,Constitutionalist,A07,3,503

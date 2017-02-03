@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.5.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James MacSherry,MJ0972,Federalist,A01,1,6925
+pa.congress.5.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Duncan,DJ0409,Federalist,A01,2,6734
+pa.congress.5.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Wilson,WJ0862,Republican,A03,3,5887
+pa.congress.5.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Isaiah Graham,GI0025,Republican,A03,4,5804

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress7.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Rea,RJ0310,Republican,A03,787
+2,Bedford,pa.uscongress7.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,428
+3,Bedford,pa.uscongress7.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John MacLain,MJ0895,Federalist,A01,NA
+1,Franklin,pa.uscongress7.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Rea,RJ0310,Republican,A03,1386
+2,Franklin,pa.uscongress7.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,513
+3,Franklin,pa.uscongress7.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John MacLain,MJ0895,Federalist,A01,147

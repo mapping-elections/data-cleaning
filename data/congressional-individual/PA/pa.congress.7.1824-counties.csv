@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berks,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Adams,AW0109,Republican,A03,2111
+2,Berks,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,2129
+3,Berks,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Keck,KG0037,Federalist,A01,1452
+4,Berks,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Rose,RD0055,Federalist,A01,1371
+1,Lehigh,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Adams,AW0109,Republican,A03,1160
+2,Lehigh,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,1069
+3,Lehigh,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Keck,KG0037,Federalist,A01,253
+4,Lehigh,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Rose,RD0055,Federalist,A01,249
+1,Schuylkill,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Adams,AW0109,Republican,A03,519
+2,Schuylkill,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,524
+3,Schuylkill,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Keck,KG0037,Federalist,A01,378
+4,Schuylkill,pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Rose,RD0055,Federalist,A01,389

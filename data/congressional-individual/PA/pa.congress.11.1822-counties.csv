@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Adams,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Findlay,FJ0394,Republican,A03,738
+2,Adams,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Wilson,WJ0879,Republican,A03,701
+3,Adams,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James MacSherry,MJ0972,Federalist,A01,1481
+4,Adams,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William N. Irvine,IW0012,Federalist,A01,1294
+1,Cumberland,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Findlay,FJ0394,Republican,A03,1658
+2,Cumberland,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Wilson,WJ0879,Republican,A03,1532
+3,Cumberland,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James MacSherry,MJ0972,Federalist,A01,1231
+4,Cumberland,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William N. Irvine,IW0012,Federalist,A01,1346
+1,Franklin,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Findlay,FJ0394,Republican,A03,1909
+2,Franklin,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Wilson,WJ0879,Republican,A03,1802
+3,Franklin,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James MacSherry,MJ0972,Federalist,A01,1582
+4,Franklin,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William N. Irvine,IW0012,Federalist,A01,1503
+1,Perry,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Findlay,FJ0394,Republican,A03,957
+2,Perry,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Wilson,WJ0879,Republican,A03,898
+3,Perry,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James MacSherry,MJ0972,Federalist,A01,419
+4,Perry,pa.congress.11.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William N. Irvine,IW0012,Federalist,A01,455

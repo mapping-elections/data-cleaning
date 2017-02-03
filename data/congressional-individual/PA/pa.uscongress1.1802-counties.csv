@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Clay,CJ0754,Republican,A03,597
+2,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Richards,RJ0353,Republican,A03,596
+3,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Michael Leib,LM0058,Republican,A03,594
+4,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Latimer,LG0031,Federalist,A01,732
+5,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Brown,BP0075,Federalist,A01,739
+6,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonas Preston,PJ0428,Federalist,A01,727
+7,Delaware,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Elisha Gordon,GE0078,Republican,A03,NA
+1,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Clay,CJ0754,Republican,A03,2677
+2,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Richards,RJ0353,Republican,A03,2668
+3,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Michael Leib,LM0058,Republican,A03,2335
+4,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Latimer,LG0031,Federalist,A01,778
+5,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Peter Brown,BP0075,Federalist,A01,778
+6,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonas Preston,PJ0428,Federalist,A01,770
+7,Philadelphia,pa.uscongress1.1802,1802,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Elisha Gordon,GE0078,Republican,A03,346

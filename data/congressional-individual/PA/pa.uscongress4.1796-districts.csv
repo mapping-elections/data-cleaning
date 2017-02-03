@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress4.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,1,Four,3752
+pa.uscongress4.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Chapman,CJ0685,Federalist,A01,2,Four,2214
+pa.uscongress4.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Republican,A03,3,NA,NA
+pa.uscongress4.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Richards,RJ0314,Federalist,A01,4,NA,NA
+pa.uscongress4.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Lollar,LR0052,Republican,A03,5,NA,NA

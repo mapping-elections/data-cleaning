@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1,Nine,10685
+pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,2,Nine,10586
+pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,3,Nine,7295
+pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,4,Nine,5702

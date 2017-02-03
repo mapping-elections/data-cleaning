@@ -5,7 +5,7 @@
 # <https://github.com/mapping-elections/elections-data/>.
 
 # STATES to export
-states <- c("NY", "VA", "NC", "MA", "ME", "NH", "VT", "CT", "RI")
+states <- c("NY", "VA", "NC", "MA", "ME", "NH", "VT", "CT", "RI", "PA")
 
 suppressMessages(library(tidyverse))
 suppressMessages(library(stringr))

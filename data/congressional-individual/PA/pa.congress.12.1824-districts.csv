@@ -1,0 +1,10 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,1,Twelve,2731
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,1,Huntingdon,50
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Mitchell,MJ1130,Republican,A03,1,Shaverscreek,78
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,2,Twelve,2644
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,2,Huntingdon,76
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,2,Shaverscreek,78
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,3,Twelve,1982
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,3,Huntingdon,296
+pa.congress.12.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert Allison,AR0051,Republican,A03,3,Shaverscreek,105

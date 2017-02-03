@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.15.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Patrick Farrelly,FP0028,Republican,A03,1,3401
+pa.congress.15.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,2,2746
+pa.congress.15.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Beavon Pearson,PB0072,Republican,A03,3,286

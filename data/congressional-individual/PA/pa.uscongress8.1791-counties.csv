@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegheny,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,141
+2,Allegheny,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,572
+1,Fayette,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,401
+2,Fayette,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,163
+1,Washington,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,1109
+2,Washington,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,633
+1,Westmoreland,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,1248
+2,Westmoreland,pa.uscongress8.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,149

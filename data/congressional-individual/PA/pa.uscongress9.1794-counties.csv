@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,383
+2,Cumberland,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Wallace,WJ0609,Federalist,A01,525
+3,Cumberland,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Irvine,IW0016,Republican,A03,470
+4,Cumberland,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Laind,LS0108,null,null,NA
+5,Cumberland,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Armstrong,AJ0015,null,null,NA
+6,Cumberland,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ephraim Blaine,BE0191,null,null,NA
+1,Mifflin,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,NA
+2,Mifflin,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Wallace,WJ0609,Federalist,A01,NA
+3,Mifflin,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Irvine,IW0016,Republican,A03,NA
+4,Mifflin,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Laind,LS0108,null,null,NA
+5,Mifflin,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Armstrong,AJ0015,null,null,NA
+6,Mifflin,pa.uscongress9.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Ephraim Blaine,BE0191,null,null,NA

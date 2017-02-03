@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.congress.13.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Tod,TJ0441,Republican,A03,2335
+1,Cambria,pa.congress.13.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Tod,TJ0441,Republican,A03,480
+1,Somerset,pa.congress.13.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Tod,TJ0441,Republican,A03,1351

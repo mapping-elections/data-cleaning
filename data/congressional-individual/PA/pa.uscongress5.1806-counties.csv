@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"Daniel Montgomery, Jr.",MD0192,Republican,A03,643
+2,Centre,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Constitutionalist,A07,868
+1,Clearfield,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"Daniel Montgomery, Jr.",MD0192,Republican,A03,NA
+2,Clearfield,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Constitutionalist,A07,NA
+1,Lycoming,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"Daniel Montgomery, Jr.",MD0192,Republican,A03,433
+2,Lycoming,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Constitutionalist,A07,665
+1,Potter,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"Daniel Montgomery, Jr.",MD0192,Republican,A03,NA
+2,Potter,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Constitutionalist,A07,NA
+1,Northumberland,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"Daniel Montgomery, Jr.",MD0192,Republican,A03,2085
+2,Northumberland,pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Constitutionalist,A07,788

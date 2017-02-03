@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,York,pa.congress.4.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James S. Mitchell,MJ1038,Republican,A03,2577
+2,York,pa.congress.4.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jacob Hostetter,HJ0778,Federalist,A01,2161

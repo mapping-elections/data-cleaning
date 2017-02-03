@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaver,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,759
+2,Beaver,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Epaphroditus Cossit,CE0143,Federalist,A01,129
+1,Crawford,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,320
+2,Crawford,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Epaphroditus Cossit,CE0143,Federalist,A01,58
+1,Erie,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,376
+2,Erie,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Epaphroditus Cossit,CE0143,Federalist,A01,10
+1,Mercer,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,400
+2,Mercer,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Epaphroditus Cossit,CE0143,Federalist,A01,370
+1,Venango,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,333
+2,Venango,pa.uscongress15.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Epaphroditus Cossit,CE0143,Federalist,A01,48

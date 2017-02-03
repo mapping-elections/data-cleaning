@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress10.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Aaron Lyle,LA0096,Republican,A03,1,3425
+pa.uscongress10.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Hamilton,HJ0746,Federalist,A01,2,1053

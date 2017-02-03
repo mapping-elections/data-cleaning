@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaver,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,1304
+2,Beaver,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,170
+1,Crawford,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,70
+2,Crawford,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,782
+1,Erie,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,177
+2,Erie,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,473
+1,Mercer,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,816
+2,Mercer,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,358
+1,Venango,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,NA
+2,Venango,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,NA
+1,Warren,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,NA
+2,Warren,pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,NA

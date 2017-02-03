@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Andrew Stewart,SA0254,Republican,A03,1,Thirteen,2449
+pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Christian Tarr,TC0055,Republican,A03,2,Thirteen,2035
+pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Charles Porter,PC0040,Federalist,A01,3,Thirteen,593

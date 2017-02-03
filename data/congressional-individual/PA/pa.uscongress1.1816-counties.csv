@@ -1,0 +1,21 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Adam Seybert,SA0219,Republican,A03,698
+2,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Anderson,AW0096,Republican,A03,696
+3,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sergeant,SJ1073,Federalist,A01,1007
+4,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0757,Federalist,A01,1005
+5,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Milnor,MW0326,Federalist,A01,1006
+6,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Edwards,ES0034,Federalist,A01,1023
+7,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Sommer,SJ1311,New School Republican,A07,571
+8,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Conard,CJ0812,New School Republican,A07,567
+9,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William J. Duane,DW0162,Union Ticket,A07,144
+10,Delaware,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Forrest,FT0063,Old School Republican,A07,131
+1,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Adam Seybert,SA0219,Republican,A03,3356
+2,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Anderson,AW0096,Republican,A03,3342
+3,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sergeant,SJ1073,Federalist,A01,1694
+4,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hopkinson,HJ0757,Federalist,A01,1667
+5,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Milnor,MW0326,Federalist,A01,1663
+6,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Edwards,ES0034,Federalist,A01,1638
+7,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Sommer,SJ1311,New School Republican,A07,1994
+8,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Conard,CJ0812,New School Republican,A07,1985
+9,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William J. Duane,DW0162,Union Ticket,A07,1451
+10,Philadelphia,pa.uscongress1.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Forrest,FT0063,Old School Republican,A07,1385

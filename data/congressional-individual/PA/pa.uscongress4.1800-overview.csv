@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress4.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Republican,A03,1,6684
+pa.uscongress4.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Brown,BR0106,Republican,A03,2,6682
+pa.uscongress4.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Arndt,AJ0261,Federalist,A01,3,3028
+pa.uscongress4.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Cadwallader Evans,EC0027,Federalist,A01,4,3026

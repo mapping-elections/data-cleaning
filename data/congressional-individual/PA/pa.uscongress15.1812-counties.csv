@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaver,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abner Lacock,LA0102,Republican,A03,685
+2,Beaver,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,638
+3,Beaver,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Roger Alden,AR0043,Federalist,A01,1
+1,Crawford,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abner Lacock,LA0102,Republican,A03,399
+2,Crawford,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,2
+3,Crawford,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Roger Alden,AR0043,Federalist,A01,185
+1,Erie,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abner Lacock,LA0102,Republican,A03,215
+2,Erie,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,NA
+3,Erie,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Roger Alden,AR0043,Federalist,A01,135
+1,Mercer,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abner Lacock,LA0102,Republican,A03,613
+2,Mercer,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,215
+3,Mercer,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Roger Alden,AR0043,Federalist,A01,8
+1,Venango,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abner Lacock,LA0102,Republican,A03,255
+2,Venango,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,NA
+3,Venango,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Roger Alden,AR0043,Federalist,A01,98
+1,Warren,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Abner Lacock,LA0102,Republican,A03,NA
+2,Warren,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,NA
+3,Warren,pa.uscongress15.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Roger Alden,AR0043,Federalist,A01,NA

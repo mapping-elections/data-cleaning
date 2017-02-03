@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegheny,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,959
+2,Allegheny,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,814
+1,Beaver,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,477
+2,Beaver,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,178
+1,Butler,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,418
+2,Butler,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,118
+1,Crawford,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,672
+2,Crawford,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,263
+1,Erie,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,NA
+2,Erie,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,NA
+1,Mercer,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,NA
+2,Mercer,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,NA
+1,Venango,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,NA
+2,Venango,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,NA
+1,Warren,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John B. Lucas,LJ0337,Republican,A03,NA
+2,Warren,pa.uscongress11.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James O'Hara,OJ0042,Federalist,A01,NA

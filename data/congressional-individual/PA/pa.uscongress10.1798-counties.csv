@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,459
+2,Bedford,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Johnston,JT0037,Federalist,A01,77
+3,Bedford,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,253
+1,Franklin,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,1098
+2,Franklin,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Johnston,JT0037,Federalist,A01,443
+3,Franklin,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,378
+1,Huntingdon,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,345
+2,Huntingdon,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Johnston,JT0037,Federalist,A01,418
+3,Huntingdon,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,284
+1,Somerset,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,478
+2,Somerset,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Johnston,JT0037,Federalist,A01,290
+3,Somerset,pa.uscongress10.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,53

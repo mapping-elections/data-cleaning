@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress6.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John A. Hanna,HJ0754,Republican,A03,1,NA,NA
+pa.uscongress6.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Maclay,MS0148,Republican,A03,2,NA,NA
+pa.uscongress6.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Carson,CJ0686,Federalist,A01,3,NA,NA

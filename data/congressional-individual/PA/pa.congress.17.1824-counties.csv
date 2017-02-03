@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Indiana,pa.congress.17.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,George Plumer,PG0067,Republican,A03,763
+2,Indiana,pa.congress.17.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John H. Wise,WJ0866,Federalist,A01,711
+1,Westmoreland,pa.congress.17.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,George Plumer,PG0067,Republican,A03,2023
+2,Westmoreland,pa.congress.17.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 17",U.S. House of Representatives,ON125,John H. Wise,WJ0866,Federalist,A01,1280

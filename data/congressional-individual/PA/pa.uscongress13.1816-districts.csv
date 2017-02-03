@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress13.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Christian Tarr,TC0055,Republican,A03,1,Thirteen,1090
+pa.uscongress13.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Presley Carr Lane,LP0039,Republican,A03,2,Thirteen,760
+pa.uscongress13.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Henry Heaton,HH0067,Federalist,A01,3,Thirteen,546
+pa.uscongress13.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas MacKibben,MT0180,Republican,A03,4,Thirteen,452
+pa.uscongress13.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Hersey,HT0188,Republican,A03,5,Thirteen,138

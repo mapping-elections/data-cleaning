@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.16.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Walter Forward,FW0098,Federalist,A01,1,4420
+pa.congress.16.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,"James Allison, Jr.",AJ0332,Federalist,A01,2,4123
+pa.congress.16.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,John A. Scroggs,SJ1157,Republican,A03,3,3118
+pa.congress.16.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 16",U.S. House of Representatives,ON125,Joel Lewis,LJ0493,Republican,A03,4,2960

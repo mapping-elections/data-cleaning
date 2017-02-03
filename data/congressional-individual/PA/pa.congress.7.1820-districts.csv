@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.7.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ludwig Worman,WL0064,Federalist,A01,1,Seven,4717
+pa.congress.7.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ludwig Worman,WL0064,Federalist,A01,1,Reading,1433
+pa.congress.7.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Gabriel Hiester, Jr.",HG0106,Republican,A03,2,Seven,3790
+pa.congress.7.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Gabriel Hiester, Jr.",HG0106,Republican,A03,2,Reading,650

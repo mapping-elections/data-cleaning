@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,pa.uscongress9.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1057
+2,Cumberland,pa.uscongress9.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,1573
+1,Mifflin,pa.uscongress9.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1561
+2,Mifflin,pa.uscongress9.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,339

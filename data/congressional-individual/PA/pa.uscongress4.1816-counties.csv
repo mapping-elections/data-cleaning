@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,York,pa.uscongress4.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jacob Spangler,SJ1261,Republican,A03,1466
+2,York,pa.uscongress4.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jacob Hay,HJ1059,Federalist,A01,764

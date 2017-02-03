@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.3.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Philips,PJ0596,Federalist,A01,1,Three,7809
+pa.congress.3.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Buchanan,BJ1089,Federalist,A01,2,Three,7709
+pa.congress.3.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hibshman,HJ0843,Republican,A03,3,Three,6396
+pa.congress.3.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James M. Wallace,WJ0814,Republican,A03,4,Three,6100

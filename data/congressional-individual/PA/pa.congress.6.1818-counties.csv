@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bucks,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Moore,MS0176,Republican,A03,2324
+2,Bucks,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,2301
+1,Lehigh,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Moore,MS0176,Republican,A03,714
+2,Lehigh,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,675
+1,Northampton,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Moore,MS0176,Republican,A03,1122
+2,Northampton,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,1047
+1,Pike,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Moore,MS0176,Republican,A03,176
+2,Pike,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,171
+1,Wayne,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel Moore,MS0176,Republican,A03,241
+2,Wayne,pa.congress.6.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,267

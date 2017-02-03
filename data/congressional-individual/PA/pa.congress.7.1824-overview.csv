@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Adams,AW0109,Republican,A03,1,3790
+pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,2,3722
+pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Keck,KG0037,Federalist,A01,3,2083
+pa.congress.7.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Rose,RD0055,Federalist,A01,4,2009

@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.congress.13.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Alexander Thomson,TA0068,Republican,A03,1324
+1,Cambria,pa.congress.13.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Alexander Thomson,TA0068,Republican,A03,358
+1,Somerset,pa.congress.13.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Alexander Thomson,TA0068,Republican,A03,1041

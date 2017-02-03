@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,Republican,A03,1,Eight,5417
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,Republican,A03,1,Easton,498
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,2,Eight,4629
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas J. Rogers,RT0097,Republican,A03,2,Easton,487
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,3,Eight,3740
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,3,Easton,455
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Francis B. Shaw,SF0048,Federalist,A01,4,Eight,1907
+pa.congress.8.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Francis B. Shaw,SF0048,Federalist,A01,4,Easton,405

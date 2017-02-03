@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Roger Davis,DR0049,Republican,A03,3068
+2,Chester,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Roberts,RJ0414,Republican,A03,3062
+3,Chester,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Henderson,HS0185,Federalist,A01,3176
+4,Chester,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Francis Gardner,GF0018,Federalist,A01,3179
+1,Montgomery,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Roger Davis,DR0049,Republican,A03,2747
+2,Montgomery,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jonathan Roberts,RJ0414,Republican,A03,2748
+3,Montgomery,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Henderson,HS0185,Federalist,A01,2122
+4,Montgomery,pa.uscongress2.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Francis Gardner,GF0018,Federalist,A01,2116

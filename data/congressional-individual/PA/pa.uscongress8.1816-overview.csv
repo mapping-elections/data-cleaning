@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Alexander Ogle,OA0029,Republican,A03,1,3143
+pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Fletcher,FJ0377,null,null,2,11
+pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA

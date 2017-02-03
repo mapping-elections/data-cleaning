@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.2.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Darlington,DW0154,Republican,A03,1,4811
+pa.congress.2.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Gross,GS0076,Republican,A03,2,4729
+pa.congress.2.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Levi Pawling,PL0018,Federalist,A01,3,4178
+pa.congress.2.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Kelton,KJ0198,Federalist,A01,4,4117

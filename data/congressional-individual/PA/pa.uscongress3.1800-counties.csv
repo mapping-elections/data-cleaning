@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress3.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hemphill,HJ0774,Federalist,A01,1980
+2,Chester,pa.uscongress3.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Shallcross,SJ1016,Republican,A03,1843
+1,Delaware,pa.uscongress3.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Hemphill,HJ0774,Federalist,A01,752
+2,Delaware,pa.uscongress3.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Shallcross,SJ1016,Republican,A03,546

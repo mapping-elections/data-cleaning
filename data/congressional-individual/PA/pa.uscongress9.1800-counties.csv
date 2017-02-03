@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,pa.uscongress9.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1156
+2,Cumberland,pa.uscongress9.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Mitchell,MD0181,Federalist,A01,724
+1,Mifflin,pa.uscongress9.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1227
+2,Mifflin,pa.uscongress9.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Mitchell,MD0181,Federalist,A01,177

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress11.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,1,Eleven,1982
+pa.uscongress11.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,1,Greensburgh,512
+pa.uscongress11.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Brady,BJ0968,Federalist,A01,2,Eleven,1602
+pa.uscongress11.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Brady,BJ0968,Federalist,A01,2,Greensburgh,453

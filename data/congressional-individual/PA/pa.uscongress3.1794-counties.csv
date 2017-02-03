@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress3.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Thomas,TR0064,Federalist,A01,789
+2,Chester,pa.uscongress3.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Ross,RT0087,Republican,A03,473
+1,Delaware,pa.uscongress3.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Thomas,TR0064,Federalist,A01,451
+2,Delaware,pa.uscongress3.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Ross,RT0087,Republican,A03,126

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress11.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,1,1782
+pa.uscongress11.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Todd,TW0090,Federalist,A01,2,1265
+pa.uscongress11.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Guthrie,GJ0379,Federalist,A01,3,826

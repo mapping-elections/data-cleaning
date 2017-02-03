@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.uscongress5.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,835
+1,Lycoming,pa.uscongress5.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,677
+1,Northumberland,pa.uscongress5.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,2746

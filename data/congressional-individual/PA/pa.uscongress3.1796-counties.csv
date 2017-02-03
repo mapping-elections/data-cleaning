@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress3.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Thomas,TR0064,Federalist,A01,783
+2,Chester,pa.uscongress3.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Gibbons,GW0130,Republican,A03,941
+1,Delaware,pa.uscongress3.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Thomas,TR0064,Federalist,A01,499
+2,Delaware,pa.uscongress3.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,William Gibbons,GW0130,Republican,A03,202

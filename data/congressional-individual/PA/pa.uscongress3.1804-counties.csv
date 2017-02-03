@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berks,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Christian Lower,LC0033,Republican,A03,2666
+2,Berks,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whitehill,WJ0661,Republican,A03,2600
+3,Berks,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Anderson,AI0012,Republican,A03,2596
+4,Berks,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Boude,BT0242,Federalist,A01,75
+5,Berks,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Wayne,WI0051,Federalist,A01,79
+1,Chester,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Christian Lower,LC0033,Republican,A03,3727
+2,Chester,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whitehill,WJ0661,Republican,A03,2070
+3,Chester,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Anderson,AI0012,Republican,A03,2062
+4,Chester,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Boude,BT0242,Federalist,A01,1660
+5,Chester,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Wayne,WI0051,Federalist,A01,1671
+1,Lancaster,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Christian Lower,LC0033,Republican,A03,2686
+2,Lancaster,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whitehill,WJ0661,Republican,A03,1639
+3,Lancaster,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Anderson,AI0012,Republican,A03,1629
+4,Lancaster,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Boude,BT0242,Federalist,A01,1094
+5,Lancaster,pa.uscongress3.1804,1804-10,1804,General,"Pennsylvania 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Wayne,WI0051,Federalist,A01,1064

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress14.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry Baldwin,BH0142,Federalist,A01,1,2139
+pa.uscongress14.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Walter Lowrie,LW0173,Republican,A03,2,1336

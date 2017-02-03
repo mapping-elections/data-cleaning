@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Porter,PJ0433,Republican,A03,482
+2,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Richards,RJ0353,Republican,A03,487
+3,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Clay,CJ0754,Republican,A03,481
+4,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Graham,GW0141,Federalist,A01,709
+5,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Isaac Worrell,WI0040,Federalist,A01,701
+6,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,695
+7,Delaware,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sergent,SJ1073,Federalist,A01,33
+1,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Porter,PJ0433,Republican,A03,2557
+2,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Richards,RJ0353,Republican,A03,2498
+3,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Clay,CJ0754,Republican,A03,2467
+4,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Graham,GW0141,Federalist,A01,1460
+5,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Isaac Worrell,WI0040,Federalist,A01,1467
+6,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,634
+7,Philadelphia,pa.uscongress1.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sergent,SJ1073,Federalist,A01,939

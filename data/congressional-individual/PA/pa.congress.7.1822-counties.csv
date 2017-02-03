@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berks,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,2261
+2,Berks,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,2214
+3,Berks,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ludwig Worman,WL0064,Federalist,A01,1941
+4,Berks,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Rhoads,RP0055,Federalist,A01,1910
+1,Lehigh,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,1326
+2,Lehigh,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,1203
+3,Lehigh,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ludwig Worman,WL0064,Federalist,A01,872
+4,Lehigh,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Rhoads,RP0055,Federalist,A01,802
+1,Schuylkill,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,596
+2,Schuylkill,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Henry Wilson,WH0095,Republican,A03,545
+3,Schuylkill,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Ludwig Worman,WL0064,Federalist,A01,400
+4,Schuylkill,pa.congress.7.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Rhoads,RP0055,Federalist,A01,397

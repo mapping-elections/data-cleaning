@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.14.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry Baldwin,BH0142,Federalist,A01,1,Fourteen,2305
+pa.congress.14.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Henry Baldwin,BH0142,Federalist,A01,1,Two,93
+pa.congress.14.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel Douglas,DS0152,Republican,A03,2,Fourteen,1884
+pa.congress.14.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Samuel Douglas,DS0152,Republican,A03,2,Two,96

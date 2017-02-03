@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,NA
+2,Bedford,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Abraham Smith,SA0174,Republican,A03,NA
+3,Bedford,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William M. Brown,BW0273,Federalist,A01,NA
+1,Franklin,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,581
+2,Franklin,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Abraham Smith,SA0174,Republican,A03,1062
+3,Franklin,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William M. Brown,BW0273,Federalist,A01,862
+1,Huntingdon,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,NA
+2,Huntingdon,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Abraham Smith,SA0174,Republican,A03,NA
+3,Huntingdon,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William M. Brown,BW0273,Federalist,A01,NA
+1,Somerset,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,NA
+2,Somerset,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Abraham Smith,SA0174,Republican,A03,NA
+3,Somerset,pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William M. Brown,BW0273,Federalist,A01,NA

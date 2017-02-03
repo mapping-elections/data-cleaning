@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Beaver,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,781
+2,Beaver,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,105
+3,Beaver,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,NA
+1,Crawford,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,73
+2,Crawford,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,545
+3,Crawford,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,NA
+1,Erie,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,187
+2,Erie,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,274
+3,Erie,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,31
+1,Mercer,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,622
+2,Mercer,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,276
+3,Mercer,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,NA
+1,Venango,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,60
+2,Venango,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,441
+3,Venango,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,NA
+1,Warren,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,NA
+2,Warren,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,NA
+3,Warren,pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,NA

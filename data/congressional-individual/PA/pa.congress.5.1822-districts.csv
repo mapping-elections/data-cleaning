@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.5.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philip S. Markley,MP0124,Republican,A03,1,Five,2022
+pa.congress.5.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Hughes,HJ1017,Federalist,A01,2,Five,1829

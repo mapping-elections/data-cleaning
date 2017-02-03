@@ -1,0 +1,41 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bradford,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1228
+2,Bradford,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,1533
+3,Bradford,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,933
+4,Bradford,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,716
+1,Columbia,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1358
+2,Columbia,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,1307
+3,Columbia,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,400
+4,Columbia,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,1030
+1,Luzerne,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1457
+2,Luzerne,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,1502
+3,Luzerne,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,1068
+4,Luzerne,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,614
+1,Lycoming,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1036
+2,Lycoming,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,921
+3,Lycoming,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,1186
+4,Lycoming,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,866
+1,McKean,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,114
+2,McKean,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,17
+3,McKean,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,51
+4,McKean,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,115
+1,Northumberland,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,2011
+2,Northumberland,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,1987
+3,Northumberland,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,1010
+4,Northumberland,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,1132
+1,Potter,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,48
+2,Potter,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,48
+3,Potter,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,31
+4,Potter,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,18
+1,Susquehanna,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1098
+2,Susquehanna,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,1103
+3,Susquehanna,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,957
+4,Susquehanna,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,168
+1,Tioga,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,648
+2,Tioga,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,619
+3,Tioga,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,169
+4,Tioga,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,568
+1,Union,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel MacKean,MS0187,Republican,A03,1687
+2,Union,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,George Kremer,KG0025,Republican,A03,1549
+3,Union,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Espy Van Horn,VE0023,Republican,A03,1490
+4,Union,pa.congress.9.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Cox Ellis,EW0059,Federalist,A01,480

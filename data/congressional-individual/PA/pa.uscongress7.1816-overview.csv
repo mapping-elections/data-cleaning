@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress7.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Hiester,HJ0793,Old School Republican,A07,1,3420
+pa.uscongress7.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,"Charles Shoemaker, Jr.",SC0111,New School Republican,A07,2,314
+pa.uscongress7.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Udree,UD0000,New School Republican,A07,3,289

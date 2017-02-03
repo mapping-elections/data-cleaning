@@ -1,0 +1,47 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,Federalist,A01,1,Bussletown,58
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,Federalist,A01,1,Germantown,82
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,Federalist,A01,1,Northern Liberties,671
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,2,Bussletown,59
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,2,Germantown,85
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,2,Northern Liberties,642
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,3,Bussletown,58
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,3,Germantown,82
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,3,Northern Liberties,630
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,George Clymer,CG0011,Federalist,A01,4,Bussletown,58
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,George Clymer,CG0011,Federalist,A01,4,Germantown,83
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,George Clymer,CG0011,Federalist,A01,4,Northern Liberties,628
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,5,Bussletown,58
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,5,Germantown,82
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,5,Northern Liberties,624
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,6,Bussletown,58
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,6,Germantown,79
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,6,Northern Liberties,629
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Anti-Federalist,A02,7,Bussletown,1
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Anti-Federalist,A02,7,Germantown,167
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Anti-Federalist,A02,7,Northern Liberties,327
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hiester,HD0091,Anti-Federalist,A02,8,Bussletown,2
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hiester,HD0091,Anti-Federalist,A02,8,Germantown,170
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hiester,HD0091,Anti-Federalist,A02,8,Northern Liberties,323
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,John Allison,AJ0252,Federalist,A01,9,Bussletown,57
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,John Allison,AJ0252,Federalist,A01,9,Germantown,77
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,John Allison,AJ0252,Federalist,A01,9,Northern Liberties,466
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Chambers,CS0038,Federalist,A01,10,Bussletown,57
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Chambers,CS0038,Federalist,A01,10,Germantown,77
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Chambers,CS0038,Federalist,A01,10,Northern Liberties,459
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,Anti-Federalist,A02,11,Bussletown,1
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,Anti-Federalist,A02,11,Germantown,173
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,Anti-Federalist,A02,11,Northern Liberties,172
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,Anti-Federalist,A02,12,Bussletown,1
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,Anti-Federalist,A02,12,Germantown,169
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,Anti-Federalist,A02,12,Northern Liberties,167
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,Anti-Federalist,A02,13,Bussletown,1
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,Anti-Federalist,A02,13,Germantown,169
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,Anti-Federalist,A02,13,Northern Liberties,160
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Anti-Federalist,A02,14,Bussletown,1
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Anti-Federalist,A02,14,Germantown,170
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Anti-Federalist,A02,14,Northern Liberties,158
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Blair MacClenachan,MB0070,Anti-Federalist,A02,15,Germantown,170
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Blair MacClenachan,MB0070,Anti-Federalist,A02,15,Northern Liberties,119
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Whitehall,WR0153,Anti-Federalist,A02,16,Germantown,168
+pa.congress.atlarge.1788,1788,1788,General,Pennsylvania 1788 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Whitehall,WR0153,Anti-Federalist,A02,16,Northern Liberties,125

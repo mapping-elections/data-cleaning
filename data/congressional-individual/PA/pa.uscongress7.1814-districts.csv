@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Hiester,HJ0793,Federalist,A01,1,Seven,2978
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Hiester,HJ0793,Federalist,A01,1,Reading,899
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,2,Seven,1928
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,2,Reading,383
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Adams,AJ0287,null,null,3,Seven,NA
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Adams,AJ0287,null,null,3,Reading,NA
+pa.uscongress7.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Frederick Smith,SF0038,null,null,4,NA,NA

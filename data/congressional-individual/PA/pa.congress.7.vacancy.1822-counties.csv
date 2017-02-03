@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berks,pa.congress.7.vacancy.1822,1822-12,1822,Special,"Pennsylvania 1822 U.S. House of Representatives, District 7, Special",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,1290
+2,Berks,pa.congress.7.vacancy.1822,1822-12,1822,Special,"Pennsylvania 1822 U.S. House of Representatives, District 7, Special",U.S. House of Representatives,ON125,William Witman,WW0223,Federalist,A01,1311
+1,Schuylkill,pa.congress.7.vacancy.1822,1822-12,1822,Special,"Pennsylvania 1822 U.S. House of Representatives, District 7, Special",U.S. House of Representatives,ON125,Daniel Udree,UD0000,Republican,A03,284
+2,Schuylkill,pa.congress.7.vacancy.1822,1822-12,1822,Special,"Pennsylvania 1822 U.S. House of Representatives, District 7, Special",U.S. House of Representatives,ON125,William Witman,WW0223,Federalist,A01,154

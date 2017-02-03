@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Marchand,MD0187,Republican,A03,1,2600
+pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Armstrong,AG0040,Federalist,A01,2,2324

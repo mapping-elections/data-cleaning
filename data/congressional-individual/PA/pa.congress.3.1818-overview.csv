@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.3.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Hibshman,HJ0843,Republican,A03,1,4477
+pa.congress.3.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Wallace,WJ0814,Republican,A03,2,4426
+pa.congress.3.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Montgomery,MJ1195,Federalist,A01,3,3967
+pa.congress.3.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Federalist,A01,4,3937

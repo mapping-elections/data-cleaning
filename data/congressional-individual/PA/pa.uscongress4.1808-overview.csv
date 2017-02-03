@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress4.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Whitehill,WR0153,Republican,A03,1,8807
+pa.uscongress4.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Baird,BD0120,Republican,A03,2,8774
+pa.uscongress4.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Glonninger,GJ0371,Federalist,A01,3,3228
+pa.uscongress4.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"William Alexander, Sr.",AW0097,Federalist,A01,4,3165

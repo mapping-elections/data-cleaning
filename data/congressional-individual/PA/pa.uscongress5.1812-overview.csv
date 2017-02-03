@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress5.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Whitehill,WR0153,Republican,A03,1,4864
+pa.uscongress5.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Crawford,CW0246,Republican,A03,2,4767
+pa.uscongress5.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Edward Crawford,CE0142,Federalist,A01,3,4054
+pa.uscongress5.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James Duncan,DJ0409,Federalist,A01,4,4012

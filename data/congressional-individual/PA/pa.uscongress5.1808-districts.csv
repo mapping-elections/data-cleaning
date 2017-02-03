@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress5.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Smith,SG0084,Republican,A03,1,Five,7215
+pa.uscongress5.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Bull,BJ0989,Federalist,A01,2,Five,1549

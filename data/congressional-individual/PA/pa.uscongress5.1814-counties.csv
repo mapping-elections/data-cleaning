@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Adams,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Maclay,MW0302,Republican,A03,352
+2,Adams,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Crawford,CW0246,Republican,A03,286
+3,Adams,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Edward Crawford,CE0142,Federalist,A01,1341
+4,Adams,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Cobean,CA0149,Federalist,A01,1369
+1,Cumberland,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Maclay,MW0302,Republican,A03,2286
+2,Cumberland,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Crawford,CW0246,Republican,A03,2256
+3,Cumberland,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Edward Crawford,CE0142,Federalist,A01,986
+4,Cumberland,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Cobean,CA0149,Federalist,A01,966
+1,Franklin,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Maclay,MW0302,Republican,A03,1788
+2,Franklin,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Crawford,CW0246,Republican,A03,1574
+3,Franklin,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Edward Crawford,CE0142,Federalist,A01,1506
+4,Franklin,pa.uscongress5.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Cobean,CA0149,Federalist,A01,1319

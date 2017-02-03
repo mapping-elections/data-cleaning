@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.congress.12.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,1587
+1,Clearfield,pa.congress.12.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,153
+1,Huntingdon,pa.congress.12.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,2078
+1,Mifflin,pa.congress.12.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,1553

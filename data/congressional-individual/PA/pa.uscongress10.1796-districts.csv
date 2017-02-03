@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,1,Ten,NA
+pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Abraham Smith,SA0174,Republican,A03,2,Ten,NA
+pa.uscongress10.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,William M. Brown,BW0273,Federalist,A01,3,Ten,NA

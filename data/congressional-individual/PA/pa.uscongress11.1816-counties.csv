@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Armstrong,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Marchand,MD0187,Republican,A03,303
+2,Armstrong,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Armstrong,AG0040,Federalist,A01,324
+1,Indiana,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Marchand,MD0187,Republican,A03,325
+2,Indiana,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Armstrong,AG0040,Federalist,A01,320
+1,Jefferson,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Marchand,MD0187,Republican,A03,NA
+2,Jefferson,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Armstrong,AG0040,Federalist,A01,NA
+1,Westmoreland,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Marchand,MD0187,Republican,A03,1972
+2,Westmoreland,pa.uscongress11.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,George Armstrong,AG0040,Federalist,A01,1680

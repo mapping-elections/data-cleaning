@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegheny,pa.uscongress14.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Adamson Tannehill,TA0049,Republican,A03,875
+2,Allegheny,pa.uscongress14.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,1029
+3,Allegheny,pa.uscongress14.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Wilson,WJ0604,Republican,A03,300
+1,Butler,pa.uscongress14.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Adamson Tannehill,TA0049,Republican,A03,544
+2,Butler,pa.uscongress14.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,133
+3,Butler,pa.uscongress14.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,John Wilson,WJ0604,Republican,A03,74

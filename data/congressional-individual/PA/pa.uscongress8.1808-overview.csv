@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress8.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Findley,FW0062,Federalist,A01,1,2871
+pa.uscongress8.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Kirkpatrick,KJ0247,Republican,A03,2,1732
+pa.uscongress8.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Philson,PR0062,Republican,A03,3,1647
+pa.uscongress8.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Kimmel,KJ0248,null,null,4,44

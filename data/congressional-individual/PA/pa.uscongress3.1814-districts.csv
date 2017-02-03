@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Ellmaker,EA0041,Republican,A03,1,Three,4458
+pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,2,Three,4453
+pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,3,Three,3323
+pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Rex,RS0105,Federalist,A01,4,Three,3233

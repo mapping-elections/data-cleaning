@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress3.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Israel Jacobs,JI0006,Federalist,A01,1,1878
+pa.uscongress3.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Republican,A03,2,1585

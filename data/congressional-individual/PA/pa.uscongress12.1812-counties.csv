@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Washington,pa.uscongress12.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Aaron Lyle,LA0096,Republican,A03,2410
+2,Washington,pa.uscongress12.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Joseph Pentecost,PJ0581,Federalist,A01,823
+3,Washington,pa.uscongress12.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas L. Birch,BT0278,Republican,A03,48

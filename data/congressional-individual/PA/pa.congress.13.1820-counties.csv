@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fayette,pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Andrew Stewart,SA0254,Republican,A03,1500
+2,Fayette,pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Christian Tarr,TC0055,Republican,A03,1518
+3,Fayette,pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Charles Porter,PC0040,Federalist,A01,457
+1,Greene,pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Andrew Stewart,SA0254,Republican,A03,949
+2,Greene,pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Christian Tarr,TC0055,Republican,A03,517
+3,Greene,pa.congress.13.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Charles Porter,PC0040,Federalist,A01,136

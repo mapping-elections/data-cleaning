@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,342
+2,Bedford,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,550
+1,Franklin,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,686
+2,Franklin,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,771
+1,Huntingdon,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,636
+2,Huntingdon,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,489
+1,Somerset,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Henry Woods,WH0059,Federalist,A01,432
+2,Somerset,pa.uscongress10.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,196

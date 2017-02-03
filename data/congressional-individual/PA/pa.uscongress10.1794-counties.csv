@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,NA
+2,Bedford,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James MacLene,MJ0807,Republican,A03,NA
+3,Bedford,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Chambers,CJ0705,Federalist,A01,NA
+1,Franklin,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,290
+2,Franklin,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James MacLene,MJ0807,Republican,A03,508
+3,Franklin,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Chambers,CJ0705,Federalist,A01,461
+1,Huntingdon,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,NA
+2,Huntingdon,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James MacLene,MJ0807,Republican,A03,NA
+3,Huntingdon,pa.uscongress10.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Chambers,CJ0705,Federalist,A01,NA

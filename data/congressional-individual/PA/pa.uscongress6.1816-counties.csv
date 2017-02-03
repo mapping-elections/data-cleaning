@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bucks,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ross,RJ0312,New School Republican,A07,2342
+2,Bucks,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,New School Republican,A07,2186
+1,Lehigh,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ross,RJ0312,New School Republican,A07,910
+2,Lehigh,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,New School Republican,A07,909
+1,Northampton,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ross,RJ0312,New School Republican,A07,1786
+2,Northampton,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,New School Republican,A07,1765
+1,Pike,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ross,RJ0312,New School Republican,A07,NA
+2,Pike,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,New School Republican,A07,NA
+1,Wayne,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ross,RJ0312,New School Republican,A07,NA
+2,Wayne,pa.uscongress6.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Samuel D. Ingham,IS0001,New School Republican,A07,NA

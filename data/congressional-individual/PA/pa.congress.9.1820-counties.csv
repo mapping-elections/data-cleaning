@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,1565
+2,Centre,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William P. Maclay,MW0408,Federalist,A01,539
+1,Clearfield,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,61
+2,Clearfield,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William P. Maclay,MW0408,Federalist,A01,148
+1,Huntingdon,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,1392
+2,Huntingdon,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William P. Maclay,MW0408,Federalist,A01,1427
+1,Mifflin,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Brown,BJ1047,Republican,A03,1229
+2,Mifflin,pa.congress.9.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William P. Maclay,MW0408,Federalist,A01,1419

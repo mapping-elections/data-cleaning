@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dauphin,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,1184
+2,Dauphin,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James M. Wallace,WJ0814,Republican,A03,1189
+3,Dauphin,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,45
+1,Lancaster,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,1819
+2,Lancaster,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James M. Wallace,WJ0814,Republican,A03,1766
+3,Lancaster,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,2180
+1,Lebanon,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,1141
+2,Lebanon,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James M. Wallace,WJ0814,Republican,A03,1140
+3,Lebanon,pa.uscongress3.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,41

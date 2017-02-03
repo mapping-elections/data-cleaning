@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fayette,pa.uscongress13.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,1118
+2,Fayette,pa.uscongress13.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Meason,MT0141,Federalist,A01,699
+1,Greene,pa.uscongress13.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,432
+2,Greene,pa.uscongress13.1812,1812-10,1812,General,"Pennsylvania 1812 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Thomas Meason,MT0141,Federalist,A01,318

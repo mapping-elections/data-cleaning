@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.uscongress5.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Smith,SG0084,Republican,A03,845
+1,Lycoming,pa.uscongress5.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Smith,SG0084,Republican,A03,1066
+1,Northumberland,pa.uscongress5.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Smith,SG0084,Republican,A03,1665

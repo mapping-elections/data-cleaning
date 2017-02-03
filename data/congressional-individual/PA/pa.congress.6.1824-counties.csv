@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dauphin,pa.congress.6.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Harris,HR0184,Republican,A03,1784
+2,Dauphin,pa.congress.6.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Christian Gleim,GC0068,Federalist,A01,1140
+1,Lebanon,pa.congress.6.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Harris,HR0184,Republican,A03,989
+2,Lebanon,pa.congress.6.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Christian Gleim,GC0068,Federalist,A01,512

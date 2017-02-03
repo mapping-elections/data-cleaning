@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.6.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Harris,HR0184,Republican,A03,1,Six,2773
+pa.congress.6.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Christian Gleim,GC0068,Federalist,A01,2,Six,1652

@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Alexander Ogle,OA0029,Republican,A03,1597
+2,Bedford,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Fletcher,FJ0377,null,null,NA
+3,Bedford,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Cambria,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Alexander Ogle,OA0029,Republican,A03,339
+2,Cambria,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Fletcher,FJ0377,null,null,11
+3,Cambria,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Somerset,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Alexander Ogle,OA0029,Republican,A03,1207
+2,Somerset,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Fletcher,FJ0377,null,null,NA
+3,Somerset,pa.uscongress8.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,scattering,null,null,null,6

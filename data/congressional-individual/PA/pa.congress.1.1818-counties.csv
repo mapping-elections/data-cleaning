@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sergeant,SJ1073,Federalist,A01,735
+2,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,733
+3,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Edwards,ES0034,Federalist,A01,710
+4,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Forrest,FT0063,Federalist,A01,713
+5,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Biddle,BN0101,Republican,A03,506
+6,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Connelly,CJ0746,Republican,A03,484
+7,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George G. Leiper,LG0067,Republican,A03,506
+8,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Sommer,SJ1311,Republican,A03,482
+9,Delaware,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles W. Hare,HC0120,Republican,A03,1
+1,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Sergeant,SJ1073,Federalist,A01,2175
+2,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,2189
+3,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Samuel Edwards,ES0034,Federalist,A01,2149
+4,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Forrest,FT0063,Federalist,A01,2088
+5,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Biddle,BN0101,Republican,A03,2562
+6,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Connelly,CJ0746,Republican,A03,2428
+7,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George G. Leiper,LG0067,Republican,A03,2411
+8,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Sommer,SJ1311,Republican,A03,2400
+9,Philadelphia,pa.congress.1.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Charles W. Hare,HC0120,Republican,A03,18

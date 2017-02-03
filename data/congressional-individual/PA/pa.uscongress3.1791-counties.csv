@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress3.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Israel Jacobs,JI0006,Federalist,A01,1221
+2,Chester,pa.uscongress3.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Republican,A03,811
+1,Montgomery,pa.uscongress3.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Israel Jacobs,JI0006,Federalist,A01,657
+2,Montgomery,pa.uscongress3.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,Republican,A03,774

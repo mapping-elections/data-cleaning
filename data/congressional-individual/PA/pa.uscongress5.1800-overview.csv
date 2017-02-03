@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress5.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Hiester,HJ0793,Republican,A03,1,3018
+pa.uscongress5.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Rosewell Wells,WR0143,Federalist,A01,2,611
+pa.uscongress5.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Lawrence Myers,ML0027,null,null,3,2
+pa.uscongress5.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Clymer,CD0166,null,null,4,1

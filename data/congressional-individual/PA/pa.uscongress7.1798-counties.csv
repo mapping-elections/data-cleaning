@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Lancaster,pa.uscongress7.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1403
+1,Lancaster,pa.uscongress7.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,407
+2,Lancaster,pa.uscongress7.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Barton,BW0270,Republican,A03,NA

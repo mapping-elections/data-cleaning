@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Chester,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Levi Pawling,PL0018,Federalist,A01,3124
+2,Chester,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaac Darlington,DI0059,Federalist,A01,3087
+3,Chester,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Darlington,DW0154,Republican,A03,2867
+4,Chester,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Hahn,HJ1003,Republican,A03,2829
+1,Montgomery,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Levi Pawling,PL0018,Federalist,A01,1880
+2,Montgomery,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaac Darlington,DI0059,Federalist,A01,1849
+3,Montgomery,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Darlington,DW0154,Republican,A03,2062
+4,Montgomery,pa.uscongress2.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Hahn,HJ1003,Republican,A03,1959

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,"Daniel Montgomery, Jr.",MD0192,Republican,A03,1,Five,3161
+pa.uscongress5.1806,1806-10,1806,General,"Pennsylvania 1806 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Constitutionalist,A07,2,Five,2321

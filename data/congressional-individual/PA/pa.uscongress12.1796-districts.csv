@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress12.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Albert Gallatin,GA0061,Republican,A03,1,Twelve,2522
+pa.uscongress12.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,2,Twelve,1079
+pa.uscongress12.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas Stokeley,ST0214,Federalist,A01,3,Twelve,486

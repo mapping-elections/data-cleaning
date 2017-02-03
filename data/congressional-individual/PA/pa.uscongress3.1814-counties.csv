@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dauphin,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Ellmaker,EA0041,Republican,A03,1142
+2,Dauphin,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,1098
+3,Dauphin,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,201
+4,Dauphin,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Rex,RS0105,Federalist,A01,174
+1,Lancaster,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Ellmaker,EA0041,Republican,A03,2380
+2,Lancaster,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,2369
+3,Lancaster,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,2893
+4,Lancaster,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Rex,RS0105,Federalist,A01,2845
+1,Lebanon,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Ellmaker,EA0041,Republican,A03,936
+2,Lebanon,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Whiteside,WJ0716,Republican,A03,986
+3,Lebanon,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Amos Slaymaker,SA0189,Federalist,A01,229
+4,Lebanon,pa.uscongress3.1814,1814-10,1814,General,"Pennsylvania 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Rex,RS0105,Federalist,A01,214

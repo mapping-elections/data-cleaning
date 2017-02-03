@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress4.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John A. Hanna,HJ0754,Republican,A03,1,6110
+pa.uscongress4.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Bard,BD0120,Republican,A03,2,5970
+pa.uscongress4.1802,1802-10,1802,General,"Pennsylvania 1802 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Mitchell,MD0181,null,null,3,28

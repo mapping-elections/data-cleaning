@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Berks,pa.congress.7.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Hiester,HJ0793,Federalist,A01,1954
+2,Berks,pa.congress.7.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Jonathan Hudson,HJ0990,Republican,A03,1440
+1,Schuylkill,pa.congress.7.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Hiester,HJ0793,Federalist,A01,328
+2,Schuylkill,pa.congress.7.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Jonathan Hudson,HJ0990,Republican,A03,345

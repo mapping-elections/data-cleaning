@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress12.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Thomas Patterson,PT0153,Republican,A03,1,1870
+pa.uscongress12.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Hughes,HJ1017,Federalist,A01,2,275
+pa.uscongress12.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,scattering,null,null,null,3,56

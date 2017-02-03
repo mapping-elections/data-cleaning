@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.2.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Darlington,DW0154,Republican,A03,1,Two,6125
+pa.congress.2.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel Gross,GS0076,Republican,A03,2,Two,6105
+pa.congress.2.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Charles Miner,MC0051,Federalist,A01,3,Two,5646
+pa.congress.2.1820,1820-10,1820,General,"Pennsylvania 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Henderson,HJ1075,Federalist,A01,4,Two,5585

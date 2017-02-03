@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Adams,pa.uscongress8.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Stewart,SJ0949,Republican,A03,621
+2,Adams,pa.uscongress8.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Edie,EJ0174,Federalist,A01,857
+1,York,pa.uscongress8.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Stewart,SJ0949,Republican,A03,1642
+2,York,pa.uscongress8.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Edie,EJ0174,Federalist,A01,1009

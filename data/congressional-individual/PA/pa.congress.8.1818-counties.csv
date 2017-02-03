@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.congress.8.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Philson,PR0062,Republican,A03,974
+2,Bedford,pa.congress.8.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John A. Burd,BJ1239,Federalist,A01,607
+1,Cambria,pa.congress.8.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Philson,PR0062,Republican,A03,157
+2,Cambria,pa.congress.8.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John A. Burd,BJ1239,Federalist,A01,161
+1,Somerset,pa.congress.8.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Philson,PR0062,Republican,A03,749
+2,Somerset,pa.congress.8.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John A. Burd,BJ1239,Federalist,A01,505

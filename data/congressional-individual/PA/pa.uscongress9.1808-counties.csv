@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fayette,pa.uscongress9.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,2103
+2,Fayette,pa.uscongress9.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Meason,MT0141,Federalist,A01,1107
+1,Greene,pa.uscongress9.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,1080
+2,Greene,pa.uscongress9.1808,1808-10,1808,General,"Pennsylvania 1808 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Meason,MT0141,Federalist,A01,453

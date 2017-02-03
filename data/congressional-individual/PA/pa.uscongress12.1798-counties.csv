@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegheny,pa.uscongress12.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Albert Gallatin,GA0061,Republican,A03,1304
+2,Allegheny,pa.uscongress12.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,1751
+1,Greene,pa.uscongress12.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Albert Gallatin,GA0061,Republican,A03,459
+2,Greene,pa.uscongress12.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,276
+1,Washington,pa.uscongress12.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Albert Gallatin,GA0061,Republican,A03,2163
+2,Washington,pa.uscongress12.1798,1798-10,1798,General,"Pennsylvania 1798 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Woods,WJ0613,Federalist,A01,714

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,1,Fifteen,2516
+pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,1,Venango and Warren,149
+pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,2,Fifteen,2185
+pa.congress.15.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,Republican,A03,2,Venango and Warren,402

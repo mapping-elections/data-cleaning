@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,575
+2,Cumberland,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Irvine,IW0016,Federalist,A01,569
+3,Cumberland,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Wallace,WJ0609,Federalist,A01,139
+4,Cumberland,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Whitehill,WR0153,Republican,A03,86
+5,Cumberland,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Kennedy,KT0064,Federalist,A01,49
+1,Mifflin,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,566
+2,Mifflin,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Irvine,IW0016,Federalist,A01,109
+3,Mifflin,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James Wallace,WJ0609,Federalist,A01,29
+4,Mifflin,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert Whitehill,WR0153,Republican,A03,NA
+5,Mifflin,pa.uscongress9.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Thomas Kennedy,KT0064,Federalist,A01,NA

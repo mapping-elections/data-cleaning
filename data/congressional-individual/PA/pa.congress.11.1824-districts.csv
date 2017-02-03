@@ -1,0 +1,11 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Wilson,WJ0898,Republican,A03,1,Eleven,5929
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Wilson,WJ0898,Republican,A03,1,Chambersburg,578
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Findlay,FJ0394,Republican,A03,2,Eleven,5693
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Findlay,FJ0394,Republican,A03,2,Chambersburg,532
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Reily,RJ0572,null,null,3,Eleven,176
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Fullerton,FD0036,null,null,4,Eleven,143
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Isaac Weirman,WI0064,null,null,5,Eleven,99
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John King,KJ0360,null,null,6,Eleven,98
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,S. Alexander,AS0065,Federalist,A01,7,Eleven,88
+pa.congress.11.1824,1824-10,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,D. R. Keller,KD0050,Federalist,A01,8,Eleven,86

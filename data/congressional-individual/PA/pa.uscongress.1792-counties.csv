@@ -1,0 +1,757 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1390
+2,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1342
+3,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1353
+4,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1448
+5,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,972
+6,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,943
+7,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,419
+8,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,941
+9,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,1158
+10,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,176
+11,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,678
+12,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,576
+13,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,179
+14,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,420
+15,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,739
+16,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,426
+17,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,411
+18,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,503
+19,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,NA
+20,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Allegheny,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1158
+2,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1173
+3,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,918
+4,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1182
+5,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,523
+6,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,798
+7,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,699
+8,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,369
+9,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,30
+10,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,797
+11,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,807
+12,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,832
+13,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,159
+14,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,196
+15,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,NA
+16,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,33
+17,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,955
+18,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,336
+19,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,3
+20,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Bedford,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1466
+2,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1460
+3,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1474
+4,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1332
+5,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1442
+6,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1469
+7,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1226
+8,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,1332
+9,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,689
+10,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,713
+11,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,659
+12,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,1248
+13,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,294
+14,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,535
+15,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,1081
+16,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,1081
+17,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,80
+18,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,709
+19,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,531
+20,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,278
+21,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,145
+27,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Berks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1215
+2,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1197
+3,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1113
+4,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1194
+5,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1106
+6,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1172
+7,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,796
+8,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,973
+9,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,902
+10,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,188
+11,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,286
+12,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,303
+13,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,916
+14,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,63
+15,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,1041
+16,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,381
+17,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,307
+18,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,929
+19,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,969
+20,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,425
+21,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Bucks,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,2003
+2,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,2034
+3,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,2009
+4,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,2011
+5,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1999
+6,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1973
+7,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,950
+8,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,1843
+9,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,1654
+10,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,221
+11,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,261
+12,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,262
+13,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,1787
+14,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,519
+15,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,1721
+16,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,697
+17,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,104
+18,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,1285
+19,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,1801
+20,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,729
+21,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Chester,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,3097
+2,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,3150
+3,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,3054
+4,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,3123
+5,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,3125
+6,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,2977
+7,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1130
+8,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,194
+9,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,858
+10,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,2899
+11,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,2870
+12,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,2971
+13,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,298
+14,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,2908
+15,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,111
+16,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,2875
+17,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,2700
+18,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,116
+19,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,198
+20,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,72
+22,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,777
+23,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,73
+25,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,37
+28,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,80
+30,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,143
+31,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Cumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,936
+2,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1023
+3,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1110
+4,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,548
+5,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1118
+6,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1115
+7,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1017
+8,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,714
+9,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,423
+10,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,847
+11,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,311
+12,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,428
+13,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,991
+14,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,388
+15,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,706
+16,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,185
+17,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,180
+18,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,916
+19,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,734
+20,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,637
+23,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Dauphin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,702
+2,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,650
+3,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,714
+4,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,530
+5,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,694
+6,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,703
+7,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,437
+8,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,585
+9,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,563
+10,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,60
+11,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,27
+12,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,38
+13,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,695
+14,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,266
+15,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,579
+16,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,230
+17,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,169
+18,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,274
+19,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,636
+20,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,251
+21,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Delaware,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,778
+2,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,728
+3,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,780
+4,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,767
+5,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,713
+6,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,677
+7,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,769
+8,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,17
+9,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,1
+10,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,767
+11,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,787
+12,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,773
+13,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,28
+14,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,758
+15,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,4
+16,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,747
+17,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,755
+18,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,17
+19,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,1
+20,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,36
+22,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,98
+23,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,4
+25,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,62
+32,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Fayette,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,62
+1,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,786
+2,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,785
+3,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,700
+4,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,779
+5,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,745
+6,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,251
+7,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,460
+8,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,303
+9,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,202
+10,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,416
+11,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,515
+12,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,378
+13,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,254
+14,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,555
+15,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,121
+16,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,473
+17,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,561
+18,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,251
+19,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,180
+20,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,168
+22,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,467
+25,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,285
+28,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,141
+29,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,46
+30,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Franklin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,552
+2,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,553
+3,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,160
+4,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,130
+5,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,465
+6,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,541
+7,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,86
+8,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,479
+9,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,465
+10,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,441
+11,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,107
+12,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,125
+13,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,430
+14,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,512
+15,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,86
+16,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,69
+17,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,241
+18,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,25
+19,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,6
+20,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Huntingdon,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1243
+2,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1257
+3,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1232
+4,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1237
+5,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1237
+6,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1240
+7,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1213
+8,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,1170
+9,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,1114
+10,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,137
+11,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,134
+12,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,112
+13,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,1132
+14,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,91
+15,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,1142
+16,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,50
+17,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,61
+18,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,1131
+19,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,1138
+20,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Lancaster,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,308
+2,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,327
+3,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,290
+4,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,305
+5,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,327
+6,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,305
+7,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,284
+8,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,319
+9,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,315
+10,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,60
+11,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,86
+12,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,46
+13,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,315
+14,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,25
+15,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,201
+16,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,7
+17,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,1
+18,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,314
+19,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,318
+20,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Luzerne,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,2064
+2,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1952
+3,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,2049
+4,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1780
+5,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1904
+6,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1998
+7,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1701
+8,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,61
+9,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,415
+10,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,2065
+11,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,1963
+12,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,1393
+13,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,78
+14,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,2017
+15,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,NA
+16,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,1911
+17,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,1968
+18,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,51
+19,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,1
+20,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Mifflin,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1550
+2,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1240
+3,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1539
+4,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1228
+5,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1390
+6,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1466
+7,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1062
+8,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,875
+9,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,659
+10,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1039
+11,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,723
+12,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,745
+13,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,936
+14,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,582
+15,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,592
+16,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,814
+17,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,682
+18,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,343
+19,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,636
+20,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,745
+21,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,238
+25,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,254
+26,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,377
+27,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Montgomery,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,800
+2,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,762
+3,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,800
+4,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,813
+5,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,812
+6,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,727
+7,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,735
+8,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,339
+9,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,311
+10,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,372
+11,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,508
+12,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,454
+13,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,394
+14,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,381
+15,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,573
+16,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,393
+17,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,502
+18,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,293
+19,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,379
+20,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,112
+21,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,311
+26,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Northampton,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1172
+2,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,945
+3,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1129
+4,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1012
+5,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1124
+6,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1139
+7,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,517
+8,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,383
+9,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,187
+10,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1174
+11,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,950
+12,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,1077
+13,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,353
+14,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,1096
+15,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,34
+16,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,652
+17,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,836
+18,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,17
+19,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,14
+20,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,70
+21,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,188
+23,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Northumberland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1140
+2,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1150
+3,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1140
+4,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1135
+5,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1139
+6,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,1144
+7,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1096
+8,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,506
+9,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,455
+10,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,683
+11,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,653
+12,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,705
+13,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,511
+14,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,736
+15,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,462
+16,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,687
+17,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,664
+18,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,465
+19,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,487
+20,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,15
+21,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Philadelphia,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,1863
+2,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,1600
+3,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1643
+4,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,1563
+5,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,1070
+6,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,813
+7,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1587
+8,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,272
+9,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,684
+10,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1335
+11,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,1613
+12,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,1368
+13,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,451
+14,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,1345
+15,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,224
+16,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,1351
+17,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,1339
+18,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,287
+19,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,141
+20,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,1
+21,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,665
+22,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,139
+23,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,14
+25,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,9
+26,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,7
+28,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,7
+29,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,20
+30,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,14
+33,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,1
+34,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,1
+35,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,1
+36,Washington,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,2054
+2,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,2007
+3,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,1958
+4,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,2006
+5,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,875
+6,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,53
+7,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,1778
+8,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,181
+9,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,138
+10,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,1935
+11,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,2009
+12,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,2005
+13,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,237
+14,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,1948
+15,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,NA
+16,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,1500
+17,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,1459
+18,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,NA
+19,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,NA
+20,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,1498
+22,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,329
+23,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,1069
+24,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,236
+25,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,Westmoreland,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,766
+1,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Findley,FW0062,null,null,4858
+2,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,null,null,4931
+3,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Heister,HD0091,null,null,4984
+4,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Irvine,IW0016,null,null,4912
+5,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John W. Kittera,KJ0172,Federalist,A01,4884
+6,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hartley,HT0154,Federalist,A01,4919
+7,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Muhlenberg,MP0089,null,null,4914
+8,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,4880
+9,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Armstrong,AJ0015,Federalist,A01,4911
+10,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gregg,GA0060,Republican,A03,32
+11,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Smilie,SJ0970,Republican,A03,55
+12,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Montgomery,MW0284,Republican,A03,NA
+13,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Scott,ST0215,Federalist,A01,4840
+14,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Thompson,TC0054,null,null,7
+15,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sitgreaves,SS0245,Federalist,A01,4993
+16,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan D. Sergeant,SJ0260,Republican,A03,NA
+17,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barclay,BJ0948,Republican,A03,NA
+18,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bingham,BW0271,Federalist,A01,4922
+19,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Wynkoop,WH0022,Federalist,A01,4855
+20,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Israel Jacobs,JI0006,null,null,NA
+21,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wood,WJ0203,null,null,NA
+22,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William MacClay,MW0300,null,null,NA
+23,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Jacob,JJ0036,null,null,NA
+24,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Johnston,JR0010,null,null,NA
+25,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Arndt,AJ0249,null,null,NA
+26,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rawle,RW0147,Federalist,A01,NA
+27,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses MacClean,MM0028,null,null,NA
+28,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacDowell,MJ0365,null,null,NA
+29,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Pettit,PC0037,null,null,NA
+30,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Hanna,HJ0754,null,null,NA
+31,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Ross,RJ0316,Federalist,A01,NA
+32,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edie,null,null,null,NA
+33,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Jacobs,JJ0032,null,null,NA
+34,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Jacobs,JD0003,null,null,NA
+35,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Tilghman,null,null,null,NA
+36,York,pa.uscongress.1792,1792-10,1792,General,Pennsylvania 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA

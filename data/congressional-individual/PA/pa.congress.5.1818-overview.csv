@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.5.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,David Fullerton,FD0036,Republican,A03,1,4435
+pa.congress.5.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Andrew Boden,BA0228,Republican,A03,2,4340
+pa.congress.5.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander Cobean,CA0149,Federalist,A01,3,3040
+pa.congress.5.1818,1818-10,1818,General,"Pennsylvania 1818 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John P. Helfenstein,HJ1116,Federalist,A01,4,2932

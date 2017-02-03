@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Robert Moore,MR0144,Republican,A03,1,1723
+pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,2,1641
+pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,William Clark,CW0272,Republican,A03,2,31
+pa.uscongress15.1816,1816-10,1816,General,"Pennsylvania 1816 U.S. House of Representatives, District 15",U.S. House of Representatives,ON125,Thomas Wilson,WT0157,null,null,3,NA

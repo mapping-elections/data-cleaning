@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,pa.uscongress7.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Piper,PW0228,Republican,A03,916
+2,Bedford,pa.uscongress7.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Rea,RJ0310,Republican,A03,567
+1,Franklin,pa.uscongress7.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Piper,PW0228,Republican,A03,512
+2,Franklin,pa.uscongress7.1810,1810-10,1810,General,"Pennsylvania 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Rea,RJ0310,Republican,A03,448
