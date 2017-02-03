@@ -1,8 +1,0 @@
-election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
-ct.uscongress.1803,1803,Simeon Baldwin,BS0001,Federalist,A01,10196,NA,-10196,1.0
-ct.uscongress.1803,1803,William Hart,HW0015,Republican,A03,6073,NA,-6073,1.0
-ct.uscongress.1803,1803,scattering,null,null,null,12,NA,-12,1.0
-ct.uscongress.1803,1803,Epaphroditus Champion,CE0020,null,null,0,NA,0,NaN
-ct.uscongress.1803,1803,Jonathan O. Moseley,MJ0022,null,null,0,NA,0,NaN
-ct.uscongress.1803,1803,Theodore Dwight,DT0000,null,null,0,NA,0,NaN
-ct.uscongress.1803,1803,Timothy Pitkin,PT0001,null,null,0,NA,0,NaN
