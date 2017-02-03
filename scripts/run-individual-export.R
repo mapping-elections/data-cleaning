@@ -6,7 +6,7 @@ library(stringr)
 library(purrr)
 
 # Set the state you are working on here
-STATE <- "ME"
+STATE <- "NH"
 
 # Export individual elections
 elections <- read_csv("data/congressional-elections-list.csv")

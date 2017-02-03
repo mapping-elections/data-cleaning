@@ -1,0 +1,53 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1814,1814,William Hale,HW0187,Federalist,A01,18178,NA,-18178,1.0
+nh.uscongress.1814,1814,Daniel Webster,WD0028,Federalist,A01,18174,NA,-18174,1.0
+nh.uscongress.1814,1814,Roger Vose,VR0000,Federalist,A01,18174,NA,-18174,1.0
+nh.uscongress.1814,1814,Jeduthun Wilcox,WJ0330,Federalist,A01,18167,NA,-18167,1.0
+nh.uscongress.1814,1814,Bradbury Cilley,CB0048,Federalist,A01,18162,NA,-18162,1.0
+nh.uscongress.1814,1814,Charles H. Atherton,AC0017,Federalist,A01,18115,NA,-18115,1.0
+nh.uscongress.1814,1814,Stephen P. Webster,WS0094,Republican,A03,16750,NA,-16750,1.0
+nh.uscongress.1814,1814,David L. Morrill,MD0059,Republican,A03,16742,NA,-16742,1.0
+nh.uscongress.1814,1814,Nathaniel Upham,UN0000,Republican,A03,16735,NA,-16735,1.0
+nh.uscongress.1814,1814,Elisha Huntley,HE0074,Republican,A03,16716,NA,-16716,1.0
+nh.uscongress.1814,1814,John F. Parrott,PJ0260,Republican,A03,16690,NA,-16690,1.0
+nh.uscongress.1814,1814,Josiah Butler,BJ0582,Republican,A03,16598,NA,-16598,1.0
+nh.uscongress.1814,1814,John L. Atherton,AJ0264,null,null,51,NA,-51,1.0
+nh.uscongress.1814,1814,Parker Noyes,NP0004,null,null,28,NA,-28,1.0
+nh.uscongress.1814,1814,Edmond Parker,PE0135,null,null,17,NA,-17,1.0
+nh.uscongress.1814,1814,Ezra Bartlett,BE0178,null,null,5,NA,-5,1.0
+nh.uscongress.1814,1814,Aaron Matson,MA0095,null,null,4,NA,-4,1.0
+nh.uscongress.1814,1814,Ephraim Brown,BE0148,null,null,3,NA,-3,1.0
+nh.uscongress.1814,1814,Bear Plummer,PB0089,null,null,2,NA,-2,1.0
+nh.uscongress.1814,1814,Dan Young,YD0000,null,null,2,NA,-2,1.0
+nh.uscongress.1814,1814,John Bradley,BJ0551,null,null,2,NA,-2,1.0
+nh.uscongress.1814,1814,Abel Merrill,MA0094,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Benjamin Leathers,LB0038,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Caleb Stark,SC0115,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Daniel Abbot,AD0001,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Daniel Blasdell,BD0070,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1814,1814,Daniel Evans,ED0040,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,David Heald,HD0180,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Edward Greely,GE0061,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,George B. Upham,UG0000,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,J. K. Smith,SJ0517,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,James Dunlap,DJ0512,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Jefferson Martin,MJ0959,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,John A. Morrill,MJ0985,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,John Barnham,BJ1199,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,John Chan,CJ0882,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,John Marsh,MJ1014,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,John Steele,SJ1331,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,"Joseph Buffman, Jr.",BJ1269,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Joshua Fifield,FJ0428,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,"Jotham Lord, Jr.",LJ0525,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Levin Woodbury,WL0039,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Michael MacClary,MM0025,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Mills Olcott,OM0011,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Moses P. Payson,PM0041,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Oliver Crosby,CO0018,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Reid Page,PR0129,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Richard H. Ryer,RR0097,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Robert Means,MR0056,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Samuel Batehill,BS0206,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,Thomas C. Drew,DT0126,null,null,1,NA,-1,1.0
+nh.uscongress.1814,1814,William Mills,MW0346,null,null,1,NA,-1,1.0

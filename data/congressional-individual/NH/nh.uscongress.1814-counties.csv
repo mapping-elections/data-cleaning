@@ -1,0 +1,313 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,4507
+2,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,4505
+3,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,4508
+4,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,4505
+5,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,4505
+6,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,4503
+7,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David L. Morrill,MD0059,Republican,A03,2846
+8,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,Republican,A03,2847
+9,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,2847
+10,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Huntley,HE0074,Republican,A03,2821
+11,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,2796
+12,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,2780
+13,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John L. Atherton,AJ0264,null,null,51
+14,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,16
+15,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmond Parker,PE0135,null,null,NA
+16,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+17,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,4
+18,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Brown,BE0148,null,null,3
+19,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bradley,BJ0551,null,null,NA
+20,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bear Plummer,PB0089,null,null,NA
+21,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dan Young,YD0000,null,null,NA
+22,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+23,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barnham,BJ1199,null,null,NA
+24,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Batehill,BS0206,null,null,NA
+25,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blasdell,BD0070,Federalist,A01,NA
+26,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Buffman, Jr.",BJ1269,null,null,1
+27,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Chan,CJ0882,null,null,NA
+28,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+29,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,1
+30,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Dunlap,DJ0512,null,null,NA
+31,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Evans,ED0040,null,null,NA
+32,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Fifield,FJ0428,null,null,NA
+33,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Greely,GE0061,null,null,NA
+34,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,1
+35,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Leathers,LB0038,null,null,NA
+36,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Jotham Lord, Jr.",LJ0525,null,null,1
+37,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael MacClary,MM0025,null,null,NA
+38,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Marsh,MJ1014,null,null,NA
+39,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jefferson Martin,MJ0959,null,null,NA
+40,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,NA
+41,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Merrill,MA0094,null,null,NA
+42,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Mills,MW0346,null,null,NA
+43,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Morrill,MJ0985,null,null,NA
+44,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+45,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Reid Page,PR0129,null,null,1
+46,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+47,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ryer,RR0097,null,null,NA
+48,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+49,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Stark,SC0115,null,null,NA
+50,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Steele,SJ1331,null,null,NA
+51,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+52,Cheshire,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levin Woodbury,WL0039,null,null,NA
+1,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,234
+2,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,234
+3,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,234
+4,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,234
+5,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,234
+6,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,234
+7,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David L. Morrill,MD0059,Republican,A03,369
+8,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,Republican,A03,370
+9,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,370
+10,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Huntley,HE0074,Republican,A03,370
+11,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,369
+12,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,369
+13,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John L. Atherton,AJ0264,null,null,NA
+14,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,NA
+15,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmond Parker,PE0135,null,null,NA
+16,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+17,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,NA
+18,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Brown,BE0148,null,null,NA
+19,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bradley,BJ0551,null,null,NA
+20,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bear Plummer,PB0089,null,null,NA
+21,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dan Young,YD0000,null,null,NA
+22,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+23,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barnham,BJ1199,null,null,NA
+24,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Batehill,BS0206,null,null,NA
+25,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blasdell,BD0070,Federalist,A01,NA
+26,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Buffman, Jr.",BJ1269,null,null,NA
+27,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Chan,CJ0882,null,null,NA
+28,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+29,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+30,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Dunlap,DJ0512,null,null,NA
+31,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Evans,ED0040,null,null,NA
+32,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Fifield,FJ0428,null,null,NA
+33,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Greely,GE0061,null,null,NA
+34,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+35,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Leathers,LB0038,null,null,NA
+36,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Jotham Lord, Jr.",LJ0525,null,null,NA
+37,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael MacClary,MM0025,null,null,NA
+38,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Marsh,MJ1014,null,null,NA
+39,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jefferson Martin,MJ0959,null,null,NA
+40,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,NA
+41,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Merrill,MA0094,null,null,NA
+42,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Mills,MW0346,null,null,NA
+43,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Morrill,MJ0985,null,null,NA
+44,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+45,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Reid Page,PR0129,null,null,NA
+46,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+47,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ryer,RR0097,null,null,NA
+48,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+49,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Stark,SC0115,null,null,NA
+50,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Steele,SJ1331,null,null,NA
+51,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+52,Coos,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levin Woodbury,WL0039,null,null,NA
+1,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2929
+2,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,2929
+3,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,2927
+4,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,2926
+5,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,2926
+6,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,2921
+7,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David L. Morrill,MD0059,Republican,A03,1807
+8,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,Republican,A03,1808
+9,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,1797
+10,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Huntley,HE0074,Republican,A03,1805
+11,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,1806
+12,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,1733
+13,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John L. Atherton,AJ0264,null,null,NA
+14,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,1
+15,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmond Parker,PE0135,null,null,NA
+16,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,5
+17,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,NA
+18,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Brown,BE0148,null,null,NA
+19,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bradley,BJ0551,null,null,2
+20,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bear Plummer,PB0089,null,null,NA
+21,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dan Young,YD0000,null,null,2
+22,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+23,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barnham,BJ1199,null,null,NA
+24,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Batehill,BS0206,null,null,NA
+25,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blasdell,BD0070,Federalist,A01,NA
+26,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Buffman, Jr.",BJ1269,null,null,NA
+27,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Chan,CJ0882,null,null,NA
+28,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+29,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+30,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Dunlap,DJ0512,null,null,NA
+31,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Evans,ED0040,null,null,NA
+32,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Fifield,FJ0428,null,null,NA
+33,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Greely,GE0061,null,null,NA
+34,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+35,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Leathers,LB0038,null,null,NA
+36,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Jotham Lord, Jr.",LJ0525,null,null,NA
+37,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael MacClary,MM0025,null,null,NA
+38,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Marsh,MJ1014,null,null,NA
+39,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jefferson Martin,MJ0959,null,null,NA
+40,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,NA
+41,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Merrill,MA0094,null,null,1
+42,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Mills,MW0346,null,null,NA
+43,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Morrill,MJ0985,null,null,NA
+44,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,1
+45,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Reid Page,PR0129,null,null,NA
+46,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,1
+47,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ryer,RR0097,null,null,NA
+48,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+49,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Stark,SC0115,null,null,NA
+50,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Steele,SJ1331,null,null,NA
+51,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+52,Grafton,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levin Woodbury,WL0039,null,null,NA
+1,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3210
+2,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,3209
+3,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,3208
+4,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,3208
+5,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,3207
+6,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,3170
+7,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David L. Morrill,MD0059,Republican,A03,4799
+8,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,Republican,A03,4799
+9,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,4802
+10,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Huntley,HE0074,Republican,A03,4800
+11,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,4797
+12,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,4798
+13,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John L. Atherton,AJ0264,null,null,NA
+14,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,8
+15,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmond Parker,PE0135,null,null,17
+16,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+17,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,NA
+18,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Brown,BE0148,null,null,NA
+19,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bradley,BJ0551,null,null,NA
+20,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bear Plummer,PB0089,null,null,NA
+21,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dan Young,YD0000,null,null,NA
+22,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,1
+23,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barnham,BJ1199,null,null,1
+24,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Batehill,BS0206,null,null,1
+25,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blasdell,BD0070,Federalist,A01,NA
+26,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Buffman, Jr.",BJ1269,null,null,NA
+27,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Chan,CJ0882,null,null,NA
+28,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+29,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+30,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Dunlap,DJ0512,null,null,NA
+31,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Evans,ED0040,null,null,NA
+32,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Fifield,FJ0428,null,null,1
+33,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Greely,GE0061,null,null,1
+34,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+35,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Leathers,LB0038,null,null,NA
+36,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Jotham Lord, Jr.",LJ0525,null,null,NA
+37,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael MacClary,MM0025,null,null,NA
+38,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Marsh,MJ1014,null,null,NA
+39,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jefferson Martin,MJ0959,null,null,NA
+40,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,1
+41,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Merrill,MA0094,null,null,NA
+42,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Mills,MW0346,null,null,NA
+43,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Morrill,MJ0985,null,null,NA
+44,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+45,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Reid Page,PR0129,null,null,NA
+46,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+47,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ryer,RR0097,null,null,1
+48,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,1
+49,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Stark,SC0115,null,null,NA
+50,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Steele,SJ1331,null,null,1
+51,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,1
+52,Hillsborough,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levin Woodbury,WL0039,null,null,1
+1,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,4168
+2,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,4169
+3,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,4169
+4,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,4165
+5,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,4165
+6,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,4163
+7,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David L. Morrill,MD0059,Republican,A03,4003
+8,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,Republican,A03,4008
+9,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,4008
+10,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Huntley,HE0074,Republican,A03,4005
+11,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,4003
+12,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,4001
+13,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John L. Atherton,AJ0264,null,null,NA
+14,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,3
+15,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmond Parker,PE0135,null,null,NA
+16,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+17,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,NA
+18,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Brown,BE0148,null,null,NA
+19,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bradley,BJ0551,null,null,NA
+20,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bear Plummer,PB0089,null,null,NA
+21,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dan Young,YD0000,null,null,NA
+22,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+23,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barnham,BJ1199,null,null,NA
+24,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Batehill,BS0206,null,null,NA
+25,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blasdell,BD0070,Federalist,A01,1
+26,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Buffman, Jr.",BJ1269,null,null,NA
+27,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Chan,CJ0882,null,null,NA
+28,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+29,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+30,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Dunlap,DJ0512,null,null,NA
+31,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Evans,ED0040,null,null,NA
+32,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Fifield,FJ0428,null,null,NA
+33,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Greely,GE0061,null,null,NA
+34,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+35,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Leathers,LB0038,null,null,NA
+36,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Jotham Lord, Jr.",LJ0525,null,null,NA
+37,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael MacClary,MM0025,null,null,1
+38,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Marsh,MJ1014,null,null,NA
+39,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jefferson Martin,MJ0959,null,null,1
+40,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,NA
+41,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Merrill,MA0094,null,null,NA
+42,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Mills,MW0346,null,null,NA
+43,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Morrill,MJ0985,null,null,1
+44,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+45,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Reid Page,PR0129,null,null,NA
+46,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+47,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ryer,RR0097,null,null,NA
+48,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+49,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Stark,SC0115,null,null,1
+50,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Steele,SJ1331,null,null,NA
+51,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+52,Rockingham,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levin Woodbury,WL0039,null,null,NA
+1,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3130
+2,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Webster,WD0028,Federalist,A01,3128
+3,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,3128
+4,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,3129
+5,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,3125
+6,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,3124
+7,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David L. Morrill,MD0059,Republican,A03,2918
+8,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,Republican,A03,2918
+9,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,2911
+10,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Huntley,HE0074,Republican,A03,2915
+11,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,2919
+12,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,2917
+13,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John L. Atherton,AJ0264,null,null,NA
+14,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,NA
+15,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmond Parker,PE0135,null,null,NA
+16,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+17,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,NA
+18,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Ephraim Brown,BE0148,null,null,NA
+19,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bradley,BJ0551,null,null,NA
+20,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Bear Plummer,PB0089,null,null,2
+21,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Dan Young,YD0000,null,null,NA
+22,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+23,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barnham,BJ1199,null,null,NA
+24,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Batehill,BS0206,null,null,NA
+25,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blasdell,BD0070,Federalist,A01,NA
+26,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Buffman, Jr.",BJ1269,null,null,NA
+27,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Chan,CJ0882,null,null,1
+28,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,1
+29,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+30,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James Dunlap,DJ0512,null,null,1
+31,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Evans,ED0040,null,null,1
+32,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Fifield,FJ0428,null,null,NA
+33,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Greely,GE0061,null,null,NA
+34,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+35,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Leathers,LB0038,null,null,1
+36,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,"Jotham Lord, Jr.",LJ0525,null,null,NA
+37,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael MacClary,MM0025,null,null,NA
+38,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Marsh,MJ1014,null,null,1
+39,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Jefferson Martin,MJ0959,null,null,NA
+40,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,NA
+41,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Merrill,MA0094,null,null,NA
+42,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,William Mills,MW0346,null,null,1
+43,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Morrill,MJ0985,null,null,NA
+44,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+45,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Reid Page,PR0129,null,null,NA
+46,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+47,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ryer,RR0097,null,null,NA
+48,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+49,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Stark,SC0115,null,null,NA
+50,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Steele,SJ1331,null,null,NA
+51,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+52,Strafford,nh.uscongress.1814,1814,1814,General,New Hampshire 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Levin Woodbury,WL0039,null,null,NA

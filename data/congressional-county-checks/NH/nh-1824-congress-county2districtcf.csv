@@ -1,0 +1,80 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1824,1824,Ichabod Bartlett,BI0021,Republican,A03,12018,NA,-12018,1.0
+nh.uscongress.1824,1824,"Thomas Whipple, Jr.",WT0107,Republican,A03,9355,NA,-9355,1.0
+nh.uscongress.1824,1824,James Miller,MJ1028,Republican,A03,7069,NA,-7069,1.0
+nh.uscongress.1824,1824,Nehemiah Eastman,EN0021,Republican,A03,7021,NA,-7021,1.0
+nh.uscongress.1824,1824,Jonathan Harvey,HJ0382,Republican,A03,6453,NA,-6453,1.0
+nh.uscongress.1824,1824,Ezekiel Webster,WE0017,Federalist,A01,5994,NA,-5994,1.0
+nh.uscongress.1824,1824,Joseph Healy,HJ1093,Republican,A03,5763,NA,-5763,1.0
+nh.uscongress.1824,1824,Titus Brown,BT0180,null,null,5486,NA,-5486,1.0
+nh.uscongress.1824,1824,Phinehas Handerson,HP0105,null,null,5340,NA,-5340,1.0
+nh.uscongress.1824,1824,Daniel C. Atkinson,AD0059,null,null,4923,NA,-4923,1.0
+nh.uscongress.1824,1824,Arthur Livermore,LA0074,null,null,3977,NA,-3977,1.0
+nh.uscongress.1824,1824,Estwicke Evans,EE0047,null,null,706,NA,-706,1.0
+nh.uscongress.1824,1824,Salma Hale,HS0111,null,null,107,NA,-107,1.0
+nh.uscongress.1824,1824,James H. Bingham,BJ1305,null,null,32,NA,-32,1.0
+nh.uscongress.1824,1824,Stephen Moody,MS0196,null,null,25,NA,-25,1.0
+nh.uscongress.1824,1824,Philip Carrigain,CP0107,null,null,24,NA,-24,1.0
+nh.uscongress.1824,1824,Brackett Palmer,PB0081,null,null,23,NA,-23,1.0
+nh.uscongress.1824,1824,Henry B. Chase,CH0131,null,null,21,NA,-21,1.0
+nh.uscongress.1824,1824,Edmund Parker,PE0135,null,null,20,NA,-20,1.0
+nh.uscongress.1824,1824,William Hale,HW0187,null,null,16,NA,-16,1.0
+nh.uscongress.1824,1824,Joseph Whipple,WJ0949,null,null,13,NA,-13,1.0
+nh.uscongress.1824,1824,Justus Perry,PJ0561,null,null,12,NA,-12,1.0
+nh.uscongress.1824,1824,"William Plumer, Jr.",PW0147,null,null,11,NA,-11,1.0
+nh.uscongress.1824,1824,John Tappan,TJ0457,null,null,10,NA,-10,1.0
+nh.uscongress.1824,1824,John M. Page,PJ0589,null,null,9,NA,-9,1.0
+nh.uscongress.1824,1824,"Nathaniel A. Havin, Jr.",HN0031,null,null,8,NA,-8,1.0
+nh.uscongress.1824,1824,Matthew Harvey,HM0125,null,null,7,NA,-7,1.0
+nh.uscongress.1824,1824,Gavin Gilmore,GG0087,null,null,6,NA,-6,1.0
+nh.uscongress.1824,1824,George B. Upham,UG0000,null,null,6,NA,-6,1.0
+nh.uscongress.1824,1824,Fred A. Sumner,SF0064,null,null,5,NA,-5,1.0
+nh.uscongress.1824,1824,Jeremiah Smith,SJ0471,Federalist,A01,5,NA,-5,1.0
+nh.uscongress.1824,1824,Levi Woodbury,WL0039,null,null,5,NA,-5,1.0
+nh.uscongress.1824,1824,Richard Odell,OR0009,null,null,5,NA,-5,1.0
+nh.uscongress.1824,1824,Daniel Hoit,HD0184,null,null,4,NA,-4,1.0
+nh.uscongress.1824,1824,George Sullivan,SG0056,Federalist,A01,4,NA,-4,1.0
+nh.uscongress.1824,1824,John Ham,HJ1105,null,null,4,NA,-4,1.0
+nh.uscongress.1824,1824,William Badger,BW0164,null,null,4,NA,-4,1.0
+nh.uscongress.1824,1824,Andrew Peirce,PA0163,null,null,3,NA,-3,1.0
+nh.uscongress.1824,1824,John Wingate,WJ0995,null,null,3,NA,-3,1.0
+nh.uscongress.1824,1824,Andrew Wallace,WA0218,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Edward B. Nealley,NE0024,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Henry Hubbard,HH0143,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,J. P. Gass,GJ0562,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Jeremiah H. Woodman,WJ1009,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Jeremiah Mason,MJ0387,Federalist,A01,2,NA,-2,1.0
+nh.uscongress.1824,1824,Josiah Bartlett,BJ0545,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Samuel Quarles,QS0001,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Thomas C. Drew,DT0126,null,null,2,NA,-2,1.0
+nh.uscongress.1824,1824,Abel Parker,PA0165,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Abrathar G. Britton,BA0288,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Alba Cady,CA0232,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Amasa Capp,CA0234,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Barnabus H. Palmer,PB0075,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Benjamin Pierce,PB0047,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Bradbury Cilley,CB0048,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1824,1824,Daniel Adams,AD0058,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Daniel M. Durrell,DD0071,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,E. Bartlett,BE0178,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,"Edward Cutts, Jr.",CE0090,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Elijah Belding,BE0163,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Hall Burgin,BH0208,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Jacob Cilley,CJ0381,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,James Brown,BJ1186,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Joseph Bell,BJ1277,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Joseph Harvey,HJ1074,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Joseph Sawyer,SJ1312,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Joshua G. Bell,BJ1251,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Jotham Lord,LJ0525,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Lyman B. Walker,WL0074,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Mills Olcott,OM0011,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Nahum Parker,PN0043,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Nathaniel Bartlett,BN0100,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Nehemiah Merrill,MN0053,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Samuel Shepard,SS0284,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Stephen Brown,BS0238,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,Thomas H. Pettengill,PT0085,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,William D. Little,LW0138,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,William Fisk,FW0024,null,null,1,NA,-1,1.0
+nh.uscongress.1824,1824,William Pickering,PW0131,null,null,1,NA,-1,1.0

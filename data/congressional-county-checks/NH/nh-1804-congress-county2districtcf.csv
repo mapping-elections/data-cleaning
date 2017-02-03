@@ -1,0 +1,13 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1804,1804,Samuel Tenney,TS0061,Federalist,A01,11087,NA,-11087,1.0
+nh.uscongress.1804,1804,David Hough,HD0043,Federalist,A01,11077,NA,-11077,1.0
+nh.uscongress.1804,1804,Thomas Thompson,TT0048,Federalist,A01,11075,NA,-11075,1.0
+nh.uscongress.1804,1804,Silas Betton,BS0134,Federalist,A01,11073,NA,-11073,1.0
+nh.uscongress.1804,1804,Caleb Ellis,EC0005,Federalist,A01,11064,NA,-11064,1.0
+nh.uscongress.1804,1804,Nahum Parker,PN0043,Republican,A03,10636,NA,-10636,1.0
+nh.uscongress.1804,1804,Ezra Bartlett,BE0178,Republican,A03,10601,NA,-10601,1.0
+nh.uscongress.1804,1804,Thomas Cogswell,CT0136,Republican,A03,10599,NA,-10599,1.0
+nh.uscongress.1804,1804,Clement Storer,SC0058,Republican,A03,10598,NA,-10598,1.0
+nh.uscongress.1804,1804,Jedediah K. Smith,SJ0517,Republican,A03,10577,NA,-10577,1.0
+nh.uscongress.1804,1804,Nathaniel Parker,PN0042,null,null,0,NA,0,NaN
+nh.uscongress.1804,1804,scattering,null,null,null,0,NA,0,NaN

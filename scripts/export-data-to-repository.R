@@ -142,7 +142,7 @@ normalize_county_returns <- function(df) {
 }
 
 # Actually read in the files and run the cleaning functions on them
-states <- c("NY", "VA", "NC", "MA", "ME")
+states <- c("NY", "VA", "NC", "MA", "ME", "NH")
 congressional_counties_raw <- states %>%
   map(get_county_returns_by_state)
 congressional_counties <- congressional_counties_raw %>%

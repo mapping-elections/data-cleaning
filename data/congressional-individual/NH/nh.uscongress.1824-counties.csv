@@ -1,0 +1,554 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,2708
+2,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,1829
+3,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,1524
+4,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,2068
+5,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,1156
+6,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,1538
+7,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,1117
+8,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,1171
+9,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,1510
+10,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,578
+11,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,927
+12,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,9
+13,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,1
+14,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,7
+15,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+16,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+17,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,NA
+18,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,8
+19,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,8
+20,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,NA
+21,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,NA
+22,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,12
+23,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,2
+24,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,5
+25,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,NA
+26,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,NA
+27,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,NA
+28,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,6
+29,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,2
+30,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+31,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+32,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,4
+33,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+34,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+35,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,NA
+36,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+37,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,NA
+39,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,NA
+40,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+41,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,1
+42,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,NA
+43,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,2
+44,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,NA
+45,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,NA
+46,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+47,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,2
+48,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+49,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,NA
+50,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,NA
+51,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,NA
+52,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,1
+53,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+54,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,1
+55,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,NA
+56,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,NA
+57,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,NA
+58,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,NA
+59,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,NA
+60,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+61,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,NA
+62,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,NA
+64,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+65,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,NA
+66,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,1
+67,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,NA
+68,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,1
+69,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,NA
+70,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+71,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,NA
+72,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,NA
+73,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,NA
+74,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,NA
+75,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+76,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,NA
+77,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,NA
+78,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+79,Cheshire,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,NA
+1,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,308
+2,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,252
+3,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,101
+4,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,153
+5,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,207
+6,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,104
+7,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,214
+8,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,208
+9,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,99
+10,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,155
+11,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,54
+12,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,NA
+13,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,1
+14,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+15,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+16,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+17,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,NA
+18,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+19,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,2
+20,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,NA
+21,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,13
+22,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,NA
+23,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,NA
+24,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+25,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,NA
+26,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,NA
+27,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,NA
+28,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,NA
+29,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+30,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+31,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,5
+32,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,NA
+33,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,3
+34,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+35,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,4
+36,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+37,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,NA
+39,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,NA
+40,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+41,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+42,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,NA
+43,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,NA
+44,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,NA
+45,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,NA
+46,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+47,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,NA
+48,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+49,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,NA
+50,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,NA
+51,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,NA
+52,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,NA
+53,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+54,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,NA
+55,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,NA
+56,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,NA
+57,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,NA
+58,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,NA
+59,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,NA
+60,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+61,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,NA
+62,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,NA
+64,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+65,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,NA
+66,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,NA
+67,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,NA
+68,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,NA
+69,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,1
+70,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+71,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,NA
+72,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,NA
+73,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,NA
+74,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,NA
+75,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+76,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,NA
+77,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,NA
+78,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+79,Coos,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,NA
+1,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,1827
+2,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,1259
+3,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,912
+4,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,1178
+5,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,977
+6,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,859
+7,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,997
+8,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,922
+9,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,811
+10,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,600
+11,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,617
+12,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,9
+13,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+14,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+15,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,25
+16,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+17,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,NA
+18,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+19,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,1
+20,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,NA
+21,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,NA
+22,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,NA
+23,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,NA
+24,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+25,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,NA
+26,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,NA
+27,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,NA
+28,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,NA
+29,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+30,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+31,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+32,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,NA
+33,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+34,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,1
+35,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,NA
+36,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+37,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,NA
+39,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,NA
+40,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,1
+41,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+42,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,NA
+43,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,NA
+44,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,NA
+45,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,NA
+46,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+47,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,NA
+48,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+49,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,NA
+50,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,NA
+51,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,NA
+52,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,NA
+53,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,1
+54,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,NA
+55,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,NA
+56,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,NA
+57,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,1
+58,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,NA
+59,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,NA
+60,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+61,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,NA
+62,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,NA
+64,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,1
+65,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,NA
+66,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,NA
+67,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,NA
+68,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,NA
+69,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,NA
+70,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+71,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,NA
+72,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,1
+73,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,1
+74,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,1
+75,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+76,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,NA
+77,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,NA
+78,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+79,Grafton,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,NA
+1,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,1872
+2,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,1574
+3,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,1117
+4,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,1174
+5,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,1214
+6,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,712
+7,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,1042
+8,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,932
+9,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,704
+10,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,588
+11,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,278
+12,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,28
+13,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,84
+14,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+15,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+16,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+17,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,NA
+18,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,1
+19,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,4
+20,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,1
+21,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,NA
+22,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,NA
+23,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,NA
+24,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+25,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,NA
+26,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,NA
+27,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,NA
+28,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,NA
+29,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+30,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+31,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+32,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,NA
+33,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+34,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+35,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,NA
+36,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+37,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,4
+38,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,NA
+39,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,NA
+40,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+41,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,1
+42,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,NA
+43,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,NA
+44,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,1
+45,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,NA
+46,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+47,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,NA
+48,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+49,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,1
+50,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,NA
+51,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,NA
+52,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,NA
+53,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+54,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,NA
+55,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,1
+56,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,NA
+57,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,NA
+58,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,NA
+59,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,NA
+60,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+61,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,NA
+62,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,NA
+64,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+65,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,NA
+66,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,NA
+67,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,NA
+68,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,NA
+69,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,NA
+70,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+71,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,NA
+72,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,NA
+73,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,NA
+74,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,NA
+75,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+76,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,NA
+77,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,NA
+78,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+79,Hillsborough,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,NA
+1,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,1827
+2,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,1471
+3,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,985
+4,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,1092
+5,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,946
+6,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,911
+7,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,933
+8,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,886
+9,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,795
+10,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,701
+11,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,462
+12,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,57
+13,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+14,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,25
+15,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+16,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,21
+17,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,NA
+18,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+19,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,3
+20,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,NA
+21,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,NA
+22,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,NA
+23,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,1
+24,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,5
+25,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,NA
+26,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,NA
+27,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,5
+28,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,NA
+29,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,2
+30,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,1
+31,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+32,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,1
+33,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+34,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+35,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,NA
+36,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+37,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,NA
+39,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,NA
+40,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+41,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+42,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,2
+43,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,NA
+44,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,NA
+45,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,NA
+46,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,2
+47,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,NA
+48,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+49,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,NA
+50,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,NA
+51,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,NA
+52,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,NA
+53,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+54,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,NA
+55,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,NA
+56,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,NA
+57,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,NA
+58,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,1
+59,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,NA
+60,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+61,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,NA
+62,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,NA
+64,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+65,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,NA
+66,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,NA
+67,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,NA
+68,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,NA
+69,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,NA
+70,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,1
+71,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,NA
+72,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,NA
+73,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,NA
+74,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,NA
+75,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+76,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,1
+77,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,1
+78,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+79,Merrimack,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,NA
+1,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,1632
+2,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,1595
+3,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,1420
+4,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,521
+5,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,1010
+6,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,1006
+7,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,573
+8,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,573
+9,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,612
+10,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,1351
+11,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,1063
+12,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,480
+13,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+14,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+15,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+16,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,1
+17,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,NA
+18,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+19,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,NA
+20,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,8
+21,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,NA
+22,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,NA
+23,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,5
+24,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+25,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,NA
+26,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,8
+27,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,NA
+28,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,NA
+29,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,1
+30,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+31,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+32,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,NA
+33,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,2
+34,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,3
+35,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,NA
+36,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+37,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,NA
+39,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,1
+40,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,1
+41,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+42,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,NA
+43,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,NA
+44,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,1
+45,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,2
+46,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+47,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,NA
+48,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,1
+49,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,NA
+50,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,1
+51,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,NA
+52,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,NA
+53,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+54,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,NA
+55,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,NA
+56,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,1
+57,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,NA
+58,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,NA
+59,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,NA
+60,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,1
+61,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,1
+62,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,1
+63,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,NA
+64,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+65,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,NA
+66,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,NA
+67,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,1
+68,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,NA
+69,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,NA
+70,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+71,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,NA
+72,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,NA
+73,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,NA
+74,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,NA
+75,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,1
+76,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,NA
+77,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,NA
+78,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+79,Rockingham,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,NA
+1,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,Republican,A03,1844
+2,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,Republican,A03,1375
+3,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Miller,MJ1028,Republican,A03,1010
+4,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,Republican,A03,835
+5,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Harvey,HJ0382,Republican,A03,943
+6,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,Federalist,A01,864
+7,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healy,HJ1093,Republican,A03,887
+8,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Titus Brown,BT0180,null,null,794
+9,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,809
+10,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel C. Atkinson,AD0059,null,null,950
+11,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,576
+12,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwicke Evans,EE0047,null,null,123
+13,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,21
+14,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+15,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+16,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,2
+17,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Brackett Palmer,PB0081,null,null,23
+18,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,12
+19,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,2
+20,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,7
+21,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Whipple,WJ0949,null,null,NA
+22,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Justus Perry,PJ0561,null,null,NA
+23,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plumer, Jr.",PW0147,null,null,3
+24,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+25,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Page,PJ0589,null,null,9
+26,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Nathaniel A. Havin, Jr.",HN0031,null,null,NA
+27,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,2
+28,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Gavin Gilmore,GG0087,null,null,NA
+29,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,1
+30,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,4
+31,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+32,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Fred A. Sumner,SF0064,null,null,NA
+33,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+34,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+35,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Ham,HJ1105,null,null,NA
+36,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,4
+37,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Peirce,PA0163,null,null,3
+39,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wingate,WJ0995,null,null,2
+40,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+41,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+42,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,J. P. Gass,GJ0562,null,null,NA
+43,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Hubbard,HH0143,null,null,NA
+44,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,NA
+45,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward B. Nealley,NE0024,null,null,NA
+46,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+47,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Wallace,WA0218,null,null,NA
+48,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,1
+49,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Adams,AD0058,null,null,NA
+50,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. Bartlett,BE0178,null,null,NA
+51,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Bartlett,BN0100,null,null,1
+52,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Belding,BE0163,null,null,NA
+53,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+54,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abrathar G. Britton,BA0288,null,null,NA
+55,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ1186,null,null,NA
+56,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Brown,BS0238,null,null,NA
+57,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Hall Burgin,BH0208,null,null,NA
+58,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alba Cady,CA0232,null,null,NA
+59,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Capp,CA0234,null,null,1
+60,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+61,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Cilley,CJ0381,null,null,NA
+62,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,null,null,1
+64,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+65,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua G. Bell,BJ1251,null,null,1
+66,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Harvey,HJ1074,null,null,NA
+67,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William D. Little,LW0138,null,null,NA
+68,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Jotham Lord,LJ0525,null,null,NA
+69,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Merrill,MN0053,null,null,NA
+70,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+71,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Barnabus H. Palmer,PB0075,null,null,1
+72,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Abel Parker,PA0165,null,null,NA
+73,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,null,null,NA
+74,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas H. Pettengill,PT0085,null,null,NA
+75,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+76,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Pierce,PB0047,null,null,NA
+77,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Sawyer,SJ1312,null,null,NA
+78,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,1
+79,Strafford,nh.uscongress.1824,1824,1824,General,New Hampshire 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lyman B. Walker,WL0074,null,null,1

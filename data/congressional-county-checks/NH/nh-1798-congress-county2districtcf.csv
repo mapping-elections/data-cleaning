@@ -1,0 +1,25 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1798,1798,Abiel Foster,FA0029,Federalist,A01,5776,NA,-5776,1.0
+nh.uscongress.1798,1798,William Gordon,GW0063,Federalist,A01,5152,NA,-5152,1.0
+nh.uscongress.1798,1798,Jonathan Freeman,FJ0138,Federalist,A01,4999,NA,-4999,1.0
+nh.uscongress.1798,1798,Peleg Sprague,SP0028,Federalist,A01,4637,NA,-4637,1.0
+nh.uscongress.1798,1798,Amos Shepard,SA0075,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,Arthur Livermore,LA0074,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,Benjamin Bellows,BB0023,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,Benjamin West,WB0027,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,Jacob Abbott,AJ0069,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,James Sheafe,SJ0463,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,John Bellows,BJ0552,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,John Goddard,GJ0185,Republican,A03,0,NA,0,NaN
+nh.uscongress.1798,1798,John Prentice,PJ0235,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,Joseph Dennie,DJ0206,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,Nathan Hoit,HN0032,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,Oliver Peabody,PO0014,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,Russell Freeman,FR0028,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,scattering,null,null,null,0,NA,0,NaN
+nh.uscongress.1798,1798,Thomas Bellows,BT0150,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,Timothy Farrar,FT0030,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,Timothy Walker,WT0096,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,William Gardner,GW0066,Republican,A03,0,NA,0,NaN
+nh.uscongress.1798,1798,William Plummer,PW0090,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1798,1798,Woodbury Langdon,LW0088,Republican,A03,0,NA,0,NaN

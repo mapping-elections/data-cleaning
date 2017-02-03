@@ -1,0 +1,63 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1812,1812,William Hale,HW0187,Federalist,A01,18653,NA,-18653,1.0
+nh.uscongress.1812,1812,Jeduthun Wilcox,WJ0330,Federalist,A01,18618,NA,-18618,1.0
+nh.uscongress.1812,1812,Daniel Webster,WD0028,Federalist,A01,18612,NA,-18612,1.0
+nh.uscongress.1812,1812,Roger Vose,VR0000,Federalist,A01,18611,NA,-18611,1.0
+nh.uscongress.1812,1812,Bradbury Cilley,CB0048,Federalist,A01,18589,NA,-18589,1.0
+nh.uscongress.1812,1812,Samuel Smith,SS0149,Federalist,A01,18550,NA,-18550,1.0
+nh.uscongress.1812,1812,David L. Morrill,MD0059,Republican,A03,16066,NA,-16066,1.0
+nh.uscongress.1812,1812,John F. Parrott,PJ0260,Republican,A03,16062,NA,-16062,1.0
+nh.uscongress.1812,1812,Samuel Dinsmoor,DS0099,Republican,A03,15998,NA,-15998,1.0
+nh.uscongress.1812,1812,John A. Harper,HJ0379,Republican,A03,15990,NA,-15990,1.0
+nh.uscongress.1812,1812,Jesse Johnson,JJ0106,Republican,A03,15982,NA,-15982,1.0
+nh.uscongress.1812,1812,Josiah Butler,BJ0582,Republican,A03,15810,NA,-15810,1.0
+nh.uscongress.1812,1812,Josiah Bartlett,BJ0545,null,null,117,NA,-117,1.0
+nh.uscongress.1812,1812,Samuel Hale,HS0107,null,null,59,NA,-59,1.0
+nh.uscongress.1812,1812,John Goddard,GJ0185,null,null,20,NA,-20,1.0
+nh.uscongress.1812,1812,Abel Merrill,MA0094,null,null,17,NA,-17,1.0
+nh.uscongress.1812,1812,Jedediah K. Smith,SJ0517,null,null,16,NA,-16,1.0
+nh.uscongress.1812,1812,Nahum Parker,PN0043,null,null,16,NA,-16,1.0
+nh.uscongress.1812,1812,Richard Dame,DR0025,null,null,16,NA,-16,1.0
+nh.uscongress.1812,1812,Amasa Allen,AA0043,null,null,15,NA,-15,1.0
+nh.uscongress.1812,1812,John Langdon,LJ0127,null,null,15,NA,-15,1.0
+nh.uscongress.1812,1812,Benjamin Pierce,PB0047,null,null,14,NA,-14,1.0
+nh.uscongress.1812,1812,Obed Hall,HO0010,null,null,14,NA,-14,1.0
+nh.uscongress.1812,1812,Edward Evans,EE0014,null,null,13,NA,-13,1.0
+nh.uscongress.1812,1812,Oliver Peabody,PO0014,Federalist,A01,12,NA,-12,1.0
+nh.uscongress.1812,1812,Timothy Walker,WT0096,null,null,12,NA,-12,1.0
+nh.uscongress.1812,1812,Jonathan Franklin,FJ0149,null,null,11,NA,-11,1.0
+nh.uscongress.1812,1812,Timothy Farrar,FT0030,Federalist,A01,11,NA,-11,1.0
+nh.uscongress.1812,1812,Benjamin West,WB0027,null,null,10,NA,-10,1.0
+nh.uscongress.1812,1812,Caleb Ellis,EC0005,null,null,10,NA,-10,1.0
+nh.uscongress.1812,1812,Nathan Taylor,TN0035,null,null,10,NA,-10,1.0
+nh.uscongress.1812,1812,Benjamin Barnard,BB0162,null,null,4,NA,-4,1.0
+nh.uscongress.1812,1812,Ezra Bartlett,BE0178,null,null,3,NA,-3,1.0
+nh.uscongress.1812,1812,Levi Bartlett,BL0038,null,null,2,NA,-2,1.0
+nh.uscongress.1812,1812,Nathaniel Gilman,GN0013,null,null,2,NA,-2,1.0
+nh.uscongress.1812,1812,Stephen P. Webster,WS0094,null,null,2,NA,-2,1.0
+nh.uscongress.1812,1812,Aaron Allen,AA0046,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Amos Philips,PA0160,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Charles H. Atherton,AC0017,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1812,1812,D. M. D.,DD0047,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Daniel Gookin,GD0009,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,David Webster,WD0138,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Ebenezer Hall,HE0177,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,John Shepard,SJ1349,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Jonathan L. Killgare,KJ0298,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Jonathan Ladd,LJ0199,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Joseph Buffum,BJ1269,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Josiah Sanborn,SJ1305,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Matthew S. Marsh,MM0111,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Mills Olcott,OM0011,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Nathaniel Upham,UN0000,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Nathaniel Whitmore,WN0091,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,O. Crosby,CO0018,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Reid Page,PR0129,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Richard Jenness,JR0048,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Robert Means,MR0056,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Samuel Bell,BS0136,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Samuel Tinney,TS0037,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Simeon Folsom,FS0121,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Willard Griswold,GW0124,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,William Tarlton,TW0049,null,null,1,NA,-1,1.0
+nh.uscongress.1812,1812,Ziba Dennison,DZ0006,null,null,1,NA,-1,1.0

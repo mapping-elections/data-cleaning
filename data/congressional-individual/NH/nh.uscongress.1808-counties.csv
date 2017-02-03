@@ -1,0 +1,439 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3847
+2,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Haven,HN0031,Federalist,A01,3849
+3,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Chamberlain,CJ0119,Federalist,A01,3849
+4,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,3848
+5,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wilson,WJ0328,Federalist,A01,3823
+6,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Gardner,GF0006,Republican,A03,2264
+7,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,2270
+8,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,Republican,A03,2270
+9,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cutts,CC0034,Republican,A03,2277
+10,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,2275
+11,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,1
+12,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0149,Federalist,A01,23
+13,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,1
+14,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Chamberlain,CJ0897,null,null,NA
+15,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggett,CC0033,null,null,2
+16,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fairfield,FJ0433,null,null,NA
+17,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Badger,BJ0563,null,null,6
+18,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David M. Durell,DD0058,null,null,NA
+19,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Evans,ER0035,null,null,NA
+20,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Franklin,FJ0149,null,null,6
+21,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+22,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+23,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Hall,HN0082,null,null,NA
+24,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Aldrich,AG0038,null,null,5
+25,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,null,null,3
+26,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,NA
+27,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Johnson,JJ0106,null,null,NA
+28,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Farrar,FT0030,Federalist,A01,1
+29,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,1
+30,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+31,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+32,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Tarlton,TW0049,null,null,NA
+33,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Bowers,BA0017,null,null,NA
+34,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Dana,DR0089,null,null,NA
+35,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Franklin,FJ0149,null,null,NA
+36,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Gardner,GC0033,null,null,NA
+37,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Gilman,GN0013,null,null,NA
+38,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+39,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Hall,HE0174,null,null,NA
+40,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Hutchinson,HA0058,null,null,NA
+41,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+42,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth Payson,PS0211,null,null,2
+43,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Abbott,AA0052,null,null,NA
+44,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Adel,AR0039,null,null,NA
+45,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Bartlett,BL0038,null,null,NA
+46,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bell,BJ0546,null,null,NA
+47,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Carlton,CP0071,null,null,NA
+48,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Albe Cass,CA0249,null,null,NA
+49,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,C. Chamberlain,CC0147,null,null,1
+50,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Currier,CJ0842,null,null,NA
+51,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Dame,DJ0569,null,null,NA
+52,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,1
+53,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+54,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Edwards,EE0045,null,null,NA
+55,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick French,FF0019,null,null,NA
+56,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin P. Gilbert,GB0057,null,null,NA
+57,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Hale,HJ1106,null,null,NA
+58,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Hale,HM0123,null,null,NA
+59,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,NA
+60,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Hall,HJ1098,null,null,NA
+61,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harper,HJ1049,null,null,NA
+62,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,1
+63,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+64,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+65,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+66,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prescott,PB0086,null,null,NA
+67,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Russell,RJ0553,null,null,NA
+68,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Storer,SD0081,null,null,NA
+69,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tinney,TS0037,null,null,NA
+70,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Upham,UG0000,null,null,1
+71,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Walker,WT0096,null,null,NA
+72,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+73,Cheshire,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wilson,WW0316,null,null,NA
+1,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,235
+2,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Haven,HN0031,Federalist,A01,235
+3,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Chamberlain,CJ0119,Federalist,A01,235
+4,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,234
+5,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wilson,WJ0328,Federalist,A01,235
+6,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Gardner,GF0006,Republican,A03,235
+7,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,235
+8,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,Republican,A03,235
+9,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cutts,CC0034,Republican,A03,235
+10,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,175
+11,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,60
+12,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0149,Federalist,A01,NA
+13,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+14,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Chamberlain,CJ0897,null,null,NA
+15,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggett,CC0033,null,null,NA
+16,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fairfield,FJ0433,null,null,NA
+17,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Badger,BJ0563,null,null,NA
+18,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David M. Durell,DD0058,null,null,NA
+19,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Evans,ER0035,null,null,NA
+20,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Franklin,FJ0149,null,null,NA
+21,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+22,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+23,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Hall,HN0082,null,null,NA
+24,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Aldrich,AG0038,null,null,NA
+25,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,null,null,NA
+26,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,NA
+27,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Johnson,JJ0106,null,null,NA
+28,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Farrar,FT0030,Federalist,A01,NA
+29,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+30,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+31,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+32,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Tarlton,TW0049,null,null,NA
+33,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Bowers,BA0017,null,null,NA
+34,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Dana,DR0089,null,null,NA
+35,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Franklin,FJ0149,null,null,NA
+36,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Gardner,GC0033,null,null,NA
+37,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Gilman,GN0013,null,null,NA
+38,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+39,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Hall,HE0174,null,null,NA
+40,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Hutchinson,HA0058,null,null,NA
+41,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+42,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth Payson,PS0211,null,null,NA
+43,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Abbott,AA0052,null,null,NA
+44,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Adel,AR0039,null,null,NA
+45,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Bartlett,BL0038,null,null,NA
+46,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bell,BJ0546,null,null,NA
+47,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Carlton,CP0071,null,null,NA
+48,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Albe Cass,CA0249,null,null,NA
+49,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,C. Chamberlain,CC0147,null,null,NA
+50,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Currier,CJ0842,null,null,NA
+51,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Dame,DJ0569,null,null,NA
+52,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+53,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+54,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Edwards,EE0045,null,null,NA
+55,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick French,FF0019,null,null,NA
+56,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin P. Gilbert,GB0057,null,null,1
+57,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Hale,HJ1106,null,null,NA
+58,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Hale,HM0123,null,null,NA
+59,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,NA
+60,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Hall,HJ1098,null,null,NA
+61,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harper,HJ1049,null,null,NA
+62,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+63,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+64,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+65,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+66,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prescott,PB0086,null,null,NA
+67,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Russell,RJ0553,null,null,NA
+68,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Storer,SD0081,null,null,NA
+69,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tinney,TS0037,null,null,NA
+70,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Upham,UG0000,null,null,NA
+71,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Walker,WT0096,null,null,NA
+72,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+73,Coos,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wilson,WW0316,null,null,NA
+1,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2669
+2,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Haven,HN0031,Federalist,A01,2668
+3,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Chamberlain,CJ0119,Federalist,A01,2658
+4,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,2658
+5,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wilson,WJ0328,Federalist,A01,2663
+6,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Gardner,GF0006,Republican,A03,1108
+7,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,1098
+8,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,Republican,A03,1101
+9,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cutts,CC0034,Republican,A03,1083
+10,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,1099
+11,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,1
+12,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0149,Federalist,A01,NA
+13,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,2
+14,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Chamberlain,CJ0897,null,null,NA
+15,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggett,CC0033,null,null,NA
+16,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fairfield,FJ0433,null,null,8
+17,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Badger,BJ0563,null,null,1
+18,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David M. Durell,DD0058,null,null,NA
+19,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Evans,ER0035,null,null,NA
+20,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Franklin,FJ0149,null,null,1
+21,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,1
+22,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+23,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Hall,HN0082,null,null,NA
+24,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Aldrich,AG0038,null,null,NA
+25,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,null,null,1
+26,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,NA
+27,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Johnson,JJ0106,null,null,2
+28,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Farrar,FT0030,Federalist,A01,NA
+29,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+30,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+31,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+32,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Tarlton,TW0049,null,null,NA
+33,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Bowers,BA0017,null,null,NA
+34,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Dana,DR0089,null,null,NA
+35,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Franklin,FJ0149,null,null,2
+36,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Gardner,GC0033,null,null,2
+37,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Gilman,GN0013,null,null,NA
+38,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+39,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Hall,HE0174,null,null,NA
+40,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Hutchinson,HA0058,null,null,2
+41,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,1
+42,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth Payson,PS0211,null,null,NA
+43,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Abbott,AA0052,null,null,NA
+44,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Adel,AR0039,null,null,NA
+45,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Bartlett,BL0038,null,null,NA
+46,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bell,BJ0546,null,null,NA
+47,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Carlton,CP0071,null,null,NA
+48,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Albe Cass,CA0249,null,null,NA
+49,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,C. Chamberlain,CC0147,null,null,NA
+50,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Currier,CJ0842,null,null,1
+51,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Dame,DJ0569,null,null,1
+52,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+53,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+54,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Edwards,EE0045,null,null,NA
+55,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick French,FF0019,null,null,NA
+56,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin P. Gilbert,GB0057,null,null,NA
+57,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Hale,HJ1106,null,null,NA
+58,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Hale,HM0123,null,null,NA
+59,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,NA
+60,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Hall,HJ1098,null,null,1
+61,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harper,HJ1049,null,null,NA
+62,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+63,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+64,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+65,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+66,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prescott,PB0086,null,null,NA
+67,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Russell,RJ0553,null,null,NA
+68,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Storer,SD0081,null,null,NA
+69,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tinney,TS0037,null,null,NA
+70,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Upham,UG0000,null,null,NA
+71,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Walker,WT0096,null,null,NA
+72,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+73,Grafton,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wilson,WW0316,null,null,NA
+1,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2545
+2,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Haven,HN0031,Federalist,A01,2561
+3,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Chamberlain,CJ0119,Federalist,A01,2554
+4,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,2544
+5,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wilson,WJ0328,Federalist,A01,2541
+6,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Gardner,GF0006,Republican,A03,3265
+7,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,3242
+8,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,Republican,A03,3268
+9,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cutts,CC0034,Republican,A03,3267
+10,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,3262
+11,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,NA
+12,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0149,Federalist,A01,7
+13,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,10
+14,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Chamberlain,CJ0897,null,null,NA
+15,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggett,CC0033,null,null,5
+16,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fairfield,FJ0433,null,null,NA
+17,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Badger,BJ0563,null,null,NA
+18,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David M. Durell,DD0058,null,null,7
+19,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Evans,ER0035,null,null,NA
+20,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Franklin,FJ0149,null,null,NA
+21,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+22,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,7
+23,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Hall,HN0082,null,null,6
+24,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Aldrich,AG0038,null,null,NA
+25,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,null,null,NA
+26,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,NA
+27,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Johnson,JJ0106,null,null,1
+28,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Farrar,FT0030,Federalist,A01,3
+29,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+30,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+31,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+32,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Tarlton,TW0049,null,null,NA
+33,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Bowers,BA0017,null,null,2
+34,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Dana,DR0089,null,null,NA
+35,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Franklin,FJ0149,null,null,NA
+36,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Gardner,GC0033,null,null,NA
+37,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Gilman,GN0013,null,null,NA
+38,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+39,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Hall,HE0174,null,null,NA
+40,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Hutchinson,HA0058,null,null,NA
+41,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,1
+42,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth Payson,PS0211,null,null,NA
+43,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Abbott,AA0052,null,null,1
+44,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Adel,AR0039,null,null,NA
+45,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Bartlett,BL0038,null,null,NA
+46,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bell,BJ0546,null,null,NA
+47,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Carlton,CP0071,null,null,NA
+48,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Albe Cass,CA0249,null,null,NA
+49,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,C. Chamberlain,CC0147,null,null,NA
+50,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Currier,CJ0842,null,null,NA
+51,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Dame,DJ0569,null,null,NA
+52,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+53,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+54,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Edwards,EE0045,null,null,1
+55,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick French,FF0019,null,null,1
+56,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin P. Gilbert,GB0057,null,null,NA
+57,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Hale,HJ1106,null,null,NA
+58,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Hale,HM0123,null,null,NA
+59,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,NA
+60,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Hall,HJ1098,null,null,NA
+61,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harper,HJ1049,null,null,NA
+62,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+63,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+64,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,1
+65,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+66,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prescott,PB0086,null,null,1
+67,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Russell,RJ0553,null,null,1
+68,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Storer,SD0081,null,null,1
+69,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tinney,TS0037,null,null,NA
+70,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Upham,UG0000,null,null,NA
+71,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Walker,WT0096,null,null,NA
+72,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+73,Hillsborough,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wilson,WW0316,null,null,NA
+1,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3263
+2,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Haven,HN0031,Federalist,A01,3260
+3,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Chamberlain,CJ0119,Federalist,A01,3259
+4,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,3257
+5,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wilson,WJ0328,Federalist,A01,3257
+6,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Gardner,GF0006,Republican,A03,3678
+7,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,3664
+8,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,Republican,A03,3670
+9,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cutts,CC0034,Republican,A03,3670
+10,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,3647
+11,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,17
+12,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0149,Federalist,A01,NA
+13,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,4
+14,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Chamberlain,CJ0897,null,null,1
+15,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggett,CC0033,null,null,1
+16,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fairfield,FJ0433,null,null,NA
+17,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Badger,BJ0563,null,null,NA
+18,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David M. Durell,DD0058,null,null,NA
+19,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Evans,ER0035,null,null,4
+20,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Franklin,FJ0149,null,null,NA
+21,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+22,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+23,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Hall,HN0082,null,null,NA
+24,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Aldrich,AG0038,null,null,NA
+25,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,null,null,NA
+26,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,NA
+27,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Johnson,JJ0106,null,null,1
+28,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Farrar,FT0030,Federalist,A01,NA
+29,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,2
+30,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+31,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+32,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Tarlton,TW0049,null,null,NA
+33,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Bowers,BA0017,null,null,NA
+34,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Dana,DR0089,null,null,NA
+35,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Franklin,FJ0149,null,null,NA
+36,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Gardner,GC0033,null,null,NA
+37,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Gilman,GN0013,null,null,2
+38,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,2
+39,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Hall,HE0174,null,null,1
+40,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Hutchinson,HA0058,null,null,NA
+41,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+42,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth Payson,PS0211,null,null,NA
+43,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Abbott,AA0052,null,null,NA
+44,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Adel,AR0039,null,null,1
+45,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Bartlett,BL0038,null,null,1
+46,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bell,BJ0546,null,null,1
+47,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Carlton,CP0071,null,null,1
+48,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Albe Cass,CA0249,null,null,1
+49,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,C. Chamberlain,CC0147,null,null,NA
+50,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Currier,CJ0842,null,null,NA
+51,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Dame,DJ0569,null,null,NA
+52,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+53,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,1
+54,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Edwards,EE0045,null,null,NA
+55,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick French,FF0019,null,null,NA
+56,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin P. Gilbert,GB0057,null,null,NA
+57,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Hale,HJ1106,null,null,1
+58,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Hale,HM0123,null,null,NA
+59,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,1
+60,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Hall,HJ1098,null,null,NA
+61,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harper,HJ1049,null,null,NA
+62,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+63,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,1
+64,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+65,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,1
+66,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prescott,PB0086,null,null,NA
+67,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Russell,RJ0553,null,null,NA
+68,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Storer,SD0081,null,null,NA
+69,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tinney,TS0037,null,null,1
+70,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Upham,UG0000,null,null,NA
+71,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Walker,WT0096,null,null,1
+72,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+73,Rockingham,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wilson,WW0316,null,null,1
+1,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2588
+2,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Haven,HN0031,Federalist,A01,2565
+3,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John C. Chamberlain,CJ0119,Federalist,A01,2534
+4,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,2548
+5,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wilson,WJ0328,Federalist,A01,2525
+6,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Gardner,GF0006,Republican,A03,1886
+7,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,1874
+8,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel M. Durrell,DD0071,Republican,A03,1819
+9,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Cutts,CC0034,Republican,A03,1882
+10,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,1812
+11,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,72
+12,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Smith,SS0149,Federalist,A01,NA
+13,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+14,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Chamberlain,CJ0897,null,null,10
+15,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggett,CC0033,null,null,NA
+16,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Fairfield,FJ0433,null,null,NA
+17,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Badger,BJ0563,null,null,NA
+18,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David M. Durell,DD0058,null,null,NA
+19,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Evans,ER0035,null,null,3
+20,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Franklin,FJ0149,null,null,NA
+21,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,6
+22,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+23,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Hall,HN0082,null,null,NA
+24,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Aldrich,AG0038,null,null,NA
+25,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,null,null,1
+26,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,5
+27,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jesse Johnson,JJ0106,null,null,NA
+28,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Farrar,FT0030,Federalist,A01,NA
+29,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+30,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,3
+31,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,3
+32,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Tarlton,TW0049,null,null,3
+33,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Bowers,BA0017,null,null,NA
+34,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Dana,DR0089,null,null,2
+35,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Franklin,FJ0149,null,null,NA
+36,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Gardner,GC0033,null,null,NA
+37,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Gilman,GN0013,null,null,NA
+38,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+39,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Hall,HE0174,null,null,1
+40,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Hutchinson,HA0058,null,null,NA
+41,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+42,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Seth Payson,PS0211,null,null,NA
+43,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Abbott,AA0052,null,null,NA
+44,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Adel,AR0039,null,null,NA
+45,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Bartlett,BL0038,null,null,NA
+46,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Bell,BJ0546,null,null,NA
+47,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Carlton,CP0071,null,null,NA
+48,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Albe Cass,CA0249,null,null,NA
+49,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,C. Chamberlain,CC0147,null,null,NA
+50,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Currier,CJ0842,null,null,NA
+51,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Dame,DJ0569,null,null,NA
+52,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+53,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+54,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Edwards,EE0045,null,null,NA
+55,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Frederick French,FF0019,null,null,NA
+56,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin P. Gilbert,GB0057,null,null,NA
+57,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Hale,HJ1106,null,null,NA
+58,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Hale,HM0123,null,null,1
+59,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,NA
+60,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Hall,HJ1098,null,null,NA
+61,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harper,HJ1049,null,null,1
+62,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,David Heald,HD0180,null,null,NA
+63,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+64,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+65,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+66,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Prescott,PB0086,null,null,NA
+67,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Russell,RJ0553,null,null,NA
+68,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Storer,SD0081,null,null,NA
+69,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tinney,TS0037,null,null,NA
+70,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,George Upham,UG0000,null,null,NA
+71,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Walker,WT0096,null,null,NA
+72,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,1
+73,Strafford,nh.uscongress.1808,1808,1808,General,New Hampshire 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wilson,WW0316,null,null,NA

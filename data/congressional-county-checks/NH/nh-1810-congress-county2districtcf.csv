@@ -1,0 +1,89 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1810,1810,Josiah Bartlett,BJ0545,Republican,A03,11690,NA,-11690,1.0
+nh.uscongress.1810,1810,Samuel Dinsmore,DS0099,Republican,A03,11672,NA,-11672,1.0
+nh.uscongress.1810,1810,George Sullivan,SG0056,Federalist,A01,11632,NA,-11632,1.0
+nh.uscongress.1810,1810,William Hale,HW0187,Federalist,A01,11617,NA,-11617,1.0
+nh.uscongress.1810,1810,David L. Morrill,MD0059,Republican,A03,11616,NA,-11616,1.0
+nh.uscongress.1810,1810,Obed Hall,HO0010,Republican,A03,11612,NA,-11612,1.0
+nh.uscongress.1810,1810,Roger Vose,VR0000,Federalist,A01,11583,NA,-11583,1.0
+nh.uscongress.1810,1810,Daniel Blaisdell,BD0070,Federalist,A01,11570,NA,-11570,1.0
+nh.uscongress.1810,1810,John A. Harper,HJ0379,Republican,A03,11535,NA,-11535,1.0
+nh.uscongress.1810,1810,James Wilson,WJ0328,Federalist,A01,11366,NA,-11366,1.0
+nh.uscongress.1810,1810,Samuel Smith,SS0149,Federalist,A01,134,NA,-134,1.0
+nh.uscongress.1810,1810,Richard Odell,OR0009,Republican,A03,49,NA,-49,1.0
+nh.uscongress.1810,1810,David L. Harper,HD0174,null,null,41,NA,-41,1.0
+nh.uscongress.1810,1810,Nathaniel Upham,UN0000,Republican,A03,36,NA,-36,1.0
+nh.uscongress.1810,1810,Nathaniel Shannon,SN0061,Republican,A03,32,NA,-32,1.0
+nh.uscongress.1810,1810,Charles H. Atherton,AC0017,Federalist,A01,29,NA,-29,1.0
+nh.uscongress.1810,1810,John Shipard,SJ1273,Republican,A03,23,NA,-23,1.0
+nh.uscongress.1810,1810,Francis Gardner,GF0006,null,null,10,NA,-10,1.0
+nh.uscongress.1810,1810,James Thornton,TJ0455,Republican,A03,9,NA,-9,1.0
+nh.uscongress.1810,1810,Richard C. Everett,ER0038,null,null,9,NA,-9,1.0
+nh.uscongress.1810,1810,Timothy Farrar,FT0030,Federalist,A01,9,NA,-9,1.0
+nh.uscongress.1810,1810,Jedediah K. Smith,SJ0517,null,null,8,NA,-8,1.0
+nh.uscongress.1810,1810,Edward Evans,EE0014,null,null,6,NA,-6,1.0
+nh.uscongress.1810,1810,Thomas W. Thompson,TT0048,Federalist,A01,6,NA,-6,1.0
+nh.uscongress.1810,1810,Philip Carrigain,CP0107,null,null,4,NA,-4,1.0
+nh.uscongress.1810,1810,Benjamin J. Gilbert,GB0057,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,Ephraim Brown,BE0148,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,George P. Upham,UG0000,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,Jeduthun Wilcox,WJ0330,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,John T. Gilman,GJ0184,Federalist,A01,3,NA,-3,1.0
+nh.uscongress.1810,1810,Levi Jackson,JL0008,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,Moody Bedel,BM0045,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,Oliver Peabody,PO0014,Federalist,A01,3,NA,-3,1.0
+nh.uscongress.1810,1810,William Webster,WW0047,null,null,3,NA,-3,1.0
+nh.uscongress.1810,1810,Amos Kent,KA0060,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Clement Storer,SC0058,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Ephraim MacHerrin,ME0114,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Isaac Webster,WI0061,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,James Snow,SJ1353,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,John C. Chamberlain,CJ0119,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,John Goddard,GJ0185,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,John Orr,OJ0032,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Matthew S. Marsh,MM0111,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,No Hall,null,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Roger Weston,WR0135,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Samuel L. Morrill,MS0210,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Silas Meserve,MS0199,null,null,2,NA,-2,1.0
+nh.uscongress.1810,1810,Aaron Hutchinson,HA0058,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Amasa Allen,AA0043,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Bradbury Cilley,CB0048,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1810,1810,Caleb Ellis,EC0005,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Charles Emery,EC0030,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Chever Flech,FC0040,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Clifton Claggett,CC0033,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Daniel Webster,WD0028,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1810,1810,Daniel Wilson,WD0132,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,David Heald,HD0180,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,David Page,PD0112,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Elijah Hall,HE0174,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Enoch Ginish,GE0060,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Ezra Bartlett,BE0178,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Jacob Clark,CJ0900,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Jacob Sidley,SJ1252,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,James Hale,HJ1106,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Jeremiah H. Woodman,WJ1009,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Jeremiah Smith,SJ0471,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1810,1810,Jesse Johnson,JJ0106,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,John Bradley,BJ0551,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,John Langdon,LJ0127,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Josiah Sanborn,SJ1305,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Jotham Webber,WJ0984,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Moses Dow,DM0029,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Nathaniel Havin,HN0031,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Obed L. Morrill,MO0013,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Reed Paige,PR0129,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Richard H. Ayer,AR0022,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Robert Means,MR0056,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Roger Roger,RR0096,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Samuel Grant,GS0056,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Stephen Ambrose,AS0092,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Stephen Russell,RS0134,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Thomas Bellows,BT0150,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Thomas G. Moses,MT0137,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Thomas S. Ranney,RT0108,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,Timothy Dakin,DT0082,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,William Badger,BW0164,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,William Russell,RW0171,null,null,1,NA,-1,1.0
+nh.uscongress.1810,1810,William Wallace,WW0340,null,null,1,NA,-1,1.0

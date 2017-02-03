@@ -1,0 +1,61 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tenney,TS0061,Federalist,A01,3041
+2,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hough,HD0043,Federalist,A01,3036
+3,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Thompson,TT0048,Federalist,A01,3035
+4,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,Federalist,A01,3031
+5,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,Federalist,A01,3043
+6,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,Republican,A03,2045
+7,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,Republican,A03,2035
+8,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cogswell,CT0136,Republican,A03,2049
+9,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,2041
+10,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,2035
+11,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+12,Cheshire,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tenney,TS0061,Federalist,A01,2028
+2,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hough,HD0043,Federalist,A01,2038
+3,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Thompson,TT0048,Federalist,A01,2029
+4,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,Federalist,A01,2030
+5,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,Federalist,A01,2027
+6,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,Republican,A03,996
+7,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,Republican,A03,1005
+8,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cogswell,CT0136,Republican,A03,989
+9,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,983
+10,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,985
+11,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+12,Grafton,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tenney,TS0061,Federalist,A01,1908
+2,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hough,HD0043,Federalist,A01,1895
+3,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Thompson,TT0048,Federalist,A01,1903
+4,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,Federalist,A01,1903
+5,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,Federalist,A01,1894
+6,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,Republican,A03,2923
+7,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,Republican,A03,2906
+8,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cogswell,CT0136,Republican,A03,2909
+9,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,2909
+10,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,2902
+11,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+12,Hillsborough,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tenney,TS0061,Federalist,A01,2216
+2,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hough,HD0043,Federalist,A01,2222
+3,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Thompson,TT0048,Federalist,A01,2217
+4,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,Federalist,A01,2218
+5,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,Federalist,A01,2212
+6,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,Republican,A03,3208
+7,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,Republican,A03,3202
+8,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cogswell,CT0136,Republican,A03,3200
+9,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,3199
+10,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,3197
+11,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+12,Rockingham,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Tenney,TS0061,Federalist,A01,1894
+2,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hough,HD0043,Federalist,A01,1886
+3,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Thompson,TT0048,Federalist,A01,1891
+4,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,Federalist,A01,1891
+5,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Ellis,EC0005,Federalist,A01,1888
+6,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nahum Parker,PN0043,Republican,A03,1464
+7,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,Republican,A03,1453
+8,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cogswell,CT0136,Republican,A03,1452
+9,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Clement Storer,SC0058,Republican,A03,1466
+10,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jedediah K. Smith,SJ0517,Republican,A03,1458
+11,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Parker,PN0042,null,null,NA
+12,Strafford,nh.uscongress.1804,1804-08,1804,General,New Hampshire 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA

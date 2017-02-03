@@ -1,0 +1,631 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plummer, Jr.",PW0147,null,null,2438
+2,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,2342
+3,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,null,null,2308
+4,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,2416
+5,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,1451
+6,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,null,null,1401
+7,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,1156
+8,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Jackson,JL0008,null,null,975
+9,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Clagett,CC0033,null,null,24
+10,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,41
+11,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+12,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+13,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+14,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,NA
+15,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,NA
+16,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Haven,HJ1102,null,null,NA
+17,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,1
+18,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+19,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0547,null,null,NA
+20,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+21,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,NA
+22,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,null,null,NA
+23,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Tilton, Jr.",TJ0464,null,null,NA
+24,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+25,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+26,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+27,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+28,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Peabody,PO0014,Federalist,A01,NA
+29,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,1
+30,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+31,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+32,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,1
+33,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,null,null,NA
+34,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,1
+35,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+36,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,null,null,NA
+37,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,5
+39,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,NA
+40,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,1
+41,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Smith,SJ1355,null,null,NA
+42,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bell,null,null,null,NA
+43,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+44,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+45,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Pierce,PA0163,null,null,NA
+46,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappen,TJ0457,null,null,5
+47,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Hill,HI0005,null,null,NA
+48,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+49,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel M. Richardson,RS0131,null,null,NA
+50,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Worth,WS0246,null,null,NA
+51,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Bell, Jr.",BJ0546,null,null,NA
+52,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,NA
+53,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Bitton,BS0134,null,null,NA
+54,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Blanchard,BJ0558,null,null,NA
+55,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Adino N. Brackett,BA0283,null,null,NA
+56,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Breaker,BW0360,null,null,NA
+57,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+58,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmoor,DS0099,null,null,NA
+59,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+60,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Gracchus,null,null,null,2
+61,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph B. Jarvis,JJ0243,null,null,NA
+62,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Kelly,KJ0194,null,null,NA
+63,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Long,LG0072,null,null,NA
+64,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Parker,PJ0524,null,null,NA
+65,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+66,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vose,VJ0167,null,null,NA
+67,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,1
+68,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Barker,BD0009,null,null,NA
+69,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+70,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+71,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,1
+72,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Buck,BA0282,null,null,NA
+73,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Buffum,null,null,null,NA
+74,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Butler,BN0097,null,null,NA
+75,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+76,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Chandler,CT0131,null,null,NA
+77,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Cochran,CR0201,null,null,NA
+78,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Colbath,CT0138,null,null,NA
+79,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin B. Darling,DB0038,null,null,NA
+80,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fletcher,FS0124,null,null,NA
+81,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,null,null,NA
+82,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+83,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,1
+84,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Russell Jarvis,JJ0238,null,null,1
+85,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kimball,KJ0304,null,null,NA
+86,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David M.G. Means,MD0104,null,null,NA
+87,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. B. Moore,MJ1031,null,null,NA
+88,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Morrill,ME0117,null,null,NA
+89,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+90,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry H. Orne,OH0016,null,null,NA
+91,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Parker,PD0111,null,null,NA
+92,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+93,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pendexter,PJ0578,null,null,NA
+94,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Plumer,PT0106,null,null,NA
+95,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Prentiss,PJ0512,Federalist,A01,1
+96,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rice,RW0168,null,null,NA
+97,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Roberts,RE0093,null,null,NA
+98,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moore Russell,RM0059,null,null,NA
+99,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Sheafe,SW0418,null,null,NA
+100,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,1
+101,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,1
+102,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Walker,WC0044,null,null,NA
+103,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+104,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,NA
+105,Cheshire,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+1,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plummer, Jr.",PW0147,null,null,272
+2,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,272
+3,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,null,null,263
+4,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,254
+5,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,266
+6,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,null,null,165
+7,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,117
+8,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Jackson,JL0008,null,null,15
+9,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Clagett,CC0033,null,null,17
+10,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,NA
+11,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+12,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+13,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+14,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,NA
+15,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,NA
+16,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Haven,HJ1102,null,null,NA
+17,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+18,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+19,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0547,null,null,NA
+20,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+21,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,NA
+22,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,null,null,NA
+23,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Tilton, Jr.",TJ0464,null,null,NA
+24,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+25,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,NA
+26,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+27,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+28,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Peabody,PO0014,Federalist,A01,NA
+29,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,NA
+30,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+31,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+32,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+33,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,null,null,NA
+34,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+35,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+36,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,null,null,NA
+37,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,1
+38,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,NA
+39,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,NA
+40,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+41,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Smith,SJ1355,null,null,NA
+42,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bell,null,null,null,NA
+43,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+44,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+45,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Pierce,PA0163,null,null,NA
+46,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappen,TJ0457,null,null,NA
+47,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Hill,HI0005,null,null,1
+48,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+49,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel M. Richardson,RS0131,null,null,NA
+50,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Worth,WS0246,null,null,NA
+51,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Bell, Jr.",BJ0546,null,null,NA
+52,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,NA
+53,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Bitton,BS0134,null,null,NA
+54,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Blanchard,BJ0558,null,null,NA
+55,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Adino N. Brackett,BA0283,null,null,NA
+56,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Breaker,BW0360,null,null,NA
+57,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+58,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmoor,DS0099,null,null,NA
+59,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+60,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Gracchus,null,null,null,NA
+61,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph B. Jarvis,JJ0243,null,null,NA
+62,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Kelly,KJ0194,null,null,NA
+63,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Long,LG0072,null,null,NA
+64,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Parker,PJ0524,null,null,NA
+65,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+66,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vose,VJ0167,null,null,NA
+67,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+68,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Barker,BD0009,null,null,NA
+69,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+70,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+71,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+72,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Buck,BA0282,null,null,NA
+73,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Buffum,null,null,null,NA
+74,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Butler,BN0097,null,null,NA
+75,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+76,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Chandler,CT0131,null,null,NA
+77,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Cochran,CR0201,null,null,NA
+78,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Colbath,CT0138,null,null,NA
+79,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin B. Darling,DB0038,null,null,NA
+80,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fletcher,FS0124,null,null,NA
+81,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,null,null,NA
+82,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+83,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,NA
+84,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Russell Jarvis,JJ0238,null,null,NA
+85,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kimball,KJ0304,null,null,NA
+86,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David M.G. Means,MD0104,null,null,NA
+87,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. B. Moore,MJ1031,null,null,NA
+88,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Morrill,ME0117,null,null,NA
+89,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+90,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry H. Orne,OH0016,null,null,NA
+91,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Parker,PD0111,null,null,NA
+92,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+93,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pendexter,PJ0578,null,null,NA
+94,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Plumer,PT0106,null,null,NA
+95,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Prentiss,PJ0512,Federalist,A01,NA
+96,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rice,RW0168,null,null,NA
+97,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Roberts,RE0093,null,null,NA
+98,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moore Russell,RM0059,null,null,NA
+99,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Sheafe,SW0418,null,null,NA
+100,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+101,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,NA
+102,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Walker,WC0044,null,null,NA
+103,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+104,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,NA
+105,Coos,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+1,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plummer, Jr.",PW0147,null,null,1647
+2,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,1656
+3,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,null,null,1624
+4,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,1521
+5,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,1509
+6,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,null,null,1032
+7,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,693
+8,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Jackson,JL0008,null,null,147
+9,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Clagett,CC0033,null,null,148
+10,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,12
+11,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,13
+12,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+13,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,NA
+14,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,NA
+15,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,11
+16,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Haven,HJ1102,null,null,NA
+17,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+18,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+19,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0547,null,null,NA
+20,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+21,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,NA
+22,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,null,null,NA
+23,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Tilton, Jr.",TJ0464,null,null,NA
+24,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+25,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,1
+26,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+27,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+28,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Peabody,PO0014,Federalist,A01,9
+29,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,1
+30,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,12
+31,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+32,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,1
+33,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,null,null,5
+34,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,1
+35,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+36,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,null,null,NA
+37,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,2
+38,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,NA
+39,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,NA
+40,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+41,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Smith,SJ1355,null,null,6
+42,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bell,null,null,null,6
+43,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+44,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,5
+45,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Pierce,PA0163,null,null,NA
+46,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappen,TJ0457,null,null,NA
+47,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Hill,HI0005,null,null,NA
+48,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+49,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel M. Richardson,RS0131,null,null,NA
+50,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Worth,WS0246,null,null,3
+51,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Bell, Jr.",BJ0546,null,null,NA
+52,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,NA
+53,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Bitton,BS0134,null,null,NA
+54,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Blanchard,BJ0558,null,null,NA
+55,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Adino N. Brackett,BA0283,null,null,NA
+56,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Breaker,BW0360,null,null,NA
+57,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+58,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmoor,DS0099,null,null,1
+59,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,1
+60,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Gracchus,null,null,null,NA
+61,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph B. Jarvis,JJ0243,null,null,NA
+62,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Kelly,KJ0194,null,null,NA
+63,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Long,LG0072,null,null,NA
+64,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Parker,PJ0524,null,null,NA
+65,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+66,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vose,VJ0167,null,null,NA
+67,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+68,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Barker,BD0009,null,null,NA
+69,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,1
+70,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+71,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+72,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Buck,BA0282,null,null,NA
+73,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Buffum,null,null,null,NA
+74,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Butler,BN0097,null,null,NA
+75,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+76,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Chandler,CT0131,null,null,NA
+77,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Cochran,CR0201,null,null,NA
+78,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Colbath,CT0138,null,null,NA
+79,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin B. Darling,DB0038,null,null,NA
+80,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fletcher,FS0124,null,null,NA
+81,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,null,null,NA
+82,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+83,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,NA
+84,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Russell Jarvis,JJ0238,null,null,NA
+85,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kimball,KJ0304,null,null,NA
+86,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David M.G. Means,MD0104,null,null,NA
+87,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. B. Moore,MJ1031,null,null,NA
+88,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Morrill,ME0117,null,null,NA
+89,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+90,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry H. Orne,OH0016,null,null,NA
+91,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Parker,PD0111,null,null,1
+92,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+93,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pendexter,PJ0578,null,null,1
+94,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Plumer,PT0106,null,null,NA
+95,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Prentiss,PJ0512,Federalist,A01,NA
+96,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rice,RW0168,null,null,NA
+97,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Roberts,RE0093,null,null,NA
+98,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moore Russell,RM0059,null,null,NA
+99,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Sheafe,SW0418,null,null,NA
+100,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+101,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,NA
+102,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Walker,WC0044,null,null,NA
+103,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+104,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,NA
+105,Grafton,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+1,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plummer, Jr.",PW0147,null,null,2410
+2,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,2381
+3,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,null,null,2355
+4,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,1760
+5,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,2258
+6,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,null,null,1695
+7,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,719
+8,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Jackson,JL0008,null,null,193
+9,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Clagett,CC0033,null,null,654
+10,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,3
+11,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,37
+12,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,54
+13,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,53
+14,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,25
+15,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,35
+16,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Haven,HJ1102,null,null,33
+17,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,4
+18,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+19,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0547,null,null,NA
+20,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+21,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,NA
+22,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,null,null,2
+23,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Tilton, Jr.",TJ0464,null,null,20
+24,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,20
+25,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,5
+26,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+27,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+28,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Peabody,PO0014,Federalist,A01,NA
+29,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,2
+30,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+31,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+32,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,NA
+33,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,null,null,1
+34,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,4
+35,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,NA
+36,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,null,null,NA
+37,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,2
+38,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,NA
+39,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,NA
+40,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+41,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Smith,SJ1355,null,null,NA
+42,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bell,null,null,null,NA
+43,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,1
+44,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+45,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Pierce,PA0163,null,null,NA
+46,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappen,TJ0457,null,null,NA
+47,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Hill,HI0005,null,null,1
+48,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+49,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel M. Richardson,RS0131,null,null,3
+50,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Worth,WS0246,null,null,NA
+51,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Bell, Jr.",BJ0546,null,null,NA
+52,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,2
+53,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Bitton,BS0134,null,null,1
+54,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Blanchard,BJ0558,null,null,2
+55,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Adino N. Brackett,BA0283,null,null,NA
+56,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Breaker,BW0360,null,null,NA
+57,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,1
+58,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmoor,DS0099,null,null,NA
+59,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,1
+60,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Gracchus,null,null,null,NA
+61,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph B. Jarvis,JJ0243,null,null,NA
+62,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Kelly,KJ0194,null,null,2
+63,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Long,LG0072,null,null,NA
+64,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Parker,PJ0524,null,null,NA
+65,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,1
+66,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vose,VJ0167,null,null,NA
+67,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+68,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Barker,BD0009,null,null,1
+69,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+70,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+71,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+72,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Buck,BA0282,null,null,NA
+73,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Buffum,null,null,null,NA
+74,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Butler,BN0097,null,null,1
+75,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+76,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Chandler,CT0131,null,null,1
+77,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Cochran,CR0201,null,null,NA
+78,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Colbath,CT0138,null,null,NA
+79,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin B. Darling,DB0038,null,null,NA
+80,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fletcher,FS0124,null,null,NA
+81,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,null,null,NA
+82,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+83,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,NA
+84,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Russell Jarvis,JJ0238,null,null,NA
+85,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kimball,KJ0304,null,null,NA
+86,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David M.G. Means,MD0104,null,null,1
+87,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. B. Moore,MJ1031,null,null,1
+88,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Morrill,ME0117,null,null,NA
+89,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+90,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry H. Orne,OH0016,null,null,NA
+91,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Parker,PD0111,null,null,NA
+92,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,1
+93,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pendexter,PJ0578,null,null,NA
+94,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Plumer,PT0106,null,null,NA
+95,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Prentiss,PJ0512,Federalist,A01,NA
+96,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rice,RW0168,null,null,NA
+97,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Roberts,RE0093,null,null,NA
+98,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moore Russell,RM0059,null,null,1
+99,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Sheafe,SW0418,null,null,NA
+100,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+101,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,NA
+102,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Walker,WC0044,null,null,NA
+103,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+104,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,NA
+105,Hillsborough,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+1,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plummer, Jr.",PW0147,null,null,2177
+2,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,2138
+3,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,null,null,1976
+4,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,1777
+5,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,1977
+6,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,null,null,1732
+7,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,639
+8,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Jackson,JL0008,null,null,289
+9,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Clagett,CC0033,null,null,382
+10,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,83
+11,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,43
+12,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,28
+13,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,10
+14,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,38
+15,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,5
+16,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Haven,HJ1102,null,null,10
+17,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,27
+18,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,30
+19,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0547,null,null,26
+20,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,24
+21,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,23
+22,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,null,null,11
+23,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Tilton, Jr.",TJ0464,null,null,1
+24,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+25,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,9
+26,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,18
+27,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,17
+28,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Peabody,PO0014,Federalist,A01,4
+29,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,7
+30,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+31,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+32,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,5
+33,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,null,null,3
+34,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+35,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,3
+36,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,null,null,1
+37,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,2
+38,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,NA
+39,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,6
+40,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+41,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Smith,SJ1355,null,null,NA
+42,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bell,null,null,null,NA
+43,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,2
+44,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+45,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Pierce,PA0163,null,null,NA
+46,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappen,TJ0457,null,null,NA
+47,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Hill,HI0005,null,null,2
+48,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,4
+49,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel M. Richardson,RS0131,null,null,NA
+50,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Worth,WS0246,null,null,NA
+51,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Bell, Jr.",BJ0546,null,null,2
+52,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,NA
+53,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Bitton,BS0134,null,null,NA
+54,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Blanchard,BJ0558,null,null,NA
+55,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Adino N. Brackett,BA0283,null,null,2
+56,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Breaker,BW0360,null,null,NA
+57,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,1
+58,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmoor,DS0099,null,null,1
+59,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+60,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Gracchus,null,null,null,NA
+61,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph B. Jarvis,JJ0243,null,null,2
+62,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Kelly,KJ0194,null,null,NA
+63,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Long,LG0072,null,null,2
+64,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Parker,PJ0524,null,null,2
+65,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,NA
+66,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vose,VJ0167,null,null,2
+67,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+68,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Barker,BD0009,null,null,NA
+69,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+70,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,1
+71,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+72,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Buck,BA0282,null,null,NA
+73,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Buffum,null,null,null,1
+74,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Butler,BN0097,null,null,NA
+75,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,1
+76,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Chandler,CT0131,null,null,NA
+77,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Cochran,CR0201,null,null,1
+78,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Colbath,CT0138,null,null,1
+79,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin B. Darling,DB0038,null,null,NA
+80,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fletcher,FS0124,null,null,NA
+81,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,null,null,1
+82,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,NA
+83,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,NA
+84,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Russell Jarvis,JJ0238,null,null,NA
+85,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kimball,KJ0304,null,null,1
+86,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David M.G. Means,MD0104,null,null,NA
+87,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. B. Moore,MJ1031,null,null,NA
+88,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Morrill,ME0117,null,null,NA
+89,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,NA
+90,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry H. Orne,OH0016,null,null,NA
+91,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Parker,PD0111,null,null,NA
+92,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+93,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pendexter,PJ0578,null,null,NA
+94,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Plumer,PT0106,null,null,NA
+95,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Prentiss,PJ0512,Federalist,A01,NA
+96,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rice,RW0168,null,null,1
+97,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Roberts,RE0093,null,null,1
+98,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moore Russell,RM0059,null,null,NA
+99,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Sheafe,SW0418,null,null,NA
+100,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+101,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,NA
+102,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Walker,WC0044,null,null,NA
+103,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,1
+104,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,NA
+105,Rockingham,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,1
+1,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"William Plummer, Jr.",PW0147,null,null,1748
+2,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,null,null,1666
+3,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,null,null,1710
+4,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew Harvey,HM0125,null,null,1500
+5,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Aaron Matson,MA0095,null,null,1610
+6,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Thomas Whipple, Jr.",WT0107,null,null,1077
+7,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,null,null,729
+8,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Jackson,JL0008,null,null,150
+9,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Clagett,CC0033,null,null,250
+10,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,null,null,6
+11,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,NA
+12,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+13,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Moody,MS0196,null,null,5
+14,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Parker,PE0135,null,null,5
+15,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,null,null,NA
+16,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Haven,HJ1102,null,null,NA
+17,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,2
+18,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,1
+19,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Rogers,RJ0547,null,null,NA
+20,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+21,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,NA
+22,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ichabod Bartlett,BI0021,null,null,8
+23,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Joseph Tilton, Jr.",TJ0464,null,null,NA
+24,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Abbot,AD0001,null,null,NA
+25,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Mills Olcott,OM0011,null,null,5
+26,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,NA
+27,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+28,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Peabody,PO0014,Federalist,A01,1
+29,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Mason,MJ0387,Federalist,A01,2
+30,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Thompson,TT0048,Federalist,A01,NA
+31,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,11
+32,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Shannon,SN0061,null,null,2
+33,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,null,null,NA
+34,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,2
+35,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah H. Woodman,WJ1009,null,null,5
+36,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Eastman,EN0021,null,null,6
+37,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+38,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,1
+39,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,NA
+40,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,5
+41,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Smith,SJ1355,null,null,NA
+42,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Bell,null,null,null,NA
+43,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,2
+44,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+45,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Pierce,PA0163,null,null,5
+46,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappen,TJ0457,null,null,NA
+47,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Hill,HI0005,null,null,NA
+48,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+49,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel M. Richardson,RS0131,null,null,NA
+50,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen Worth,WS0246,null,null,NA
+51,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,"John Bell, Jr.",BJ0546,null,null,NA
+52,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,NA
+53,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Bitton,BS0134,null,null,1
+54,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Blanchard,BJ0558,null,null,NA
+55,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Adino N. Brackett,BA0283,null,null,NA
+56,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Breaker,BW0360,null,null,2
+57,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry B. Chase,CH0131,null,null,NA
+58,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmoor,DS0099,null,null,NA
+59,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Fisk,FW0024,null,null,NA
+60,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Gracchus,null,null,null,NA
+61,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph B. Jarvis,JJ0243,null,null,NA
+62,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. W. Kelly,KJ0194,null,null,NA
+63,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,George Long,LG0072,null,null,NA
+64,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John J. Parker,PJ0524,null,null,NA
+65,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Shepard,SS0284,null,null,1
+66,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vose,VJ0167,null,null,NA
+67,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,1
+68,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Barker,BD0009,null,null,NA
+69,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+70,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bell,BJ1277,null,null,NA
+71,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James H. Bingham,BJ1305,null,null,NA
+72,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Amasa Buck,BA0282,null,null,1
+73,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Buffum,null,null,null,NA
+74,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Butler,BN0097,null,null,NA
+75,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Carrigain,CP0107,null,null,NA
+76,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Chandler,CT0131,null,null,NA
+77,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Cochran,CR0201,null,null,NA
+78,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy Colbath,CT0138,null,null,NA
+79,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin B. Darling,DB0038,null,null,1
+80,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Fletcher,FS0124,null,null,1
+81,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,null,null,NA
+82,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,null,null,1
+83,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Phinehas Handerson,HP0105,null,null,NA
+84,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Russell Jarvis,JJ0238,null,null,NA
+85,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Kimball,KJ0304,null,null,NA
+86,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David M.G. Means,MD0104,null,null,NA
+87,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. B. Moore,MJ1031,null,null,NA
+88,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Morrill,ME0117,null,null,1
+89,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Odell,OR0009,null,null,1
+90,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry H. Orne,OH0016,null,null,1
+91,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Parker,PD0111,null,null,NA
+92,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Parker,PJ0595,null,null,NA
+93,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Pendexter,PJ0578,null,null,NA
+94,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Plumer,PT0106,null,null,1
+95,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Prentiss,PJ0512,Federalist,A01,NA
+96,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Rice,RW0168,null,null,NA
+97,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Edmund Roberts,RE0093,null,null,NA
+98,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Moore Russell,RM0059,null,null,NA
+99,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Sheafe,SW0418,null,null,1
+100,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Steele,SJ0926,null,null,NA
+101,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,NA
+102,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Walker,WC0044,null,null,1
+103,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+104,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,1
+105,Strafford,nh.uscongress.1820,1820-11,1820,General,New Hampshire 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nh.uscongress.2.1796,1796,1796,General,"New Hampshire 1796 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Jonathan Freeman,FJ0138,Federalist,A01,1,NA,NA
+nh.uscongress.2.1796,1796,1796,General,"New Hampshire 1796 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Peleg Sprague,SP0028,null,null,2,NA,NA
+nh.uscongress.2.1796,1796,1796,General,"New Hampshire 1796 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA,NA

@@ -1,0 +1,33 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1800,1800,Abiel Foster,FA0029,Federalist,A01,5472,NA,-5472,1.0
+nh.uscongress.1800,1800,Samuel Tenney,TS0061,Federalist,A01,5000,NA,-5000,1.0
+nh.uscongress.1800,1800,George B. Upham,UG0000,null,null,4681,NA,-4681,1.0
+nh.uscongress.1800,1800,Joseph Peirce,PJ0567,null,null,4227,NA,-4227,1.0
+nh.uscongress.1800,1800,Benjamin Bellows,BB0023,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Benjamin Pierce,PB0047,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Daniel Gookin,GD0009,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,David Hough,HD0043,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,George Hadley,HG0151,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Israel Evans,EI0000,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,John Bellows,BJ0552,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,John Goddard,GJ0185,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,John Langdon,LJ0127,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,John Orr,OJ0032,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,John Prentice,PJ0235,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Jonathan Smith,SJ0469,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,"Joseph Badger, Jr.",BJ0563,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Levi Bartlett,BL0038,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Michael MacClary,MM0025,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Nahum Parker,PN0043,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Nathan Hoit,HN0032,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Robert Wallace,WR0086,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Russell Freeman,FR0028,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Samuel Hunt,HS0108,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,scattering,null,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Thomas Bellows,BT0150,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Thomas Cogswell,CT0136,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Timothy Farrar,FT0030,Federalist,A01,0,NA,0,NaN
+nh.uscongress.1800,1800,Timothy Walker,WT0096,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,William K. Atkinson,AW0040,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,William Plummer,PW0090,null,null,0,NA,0,NaN
+nh.uscongress.1800,1800,Woodbury Langdon,LW0088,null,null,0,NA,0,NaN

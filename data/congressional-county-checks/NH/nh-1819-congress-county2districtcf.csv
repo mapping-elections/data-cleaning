@@ -1,0 +1,107 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.1819,1819,Arthur Livermore,LA0074,Republican,A03,14643,NA,-14643,1.0
+nh.uscongress.1819,1819,Nathaniel Upham,UN0000,Republican,A03,14224,NA,-14224,1.0
+nh.uscongress.1819,1819,"Joseph Buffum, Jr.",BJ1269,Republican,A03,14104,NA,-14104,1.0
+nh.uscongress.1819,1819,Josiah Butler,BJ0582,Republican,A03,14056,NA,-14056,1.0
+nh.uscongress.1819,1819,Clifton Clagett,CC0033,Republican,A03,13869,NA,-13869,1.0
+nh.uscongress.1819,1819,"William Plumer, 2nd",PW0147,Republican,A03,11283,NA,-11283,1.0
+nh.uscongress.1819,1819,Jeremiah Smith,SJ0471,Federalist,A01,7519,NA,-7519,1.0
+nh.uscongress.1819,1819,Levi Jackson,JL0008,Federalist,A01,7408,NA,-7408,1.0
+nh.uscongress.1819,1819,Parker Noyes,NP0004,Federalist,A01,7374,NA,-7374,1.0
+nh.uscongress.1819,1819,Stephen Moody,MS0196,Federalist,A01,7242,NA,-7242,1.0
+nh.uscongress.1819,1819,Mills Olcott,OM0011,Federalist,A01,7158,NA,-7158,1.0
+nh.uscongress.1819,1819,John Havin,HJ1102,Federalist,A01,6627,NA,-6627,1.0
+nh.uscongress.1819,1819,George Long,LG0072,Republican,A03,3014,NA,-3014,1.0
+nh.uscongress.1819,1819,Nathaniel A. Havin,HN0031,null,null,702,NA,-702,1.0
+nh.uscongress.1819,1819,John Harris,HJ0381,null,null,133,NA,-133,1.0
+nh.uscongress.1819,1819,Moses P. Payson,PM0041,null,null,129,NA,-129,1.0
+nh.uscongress.1819,1819,William Hale,HW0187,null,null,96,NA,-96,1.0
+nh.uscongress.1819,1819,Jonathan Harvey,HJ0382,null,null,81,NA,-81,1.0
+nh.uscongress.1819,1819,Jeduthun Wilcox,WJ0330,null,null,78,NA,-78,1.0
+nh.uscongress.1819,1819,George B. Upham,UG0000,null,null,65,NA,-65,1.0
+nh.uscongress.1819,1819,"John Langdon, Jr.",LJ0127,null,null,63,NA,-63,1.0
+nh.uscongress.1819,1819,John Tappan,TJ0457,null,null,52,NA,-52,1.0
+nh.uscongress.1819,1819,Charles H. Atherton,AC0017,Federalist,A01,38,NA,-38,1.0
+nh.uscongress.1819,1819,Jeremiah Mason,MJ0387,Federalist,A01,30,NA,-30,1.0
+nh.uscongress.1819,1819,Daniel Blasdell,BD0070,Federalist,A01,27,NA,-27,1.0
+nh.uscongress.1819,1819,Thomas Whipple,WT0107,null,null,27,NA,-27,1.0
+nh.uscongress.1819,1819,Bradbury Cilley,CB0048,Federalist,A01,26,NA,-26,1.0
+nh.uscongress.1819,1819,Samuel Shepherd,SS0284,null,null,26,NA,-26,1.0
+nh.uscongress.1819,1819,William Webster,WW0047,null,null,25,NA,-25,1.0
+nh.uscongress.1819,1819,Moor Russell,RM0059,null,null,23,NA,-23,1.0
+nh.uscongress.1819,1819,J. K. Smith,SJ0517,null,null,15,NA,-15,1.0
+nh.uscongress.1819,1819,Uriah Wilcox,WU0005,null,null,13,NA,-13,1.0
+nh.uscongress.1819,1819,Edmund Parker,PE0135,null,null,11,NA,-11,1.0
+nh.uscongress.1819,1819,Phinehas Henderson,HP0105,null,null,11,NA,-11,1.0
+nh.uscongress.1819,1819,William Fisk,FW0024,null,null,11,NA,-11,1.0
+nh.uscongress.1819,1819,Andrew Pierce,PA0163,null,null,8,NA,-8,1.0
+nh.uscongress.1819,1819,William Pickering,PW0131,null,null,8,NA,-8,1.0
+nh.uscongress.1819,1819,Samuel Quarles,QS0001,null,null,7,NA,-7,1.0
+nh.uscongress.1819,1819,William Badger,BW0164,null,null,7,NA,-7,1.0
+nh.uscongress.1819,1819,Thomas W. Thompson,TT0048,Federalist,A01,6,NA,-6,1.0
+nh.uscongress.1819,1819,Matthew Harvey,HM0125,null,null,5,NA,-5,1.0
+nh.uscongress.1819,1819,C. K. White,WC0022,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Charles Eastman,EC0032,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,David Richardson,RD0096,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Ebenezer Eastman,EE0048,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Hiram Young,YH0012,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Jeremy Webster,WJ0897,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Ozias Savage,SO0020,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Samuel Grant,GS0056,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,Stephen Ambrose,AS0092,null,null,4,NA,-4,1.0
+nh.uscongress.1819,1819,David Tinny,TD0071,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Ephraim Kingsbury,KE0040,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Henry B. Chase,CH0131,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Jacob Cilley,CJ0381,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Levi Mansfield,ML0066,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Moses L. Neal,NM0001,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Samuel Bell,BS0136,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,William Barker,BW0374,null,null,3,NA,-3,1.0
+nh.uscongress.1819,1819,Abel Merrill,MA0094,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Abril Foster,FA0104,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Amos Cogswell,CA0016,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Dan Young,YD0000,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Ezekiel Webster,WE0017,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,J. C. Chamberlain,CJ0119,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,John Goddard,GJ0185,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,John M. Page,PJ0589,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,"John Rice, Jr.",RJ0568,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Joseph Tuttle,TJ0466,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Levi Woodbury,WL0039,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Oliver Peabody,PO0014,Federalist,A01,2,NA,-2,1.0
+nh.uscongress.1819,1819,Salma Hale,HS0111,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Stephen Noyes,NS0033,null,null,2,NA,-2,1.0
+nh.uscongress.1819,1819,Aaron Matson,MA0095,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Andrew Bowers,BA0017,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Andrew Jackson,JA0033,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Benjamin Pierce,PB0047,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Bickford Long,LB0033,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Edward Evans,EE0014,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Elijah Sawyer,SE0190,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,George Sullivan,SG0056,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1819,1819,Hale John,JH0033,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Israel W. Kelly,KI0021,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,James Hutchins,HJ1033,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Jeremiah Wilson,WJ0894,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Davenport,DJ0567,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John French,FJ0151,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Gains,GJ0191,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Gibson,GJ0531,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,"John Page, Jr.",PJ0590,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Pitman,PJ0575,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Plumer,PJ0242,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Vose,VJ0167,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,John Wood,WJ0994,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Jonas C. March,MJ1009,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Joseph Tilton,TJ0464,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Joshua James,JJ0226,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Nathan Taylor,TN0035,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Nathaniel Jackson,JN0014,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Nathaniel Livermore,LN0033,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Nathaniel Shannon,SN0061,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Rueben Whittier,WR0136,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Samuel Green,GS0100,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Silas Meserve,MS0199,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,Stephen Perkins,PS0206,null,null,1,NA,-1,1.0
+nh.uscongress.1819,1819,William A. Kent,KW0046,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.1819,1819,William Clark,CW0302,null,null,1,NA,-1,1.0

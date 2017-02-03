@@ -1,0 +1,57 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.2.1823,1823,Arthur Livermore,LA0074,Republican,A03,9853,NA,-9853,1.0
+nh.uscongress.2.1823,1823,Edmund Parker,PE0135,Republican,A03,8270,NA,-8270,1.0
+nh.uscongress.2.1823,1823,Richard Odell,OR0009,Republican,A03,7940,NA,-7940,1.0
+nh.uscongress.2.1823,1823,David Webster,WD0138,null,null,8,NA,-8,1.0
+nh.uscongress.2.1823,1823,Estwicke Evans,EE0047,null,null,8,NA,-8,1.0
+nh.uscongress.2.1823,1823,John Corliss,CJ0841,null,null,6,NA,-6,1.0
+nh.uscongress.2.1823,1823,Gardner Towle,TG0047,null,null,5,NA,-5,1.0
+nh.uscongress.2.1823,1823,Salma Hale,HS0111,null,null,5,NA,-5,1.0
+nh.uscongress.2.1823,1823,Joseph Atwood,AJ0271,null,null,4,NA,-4,1.0
+nh.uscongress.2.1823,1823,Jonathan Farnsworth,FJ0414,null,null,3,NA,-3,1.0
+nh.uscongress.2.1823,1823,Joseph Boody,BJ1272,null,null,3,NA,-3,1.0
+nh.uscongress.2.1823,1823,Thomas Fask,FT0067,null,null,3,NA,-3,1.0
+nh.uscongress.2.1823,1823,Henry Hubbard,HH0143,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,J. Tichnor,TJ0519,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,Joseph Healy,HJ1093,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,Joshua Pickering,PJ0554,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,Samuel Egeston,ES0056,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,scattering,null,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,Thomas S. Abbot,AT0059,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,Walter R. Webster,WW0341,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,William Badger,BW0164,null,null,2,NA,-2,1.0
+nh.uscongress.2.1823,1823,Aaron Downs,DA0128,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Abraham Thomas,TA0084,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Benjamin Osgood,OB0013,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,David L. Morrill,MD0059,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Edward B. Nealley,NE0024,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Elias Hemmenway,HE0166,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,"Elijah Meder, Jr.",ME0104,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Enoch Brainard,BE0146,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Everett Williams,WE0188,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Ezekiel Moore,ME0120,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,George Little,LG0081,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,J. Bartlett,BJ0545,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,James Wilder,WJ1011,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,"James Wilson, Jr.",WJ0328,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Job Varney,VJ0185,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,John Rogers,RJ0547,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Jonathan Hobbs,HJ1096,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Joseph Bell,BJ1277,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,"Joseph Buffum, Jr.",BJ1269,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Matthew Harvey,HM0125,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Morris Lamprey,LM0034,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Nahum Parker,PN0043,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Nathan Bickford,BN0099,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Nathaniel Goodhue,GN0044,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Nehemiah Eastman,EN0021,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Oliver Lock,LO0008,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Pearson Cogswell,CP0106,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Roger Vose,VR0000,Federalist,A01,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Samuel Chapman,CS0232,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Samuel Griffin,GS0116,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Samuel Quarles,QS0001,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Samuel Ryan,RS0136,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Simon Fellows,FS0118,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,Tristram Dalton,DT0081,null,null,1,NA,-1,1.0
+nh.uscongress.2.1823,1823,William Wilson,WW0331,null,null,1,NA,-1,1.0

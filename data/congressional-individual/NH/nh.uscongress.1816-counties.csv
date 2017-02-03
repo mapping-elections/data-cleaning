@@ -1,0 +1,530 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,2767
+2,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,2767
+3,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggert,CC0033,Republican,A03,2767
+4,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,Republican,A03,2690
+5,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,2732
+6,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,Republican,A03,2702
+7,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3555
+8,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,3556
+9,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,3555
+10,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,3557
+11,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,3556
+12,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,Federalist,A01,3557
+13,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Prescott,PG0048,Republican,A03,35
+14,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Young,YD0000,Republican,A03,4
+15,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+16,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,2
+17,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healey,HJ1093,null,null,55
+18,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,35
+19,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,2
+20,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+21,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,4
+22,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,NA
+23,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Manning,MT0083,null,null,4
+24,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,4
+25,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Cogswell,CA0016,null,null,4
+26,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,4
+27,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Tuttle,TJ0153,null,null,4
+28,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,4
+29,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+30,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Durken,DJ0559,null,null,NA
+31,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,2
+32,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,3
+33,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacClary,MJ0382,null,null,NA
+34,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,3
+35,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,2
+36,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,2
+37,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin J. Gilbert,GB0057,null,null,2
+38,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+39,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,8
+40,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,5
+41,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+42,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+43,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+44,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William K. Atkinson,AW0040,null,null,NA
+45,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Britton,BJ1262,null,null,NA
+46,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cutts,CJ0844,null,null,NA
+47,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Colby,CE0162,null,null,NA
+48,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Hale,HE0165,null,null,2
+49,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+50,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+51,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+52,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+53,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin West,WB0027,null,null,1
+54,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+55,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Ayley,AR0040,null,null,NA
+56,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+57,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,null,null,NA
+58,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bingham,BJ1305,null,null,NA
+59,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Brown,BJ1235,null,null,NA
+60,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Baruch Chase,CB0081,null,null,NA
+61,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+62,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Eastman,EM0021,null,null,NA
+64,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy A. Edson,ET0039,null,null,NA
+65,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Ela,EJ0324,null,null,NA
+66,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Evans,EE0014,null,null,NA
+67,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwick Evans,EE0047,null,null,NA
+68,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Gardner,GW0066,null,null,NA
+69,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John George,GJ0512,null,null,NA
+70,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+71,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,1
+72,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grisky,GS0115,null,null,NA
+73,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John P. Hale,HJ1039,null,null,NA
+74,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hanis,HJ1047,null,null,NA
+75,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harris,HJ0381,null,null,NA
+76,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+77,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Hativil Knight,KH0026,null,null,NA
+78,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Low,LW0141,null,null,NA
+79,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel F. Parrott,PN0049,null,null,NA
+80,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,1
+81,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Perkins,PC0086,null,null,NA
+82,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+83,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Shapley,SJ1356,null,null,NA
+84,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stearns,SE0193,null,null,1
+85,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Fredrick A. Sumner,SF0064,null,null,NA
+86,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+87,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+88,Cheshire,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William H. Woodward,WW0140,Federalist,A01,NA
+1,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,254
+2,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,255
+3,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggert,CC0033,Republican,A03,252
+4,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,Republican,A03,245
+5,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,255
+6,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,Republican,A03,254
+7,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,151
+8,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,150
+9,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,151
+10,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,149
+11,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,148
+12,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,Federalist,A01,150
+13,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Prescott,PG0048,Republican,A03,NA
+14,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Young,YD0000,Republican,A03,NA
+15,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+16,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,8
+17,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healey,HJ1093,null,null,NA
+18,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+19,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,NA
+20,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+21,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+22,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,NA
+23,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Manning,MT0083,null,null,NA
+24,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,NA
+25,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Cogswell,CA0016,null,null,NA
+26,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+27,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Tuttle,TJ0153,null,null,NA
+28,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,NA
+29,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+30,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Durken,DJ0559,null,null,NA
+31,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,NA
+32,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,NA
+33,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacClary,MJ0382,null,null,NA
+34,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,NA
+35,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,NA
+36,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,NA
+37,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin J. Gilbert,GB0057,null,null,NA
+38,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+39,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+40,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+41,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+42,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+43,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+44,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William K. Atkinson,AW0040,null,null,NA
+45,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Britton,BJ1262,null,null,NA
+46,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cutts,CJ0844,null,null,NA
+47,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Colby,CE0162,null,null,NA
+48,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Hale,HE0165,null,null,NA
+49,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+50,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+51,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+52,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+53,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin West,WB0027,null,null,NA
+54,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+55,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Ayley,AR0040,null,null,NA
+56,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+57,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,null,null,NA
+58,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bingham,BJ1305,null,null,NA
+59,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Brown,BJ1235,null,null,NA
+60,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Baruch Chase,CB0081,null,null,NA
+61,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+62,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Eastman,EM0021,null,null,NA
+64,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy A. Edson,ET0039,null,null,NA
+65,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Ela,EJ0324,null,null,NA
+66,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Evans,EE0014,null,null,NA
+67,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwick Evans,EE0047,null,null,NA
+68,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Gardner,GW0066,null,null,NA
+69,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John George,GJ0512,null,null,NA
+70,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+71,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+72,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grisky,GS0115,null,null,NA
+73,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John P. Hale,HJ1039,null,null,NA
+74,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hanis,HJ1047,null,null,NA
+75,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harris,HJ0381,null,null,NA
+76,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+77,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Hativil Knight,KH0026,null,null,NA
+78,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Low,LW0141,null,null,NA
+79,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel F. Parrott,PN0049,null,null,NA
+80,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+81,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Perkins,PC0086,null,null,NA
+82,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+83,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Shapley,SJ1356,null,null,NA
+84,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stearns,SE0193,null,null,NA
+85,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Fredrick A. Sumner,SF0064,null,null,NA
+86,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+87,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+88,Coos,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William H. Woodward,WW0140,Federalist,A01,NA
+1,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,1553
+2,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,1555
+3,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggert,CC0033,Republican,A03,1553
+4,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,Republican,A03,1469
+5,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,1555
+6,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,Republican,A03,1655
+7,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,1992
+8,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,1993
+9,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,1985
+10,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,1990
+11,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,1892
+12,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,Federalist,A01,1959
+13,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Prescott,PG0048,Republican,A03,2
+14,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Young,YD0000,Republican,A03,7
+15,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+16,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,85
+17,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healey,HJ1093,null,null,NA
+18,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+19,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,1
+20,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+21,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,1
+22,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,NA
+23,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Manning,MT0083,null,null,1
+24,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,1
+25,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Cogswell,CA0016,null,null,1
+26,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,1
+27,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Tuttle,TJ0153,null,null,1
+28,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,1
+29,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+30,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Durken,DJ0559,null,null,NA
+31,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,1
+32,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,1
+33,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacClary,MJ0382,null,null,NA
+34,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,1
+35,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,1
+36,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,1
+37,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin J. Gilbert,GB0057,null,null,1
+38,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+39,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+40,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+41,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+42,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,1
+43,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+44,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William K. Atkinson,AW0040,null,null,NA
+45,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Britton,BJ1262,null,null,2
+46,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cutts,CJ0844,null,null,NA
+47,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Colby,CE0162,null,null,NA
+48,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Hale,HE0165,null,null,NA
+49,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+50,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,1
+51,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+52,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,1
+53,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin West,WB0027,null,null,1
+54,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,1
+55,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Ayley,AR0040,null,null,NA
+56,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+57,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,null,null,1
+58,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bingham,BJ1305,null,null,NA
+59,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Brown,BJ1235,null,null,NA
+60,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Baruch Chase,CB0081,null,null,NA
+61,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+62,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Eastman,EM0021,null,null,NA
+64,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy A. Edson,ET0039,null,null,NA
+65,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Ela,EJ0324,null,null,NA
+66,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Evans,EE0014,null,null,NA
+67,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwick Evans,EE0047,null,null,NA
+68,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Gardner,GW0066,null,null,NA
+69,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John George,GJ0512,null,null,NA
+70,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+71,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+72,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grisky,GS0115,null,null,NA
+73,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John P. Hale,HJ1039,null,null,NA
+74,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hanis,HJ1047,null,null,NA
+75,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harris,HJ0381,null,null,NA
+76,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+77,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Hativil Knight,KH0026,null,null,NA
+78,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Low,LW0141,null,null,NA
+79,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel F. Parrott,PN0049,null,null,NA
+80,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+81,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Perkins,PC0086,null,null,NA
+82,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+83,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Shapley,SJ1356,null,null,NA
+84,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stearns,SE0193,null,null,NA
+85,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Fredrick A. Sumner,SF0064,null,null,NA
+86,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,1
+87,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+88,Grafton,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William H. Woodward,WW0140,Federalist,A01,NA
+1,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,4445
+2,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,4447
+3,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggert,CC0033,Republican,A03,4433
+4,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,Republican,A03,4446
+5,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,4432
+6,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,Republican,A03,4423
+7,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2506
+8,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,2507
+9,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,2505
+10,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,2455
+11,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,2505
+12,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,Federalist,A01,2484
+13,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Prescott,PG0048,Republican,A03,9
+14,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Young,YD0000,Republican,A03,7
+15,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,1
+16,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,3
+17,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healey,HJ1093,null,null,NA
+18,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,5
+19,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,30
+20,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,NA
+21,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,6
+22,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,21
+23,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Manning,MT0083,null,null,6
+24,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,6
+25,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Cogswell,CA0016,null,null,6
+26,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,6
+27,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Tuttle,TJ0153,null,null,6
+28,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,6
+29,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+30,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Durken,DJ0559,null,null,NA
+31,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,4
+32,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,3
+33,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacClary,MJ0382,null,null,NA
+34,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,3
+35,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,3
+36,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,3
+37,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin J. Gilbert,GB0057,null,null,3
+38,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+39,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+40,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+41,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+42,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+43,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,4
+44,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William K. Atkinson,AW0040,null,null,NA
+45,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Britton,BJ1262,null,null,NA
+46,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cutts,CJ0844,null,null,NA
+47,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Colby,CE0162,null,null,NA
+48,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Hale,HE0165,null,null,NA
+49,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+50,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+51,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,1
+52,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+53,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin West,WB0027,null,null,NA
+54,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+55,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Ayley,AR0040,null,null,NA
+56,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+57,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,null,null,NA
+58,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bingham,BJ1305,null,null,1
+59,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Brown,BJ1235,null,null,NA
+60,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Baruch Chase,CB0081,null,null,NA
+61,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+62,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Eastman,EM0021,null,null,NA
+64,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy A. Edson,ET0039,null,null,NA
+65,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Ela,EJ0324,null,null,NA
+66,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Evans,EE0014,null,null,NA
+67,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwick Evans,EE0047,null,null,NA
+68,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Gardner,GW0066,null,null,NA
+69,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John George,GJ0512,null,null,NA
+70,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+71,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+72,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grisky,GS0115,null,null,NA
+73,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John P. Hale,HJ1039,null,null,NA
+74,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hanis,HJ1047,null,null,NA
+75,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harris,HJ0381,null,null,NA
+76,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+77,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Hativil Knight,KH0026,null,null,NA
+78,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Low,LW0141,null,null,NA
+79,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel F. Parrott,PN0049,null,null,NA
+80,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+81,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Perkins,PC0086,null,null,NA
+82,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+83,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Shapley,SJ1356,null,null,NA
+84,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stearns,SE0193,null,null,NA
+85,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Fredrick A. Sumner,SF0064,null,null,NA
+86,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+87,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+88,Hillsborough,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William H. Woodward,WW0140,Federalist,A01,NA
+1,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,3758
+2,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,3772
+3,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggert,CC0033,Republican,A03,3754
+4,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,Republican,A03,3783
+5,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,3633
+6,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,Republican,A03,3488
+7,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3275
+8,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,3263
+9,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,3264
+10,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,3264
+11,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,3273
+12,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,Federalist,A01,3254
+13,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Prescott,PG0048,Republican,A03,155
+14,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Young,YD0000,Republican,A03,195
+15,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,NA
+16,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,NA
+17,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healey,HJ1093,null,null,NA
+18,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,5
+19,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,1
+20,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,2
+21,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,10
+22,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,NA
+23,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Manning,MT0083,null,null,NA
+24,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,8
+24,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,7
+25,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Cogswell,CA0016,null,null,7
+26,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,7
+27,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Tuttle,TJ0153,null,null,7
+28,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,5
+29,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,11
+30,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Durken,DJ0559,null,null,9
+31,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,1
+32,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,1
+33,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacClary,MJ0382,null,null,9
+34,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,1
+35,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,1
+36,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,1
+37,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin J. Gilbert,GB0057,null,null,1
+38,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,8
+39,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+40,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+41,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,5
+42,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,3
+43,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+44,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William K. Atkinson,AW0040,null,null,1
+45,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Britton,BJ1262,null,null,NA
+46,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cutts,CJ0844,null,null,2
+47,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Colby,CE0162,null,null,2
+48,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Hale,HE0165,null,null,NA
+49,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,NA
+50,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,1
+51,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,1
+52,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,1
+53,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin West,WB0027,null,null,NA
+54,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+55,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Ayley,AR0040,null,null,1
+56,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,NA
+57,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,null,null,NA
+58,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bingham,BJ1305,null,null,NA
+59,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Brown,BJ1235,null,null,NA
+60,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Baruch Chase,CB0081,null,null,1
+61,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,NA
+62,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,1
+63,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Eastman,EM0021,null,null,1
+64,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy A. Edson,ET0039,null,null,1
+65,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Ela,EJ0324,null,null,1
+66,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Evans,EE0014,null,null,1
+67,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwick Evans,EE0047,null,null,1
+68,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Gardner,GW0066,null,null,1
+69,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John George,GJ0512,null,null,1
+70,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,NA
+71,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+72,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grisky,GS0115,null,null,NA
+73,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John P. Hale,HJ1039,null,null,NA
+74,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hanis,HJ1047,null,null,NA
+75,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harris,HJ0381,null,null,1
+76,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,NA
+77,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Hativil Knight,KH0026,null,null,NA
+78,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Low,LW0141,null,null,1
+79,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel F. Parrott,PN0049,null,null,1
+80,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+81,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Perkins,PC0086,null,null,1
+82,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,1
+83,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Shapley,SJ1356,null,null,1
+84,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stearns,SE0193,null,null,NA
+85,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Fredrick A. Sumner,SF0064,null,null,1
+86,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+87,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,NA
+88,Rockingham,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William H. Woodward,WW0140,Federalist,A01,NA
+1,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Butler,BJ0582,Republican,A03,2792
+2,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Upham,UN0000,Republican,A03,2766
+3,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Clifton Claggert,CC0033,Republican,A03,2792
+4,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Salma Hale,HS0111,Republican,A03,2783
+5,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Parrott,PJ0260,Republican,A03,2624
+6,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Arthur Livermore,LA0074,Republican,A03,2695
+7,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2121
+8,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeremiah Smith,SJ0471,Federalist,A01,2113
+9,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jeduthun Wilcox,WJ0330,Federalist,A01,2118
+10,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,2121
+11,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Bradbury Cilley,CB0048,Federalist,A01,2119
+12,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Parker Noyes,NP0004,Federalist,A01,2073
+13,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Prescott,PG0048,Republican,A03,107
+14,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Young,YD0000,Republican,A03,36
+15,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Bartlett,BJ0545,null,null,111
+16,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Hale,HS0107,null,null,9
+17,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Healey,HJ1093,null,null,NA
+18,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen P. Webster,WS0094,null,null,NA
+19,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Webster,WW0047,null,null,1
+20,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Quarles,QS0001,null,null,26
+21,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Badger,BW0164,null,null,NA
+22,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,NA
+23,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Manning,MT0083,null,null,NA
+24,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Ayer,AR0022,null,null,NA
+25,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Cogswell,CA0016,null,null,NA
+26,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas C. Drew,DT0126,null,null,NA
+27,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Tuttle,TJ0153,null,null,NA
+28,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Butler,BB0029,null,null,NA
+29,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Levi Woodbury,WL0039,null,null,NA
+30,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Durken,DJ0559,null,null,NA
+31,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John T. Gilman,GJ0184,Federalist,A01,1
+32,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel A. Havin,HN0031,null,null,1
+33,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacClary,MJ0382,null,null,NA
+34,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Means,MR0056,null,null,1
+35,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George B. Upham,UG0000,null,null,2
+36,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bellows,BT0150,null,null,1
+37,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin J. Gilbert,GB0057,null,null,1
+38,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry S. Langdon,LH0076,null,null,NA
+39,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Tappan,TJ0457,null,null,NA
+40,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Dinsmore,DS0099,null,null,NA
+41,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Gookin,GD0009,null,null,NA
+42,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezra Bartlett,BE0178,null,null,NA
+43,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,J. K. Smith,SJ0517,null,null,NA
+44,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William K. Atkinson,AW0040,null,null,1
+45,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Josiah Britton,BJ1262,null,null,NA
+46,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John S. Cutts,CJ0844,null,null,NA
+47,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Enoch Colby,CE0162,null,null,NA
+48,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Eli Hale,HE0165,null,null,NA
+49,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Hoit,HD0184,null,null,2
+50,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William A. Kent,KW0046,Federalist,A01,NA
+51,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Langdon,LJ0127,null,null,NA
+52,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,NA
+53,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin West,WB0027,null,null,NA
+54,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles H. Atherton,AC0017,Federalist,A01,NA
+55,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard Ayley,AR0040,null,null,NA
+56,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Bell,BS0136,null,null,1
+57,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Silas Betton,BS0134,null,null,NA
+58,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bingham,BJ1305,null,null,NA
+59,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Brown,BJ1235,null,null,1
+60,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Baruch Chase,CB0081,null,null,NA
+61,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Oliver Crosby,CO0018,null,null,1
+62,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,"Edward Cutts, Jr.",CE0090,null,null,NA
+63,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses Eastman,EM0021,null,null,NA
+64,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Timothy A. Edson,ET0039,null,null,NA
+65,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Ela,EJ0324,null,null,NA
+66,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Evans,EE0014,null,null,NA
+67,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Estwick Evans,EE0047,null,null,NA
+68,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Gardner,GW0066,null,null,NA
+69,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John George,GJ0512,null,null,NA
+70,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Goddard,GJ0185,null,null,1
+71,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grant,GS0056,null,null,NA
+72,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Grisky,GS0115,null,null,1
+73,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John P. Hale,HJ1039,null,null,1
+74,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Hanis,HJ1047,null,null,1
+75,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Harris,HJ0381,null,null,NA
+76,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Amos Kent,KA0060,null,null,1
+77,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Hativil Knight,KH0026,null,null,1
+78,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Low,LW0141,null,null,NA
+79,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel F. Parrott,PN0049,null,null,NA
+80,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Moses P. Payson,PM0041,null,null,NA
+81,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Cyrus Perkins,PC0086,null,null,NA
+82,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pickering,PW0131,null,null,NA
+83,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Shapley,SJ1356,null,null,NA
+84,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ebenezer Stearns,SE0193,null,null,NA
+85,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Fredrick A. Sumner,SF0064,null,null,NA
+86,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Ezekiel Webster,WE0017,null,null,NA
+87,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Wheeler,WJ0731,null,null,1
+88,Strafford,nh.uscongress.1816,1816,1816,General,New Hampshire 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William H. Woodward,WW0140,Federalist,A01,1

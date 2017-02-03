@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nh.uscongress.2.1792,1792-11,1792,General,"New Hampshire 1792 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Paine Wingate,WP0051,Federalist,A01,1,NA,NA
+nh.uscongress.2.1792,1792-11,1792,General,"New Hampshire 1792 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,2,NA,NA
+nh.uscongress.2.1792,1792-11,1792,General,"New Hampshire 1792 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Thomas Cogswell,CT0136,null,null,3,NA,NA

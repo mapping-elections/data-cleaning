@@ -1,0 +1,43 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John A. Harper,HJ0379,Republican,A03,2714
+2,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,2712
+3,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,3220
+4,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3209
+5,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,3219
+6,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,50
+7,Cheshire,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John A. Harper,HJ0379,Republican,A03,291
+2,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,307
+3,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,206
+4,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,189
+5,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,162
+6,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,2
+7,Coos,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John A. Harper,HJ0379,Republican,A03,1621
+2,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,1617
+3,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,2128
+4,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2127
+5,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,2125
+6,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,NA
+7,Grafton,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John A. Harper,HJ0379,Republican,A03,3718
+2,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,3716
+3,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,2462
+4,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2452
+5,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,2446
+6,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,5
+7,Hillsborough,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,6
+1,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John A. Harper,HJ0379,Republican,A03,4227
+2,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,4230
+3,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,3294
+4,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,3291
+5,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,3280
+6,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,3
+7,Rockingham,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,6
+1,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John A. Harper,HJ0379,Republican,A03,2764
+2,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Obed Hall,HO0010,Republican,A03,2749
+3,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,George Sullivan,SG0056,Federalist,A01,2427
+4,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,William Hale,HW0187,Federalist,A01,2444
+5,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Daniel Blaisdell,BD0070,Federalist,A01,2405
+6,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Roger Vose,VR0000,Federalist,A01,160
+7,Strafford,nh.uscongress.2.1811,1811,1811,General,"New Hampshire 1811 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,NA

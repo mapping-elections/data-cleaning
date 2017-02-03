@@ -1,0 +1,8 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+nh.uscongress.2.1811,1811,John A. Harper,HJ0379,Republican,A03,15335,NA,-15335,1.0
+nh.uscongress.2.1811,1811,Obed Hall,HO0010,Republican,A03,15331,NA,-15331,1.0
+nh.uscongress.2.1811,1811,George Sullivan,SG0056,Federalist,A01,13737,NA,-13737,1.0
+nh.uscongress.2.1811,1811,William Hale,HW0187,Federalist,A01,13712,NA,-13712,1.0
+nh.uscongress.2.1811,1811,Daniel Blaisdell,BD0070,Federalist,A01,13637,NA,-13637,1.0
+nh.uscongress.2.1811,1811,Roger Vose,VR0000,Federalist,A01,220,NA,-220,1.0
+nh.uscongress.2.1811,1811,scattering,null,null,null,12,NA,-12,1.0
