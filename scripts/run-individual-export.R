@@ -47,4 +47,3 @@ run_check <- function(df) {
 keepers %>%
   distinct(state, year) %>%
   by_row(run_check)
-

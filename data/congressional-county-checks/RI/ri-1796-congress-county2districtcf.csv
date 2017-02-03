@@ -1,6 +1,0 @@
-election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
-ri.uscongress.firstcongressmen.1796,1796,Benjamin Bourne,BB0013,Federalist,A01,3707,NA,-3707,1.0
-ri.uscongress.secondcongressmen.1796,1796,Christopher Champlin,CC0006,Federalist,A01,1915,NA,-1915,1.0
-ri.uscongress.secondcongressmen.1796,1796,William Greene,GW0161,Federalist,A01,1801,NA,-1801,1.0
-ri.uscongress.secondcongressmen.1796,1796,scattering,null,null,null,7,NA,-7,1.0
-ri.uscongress.firstcongressmen.1796,1796,scattering,null,null,null,3,NA,-3,1.0

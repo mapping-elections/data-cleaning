@@ -1,7 +1,0 @@
-election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
-ri.uscongress.1806,1806,Nehemiah Knight,KN0024,Republican,A03,1613,NA,-1613,1.0
-ri.uscongress.1806,1806,Isaac Wilbour,WI0068,Republican,A03,1465,NA,-1465,1.0
-ri.uscongress.1806,1806,William Hunter,HW0370,Federalist,A01,1369,NA,-1369,1.0
-ri.uscongress.1806,1806,Thomas Arnold,AT0043,Federalist,A01,1365,NA,-1365,1.0
-ri.uscongress.1806,1806,Thomas B. Hazard,HT0204,Quid,A04,266,NA,-266,1.0
-ri.uscongress.1806,1806,scattering,null,null,null,0,NA,0,NaN
