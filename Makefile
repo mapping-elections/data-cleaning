@@ -3,6 +3,9 @@ all : data/congressional-elections-list.csv data
 data/congressional-elections-list.csv :
 	./scripts/list-congressional-elections.R
 
+exportdata :
+	./scripts/export-data-to-repository.R
+
 # Download and unzip raw data
 # -------------------------------------------------------------------
 data : data-raw/nnv-xml data-raw/nnv-tsv/all-votes.tsv data-raw/nnv-office data-raw/nnv-names data-raw/nnv-party/party-authority.xml
@@ -64,5 +67,5 @@ clean :
 clobber : clean
 	rm -rf output/*
 
-.PHONY : all setup clean clobber data
+.PHONY : all setup clean clobber data exportdata
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript --vanilla
 # This script takes the data from this repository, munges it into its final format
 # and exports it to a separate directory. All the data processing happens in this
 # repository so that the public-facing data repository can contain only data:
@@ -141,7 +142,7 @@ normalize_county_returns <- function(df) {
 }
 
 # Actually read in the files and run the cleaning functions on them
-states <- c("NY", "VA", "NC", "MA")
+states <- c("NY", "VA", "NC", "MA", "ME")
 congressional_counties_raw <- states %>%
   map(get_county_returns_by_state)
 congressional_counties <- congressional_counties_raw %>%
@@ -183,3 +184,6 @@ congressional_counties_raw %>%
   arrange(state, election_year, election_id) %>%
   mutate(district = get_district(election_label)) %>%
   write_csv("export/elections.csv")
+
+message("COPYING to data repository")
+system("cp -r export/* ../elections-data/")
