@@ -1,0 +1,31 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Tristam Burges,BT0010,Republican,A03,127
+3,Bristol,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Dutee J. Pearce,PD0002,Republican,A03,189
+4,Bristol,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Job Durfee,DJ0538,Republican,A03,54
+2,Bristol,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Eddy,ES0042,Republican,A03,115
+5,Bristol,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0370,Republican,A03,24
+6,Bristol,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Kent,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Tristam Burges,BT0010,Republican,A03,450
+3,Kent,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Dutee J. Pearce,PD0002,Republican,A03,412
+4,Kent,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Job Durfee,DJ0538,Republican,A03,309
+2,Kent,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Eddy,ES0042,Republican,A03,242
+5,Kent,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0370,Republican,A03,13
+6,Kent,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,4
+1,Newport,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Tristam Burges,BT0010,Republican,A03,458
+3,Newport,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Dutee J. Pearce,PD0002,Republican,A03,707
+4,Newport,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Job Durfee,DJ0538,Republican,A03,381
+2,Newport,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Eddy,ES0042,Republican,A03,412
+5,Newport,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0370,Republican,A03,216
+6,Newport,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Providence,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Tristam Burges,BT0010,Republican,A03,1475
+3,Providence,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Dutee J. Pearce,PD0002,Republican,A03,742
+4,Providence,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Job Durfee,DJ0538,Republican,A03,1388
+2,Providence,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Eddy,ES0042,Republican,A03,817
+5,Providence,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0370,Republican,A03,51
+6,Providence,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,126
+1,Washington,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Tristam Burges,BT0010,Republican,A03,422
+3,Washington,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Dutee J. Pearce,PD0002,Republican,A03,584
+4,Washington,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Job Durfee,DJ0538,Republican,A03,330
+2,Washington,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Eddy,ES0042,Republican,A03,535
+5,Washington,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hunter,HW0370,Republican,A03,60
+6,Washington,ri.uscongress.1825,1825-08,1825,General,Rhode Island 1825 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,5

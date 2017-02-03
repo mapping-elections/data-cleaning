@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1820,1820,Job Durfree,DJ0538,Republican,A03,3563,NA,-3563,1.0
+ri.uscongress.1820,1820,Samuel Eddy,ES0042,Republican,A03,2891,NA,-2891,1.0
+ri.uscongress.1820,1820,Samuel Bridgham,BS0012,Federalist,A01,2773,NA,-2773,1.0
+ri.uscongress.1820,1820,Nathaniel Hazard,HN0066,Republican,A03,2033,NA,-2033,1.0
+ri.uscongress.1820,1820,scattering,null,null,null,66,NA,-66,1.0

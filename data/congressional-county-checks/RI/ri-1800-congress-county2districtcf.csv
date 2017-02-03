@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1800,1800,Thomas Tillinghast,TT0119,Republican,A03,2361,NA,-2361,1.0
+ri.uscongress.1800,1800,"Joseph Stanton, Jr.",SJ1416,Republican,A03,1381,NA,-1381,1.0
+ri.uscongress.1800,1800,"Richard Jackson, Jr.",JR0052,Federalist,A01,1254,NA,-1254,1.0
+ri.uscongress.1800,1800,Asher Robbins,RA0121,Federalist,A01,771,NA,-771,1.0
+ri.uscongress.1800,1800,scattering,null,null,null,135,NA,-135,1.0
+ri.uscongress.1800,1800,Edward Manton,ME0118,null,null,0,NA,0,NaN
+ri.uscongress.1800,1800,James Helme,HJ0032,null,null,0,NA,0,NaN
+ri.uscongress.1800,1800,John Brown,BJ1311,Federalist,A01,0,NA,0,NaN
+ri.uscongress.1800,1800,Joseph Rice,RJ0587,null,null,0,NA,0,NaN
+ri.uscongress.1800,1800,Paul Mumford,MP0122,null,null,0,NA,0,NaN

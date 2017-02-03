@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Newport,ri.uscongress.1792,1792,1792,General,Rhode Island 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Bourn,BB0013,Federalist,A01,NA
+2,Newport,ri.uscongress.1792,1792,1792,General,Rhode Island 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Malbone,MF0037,Federalist,A01,NA
+3,Newport,ri.uscongress.1792,1792,1792,General,Rhode Island 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Paul Mumford,MP0122,null,null,NA

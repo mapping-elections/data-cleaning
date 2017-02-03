@@ -1,0 +1,26 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bristol,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Stanton,SJ1416,Republican,A03,165
+2,Bristol,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Knight,KN0024,Republican,A03,166
+3,Bristol,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Federalist,A01,112
+4,Bristol,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,114
+5,Bristol,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Kent,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Stanton,SJ1416,Republican,A03,380
+2,Kent,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Knight,KN0024,Republican,A03,380
+3,Kent,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Federalist,A01,314
+4,Kent,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,307
+5,Kent,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Newport,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Stanton,SJ1416,Republican,A03,624
+2,Newport,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Knight,KN0024,Republican,A03,624
+3,Newport,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Federalist,A01,366
+4,Newport,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,359
+5,Newport,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Providence,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Stanton,SJ1416,Republican,A03,915
+2,Providence,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Knight,KN0024,Republican,A03,917
+3,Providence,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Federalist,A01,579
+4,Providence,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,579
+5,Providence,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,9
+1,Washington,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Stanton,SJ1416,Republican,A03,573
+2,Washington,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Nehemiah Knight,KN0024,Republican,A03,560
+3,Washington,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Tillinghast,TT0119,Federalist,A01,323
+4,Washington,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,324
+5,Washington,ri.uscongress.1802,1802,1802,General,Rhode Island 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,3

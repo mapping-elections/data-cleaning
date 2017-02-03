@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1814,1814,John Boss,BJ0012,Federalist,A01,3771,NA,-3771,1.0
+ri.uscongress.1814,1814,James Mason,MJ1283,Federalist,A01,3672,NA,-3672,1.0
+ri.uscongress.1814,1814,Nehemiah Knight,KN0016,Republican,A03,2953,NA,-2953,1.0
+ri.uscongress.1814,1814,"John DeWolf, Jr.",DJ0019,Republican,A03,2952,NA,-2952,1.0

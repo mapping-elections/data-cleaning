@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ri.uscongress.1808,1808,1808,General,Rhode Island 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,"Richard Jackson, Jr.",JR0052,Federalist,A01,1,NA,NA
+ri.uscongress.1808,1808,1808,General,Rhode Island 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Elisha Potter,PE0102,Federalist,A01,2,NA,NA
+ri.uscongress.1808,1808,1808,General,Rhode Island 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Isaac Wilbour,WI0068,Republican,A03,3,NA,NA
+ri.uscongress.1808,1808,1808,General,Rhode Island 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Jonathan Russell,RJ0591,Republican,A03,4,NA,NA

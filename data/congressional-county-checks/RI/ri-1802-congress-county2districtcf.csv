@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ri.uscongress.1802,1802,Joseph Stanton,SJ1416,Republican,A03,2657,NA,-2657,1.0
+ri.uscongress.1802,1802,Nehemiah Knight,KN0024,Republican,A03,2647,NA,-2647,1.0
+ri.uscongress.1802,1802,Thomas Tillinghast,TT0119,Federalist,A01,1694,NA,-1694,1.0
+ri.uscongress.1802,1802,Elisha Potter,PE0102,Federalist,A01,1683,NA,-1683,1.0
+ri.uscongress.1802,1802,scattering,null,null,null,14,NA,-14,1.0
