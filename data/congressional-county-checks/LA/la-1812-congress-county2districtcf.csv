@@ -1,0 +1,10 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+la.uscongress13th.1812,1812,Thomas Bolling Robertson,RT0026,null,null,15,NA,-15,1.0
+la.uscongress13th.1812,1812,Brown,null,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Charles Roberts,RC0014,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Edward Livingston,LE0044,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Elegis Fromentin,FE0010,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Favre,null,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Henry Johnson,JH0003,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Magruder,null,null,null,0,NA,0,NaN
+la.uscongress13th.1812,1812,Stephen A. Hopkins,HS0055,null,null,0,NA,0,NaN

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Acadia,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas B. Robertson,RT0026,Republican,A03,273
+2,Acadia,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Prevost,PJ0122,Federalist,A01,3
+3,Acadia,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Landry,LJ0059,null,null,NA
+4,Acadia,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,German Coast,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas B. Robertson,RT0026,Republican,A03,65
+2,German Coast,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Prevost,PJ0122,Federalist,A01,1
+3,German Coast,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Landry,LJ0059,null,null,NA
+4,German Coast,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Oppeloussa,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas B. Robertson,RT0026,Republican,A03,264
+2,Oppeloussa,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Prevost,PJ0122,Federalist,A01,1
+3,Oppeloussa,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,John Landry,LJ0059,null,null,NA
+4,Oppeloussa,la.uscongress.1814,1814,1814,General,Louisiana 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA

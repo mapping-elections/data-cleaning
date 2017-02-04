@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Bolling Robertson,RT0026,null,null,15
+2,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Johnson,JH0003,null,null,NA
+3,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Stephen A. Hopkins,HS0055,null,null,NA
+4,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Livingston,LE0044,null,null,NA
+5,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Elegis Fromentin,FE0010,null,null,NA
+6,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Magruder,null,null,null,NA
+7,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Brown,null,null,null,NA
+8,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Roberts,RC0014,null,null,NA
+9,Warren,la.uscongress13th.1812,1812,1812,General,Louisiana 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Favre,null,null,null,NA

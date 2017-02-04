@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+la.uscongress.1814,1814,Thomas B. Robertson,RT0026,Republican,A03,602,35,-567,0.94
+la.uscongress.1814,1814,Thomas B. Robertson,RT0026,Republican,A03,602,40,-562,0.93
+la.uscongress.1814,1814,John B. Prevost,PJ0122,Federalist,A01,5,56,51,0.91
+la.uscongress.1814,1814,John Landry,LJ0059,null,null,0,NA,0,NaN
+la.uscongress.1814,1814,scattering,null,null,null,1,1,0,0.0

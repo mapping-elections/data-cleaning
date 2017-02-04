@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+la.uscongress.1818,1818,Thomas Butler,BT0030,null,null,140,18,-122,0.87
+la.uscongress.1818,1818,Fulwar Skipwith,SF0003,null,null,0,17,17,1.0
+la.uscongress.1818,1818,Edward Livingston,LE0044,null,null,0,NA,0,NaN
+la.uscongress.1818,1818,Joseph Johnston,JJ0070,null,null,0,NA,0,NaN
+la.uscongress.1818,1818,Thomas B. Robertson,RT0026,null,null,0,NA,0,NaN
