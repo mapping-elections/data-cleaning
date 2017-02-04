@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Autauga,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,547
+2,Autauga,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,145
+3,Autauga,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,6
+1,Baldwin,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,36
+2,Baldwin,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,9
+3,Baldwin,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,88
+1,Dallas,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,808
+2,Dallas,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,147
+3,Dallas,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,33
+1,Mobile,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,167
+2,Mobile,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,114
+3,Mobile,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,66
+1,Montgomery,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,610
+2,Montgomery,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,398
+3,Montgomery,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,3
+1,Washington,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,210
+2,Washington,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,21
+3,Washington,al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,110

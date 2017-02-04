@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+al.uscongress.1.1823,1823,Gabriel Moore,MG0000,null,null,3304,NA,-3304,1.0
+al.uscongress.3.1823,1823,George W. Owen,OG0000,null,null,2378,NA,-2378,1.0
+al.uscongress.3.1823,1823,Arthur P. Bagby,BA0000,Clay,A07,834,NA,-834,1.0
+al.uscongress.3.1823,1823,Silas Dinsmoor,DS0001,null,null,306,NA,-306,1.0
+al.uscongress.2.1823,1823,Sion L. Perry,PS0000,null,null,616,686,70,0.1
+al.uscongress.2.1823,1823,John S. Fulton,FJ0001,null,null,667,603,-64,0.1
+al.uscongress.2.1823,1823,John MacKee,MJ0013,null,null,2106,2135,29,0.01
+al.uscongress.2.1823,1823,Jesse W. Garth,GJ0004,null,null,1667,1694,27,0.02
+al.uscongress.2.1823,1823,Marmaduke Williams,WM0000,null,null,1649,1646,-3,0.0
+al.uscongress.2.1823,1823,Thomas Farrar,FT0000,null,null,1870,1869,-1,0.0

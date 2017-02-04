@@ -1,0 +1,67 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Autauga,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,342
+2,Autauga,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,60
+3,Autauga,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Baldwin,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,14
+2,Baldwin,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,126
+3,Baldwin,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Blount,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,809
+2,Blount,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,19
+3,Blount,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Cahawba,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,367
+2,Cahawba,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,55
+3,Cahawba,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Clarke,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,701
+2,Clarke,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,119
+3,Clarke,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Conecuh,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,441
+2,Conecuh,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,23
+3,Conecuh,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Cotaco,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,406
+2,Cotaco,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,203
+3,Cotaco,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Dallas,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,759
+2,Dallas,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,19
+3,Dallas,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Franklin,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,48
+2,Franklin,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,520
+3,Franklin,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Lauderdale,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,48
+2,Lauderdale,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,431
+3,Lauderdale,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Lawrence,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,27
+2,Lawrence,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,760
+3,Lawrence,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Limestone,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,12
+2,Limestone,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,1119
+3,Limestone,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Madison,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,215
+2,Madison,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,2382
+3,Madison,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Marengo,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,227
+2,Marengo,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,330
+3,Marengo,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,2
+1,Marion,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,271
+2,Marion,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,26
+3,Marion,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Mobile,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,111
+2,Mobile,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,80
+3,Mobile,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Monroe,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,1002
+2,Monroe,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,181
+3,Monroe,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Montgomery,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,663
+2,Montgomery,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,66
+3,Montgomery,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Saint Claire,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,477
+2,Saint Claire,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,39
+3,Saint Claire,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Shelby,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,208
+2,Shelby,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,159
+3,Shelby,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Tuscaloosa,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,833
+2,Tuscaloosa,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,124
+3,Tuscaloosa,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA
+1,Washington,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,John Crowell,CJ0004,null,null,200
+2,Washington,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Chambers,CH0000,null,null,362
+3,Washington,al.congress.1819,1819,1819,General,Alabama 1819 U.S. House of Representatives,U.S. House of Representatives,ON125,Ringold,null,null,null,NA

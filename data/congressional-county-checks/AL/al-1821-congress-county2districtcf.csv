@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+al.congress.1821,1821,Gabriel Moore,MG0000,null,null,10996,NA,-10996,1.0
+al.congress.1821,1821,George W. Owen,OG0000,null,null,5543,NA,-5543,1.0
+al.congress.1821,1821,Silas Dinsmoor,DS0001,null,null,484,NA,-484,1.0
+al.congress.1821,1821,Elizah Montgomery,ME0002,null,null,1,NA,-1,1.0

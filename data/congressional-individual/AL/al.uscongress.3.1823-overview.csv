@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George W. Owen,OG0000,null,null,1,NA
+al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Arthur P. Bagby,BA0000,Clay,A07,2,NA
+al.uscongress.3.1823,1823,1823,General,"Alabama 1823 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Silas Dinsmoor,DS0001,null,null,3,NA
