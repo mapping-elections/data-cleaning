@@ -1,0 +1,11 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,1,East,35
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,1,North,17
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,1,West,11
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,2,East,46
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,2,North,3
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,2,West,69
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,3,NA,NA
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,4,NA,NA
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,5,NA,NA
+il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,6,NA,NA

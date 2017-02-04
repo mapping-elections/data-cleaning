@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+il.uscongress.1824,1824,Daniel P. Cook,CD0015,Anti-Slavery,A09,7619,NA,-7619,1.0
+il.uscongress.1824,1824,Shadrach Bond,BS0053,Pro-Slavery,A09,4402,NA,-4402,1.0
+il.uscongress.1824,1824,James Underwood Peacock,PJ0054,null,null,1,NA,-1,1.0

@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+il.uscongress.1820,1820,Daniel P. Cook,CD0015,Restrictionist,A09,4948,11,-4937,1.0
+il.uscongress.1820,1820,Daniel P. Cook,CD0015,Restrictionist,A09,4948,17,-4931,1.0
+il.uscongress.1820,1820,Daniel P. Cook,CD0015,Restrictionist,A09,4948,35,-4913,0.99
+il.uscongress.1820,1820,Elias K. Kane,KE0009,Pro-Slavery,A09,2732,3,-2729,1.0
+il.uscongress.1820,1820,Elias K. Kane,KE0009,Pro-Slavery,A09,2732,46,-2686,0.98
+il.uscongress.1820,1820,Elias K. Kane,KE0009,Pro-Slavery,A09,2732,69,-2663,0.97
+il.uscongress.1820,1820,D. Kain,KD0057,null,null,1,NA,-1,1.0
+il.uscongress.1820,1820,John Cook,CJ0056,null,null,1,NA,-1,1.0
+il.uscongress.1820,1820,John MacLean,MJ0101,null,null,1,NA,-1,1.0
+il.uscongress.1820,1820,P. Copph,CP0066,null,null,1,NA,-1,1.0

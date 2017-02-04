@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,1,7619
+il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,2,4402
+il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,3,1

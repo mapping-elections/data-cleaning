@@ -1,0 +1,115 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Alexander,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,35
+2,Alexander,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,73
+3,Alexander,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Alexander,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Alexander,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Alexander,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Bond,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,431
+2,Bond,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,27
+3,Bond,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,1
+4,Bond,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Bond,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Bond,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Clark,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,89
+2,Clark,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,15
+3,Clark,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Clark,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,1
+5,Clark,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Clark,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Crawford,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,186
+2,Crawford,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,263
+3,Crawford,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Crawford,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Crawford,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Crawford,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Edwards,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,99
+2,Edwards,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,473
+3,Edwards,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Edwards,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Edwards,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Edwards,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Franklin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,125
+2,Franklin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,111
+3,Franklin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Franklin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Franklin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Franklin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Gallatin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,303
+2,Gallatin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,285
+3,Gallatin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Gallatin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Gallatin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Gallatin,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Jackson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,148
+2,Jackson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,105
+3,Jackson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Jackson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Jackson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Jackson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Jefferson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,150
+2,Jefferson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,NA
+3,Jefferson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Jefferson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Jefferson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Jefferson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Johnson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,105
+2,Johnson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,26
+3,Johnson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Johnson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Johnson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Johnson,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Madison,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,928
+2,Madison,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,204
+3,Madison,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Madison,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Madison,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Madison,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Monroe,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,234
+2,Monroe,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,84
+3,Monroe,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Monroe,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Monroe,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Monroe,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Pope,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,205
+2,Pope,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,175
+3,Pope,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Pope,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Pope,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Pope,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Randolph,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,275
+2,Randolph,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,255
+3,Randolph,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Randolph,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Randolph,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,1
+6,Randolph,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Saint Clair,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,612
+2,Saint Clair,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,118
+3,Saint Clair,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Saint Clair,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Saint Clair,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Saint Clair,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Union,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,286
+2,Union,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,104
+3,Union,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Union,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Union,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Union,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,Washington,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,260
+2,Washington,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,29
+3,Washington,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Washington,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Washington,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Washington,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,1
+1,Wayne,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,63
+2,Wayne,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,118
+3,Wayne,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,Wayne,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,Wayne,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,Wayne,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA
+1,White,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Restrictionist,A09,414
+2,White,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,Pro-Slavery,A09,267
+3,White,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,NA
+4,White,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Cook,CJ0056,null,null,NA
+5,White,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,P. Copph,CP0066,null,null,NA
+6,White,il.uscongress.1820,1820,1820,General,Illinois 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,D. Kain,KD0057,null,null,NA

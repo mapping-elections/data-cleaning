@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+il.uscongress.1819,1819,Daniel P. Cook,CD0015,null,null,2192,1,-2191,1.0
+il.uscongress.1819,1819,Daniel P. Cook,CD0015,null,null,2192,17,-2175,0.99
+il.uscongress.1819,1819,Daniel P. Cook,CD0015,null,null,2192,19,-2173,0.99
+il.uscongress.1819,1819,Daniel P. Cook,CD0015,null,null,2192,24,-2168,0.99
+il.uscongress.1819,1819,John MacLean,MJ0101,null,null,1582,NA,-1582,1.0
+il.uscongress.1819,1819,John MacLean,MJ0101,null,null,1582,NA,-1582,1.0
+il.uscongress.1819,1819,John MacLean,MJ0101,null,null,1582,7,-1575,1.0
+il.uscongress.1819,1819,John MacLean,MJ0101,null,null,1582,16,-1566,0.99
+il.uscongress.1819,1819,Hugh H. Maxwell,MH0027,null,null,1,NA,-1,1.0
+il.uscongress.1819,1819,Jonathan Mayo,MJ0103,null,null,1,NA,-1,1.0

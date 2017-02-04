@@ -1,0 +1,91 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Alexander,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,84
+2,Alexander,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,57
+3,Alexander,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Bond,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,268
+2,Bond,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,41
+3,Bond,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Clark,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,96
+2,Clark,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,54
+3,Clark,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Crawford,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,257
+2,Crawford,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,142
+3,Crawford,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Edgar,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,237
+2,Edgar,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,NA
+3,Edgar,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Edwards,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,487
+2,Edwards,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,103
+3,Edwards,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Fayette,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,158
+2,Fayette,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,89
+3,Fayette,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Franklin,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,126
+2,Franklin,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,177
+3,Franklin,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Fulton,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,70
+2,Fulton,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,3
+3,Fulton,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Gallatin,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,286
+2,Gallatin,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,462
+3,Gallatin,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Greene,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,421
+2,Greene,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,163
+3,Greene,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Hamilton,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,48
+2,Hamilton,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,226
+3,Hamilton,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Jackson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,77
+2,Jackson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,197
+3,Jackson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Jefferson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,31
+2,Jefferson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,111
+3,Jefferson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Johnson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,94
+2,Johnson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,59
+3,Johnson,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Lawrence,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,281
+2,Lawrence,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,144
+3,Lawrence,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Madison,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,644
+2,Madison,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,285
+3,Madison,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Marion,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,53
+2,Marion,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,46
+3,Marion,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Monroe,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,200
+2,Monroe,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,143
+3,Monroe,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Montgomery,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,111
+2,Montgomery,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,55
+3,Montgomery,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Morgan,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,455
+2,Morgan,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,21
+3,Morgan,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Pike,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,270
+2,Pike,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,25
+3,Pike,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Pope,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,216
+2,Pope,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,186
+3,Pope,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Randolph,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,319
+2,Randolph,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,328
+3,Randolph,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Saint Clair,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,575
+2,Saint Clair,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,402
+3,Saint Clair,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Sangamon,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,791
+2,Sangamon,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,90
+3,Sangamon,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Union,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,289
+2,Union,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,174
+3,Union,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,1
+1,Washington,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,201
+2,Washington,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,94
+3,Washington,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,Wayne,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,138
+2,Wayne,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,168
+3,Wayne,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA
+1,White,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,Anti-Slavery,A09,336
+2,White,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Shadrach Bond,BS0053,Pro-Slavery,A09,357
+3,White,il.uscongress.1824,1824-08,1824,General,Illinois 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Underwood Peacock,PJ0054,null,null,NA

@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+il.uscongress.1822,1822,Daniel P. Cook,CD0015,null,null,4765,NA,-4765,1.0
+il.uscongress.1822,1822,John MacLean,MJ0101,null,null,3801,NA,-3801,1.0
+il.uscongress.1822,1822,Elias K. Kane,KE0009,null,null,3,NA,-3,1.0

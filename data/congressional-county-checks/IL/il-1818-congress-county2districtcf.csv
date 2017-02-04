@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+il.uscongress.1818,1818,John MacLean,MJ0101,null,null,1996,NA,-1996,1.0
+il.uscongress.1818,1818,Daniel P. Cook,CD0015,null,null,1982,NA,-1982,1.0

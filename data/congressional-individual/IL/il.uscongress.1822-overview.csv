@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+il.uscongress.1822,1822-08,1822,General,Illinois 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel P. Cook,CD0015,null,null,1,4765
+il.uscongress.1822,1822-08,1822,General,Illinois 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John MacLean,MJ0101,null,null,2,3801
+il.uscongress.1822,1822-08,1822,General,Illinois 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Elias K. Kane,KE0009,null,null,3,3
