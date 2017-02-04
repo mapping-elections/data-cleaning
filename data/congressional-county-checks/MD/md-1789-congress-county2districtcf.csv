@@ -1,0 +1,19 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress.1789,1789,Joshua Seney,SJ0183,Federalist,A01,6664,NA,-6664,1.0
+md.uscongress.1789,1789,Daniel Carroll,CD0030,Federalist,A01,5209,NA,-5209,1.0
+md.uscongress.1789,1789,Benjamin Contee,CB0013,Federalist,A01,4905,NA,-4905,1.0
+md.uscongress.1789,1789,George Gale,GG0007,Federalist,A01,4847,NA,-4847,1.0
+md.uscongress.1789,1789,William Smith,SW0028,Federalist,A01,4846,NA,-4846,1.0
+md.uscongress.1789,1789,Michael J. Stone,SM0034,Federalist,A01,4596,NA,-4596,1.0
+md.uscongress.1789,1789,George Dent,DG0004,Anti-Federalist,A02,2235,NA,-2235,1.0
+md.uscongress.1789,1789,Samuel Sterett,SS0058,Anti-Federalist,A02,1837,NA,-1837,1.0
+md.uscongress.1789,1789,John F. Mercer,MJ0200,Anti-Federalist,A02,1815,NA,-1815,1.0
+md.uscongress.1789,1789,Abraham Faw,FA0015,Anti-Federalist,A02,1480,NA,-1480,1.0
+md.uscongress.1789,1789,John Done,DJ0119,Anti-Federalist,A02,1393,NA,-1393,1.0
+md.uscongress.1789,1789,William V. Murray,MW0069,Anti-Federalist,A02,408,NA,-408,1.0
+md.uscongress.1789,1789,James MacHenry,MJ0196,null,null,0,NA,0,NaN
+md.uscongress.1789,1789,John Scott,SJ0184,null,null,0,NA,0,NaN
+md.uscongress.1789,1789,Nathaniel Ramsay,RN0009,null,null,0,NA,0,NaN
+md.uscongress.1789,1789,Samuel Chase,CS0019,null,null,0,NA,0,NaN
+md.uscongress.1789,1789,Thomas Johnson,JT0019,Federalist,A01,0,NA,0,NaN
+md.uscongress.1789,1789,William Paca,PW0039,null,null,0,NA,0,NaN

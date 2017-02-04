@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.uscongress5.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander MacKim,MA0045,Republican,A03,1967
+2,Baltimore,md.uscongress5.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas Moore,MN0021,Republican,A03,2490
+3,Baltimore,md.uscongress5.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Little,LP0015,Republican,A03,1672

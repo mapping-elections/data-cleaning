@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Chew Thomas,TJ0169,Federalist,A01,993
+2,Anne Arundel,md.uscongress2.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"Richard Sprigg, Jr.",SR0049,Republican,A03,567
+1,Prince George's,md.uscongress2.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Chew Thomas,TJ0169,Federalist,A01,931
+2,Prince George's,md.uscongress2.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"Richard Sprigg, Jr.",SR0049,Republican,A03,630

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,Republican,A03,881
+2,Caroline,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,Quid,A04,133
+3,Caroline,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Hugh Sherwood,SH0028,null,null,NA
+4,Caroline,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel Tilghman,TS0083,null,null,NA
+1,Queen Anne's,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,Republican,A03,597
+2,Queen Anne's,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,Quid,A04,412
+3,Queen Anne's,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Hugh Sherwood,SH0028,null,null,NA
+4,Queen Anne's,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel Tilghman,TS0083,null,null,NA
+1,Talbot,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,Republican,A03,1136
+2,Talbot,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,Quid,A04,62
+3,Talbot,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Hugh Sherwood,SH0028,null,null,1
+4,Talbot,md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel Tilghman,TS0083,null,null,1

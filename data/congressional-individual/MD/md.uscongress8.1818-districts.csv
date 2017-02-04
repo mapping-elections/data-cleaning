@@ -1,0 +1,16 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1,Eight,4580
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1,One,624
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1,Two,650
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1,Three,476
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,2,Eight,63
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,2,One,NA
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,2,Two,NA
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,2,Three,NA
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,3,Eight,16
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,3,One,NA
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,3,Two,NA
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,3,Three,NA
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert Griffith,GR0074,null,null,4,Eight,2
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Lecompte,LS0081,null,null,5,Eight,2
+md.uscongress8.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Littleton Dennis,DL0012,null,null,6,Eight,1

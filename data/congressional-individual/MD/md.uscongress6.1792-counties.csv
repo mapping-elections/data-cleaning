@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Anti-Federalist,A02,671
+2,Cecil,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Matthews,MW0075,Federalist,A01,533
+3,Cecil,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Lee Webster,WJ0139,null,null,NA
+1,Harford,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Anti-Federalist,A02,1117
+2,Harford,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Matthews,MW0075,Federalist,A01,49
+3,Harford,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Lee Webster,WJ0139,null,null,NA
+1,Kent,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Anti-Federalist,A02,205
+2,Kent,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Matthews,MW0075,Federalist,A01,559
+3,Kent,md.uscongress6.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Lee Webster,WJ0139,null,null,1

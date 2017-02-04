@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Van Horn,VA0054,Republican,A03,1068
+2,Anne Arundel,md.uscongress2.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry A. Callis,CH0056,Federalist,A01,485
+1,Prince George's,md.uscongress2.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Van Horn,VA0054,Republican,A03,702
+2,Prince George's,md.uscongress2.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry A. Callis,CH0056,Federalist,A01,694

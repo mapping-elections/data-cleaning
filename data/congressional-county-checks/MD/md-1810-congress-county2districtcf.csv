@@ -1,0 +1,52 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress6.1810,1810,John Montgomery,MJ0205,Republican,A03,2877,164,-2713,0.94
+md.uscongress6.1810,1810,John Montgomery,MJ0205,Republican,A03,2877,171,-2706,0.94
+md.uscongress6.1810,1810,John Montgomery,MJ0205,Republican,A03,2877,175,-2702,0.94
+md.uscongress5.1810,1810,Peter Little,LP0015,Republican,A03,879,2604,1725,0.66
+md.uscongress5.1810,1810,Joshua Barney,BJ0327,Republican,A03,584,2256,1672,0.74
+md.uscongress5.1810,1810,Alexander MacKim,MA0045,Republican,A03,1216,2811,1595,0.57
+md.uscongress5.1810,1810,Nicholas Moore,MN0021,Republican,A03,1260,2480,1220,0.49
+md.uscongress6.1810,1810,Thomas G. Moffit,MT0057,null,null,50,NA,-50,1.0
+md.uscongress4.1810,1810,Edmund Boyd,BE0149,null,null,0,11,11,1.0
+md.uscongress4.1810,1810,Moses Tabbs,TM0015,null,null,15,4,-11,0.73
+md.uscongress6.1810,1810,Stevenson Archer,AS0013,null,null,3,NA,-3,1.0
+md.uscongress6.1810,1810,James Moffitt,MJ0666,null,null,2,1,-1,0.5
+md.uscongress6.1810,1810,James Moffitt,MJ0666,null,null,2,1,-1,0.5
+md.uscongress1.1810,1810,Caleb Hawkins,HC0033,Republican,A03,3,3,0,0.0
+md.uscongress1.1810,1810,Francis Digges,DF0005,Republican,A03,1,1,0,0.0
+md.uscongress1.1810,1810,Henry H. Chapman,CH0050,Federalist,A01,2,2,0,0.0
+md.uscongress1.1810,1810,John Parnham,PJ0127,Republican,A03,16,16,0,0.0
+md.uscongress1.1810,1810,Parker Y. Reinerman,RP0017,Federalist,A01,3,3,0,0.0
+md.uscongress1.1810,1810,Philip Stewart,SP0013,Federalist,A01,1474,1474,0,0.0
+md.uscongress1.1810,1810,William Somerville,SW0035,Republican,A03,1,1,0,0.0
+md.uscongress2.1810,1810,John F. Mercer,MJ0200,Federalist,A01,1325,1325,0,0.0
+md.uscongress2.1810,1810,Joseph Kent,KJ0034,Republican,A03,1713,1713,0,0.0
+md.uscongress3.1810,1810,Philip B. Key,KP0001,Federalist,A01,777,777,0,0.0
+md.uscongress4.1810,1810,Benjamin Galloway,GB0005,Federalist,A01,40,40,0,0.0
+md.uscongress4.1810,1810,John Lagen,LJ0499,null,null,16,16,0,0.0
+md.uscongress4.1810,1810,John Light,LJ0501,null,null,1,1,0,0.0
+md.uscongress4.1810,1810,John Witmer,WJ0180,null,null,1,1,0,0.0
+md.uscongress4.1810,1810,Matthias Miller,MM0106,null,null,1,1,0,0.0
+md.uscongress4.1810,1810,Patrick Garrity,GP0068,null,null,6,6,0,0.0
+md.uscongress4.1810,1810,Samuel Ringgold,RS0013,Republican,A03,1937,1937,0,0.0
+md.uscongress4.1810,1810,Thomas Cresap,CT0089,null,null,1,1,0,0.0
+md.uscongress4.1810,1810,Upton Bruce,BU0002,null,null,1,1,0,0.0
+md.uscongress4.1810,1810,William Coddington,CW0287,null,null,3,3,0,0.0
+md.uscongress4.1810,1810,William MacLaughton,MW0294,null,null,1,1,0,0.0
+md.uscongress6.1810,1810,James Steel,SJ0310,null,null,1,1,0,0.0
+md.uscongress6.1810,1810,John Moffitt,MJ0271,null,null,1,1,0,0.0
+md.uscongress6.1810,1810,John Montgomery,MJ0205,Republican,A03,2877,2877,0,0.0
+md.uscongress6.1810,1810,Stevenson Archer,AS0013,null,null,3,3,0,0.0
+md.uscongress6.1810,1810,Thomas G. Moffit,MT0057,null,null,50,50,0,0.0
+md.uscongress6.1810,1810,William Spencer,SW0032,null,null,1,1,0,0.0
+md.uscongress7.1810,1810,James Brown,BJ0266,null,null,1,1,0,0.0
+md.uscongress7.1810,1810,James Harrison,HJ0997,null,null,2,2,0,0.0
+md.uscongress7.1810,1810,John Brown,BJ0315,Republican,A03,2333,2333,0,0.0
+md.uscongress7.1810,1810,Peter Denny,DP0065,null,null,1,1,0,0.0
+md.uscongress7.1810,1810,Thomas James Bullit,BT0040,null,null,1,1,0,0.0
+md.uscongress7.1810,1810,William Harrison,HW0228,null,null,1,1,0,0.0
+md.uscongress8.1810,1810,Charles Goldsborough,GC0057,Federalist,A01,2462,2462,0,0.0
+md.uscongress8.1810,1810,John Cottman,CJ0222,null,null,1,1,0,0.0
+md.uscongress8.1810,1810,John Williams,WJ0163,null,null,1,1,0,0.0
+md.uscongress8.1810,1810,Levin Winder,WL0015,Federalist,A01,5,5,0,0.0
+md.uscongress8.1810,1810,Thomas Williams,WT0027,Republican,A03,936,936,0,0.0

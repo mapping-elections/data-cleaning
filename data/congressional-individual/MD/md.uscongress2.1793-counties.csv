@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,12
+2,Cecil,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,Thomas Whittington,WT0058,null,null,NA
+1,Kent,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,3
+2,Kent,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,Thomas Whittington,WT0058,null,null,200
+1,Queen Anne's,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,130
+2,Queen Anne's,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,Thomas Whittington,WT0058,null,null,4
+1,Talbot,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,205
+2,Talbot,md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,Thomas Whittington,WT0058,null,null,NA

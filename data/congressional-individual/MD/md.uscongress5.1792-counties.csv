@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.uscongress5.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Smith,SS0062,Federalist,A01,540
+2,Baltimore,md.uscongress5.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Charles Ridgely,RC0025,Anti-Federalist,A02,893

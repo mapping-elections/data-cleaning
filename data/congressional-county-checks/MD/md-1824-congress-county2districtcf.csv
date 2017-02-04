@@ -1,0 +1,113 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,9686,6270,0.65
+md.uscongress4.1824,1824,Thomas C. Worthington,WT0053,Republican,A03,4342,NA,-4342,1.0
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,5515,3502,0.63
+md.uscongress4.1824,1824,John Lee,LJ0093,Federalist,A01,3491,NA,-3491,1.0
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,5346,3443,0.64
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,180,-3236,0.95
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,210,-3206,0.94
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,214,-3202,0.94
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,215,-3201,0.94
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,242,-3174,0.93
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,255,-3161,0.93
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,276,-3140,0.92
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,287,-3129,0.92
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,338,-3078,0.9
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,353,-3063,0.9
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,354,-3062,0.9
+md.uscongress5.1824,1824,Peter Little,LP0015,Republican,A03,3416,492,-2924,0.86
+md.uscongress8.1824,1824,Robert N. Martin,MR0053,Federalist,A01,3088,250,-2838,0.92
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,113,-2741,0.96
+md.uscongress8.1824,1824,Robert N. Martin,MR0053,Federalist,A01,3088,367,-2721,0.88
+md.uscongress8.1824,1824,John Spence,SJ0312,Republican,A03,2858,142,-2716,0.95
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,175,-2679,0.94
+md.uscongress8.1824,1824,John Spence,SJ0312,Republican,A03,2858,209,-2649,0.93
+md.uscongress8.1824,1824,Robert N. Martin,MR0053,Federalist,A01,3088,445,-2643,0.86
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,230,-2624,0.92
+md.uscongress8.1824,1824,John Spence,SJ0312,Republican,A03,2858,241,-2617,0.92
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,252,-2602,0.91
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,263,-2591,0.91
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,292,-2562,0.9
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,311,-2543,0.89
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,344,-2510,0.88
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,63,-2370,0.97
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,121,-2312,0.95
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,150,-2283,0.94
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,157,-2276,0.94
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,173,-2260,0.93
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,201,-2232,0.92
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,217,-2216,0.91
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,316,-2117,0.87
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,78,-1935,0.96
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,84,-1929,0.96
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,114,-1899,0.94
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,138,-1875,0.93
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,150,-1863,0.93
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,41,-1862,0.98
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,157,-1856,0.92
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,178,-1835,0.91
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,179,-1834,0.91
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,76,-1832,0.96
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,195,-1818,0.9
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,91,-1812,0.95
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,102,-1801,0.95
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,221,-1792,0.89
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,118,-1790,0.94
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,119,-1784,0.94
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,137,-1771,0.93
+md.uscongress7.1824,1824,John Leeds Kerr,KJ0030,Federalist,A01,1950,182,-1768,0.91
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,139,-1764,0.93
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,145,-1758,0.92
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,258,-1755,0.87
+md.uscongress5.1824,1824,John Barney,BJ0397,Republican,A03,2013,261,-1752,0.87
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,160,-1748,0.92
+md.uscongress7.1824,1824,Thomas Emory,ET0007,Republican,A03,1924,176,-1748,0.91
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,156,-1747,0.92
+md.uscongress7.1824,1824,John Leeds Kerr,KJ0030,Federalist,A01,1950,217,-1733,0.89
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,175,-1728,0.91
+md.uscongress7.1824,1824,Thomas Emory,ET0007,Republican,A03,1924,201,-1723,0.9
+md.uscongress7.1824,1824,Thomas Emory,ET0007,Republican,A03,1924,208,-1716,0.89
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,210,-1693,0.89
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,51,-1690,0.97
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,223,-1685,0.88
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,61,-1680,0.96
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,237,-1666,0.88
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,237,-1666,0.88
+md.uscongress7.1824,1824,John Leeds Kerr,KJ0030,Federalist,A01,1950,291,-1659,0.85
+md.uscongress5.1824,1824,Isaac MacKim,MI0017,Republican,A03,1903,251,-1652,0.87
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,120,-1621,0.93
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,288,-1620,0.85
+md.uscongress3.1824,1824,George Peter,PG0031,Republican,A03,1602,NA,-1602,1.0
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,153,-1588,0.91
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,226,-1515,0.87
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,257,-1484,0.85
+md.uscongress3.1824,1824,George C. Washington,WG0023,Federalist,A01,1448,NA,-1448,1.0
+md.uscongress3.1824,1824,Henry R. Warfield,WH0013,Federalist,A01,1226,NA,-1226,1.0
+md.uscongress4.1824,1824,Upton Bruce,BU0002,null,null,13,NA,-13,1.0
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,NA,-8,1.0
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,NA,-8,1.0
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,1,-7,0.88
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,1,-7,0.88
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,1,-7,0.88
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,1,-7,0.88
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,2,-6,0.75
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,2,-6,0.75
+md.uscongress4.1824,1824,Alexander Neill,NA0013,null,null,1,NA,-1,1.0
+md.uscongress6.1824,1824,Joseph Mitchell,MJ0297,null,null,1,NA,-1,1.0
+md.uscongress6.1824,1824,Joseph Mitchell,MJ0297,null,null,1,NA,-1,1.0
+md.uscongress6.1824,1824,William A. Robertson,RW0020,null,null,1,NA,-1,1.0
+md.uscongress6.1824,1824,William A. Robertson,RW0020,null,null,1,NA,-1,1.0
+md.uscongress1.1824,1824,Clement Dorsey,DC0019,Federalist,A01,1824,1824,0,0.0
+md.uscongress1.1824,1824,Nicholas Williams,WN0002,null,null,1,1,0,0.0
+md.uscongress1.1824,1824,Raphael Neale,NR0018,Federalist,A01,1476,1476,0,0.0
+md.uscongress2.1824,1824,John C. Weems,WJ0206,Federalist,A01,1741,1741,0,0.0
+md.uscongress2.1824,1824,Joseph Kent,KJ0034,Republican,A03,1908,1908,0,0.0
+md.uscongress6.1824,1824,George E. Mitchell,MG0025,Republican,A03,2854,2854,0,0.0
+md.uscongress6.1824,1824,John A. Robertson,RJ0050,null,null,8,8,0,0.0
+md.uscongress6.1824,1824,Joseph Mitchell,MJ0297,null,null,1,1,0,0.0
+md.uscongress6.1824,1824,Philip Reed,RP0009,Federalist,A01,2433,2433,0,0.0
+md.uscongress6.1824,1824,William A. Robertson,RW0020,null,null,1,1,0,0.0
+md.uscongress7.1824,1824,John Leeds Kerr,KJ0030,Federalist,A01,1950,1950,0,0.0
+md.uscongress7.1824,1824,Thomas Emory,ET0007,Republican,A03,1924,1924,0,0.0
+md.uscongress8.1824,1824,John Spence,SJ0312,Republican,A03,2858,2858,0,0.0
+md.uscongress8.1824,1824,Robert N. Martin,MR0053,Federalist,A01,3088,3088,0,0.0

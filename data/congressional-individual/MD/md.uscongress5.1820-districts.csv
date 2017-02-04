@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress5.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Little,LP0015,Republican,A03,1,Five,7441
+md.uscongress5.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Smith,SS0062,Republican,A03,2,Five,7440

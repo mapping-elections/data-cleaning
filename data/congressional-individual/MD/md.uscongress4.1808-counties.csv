@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger Nelson,NR0020,Republican,A03,237
+2,Allegany,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,Federalist,A01,652
+3,Allegany,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Ratton,RJ0398,null,null,3
+1,Frederick,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger Nelson,NR0020,Republican,A03,1365
+2,Frederick,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,Federalist,A01,1121
+3,Frederick,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Ratton,RJ0398,null,null,NA
+1,Washington,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger Nelson,NR0020,Republican,A03,1476
+2,Washington,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,Federalist,A01,1092
+3,Washington,md.uscongress4.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Ratton,RJ0398,null,null,NA

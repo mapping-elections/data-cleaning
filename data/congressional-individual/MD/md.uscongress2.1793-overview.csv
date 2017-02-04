@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,1,350
+md.uscongress2.1793,1793-01,1793,Special,"Maryland 1793 U.S. House of Representatives, District 2, Special",U.S. House of Representatives,ON125,Thomas Whittington,WT0058,null,null,2,204

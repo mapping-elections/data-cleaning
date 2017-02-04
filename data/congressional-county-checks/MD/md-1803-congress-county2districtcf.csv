@@ -1,0 +1,50 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,161,-3066,0.95
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,211,-3016,0.93
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,253,-2974,0.92
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,281,-2946,0.91
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,348,-2879,0.89
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,384,-2843,0.88
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,403,-2824,0.88
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,404,-2823,0.87
+md.uscongress5.1803,1803,Nicholas Moore,MN0021,Republican,A03,2732,5069,2337,0.46
+md.uscongress5.1803,1803,William MacCreery,MW0092,Republican,A03,1562,3610,2048,0.57
+md.uscongress2.1803,1803,Walter Bowie,BW0122,Republican,A03,2084,81,-2003,0.96
+md.uscongress2.1803,1803,Walter Bowie,BW0122,Republican,A03,2084,168,-1916,0.92
+md.uscongress2.1803,1803,Walter Bowie,BW0122,Republican,A03,2084,240,-1844,0.88
+md.uscongress5.1803,1803,George Buchanan,BG0026,Federalist,A01,528,736,208,0.28
+md.uscongress7.1803,1803,William J. Hindman,HW0097,Federalist,A01,8,1,-7,0.88
+md.uscongress2.1803,1803,Alexander Boone,BA0013,null,null,4,NA,-4,1.0
+md.uscongress2.1803,1803,Alexander Boone,BA0013,null,null,4,NA,-4,1.0
+md.uscongress2.1803,1803,Alexander Boone,BA0013,null,null,4,NA,-4,1.0
+md.uscongress2.1803,1803,Charles Carroll,CC0012,Federalist,A01,2,NA,-2,1.0
+md.uscongress7.1803,1803,William J. Hindman,HW0097,Federalist,A01,8,7,-1,0.12
+md.uscongress1.1803,1803,John Campbell,CJ0207,Federalist,A01,1733,1733,0,0.0
+md.uscongress1.1803,1803,William Thomas,TW0029,Republican,A03,446,446,0,0.0
+md.uscongress2.1803,1803,Alexander Boone,BA0013,null,null,4,4,0,0.0
+md.uscongress2.1803,1803,Charles Carroll,CC0012,Federalist,A01,2,2,0,0.0
+md.uscongress2.1803,1803,Gabriel Van Horn,VG0000,null,null,1,1,0,0.0
+md.uscongress2.1803,1803,Gabriel Van Horn,VG0000,null,null,1,1,0,0.0
+md.uscongress2.1803,1803,Henry Whitemore,WH0052,null,null,1,1,0,0.0
+md.uscongress2.1803,1803,Henry Whitemore,WH0052,null,null,1,1,0,0.0
+md.uscongress2.1803,1803,John Manning,MJ1120,null,null,2,2,0,0.0
+md.uscongress2.1803,1803,John Manning,MJ1120,null,null,2,2,0,0.0
+md.uscongress2.1803,1803,Walter Bowie,BW0122,Republican,A03,2084,2084,0,0.0
+md.uscongress3.1803,1803,Patrick Magruder,MP0018,Republican,A03,1507,1507,0,0.0
+md.uscongress3.1803,1803,Richard Wooten,WR0116,Federalist,A01,232,232,0,0.0
+md.uscongress3.1803,1803,Thomas Plater,PT0052,Federalist,A01,1874,1874,0,0.0
+md.uscongress4.1803,1803,Daniel Hiester,HD0024,Republican,A03,3571,3571,0,0.0
+md.uscongress4.1803,1803,Eli Williams,WE0027,Federalist,A01,2379,2379,0,0.0
+md.uscongress4.1803,1803,Frisby Tilghman,TF0001,null,null,1,1,0,0.0
+md.uscongress6.1803,1803,Charles Gordon,GC0002,null,null,1,1,0,0.0
+md.uscongress6.1803,1803,Charles Gordon,GC0002,null,null,1,1,0,0.0
+md.uscongress6.1803,1803,John Archer,AJ0075,Republican,A03,3227,3227,0,0.0
+md.uscongress7.1803,1803,Joseph Nicholson,NJ0026,Republican,A03,2132,2132,0,0.0
+md.uscongress7.1803,1803,Solomon Jones,JS0001,null,null,0,NA,0,NaN
+md.uscongress8.1803,1803,Arthur Whitely,WA0005,null,null,8,8,0,0.0
+md.uscongress8.1803,1803,James B. Robinson,RJ0049,Republican,A03,20,20,0,0.0
+md.uscongress8.1803,1803,John Dennis,DJ0122,Federalist,A01,1751,1751,0,0.0
+md.uscongress8.1803,1803,Joshua Prideaux,PJ0138,Republican,A03,62,62,0,0.0
+md.uscongress8.1803,1803,Samuel Heath,HS0010,null,null,2,2,0,0.0
+md.uscongress8.1803,1803,Thomas S. Tapett,TT0044,null,null,2,2,0,0.0
+md.uscongress8.1803,1803,William Polk,PW0048,null,null,1,1,0,0.0

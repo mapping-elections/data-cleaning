@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,487
+2,Allegany,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Galloway,GB0005,Federalist,A01,NA
+3,Allegany,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Breathed,BJ0050,null,null,NA
+4,Allegany,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Harry,HD0122,null,null,NA
+5,Allegany,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Samuel Hughes, Jr.",HS0068,null,null,NA
+6,Allegany,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Levin Mills,ML0018,null,null,NA
+1,Frederick,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,1557
+2,Frederick,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Galloway,GB0005,Federalist,A01,NA
+3,Frederick,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Breathed,BJ0050,null,null,NA
+4,Frederick,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Harry,HD0122,null,null,NA
+5,Frederick,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Samuel Hughes, Jr.",HS0068,null,null,NA
+6,Frederick,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Levin Mills,ML0018,null,null,NA
+1,Washington,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,1786
+2,Washington,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Benjamin Galloway,GB0005,Federalist,A01,84
+3,Washington,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Breathed,BJ0050,null,null,3
+4,Washington,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Harry,HD0122,null,null,1
+5,Washington,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,"Samuel Hughes, Jr.",HS0068,null,null,1
+6,Washington,md.uscongress4.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Levin Mills,ML0018,null,null,1

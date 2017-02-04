@@ -1,0 +1,11 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,1,Seven,1604
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,1,Lower,23
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,1,Middle,180
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,1,Upper,37
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,2,Seven,1572
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,2,Lower,275
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,2,Middle,205
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,2,Upper,189
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,null,null,3,Seven,1
+md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Kelsey,KJ0052,null,null,4,Seven,1

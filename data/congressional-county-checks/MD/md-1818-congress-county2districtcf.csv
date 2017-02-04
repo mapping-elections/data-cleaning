@@ -1,0 +1,66 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1818,1818,Samuel Smith,SS0062,Republican,A03,1786,7290,5504,0.76
+md.uscongress5.1818,1818,Peter Little,LP0015,Republican,A03,1722,7214,5492,0.76
+md.uscongress8.1818,1818,Thomas Bayly,BT0056,supported by both parties,A10,4580,476,-4104,0.9
+md.uscongress8.1818,1818,Thomas Bayly,BT0056,supported by both parties,A10,4580,624,-3956,0.86
+md.uscongress8.1818,1818,Thomas Bayly,BT0056,supported by both parties,A10,4580,650,-3930,0.86
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,55,-2323,0.98
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,174,-2204,0.93
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,188,-2190,0.92
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,214,-2164,0.91
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,238,-2140,0.9
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,247,-2131,0.9
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,250,-2128,0.89
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,89,-2109,0.96
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,105,-2093,0.95
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,121,-2077,0.94
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,122,-2076,0.94
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,159,-2039,0.93
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,344,-2034,0.86
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,172,-2026,0.92
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,181,-2017,0.92
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,184,-2014,0.92
+md.uscongress2.1818,1818,Joseph Kent,KJ0034,Republican,A03,1475,64,-1411,0.96
+md.uscongress2.1818,1818,Joseph Kent,KJ0034,Republican,A03,1475,125,-1350,0.92
+md.uscongress2.1818,1818,Joseph Kent,KJ0034,Republican,A03,1475,128,-1347,0.91
+md.uscongress2.1818,1818,Joseph Kent,KJ0034,Republican,A03,1475,153,-1322,0.9
+md.uscongress2.1818,1818,Joseph Kent,KJ0034,Republican,A03,1475,206,-1269,0.86
+md.uscongress2.1818,1818,John C. Weems,WJ0206,Federalist,A01,1136,15,-1121,0.99
+md.uscongress2.1818,1818,John C. Weems,WJ0206,Federalist,A01,1136,36,-1100,0.97
+md.uscongress2.1818,1818,John C. Weems,WJ0206,Federalist,A01,1136,49,-1087,0.96
+md.uscongress2.1818,1818,John C. Weems,WJ0206,Federalist,A01,1136,131,-1005,0.88
+md.uscongress2.1818,1818,John C. Weems,WJ0206,Federalist,A01,1136,147,-989,0.87
+md.uscongress6.1818,1818,Philip Reed,RP0009,Federalist,A01,2378,2010,-368,0.15
+md.uscongress6.1818,1818,Stevenson Archer,AS0013,Republican,A03,2198,2566,368,0.14
+md.uscongress8.1818,1818,Charles Goldsborough,GC0057,Federalist,A01,63,NA,-63,1.0
+md.uscongress8.1818,1818,Charles Goldsborough,GC0057,Federalist,A01,63,NA,-63,1.0
+md.uscongress8.1818,1818,Charles Goldsborough,GC0057,Federalist,A01,63,NA,-63,1.0
+md.uscongress8.1818,1818,Noah Wheeler,WN0038,null,null,16,NA,-16,1.0
+md.uscongress8.1818,1818,Noah Wheeler,WN0038,null,null,16,NA,-16,1.0
+md.uscongress8.1818,1818,Noah Wheeler,WN0038,null,null,16,NA,-16,1.0
+md.uscongress2.1818,1818,Joseph Kent,KJ0034,Republican,A03,1475,1485,10,0.01
+md.uscongress1.1818,1818,Francis Digges,DF0005,null,null,1,1,0,0.0
+md.uscongress1.1818,1818,Henry G.S. Key,KH0019,Federalist,A01,635,635,0,0.0
+md.uscongress1.1818,1818,James J. Neale,NJ0000,null,null,1,1,0,0.0
+md.uscongress1.1818,1818,Nicholas Stonestreet,SN0046,Federalist,A01,1140,1140,0,0.0
+md.uscongress1.1818,1818,Obediah Scroggin,SO0008,null,null,1,1,0,0.0
+md.uscongress1.1818,1818,Ralph Neale,NR0018,Federalist,A01,1175,1175,0,0.0
+md.uscongress2.1818,1818,John C. Weems,WJ0206,Federalist,A01,1136,1136,0,0.0
+md.uscongress3.1818,1818,George Peter,PG0031,Federalist,A01,1554,1554,0,0.0
+md.uscongress3.1818,1818,Henry R. Warfield,WH0013,Federalist,A01,2250,2250,0,0.0
+md.uscongress4.1818,1818,Benjamin Galloway,GB0005,Federalist,A01,84,84,0,0.0
+md.uscongress4.1818,1818,David Harry,HD0122,null,null,1,1,0,0.0
+md.uscongress4.1818,1818,James Breathed,BJ0050,null,null,3,3,0,0.0
+md.uscongress4.1818,1818,Levin Mills,ML0018,null,null,1,1,0,0.0
+md.uscongress4.1818,1818,"Samuel Hughes, Jr.",HS0068,null,null,1,1,0,0.0
+md.uscongress4.1818,1818,Samuel Ringgold,RS0013,Republican,A03,3830,3830,0,0.0
+md.uscongress6.1818,1818,Philip Thomas,TP0016,null,null,1,1,0,0.0
+md.uscongress6.1818,1818,Philip Thomas,TP0016,null,null,1,1,0,0.0
+md.uscongress7.1818,1818,Robert Wright,WR0038,Republican,A03,881,881,0,0.0
+md.uscongress7.1818,1818,Thomas Culbreth,CT0095,Republican,A03,2057,2057,0,0.0
+md.uscongress8.1818,1818,Charles Goldsborough,GC0057,Federalist,A01,63,63,0,0.0
+md.uscongress8.1818,1818,Littleton Dennis,DL0012,null,null,1,1,0,0.0
+md.uscongress8.1818,1818,Noah Wheeler,WN0038,null,null,16,16,0,0.0
+md.uscongress8.1818,1818,Robert Griffith,GR0074,null,null,2,2,0,0.0
+md.uscongress8.1818,1818,Samuel Lecompte,LS0081,null,null,2,2,0,0.0
+md.uscongress8.1818,1818,Thomas Bayly,BT0056,supported by both parties,A10,4580,4580,0,0.0

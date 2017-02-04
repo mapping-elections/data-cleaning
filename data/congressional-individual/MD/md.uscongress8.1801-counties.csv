@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dorchester,md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,300
+2,Dorchester,md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,Republican,A03,43
+1,Somerset,md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,270
+2,Somerset,md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,Republican,A03,15
+1,Worcester,md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,232
+2,Worcester,md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,Republican,A03,37

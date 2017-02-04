@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress5.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas Moore,MN0021,Republican,A03,1,6857
+md.uscongress5.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alexander MacKim,MA0045,Republican,A03,2,6642
+md.uscongress5.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Winder,WW0073,Federalist,A01,3,1818

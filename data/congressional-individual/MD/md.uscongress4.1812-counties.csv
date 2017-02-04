@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,495
+2,Allegany,md.uscongress4.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger B. Taney,TR0022,Federalist,A01,590
+1,Frederick,md.uscongress4.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,1491
+2,Frederick,md.uscongress4.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger B. Taney,TR0022,Federalist,A01,1276
+1,Washington,md.uscongress4.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,1635
+2,Washington,md.uscongress4.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger B. Taney,TR0022,Federalist,A01,1275

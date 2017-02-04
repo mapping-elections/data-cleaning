@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress3.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Peter,PG0031,Republican,A03,1,NA,NA
+md.uscongress3.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George C. Washington,WG0023,Federalist,A01,2,NA,NA
+md.uscongress3.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry R. Warfield,WH0013,Federalist,A01,3,NA,NA

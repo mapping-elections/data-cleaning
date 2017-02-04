@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Montgomery,MJ0205,Republican,A03,1022
+2,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas G. Moffit,MT0057,null,null,NA
+3,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,null,null,NA
+4,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Moffitt,MJ0666,null,null,NA
+5,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Moffitt,MJ0271,null,null,NA
+6,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Spencer,SW0032,null,null,NA
+7,Cecil,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Steel,SJ0310,null,null,NA
+1,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Montgomery,MJ0205,Republican,A03,1345
+2,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas G. Moffit,MT0057,null,null,50
+3,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,null,null,3
+4,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Moffitt,MJ0666,null,null,1
+5,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Moffitt,MJ0271,null,null,1
+6,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Spencer,SW0032,null,null,1
+7,Harford,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Steel,SJ0310,null,null,1
+1,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Montgomery,MJ0205,Republican,A03,510
+2,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas G. Moffit,MT0057,null,null,NA
+3,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,null,null,NA
+4,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Moffitt,MJ0666,null,null,1
+5,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Moffitt,MJ0271,null,null,NA
+6,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Spencer,SW0032,null,null,NA
+7,Kent,md.uscongress6.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James Steel,SJ0310,null,null,NA

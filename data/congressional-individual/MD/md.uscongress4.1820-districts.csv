@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress4.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Nelson,NJ0035,Republican,A03,1,Four,3501
+md.uscongress4.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas C. Worthington,WT0053,Federalist,A01,2,Four,2534
+md.uscongress4.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Mellinger,MD0131,null,null,3,Four,13
+md.uscongress4.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Jacob Mellinger,MJ0325,null,null,4,Four,1
+md.uscongress4.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Hughes,HS0068,null,null,5,Four,1
+md.uscongress4.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Schnebly,SD0054,null,null,6,Four,1

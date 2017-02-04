@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress1.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,1,1486
+md.uscongress1.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,null,null,2,2
+md.uscongress1.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John R. Plater,PJ0155,Federalist,A01,3,1

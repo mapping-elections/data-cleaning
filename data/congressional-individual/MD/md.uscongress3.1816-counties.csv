@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,md.uscongress3.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Peter,PG0031,Federalist,A01,1021
+2,Frederick,md.uscongress3.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Kilgour,KC0002,Federalist,A01,617
+3,Frederick,md.uscongress3.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nicholas Snethen,SN0051,Republican,A03,854
+1,Montgomery,md.uscongress3.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,George Peter,PG0031,Federalist,A01,867
+2,Montgomery,md.uscongress3.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Charles Kilgour,KC0002,Federalist,A01,632
+3,Montgomery,md.uscongress3.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Nicholas Snethen,SN0051,Republican,A03,115

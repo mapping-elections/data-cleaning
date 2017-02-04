@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,Federalist,A01,690
+2,Caroline,md.uscongress7.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Emory,ET0007,Republican,A03,579
+1,Queen Anne's,md.uscongress7.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,Federalist,A01,361
+2,Queen Anne's,md.uscongress7.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Emory,ET0007,Republican,A03,940
+1,Talbot,md.uscongress7.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,Federalist,A01,899
+2,Talbot,md.uscongress7.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Emory,ET0007,Republican,A03,405

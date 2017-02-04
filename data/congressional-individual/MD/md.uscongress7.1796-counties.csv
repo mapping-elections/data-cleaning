@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,336
+2,Caroline,md.uscongress7.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,316
+1,Queen Anne's,md.uscongress7.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,509
+2,Queen Anne's,md.uscongress7.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,556
+1,Talbot,md.uscongress7.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,820
+2,Talbot,md.uscongress7.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,123

@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,386
+2,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Republican,A03,NA
+3,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Caleb Hawkins,HC0033,Republican,A03,NA
+4,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Parker Y. Reinerman,RP0017,Federalist,A01,NA
+5,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry H. Chapman,CH0050,Federalist,A01,NA
+6,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,Republican,A03,NA
+7,Calvert,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Somerville,SW0035,Republican,A03,NA
+1,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,648
+2,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Republican,A03,NA
+3,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Caleb Hawkins,HC0033,Republican,A03,3
+4,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Parker Y. Reinerman,RP0017,Federalist,A01,3
+5,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry H. Chapman,CH0050,Federalist,A01,2
+6,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,Republican,A03,1
+7,Charles,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Somerville,SW0035,Republican,A03,NA
+1,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,440
+2,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Republican,A03,16
+3,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Caleb Hawkins,HC0033,Republican,A03,NA
+4,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Parker Y. Reinerman,RP0017,Federalist,A01,NA
+5,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry H. Chapman,CH0050,Federalist,A01,NA
+6,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,Republican,A03,NA
+7,Saint Mary's,md.uscongress1.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Somerville,SW0035,Republican,A03,1

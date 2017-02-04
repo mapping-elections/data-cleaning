@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,1,971
+md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Federalist,A01,2,647
+md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,Federalist,A01,3,555

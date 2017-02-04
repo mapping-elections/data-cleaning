@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress6.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Republican,A03,585
+2,Cecil,md.uscongress6.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Thomas,TP0016,Federalist,A01,1017
+1,Harford,md.uscongress6.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Republican,A03,1478
+2,Harford,md.uscongress6.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Thomas,TP0016,Federalist,A01,281
+1,Kent,md.uscongress6.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Republican,A03,449
+2,Kent,md.uscongress6.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Thomas,TP0016,Federalist,A01,658

@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,1,Seven,2180
+md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert H. Goldsborough,GR0028,Federalist,A01,2,Seven,1541
+md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Harwood,HJ0164,null,null,3,Seven,1
+md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,null,null,4,Seven,1

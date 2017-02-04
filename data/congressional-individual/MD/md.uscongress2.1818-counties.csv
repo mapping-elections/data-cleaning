@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,820
+2,Anne Arundel,md.uscongress2.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John C. Weems,WJ0206,Federalist,A01,470
+1,Prince George's,md.uscongress2.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,655
+2,Prince George's,md.uscongress2.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John C. Weems,WJ0206,Federalist,A01,666

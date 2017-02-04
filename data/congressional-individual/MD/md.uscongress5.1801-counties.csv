@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.uscongress5.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Smith,SS0062,Republican,A03,454
+2,Baltimore,md.uscongress5.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Charles Ridgely,RC0025,Federalist,A01,2

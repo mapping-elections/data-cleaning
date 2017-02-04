@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,447
+2,Calvert,md.uscongress1.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,192
+1,Charles,md.uscongress1.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,625
+2,Charles,md.uscongress1.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,313
+1,Saint Mary's,md.uscongress1.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,169
+2,Saint Mary's,md.uscongress1.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,533

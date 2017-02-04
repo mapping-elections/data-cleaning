@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,893
+2,Caroline,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Harrison,HJ0997,null,null,NA
+3,Caroline,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+4,Caroline,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Denny,DP0065,null,null,NA
+5,Caroline,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Harrison,HW0228,null,null,NA
+6,Caroline,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas James Bullit,BT0040,null,null,NA
+1,Queen Anne's,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,665
+2,Queen Anne's,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Harrison,HJ0997,null,null,NA
+3,Queen Anne's,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+4,Queen Anne's,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Denny,DP0065,null,null,NA
+5,Queen Anne's,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Harrison,HW0228,null,null,NA
+6,Queen Anne's,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas James Bullit,BT0040,null,null,NA
+1,Talbot,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,775
+2,Talbot,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Harrison,HJ0997,null,null,2
+3,Talbot,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,1
+4,Talbot,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Peter Denny,DP0065,null,null,1
+5,Talbot,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Harrison,HW0228,null,null,1
+6,Talbot,md.uscongress7.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas James Bullit,BT0040,null,null,1

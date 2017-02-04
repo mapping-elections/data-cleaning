@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas C. Worthington,WT0053,Republican,A03,669
+2,Allegany,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Lee,LJ0093,Federalist,A01,510
+3,Allegany,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,null,null,NA
+4,Allegany,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Neill,NA0013,null,null,NA
+1,Frederick,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas C. Worthington,WT0053,Republican,A03,1558
+2,Frederick,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Lee,LJ0093,Federalist,A01,1533
+3,Frederick,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,null,null,7
+4,Frederick,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Neill,NA0013,null,null,NA
+1,Washington,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas C. Worthington,WT0053,Republican,A03,2115
+2,Washington,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Lee,LJ0093,Federalist,A01,1448
+3,Washington,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,null,null,6
+4,Washington,md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Neill,NA0013,null,null,1

@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,md.uscongress3.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jeremiah Crabb,CJ0201,Federalist,A01,86
+1,Montgomery,md.uscongress3.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jeremiah Crabb,CJ0201,Federalist,A01,1102

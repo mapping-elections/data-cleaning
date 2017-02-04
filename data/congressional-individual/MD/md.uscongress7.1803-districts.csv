@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress7.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Nicholson,NJ0026,Republican,A03,1,Seven,2132
+md.uscongress7.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William J. Hindman,HW0097,Federalist,A01,2,Seven,7
+md.uscongress7.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William J. Hindman,HW0097,Federalist,A01,2,Seven,1
+md.uscongress7.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Solomon Jones,JS0001,null,null,3,NA,NA

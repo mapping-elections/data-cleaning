@@ -1,0 +1,17 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walter Bowie,BW0122,Republican,A03,1,Two,2084
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walter Bowie,BW0122,Republican,A03,1,Baldensburg,168
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walter Bowie,BW0122,Republican,A03,1,Piscataway,81
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walter Bowie,BW0122,Republican,A03,1,Vanville,240
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander Boone,BA0013,null,null,2,Two,4
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander Boone,BA0013,null,null,2,Baldensburg,NA
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander Boone,BA0013,null,null,2,Piscataway,NA
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander Boone,BA0013,null,null,2,Vanville,NA
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Charles Carroll,CC0012,Federalist,A01,3,Two,2
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Charles Carroll,CC0012,Federalist,A01,3,Piscataway,NA
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Manning,MJ1120,null,null,4,Two,2
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Manning,MJ1120,null,null,4,Piscataway,2
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gabriel Van Horn,VG0000,null,null,5,Two,1
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gabriel Van Horn,VG0000,null,null,5,Piscataway,1
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Whitemore,WH0052,null,null,6,Two,1
+md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Whitemore,WH0052,null,null,6,Piscataway,1

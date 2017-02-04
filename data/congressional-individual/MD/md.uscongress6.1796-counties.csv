@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress6.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Mathews,MW0075,Federalist,A01,939
+2,Cecil,md.uscongress6.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Republican,A03,189
+1,Harford,md.uscongress6.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Mathews,MW0075,Federalist,A01,41
+2,Harford,md.uscongress6.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Republican,A03,1004
+1,Kent,md.uscongress6.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Mathews,MW0075,Federalist,A01,407
+2,Kent,md.uscongress6.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Gabriel Christie,CG0044,Republican,A03,114

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress6.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Reed,RP0009,Federalist,A01,1028
+2,Cecil,md.uscongress6.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,694
+1,Harford,md.uscongress6.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Reed,RP0009,Federalist,A01,596
+2,Harford,md.uscongress6.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,1043
+1,Kent,md.uscongress6.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Reed,RP0009,Federalist,A01,658
+2,Kent,md.uscongress6.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,412

@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,593
+2,Caroline,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert H. Goldsborough,GR0028,Federalist,A01,506
+3,Caroline,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Harwood,HJ0164,null,null,NA
+4,Caroline,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,null,null,NA
+1,Queen Anne's,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,983
+2,Queen Anne's,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert H. Goldsborough,GR0028,Federalist,A01,361
+3,Queen Anne's,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Harwood,HJ0164,null,null,NA
+4,Queen Anne's,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,null,null,NA
+1,Talbot,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Brown,BJ0315,Republican,A03,605
+2,Talbot,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert H. Goldsborough,GR0028,Federalist,A01,674
+3,Talbot,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Harwood,HJ0164,null,null,1
+4,Talbot,md.uscongress7.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,null,null,1

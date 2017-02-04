@@ -1,0 +1,117 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,208,-5956,0.97
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,301,-5863,0.95
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,330,-5834,0.95
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,459,-5705,0.93
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,508,-5656,0.92
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,611,-5553,0.9
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,701,-5463,0.89
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,109,-3450,0.97
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,152,-3407,0.96
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,205,-3354,0.94
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,254,-3305,0.93
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,257,-3302,0.93
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,267,-3292,0.92
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,426,-3133,0.88
+md.uscongress8.1806,1806,Charles Goldsborough,GC0057,Federalist,A01,3243,258,-2985,0.92
+md.uscongress8.1806,1806,Charles Goldsborough,GC0057,Federalist,A01,3243,315,-2928,0.9
+md.uscongress8.1806,1806,Charles Goldsborough,GC0057,Federalist,A01,3243,341,-2902,0.89
+md.uscongress7.1806,1806,Edward Lloyd,LE0016,Republican,A03,2614,165,-2449,0.94
+md.uscongress7.1806,1806,Edward Lloyd,LE0016,Republican,A03,2614,329,-2285,0.87
+md.uscongress7.1806,1806,Edward Lloyd,LE0016,Republican,A03,2614,387,-2227,0.85
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,32,-2031,0.98
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,51,-2012,0.98
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,86,-1977,0.96
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,142,-1921,0.93
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,178,-1885,0.91
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,22,-1863,0.99
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,208,-1855,0.9
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,223,-1840,0.89
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,6,-1823,1.0
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,62,-1823,0.97
+md.uscongress2.1806,1806,Leonard Covington,CL0008,Federalist,A01,1899,80,-1819,0.96
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,67,-1818,0.96
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,106,-1779,0.94
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,117,-1768,0.94
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,151,-1734,0.92
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,104,-1725,0.94
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,116,-1713,0.94
+md.uscongress2.1806,1806,Leonard Covington,CL0008,Federalist,A01,1899,201,-1698,0.89
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,189,-1696,0.9
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,162,-1667,0.91
+md.uscongress2.1806,1806,Leonard Covington,CL0008,Federalist,A01,1899,239,-1660,0.87
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,176,-1653,0.9
+md.uscongress2.1806,1806,Leonard Covington,CL0008,Federalist,A01,1899,279,-1620,0.85
+md.uscongress2.1806,1806,Leonard Covington,CL0008,Federalist,A01,1899,283,-1616,0.85
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,270,-1615,0.86
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,232,-1597,0.87
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,260,-1569,0.86
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,262,-1567,0.86
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,263,-1566,0.86
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,480,-1405,0.75
+md.uscongress8.1806,1806,Philip Quinton,QP0000,Quid,A04,1466,63,-1403,0.96
+md.uscongress8.1806,1806,Philip Quinton,QP0000,Quid,A04,1466,88,-1378,0.94
+md.uscongress8.1806,1806,Philip Quinton,QP0000,Quid,A04,1466,134,-1332,0.91
+md.uscongress2.1806,1806,Archibald Van Horn,VA0054,Republican,A03,1349,96,-1253,0.93
+md.uscongress2.1806,1806,Archibald Van Horn,VA0054,Republican,A03,1349,104,-1245,0.92
+md.uscongress2.1806,1806,Archibald Van Horn,VA0054,Republican,A03,1349,144,-1205,0.89
+md.uscongress2.1806,1806,Archibald Van Horn,VA0054,Republican,A03,1349,165,-1184,0.88
+md.uscongress2.1806,1806,Archibald Van Horn,VA0054,Republican,A03,1349,225,-1124,0.83
+md.uscongress7.1806,1806,James Brown,BJ0266,Quid,A04,607,2,-605,1.0
+md.uscongress7.1806,1806,James Brown,BJ0266,Quid,A04,607,35,-572,0.94
+md.uscongress7.1806,1806,James Brown,BJ0266,Quid,A04,607,96,-511,0.84
+md.uscongress5.1806,1806,John Scott,SJ0201,Federalist,A01,353,7,-346,0.98
+md.uscongress5.1806,1806,John Scott,SJ0201,Federalist,A01,353,21,-332,0.94
+md.uscongress5.1806,1806,John Scott,SJ0201,Federalist,A01,353,38,-315,0.89
+md.uscongress5.1806,1806,John Scott,SJ0201,Federalist,A01,353,42,-311,0.88
+md.uscongress2.1806,1806,Holland,null,null,null,45,NA,-45,1.0
+md.uscongress6.1806,1806,Samuel Sutton,SS0071,null,null,38,NA,-38,1.0
+md.uscongress6.1806,1806,Samuel Sutton,SS0071,null,null,38,NA,-38,1.0
+md.uscongress6.1806,1806,Samuel Sutton,SS0071,null,null,38,NA,-38,1.0
+md.uscongress1.1806,1806,Francis Digges,DF0005,null,null,1,1,0,0.0
+md.uscongress1.1806,1806,Henry H. Chapman,CH0050,null,null,1,1,0,0.0
+md.uscongress1.1806,1806,John Campbell,CJ0207,Federalist,A01,1713,1713,0,0.0
+md.uscongress2.1806,1806,Archibald Van Horn,VA0054,Republican,A03,1349,1349,0,0.0
+md.uscongress2.1806,1806,Benjamin Owens,OB0000,null,null,2,2,0,0.0
+md.uscongress2.1806,1806,Benjamin Owens,OB0000,null,null,2,2,0,0.0
+md.uscongress2.1806,1806,John Francis Mercer,MJ0200,null,null,2,2,0,0.0
+md.uscongress2.1806,1806,John Francis Mercer,MJ0200,null,null,2,2,0,0.0
+md.uscongress2.1806,1806,Leonard Covington,CL0008,Federalist,A01,1899,1899,0,0.0
+md.uscongress3.1806,1806,Patrick Magruder,MP0018,Republican,A03,1696,1696,0,0.0
+md.uscongress3.1806,1806,Philip B. Key,KP0001,Federalist,A01,1935,1935,0,0.0
+md.uscongress4.1806,1806,Christian Feightlich,FC0025,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,Daniel Boarman,BD0122,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,Daniel Weizel,WD0007,null,null,4,4,0,0.0
+md.uscongress4.1806,1806,Edmund Boyd,BE0149,null,null,3,3,0,0.0
+md.uscongress4.1806,1806,Eli Williams,WE0027,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,George Fedrich,FG0001,null,null,3,3,0,0.0
+md.uscongress4.1806,1806,Henry Shaffer,SH0051,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,John Dark Lynn,LJ0517,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,John Langley,LJ0237,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,John Ragan,RJ0089,null,null,2,2,0,0.0
+md.uscongress4.1806,1806,Matthias Miller,MM0106,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,Nathaniel Rochester,RN0010,Quid,A04,122,122,0,0.0
+md.uscongress4.1806,1806,Robert Douglass,DR0005,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,Roger Nelson,NR0020,Republican,A03,3962,3962,0,0.0
+md.uscongress4.1806,1806,Samuel Hughes,HS0068,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,Thomas Kennedy,KT0028,null,null,1,1,0,0.0
+md.uscongress4.1806,1806,Thomas Sprigg,ST0060,null,null,2,2,0,0.0
+md.uscongress4.1806,1806,William S. Compton,CW0014,null,null,1,1,0,0.0
+md.uscongress5.1806,1806,John Scott,SJ0201,Federalist,A01,353,353,0,0.0
+md.uscongress5.1806,1806,Joshua Barney,BJ0327,Quid,A04,2063,2063,0,0.0
+md.uscongress5.1806,1806,Nicholas Moore,MN0021,Republican,A03,6164,6164,0,0.0
+md.uscongress5.1806,1806,William MacCreery,MW0092,Republican,A03,3559,3559,0,0.0
+md.uscongress6.1806,1806,John Archer,AJ0075,Quid,A04,1829,1829,0,0.0
+md.uscongress6.1806,1806,John Montgomery,MJ0205,Republican,A03,1885,1885,0,0.0
+md.uscongress6.1806,1806,Samuel Sutton,SS0071,null,null,38,38,0,0.0
+md.uscongress6.1806,1806,Samuel Sutton,SS0071,null,null,38,38,0,0.0
+md.uscongress7.1806,1806,Edward Lloyd,LE0016,Republican,A03,2614,2614,0,0.0
+md.uscongress7.1806,1806,Hugh Sherwood,SH0028,null,null,1,1,0,0.0
+md.uscongress7.1806,1806,James Brown,BJ0266,Quid,A04,607,607,0,0.0
+md.uscongress7.1806,1806,Samuel Tilghman,TS0083,null,null,1,1,0,0.0
+md.uscongress8.1806,1806,Charles Goldsborough,GC0057,Federalist,A01,3243,3243,0,0.0
+md.uscongress8.1806,1806,Henry Craig,CH0098,null,null,1,1,0,0.0
+md.uscongress8.1806,1806,Henry Fontaine,FH0020,null,null,2,2,0,0.0
+md.uscongress8.1806,1806,Peter Tofrett,TP0043,null,null,2,2,0,0.0
+md.uscongress8.1806,1806,Philip Quinton,QP0000,Quid,A04,1466,1466,0,0.0
+md.uscongress8.1806,1806,Thomas Insley,IT0002,null,null,1,1,0,0.0

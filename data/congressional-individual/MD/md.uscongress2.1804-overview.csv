@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress2.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Leonard Covington,CL0008,Republican,A03,1,834
+md.uscongress2.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Archibald Van Horne,VA0054,Republican,A03,2,751
+md.uscongress2.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Clement Hill,HC0024,Federalist,A01,3,18
+md.uscongress2.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Hall,HJ0533,null,null,4,1

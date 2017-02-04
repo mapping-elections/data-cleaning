@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Hiester,HD0024,Republican,A03,423
+2,Allegany,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,Federalist,A01,539
+3,Allegany,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Frisby Tilghman,TF0001,null,null,NA
+1,Frederick,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Hiester,HD0024,Republican,A03,1594
+2,Frederick,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,Federalist,A01,890
+3,Frederick,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Frisby Tilghman,TF0001,null,null,NA
+1,Washington,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Hiester,HD0024,Republican,A03,1554
+2,Washington,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,Federalist,A01,950
+3,Washington,md.uscongress4.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Frisby Tilghman,TF0001,null,null,1

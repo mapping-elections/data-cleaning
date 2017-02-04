@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,240
+2,Caroline,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,669
+3,Caroline,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,null,null,NA
+4,Caroline,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Kelsey,KJ0052,null,null,NA
+1,Queen Anne's,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,718
+2,Queen Anne's,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,380
+3,Queen Anne's,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,null,null,NA
+4,Queen Anne's,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Kelsey,KJ0052,null,null,NA
+1,Talbot,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Wright,WR0038,Republican,A03,646
+2,Talbot,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Federalist,A01,523
+3,Talbot,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Leeds Kerr,KJ0030,null,null,1
+4,Talbot,md.uscongress7.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Kelsey,KJ0052,null,null,1

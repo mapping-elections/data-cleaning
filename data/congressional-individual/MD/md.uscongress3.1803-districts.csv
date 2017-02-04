@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress3.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Plater,PT0052,Federalist,A01,1,Three,1874
+md.uscongress3.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Patrick Magruder,MP0018,Republican,A03,2,Three,1507
+md.uscongress3.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard Wooten,WR0116,Federalist,A01,3,Three,232

@@ -1,0 +1,40 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1805
+2,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,10
+3,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Banks,BS0320,null,null,4
+4,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Enoch Sloan,SE0015,null,null,2
+5,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Tristam Richardson,RT0016,null,null,2
+6,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,null,null,NA
+7,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Caleb Griffin,GC0059,null,null,1
+8,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Lecompte,LJ0239,null,null,1
+9,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Greenburg L. Rawley,RG0000,null,null,1
+10,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ennals Rawsil,RE0019,null,null,1
+11,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William C. Ridgeway,RW0037,null,null,1
+12,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,1
+13,Dorchester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ephraim Williams,WE0006,null,null,NA
+1,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1188
+2,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,NA
+3,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Banks,BS0320,null,null,NA
+4,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Enoch Sloan,SE0015,null,null,NA
+5,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Tristam Richardson,RT0016,null,null,NA
+6,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,null,null,2
+7,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Caleb Griffin,GC0059,null,null,NA
+8,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Lecompte,LJ0239,null,null,NA
+9,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Greenburg L. Rawley,RG0000,null,null,NA
+10,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ennals Rawsil,RE0019,null,null,NA
+11,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William C. Ridgeway,RW0037,null,null,NA
+12,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,NA
+13,Somerset,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ephraim Williams,WE0006,null,null,1
+1,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,supported by both parties,A10,1946
+2,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,NA
+3,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Banks,BS0320,null,null,NA
+4,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Enoch Sloan,SE0015,null,null,NA
+5,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Tristam Richardson,RT0016,null,null,NA
+6,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,null,null,NA
+7,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Caleb Griffin,GC0059,null,null,NA
+8,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Lecompte,LJ0239,null,null,NA
+9,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Greenburg L. Rawley,RG0000,null,null,NA
+10,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ennals Rawsil,RE0019,null,null,NA
+11,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William C. Ridgeway,RW0037,null,null,NA
+12,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Noah Wheeler,WN0038,null,null,NA
+13,Worcester,md.uscongress8.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ephraim Williams,WE0006,null,null,NA

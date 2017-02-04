@@ -1,0 +1,15 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1794,1794,Samuel Smith,SS0062,Republican,A03,43,203,160,0.79
+md.uscongress1.1794,1794,George Dent,DG0004,Federalist,A01,1600,1600,0,0.0
+md.uscongress1.1794,1794,Philip B. Key,KP0001,Federalist,A01,768,768,0,0.0
+md.uscongress2.1794,1794,Gabriel Duvall,DG0008,Republican,A03,1234,1234,0,0.0
+md.uscongress2.1794,1794,Richard A. Contee,CR0017,Federalist,A01,542,542,0,0.0
+md.uscongress3.1794,1794,Jeremiah Crabb,CJ0201,Federalist,A01,1188,1188,0,0.0
+md.uscongress4.1794,1794,Roger Nelson,NR0020,Federalist,A01,1066,1066,0,0.0
+md.uscongress4.1794,1794,Thomas Sprigg,ST0060,Federalist,A01,1698,1698,0,0.0
+md.uscongress6.1794,1794,Gabriel Christie,CG0044,Republican,A03,2282,2282,0,0.0
+md.uscongress6.1794,1794,Robert Wright,WR0038,Federalist,A01,958,958,0,0.0
+md.uscongress7.1794,1794,George Jackson,JG0015,Republican,A03,586,586,0,0.0
+md.uscongress7.1794,1794,William Hindman,HW0097,Federalist,A01,1395,1395,0,0.0
+md.uscongress7.1794,1794,William Whitely,WW0072,Republican,A03,204,204,0,0.0
+md.uscongress8.1794,1794,William Vans Murray,MW0069,Federalist,A01,2343,2343,0,0.0

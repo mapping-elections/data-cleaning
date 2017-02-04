@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,1,802
+md.uscongress8.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,Republican,A03,2,95

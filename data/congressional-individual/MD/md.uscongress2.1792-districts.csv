@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John F. Mercer,MJ0200,Anti-Federalist,A02,1,Two,1405
+md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Thomas,TJ0160,Federalist,A01,2,Two,1039
+md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard A. Contee,CR0017,null,null,3,Two,23

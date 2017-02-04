@@ -1,0 +1,55 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger Nelson,NR0020,Republican,A03,492
+2,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Nathaniel Rochester,RN0010,Quid,A04,NA
+3,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Weizel,WD0007,null,null,NA
+4,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Edmund Boyd,BE0149,null,null,3
+5,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Fedrich,FG0001,null,null,NA
+6,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Ragan,RJ0089,null,null,NA
+7,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Sprigg,ST0060,null,null,NA
+8,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Dark Lynn,LJ0517,null,null,1
+9,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Boarman,BD0122,null,null,NA
+10,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William S. Compton,CW0014,null,null,NA
+11,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Douglass,DR0005,null,null,NA
+12,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Christian Feightlich,FC0025,null,null,NA
+13,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Hughes,HS0068,null,null,NA
+14,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Kennedy,KT0028,null,null,NA
+15,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Langley,LJ0237,null,null,NA
+16,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Matthias Miller,MM0106,null,null,NA
+17,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry Shaffer,SH0051,null,null,NA
+18,Allegany,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,null,null,NA
+1,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger Nelson,NR0020,Republican,A03,1478
+2,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Nathaniel Rochester,RN0010,Quid,A04,122
+3,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Weizel,WD0007,null,null,NA
+4,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Edmund Boyd,BE0149,null,null,NA
+5,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Fedrich,FG0001,null,null,NA
+6,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Ragan,RJ0089,null,null,NA
+7,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Sprigg,ST0060,null,null,NA
+8,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Dark Lynn,LJ0517,null,null,NA
+9,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Boarman,BD0122,null,null,NA
+10,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William S. Compton,CW0014,null,null,NA
+11,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Douglass,DR0005,null,null,NA
+12,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Christian Feightlich,FC0025,null,null,NA
+13,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Hughes,HS0068,null,null,NA
+14,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Kennedy,KT0028,null,null,NA
+15,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Langley,LJ0237,null,null,NA
+16,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Matthias Miller,MM0106,null,null,NA
+17,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry Shaffer,SH0051,null,null,NA
+18,Frederick,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,null,null,NA
+1,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Roger Nelson,NR0020,Republican,A03,1992
+2,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Nathaniel Rochester,RN0010,Quid,A04,NA
+3,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Weizel,WD0007,null,null,4
+4,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Edmund Boyd,BE0149,null,null,NA
+5,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Fedrich,FG0001,null,null,3
+6,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Ragan,RJ0089,null,null,2
+7,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Sprigg,ST0060,null,null,2
+8,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Dark Lynn,LJ0517,null,null,NA
+9,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Boarman,BD0122,null,null,1
+10,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William S. Compton,CW0014,null,null,1
+11,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Douglass,DR0005,null,null,1
+12,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Christian Feightlich,FC0025,null,null,1
+13,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Hughes,HS0068,null,null,1
+14,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Kennedy,KT0028,null,null,1
+15,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Langley,LJ0237,null,null,1
+16,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Matthias Miller,MM0106,null,null,1
+17,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry Shaffer,SH0051,null,null,1
+18,Washington,md.uscongress4.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,null,null,1

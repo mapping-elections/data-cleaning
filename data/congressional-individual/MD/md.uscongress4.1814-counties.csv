@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,573
+2,Allegany,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,431
+3,Allegany,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Montgomery,MJ0205,null,null,NA
+4,Allegany,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Gear,GD0052,null,null,NA
+5,Allegany,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Heyser,HW0062,null,null,NA
+1,Frederick,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,1252
+2,Frederick,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,1077
+3,Frederick,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Montgomery,MJ0205,null,null,NA
+4,Frederick,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Gear,GD0052,null,null,NA
+5,Frederick,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Heyser,HW0062,null,null,NA
+1,Washington,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,1163
+2,Washington,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,1313
+3,Washington,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Montgomery,MJ0205,null,null,2
+4,Washington,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Gear,GD0052,null,null,1
+5,Washington,md.uscongress4.1814,1814,1814,General,"Maryland 1814 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Heyser,HW0062,null,null,1

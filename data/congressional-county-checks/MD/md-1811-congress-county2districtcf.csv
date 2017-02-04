@@ -1,0 +1,8 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.congress.1811,1811,Stevenson Archer,AS0013,Republican,A03,1569,NA,-1569,1.0
+md.congress.1811,1811,William Hollingsworth,HW0131,Federalist,A01,229,NA,-229,1.0
+md.congress.1811,1811,Peregrine L. Lynch,LP0031,null,null,7,NA,-7,1.0
+md.congress.1811,1811,Dominic Coin,CD0037,Federalist,A01,1,NA,-1,1.0
+md.congress.1811,1811,Henry Hollingsworth,HH0019,Federalist,A01,1,NA,-1,1.0
+md.congress.1811,1811,John Hollingsworth,HJ0286,null,null,1,NA,-1,1.0
+md.congress.1811,1811,Thomas G. Moffit,MT0057,Federalist,A01,1,NA,-1,1.0

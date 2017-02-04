@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas C. Worthington,WT0053,Republican,A03,1,4321
+md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Lee,LJ0093,Federalist,A01,2,3491
+md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Upton Bruce,BU0002,null,null,3,13
+md.uscongress4.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Alexander Neill,NA0013,null,null,4,1

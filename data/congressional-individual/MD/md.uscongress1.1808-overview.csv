@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress1.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,1,1828
+md.uscongress1.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Fenwick,FJ0074,Republican,A03,2,774
+md.uscongress1.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John R. Plater,PJ0155,Federalist,A01,3,3
+md.uscongress1.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Mitchell,MJ0207,null,null,4,1
+md.uscongress1.1808,1808,1808,General,"Maryland 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,null,null,5,1

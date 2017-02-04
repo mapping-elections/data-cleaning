@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress1.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,1,One,1092
+md.uscongress1.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,null,null,2,One,4
+md.uscongress1.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Leonard B. Gardiner,GL0006,null,null,3,One,4
+md.uscongress1.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Clement Dorsey,DC0019,Federalist,A01,4,One,1
+md.uscongress1.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Thomas,TW0029,null,null,5,One,1

@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Caroline,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,200
+2,Caroline,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Jackson,JG0015,Republican,A03,126
+3,Caroline,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Whitely,WW0072,Republican,A03,204
+1,Queen Anne's,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,564
+2,Queen Anne's,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Jackson,JG0015,Republican,A03,440
+3,Queen Anne's,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Whitely,WW0072,Republican,A03,NA
+1,Talbot,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,631
+2,Talbot,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George Jackson,JG0015,Republican,A03,20
+3,Talbot,md.uscongress7.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Whitely,WW0072,Republican,A03,NA

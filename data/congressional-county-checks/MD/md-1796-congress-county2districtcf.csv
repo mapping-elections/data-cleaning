@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1796,1796,Samuel Smith,SS0062,Republican,A03,121,337,216,0.64
+md.uscongress1.1796,1796,George Dent,DG0004,Federalist,A01,785,785,0,0.0
+md.uscongress1.1796,1796,Philip B. Key,KP0001,null,null,2,2,0,0.0
+md.uscongress2.1796,1796,Richard Sprigg,SR0049,Republican,A03,1400,1400,0,0.0
+md.uscongress3.1796,1796,Benjamin Edwards,EB0002,Federalist,A01,635,635,0,0.0
+md.uscongress3.1796,1796,William Craik,CW0040,Federalist,A01,660,660,0,0.0
+md.uscongress4.1796,1796,George Baer,BG0023,Federalist,A01,1792,1792,0,0.0
+md.uscongress4.1796,1796,Samuel Ringgold,RS0013,Republican,A03,695,695,0,0.0
+md.uscongress6.1796,1796,Gabriel Christie,CG0044,Republican,A03,1307,1307,0,0.0
+md.uscongress6.1796,1796,William Mathews,MW0075,Federalist,A01,1387,1387,0,0.0
+md.uscongress7.1796,1796,Robert Wright,WR0038,Republican,A03,995,995,0,0.0
+md.uscongress7.1796,1796,William Hindman,HW0097,Federalist,A01,1665,1665,0,0.0
+md.uscongress8.1796,1796,John Dennis,DJ0122,Federalist,A01,903,903,0,0.0

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John C. Herbert,HJ0191,Federalist,A01,774
+2,Anne Arundel,md.uscongress2.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joshua Barney,BJ0327,Republican,A03,972
+3,Anne Arundel,md.uscongress2.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,null,null,NA
+1,Prince George's,md.uscongress2.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John C. Herbert,HJ0191,Federalist,A01,828
+2,Prince George's,md.uscongress2.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joshua Barney,BJ0327,Republican,A03,584
+3,Prince George's,md.uscongress2.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,null,null,5

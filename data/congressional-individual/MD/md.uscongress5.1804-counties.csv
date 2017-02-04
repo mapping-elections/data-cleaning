@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas R. Moore,MN0021,Republican,A03,1952
+1,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas R. Moore,MN0021,Republican,A03,986
+2,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William MacCreery,MW0092,Republican,A03,1815
+2,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William MacCreery,MW0092,Republican,A03,857
+3,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Goodloe Harper,HR0079,Federalist,A01,102
+3,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert Goodloe Harper,HR0079,Federalist,A01,3
+4,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Stricker,SJ0047,Republican,A03,1
+4,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Stricker,SJ0047,Republican,A03,33
+5,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Charles Ridgley,RC0025,Federalist,A01,6
+5,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Charles Ridgley,RC0025,Federalist,A01,7
+6,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,James MacHenry,MJ0196,Federalist,A01,5
+7,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Buchanan,BG0026,null,null,4
+8,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Edward Johnson,JE0007,Federalist,A01,2
+9,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Clement Brooke,BC0098,Federalist,A01,1
+10,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Duncan,DW0114,Federalist,A01,1
+11,Baltimore,md.uscongress5.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Jonathan Hughes,HJ0189,Federalist,A01,1

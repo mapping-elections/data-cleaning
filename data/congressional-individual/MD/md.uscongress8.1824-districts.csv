@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert N. Martin,MR0053,Federalist,A01,1,Eight,3088
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert N. Martin,MR0053,Federalist,A01,1,Lower,250
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert N. Martin,MR0053,Federalist,A01,1,Middle,445
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Robert N. Martin,MR0053,Federalist,A01,1,Upper,367
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Spence,SJ0312,Republican,A03,2,Eight,2858
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Spence,SJ0312,Republican,A03,2,Lower,142
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Spence,SJ0312,Republican,A03,2,Middle,241
+md.uscongress8.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Spence,SJ0312,Republican,A03,2,Upper,209

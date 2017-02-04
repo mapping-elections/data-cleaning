@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress1.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ralph Neale,NR0018,Federalist,A01,1,One,1175
+md.uscongress1.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Stonestreet,SN0046,Federalist,A01,2,One,1140
+md.uscongress1.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry G.S. Key,KH0019,Federalist,A01,3,One,635
+md.uscongress1.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,null,null,4,One,1
+md.uscongress1.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James J. Neale,NJ0000,null,null,5,One,1
+md.uscongress1.1818,1818,1818,General,"Maryland 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Obediah Scroggin,SO0008,null,null,6,One,1

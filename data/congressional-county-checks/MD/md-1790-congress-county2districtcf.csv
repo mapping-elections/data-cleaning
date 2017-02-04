@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress.1790,1790,Samuel Sterett,SS0058,Chesapeake,A09,13270,NA,-13270,1.0
+md.uscongress.1790,1790,Daniel Carroll,CD0030,Potomac,A09,7438,NA,-7438,1.0
+md.uscongress.1790,1790,George Gale,GG0007,Potomac,A09,7381,NA,-7381,1.0
+md.uscongress.1790,1790,William Pinkney,PW0043,Chesapeake,A09,7289,NA,-7289,1.0
+md.uscongress.1790,1790,James Tilghman,TJ0158,Potomac,A09,7217,NA,-7217,1.0
+md.uscongress.1790,1790,Michael Jenifer Stone,SM0034,Potomac,A09,7217,NA,-7217,1.0
+md.uscongress.1790,1790,Joshua Seney,SJ0183,Chesapeake,A09,6792,NA,-6792,1.0
+md.uscongress.1790,1790,Philip Key,KP0011,Chesapeake,A09,6584,NA,-6584,1.0
+md.uscongress.1790,1790,William Vans Murray,MW0069,Chesapeake,A09,6568,NA,-6568,1.0
+md.uscongress.1790,1790,Benjamin Contee,CB0013,Potomac,A09,6526,NA,-6526,1.0
+md.uscongress.1790,1790,Upton Sheredine,SU0000,Chesapeake,A09,6337,NA,-6337,1.0
+md.uscongress.1790,1790,Dent,null,null,null,11,NA,-11,1.0
+md.uscongress.1790,1790,James Brown,BJ0266,null,null,0,NA,0,NaN

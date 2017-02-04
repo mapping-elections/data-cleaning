@@ -1,0 +1,19 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Federalist,A01,1,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Federalist,A01,2,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Federalist,A01,3,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Federalist,A01,4,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Smith,SW0028,Federalist,A01,5,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael J. Stone,SM0034,Federalist,A01,6,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,George Dent,DG0004,Anti-Federalist,A02,7,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Anti-Federalist,A02,8,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John F. Mercer,MJ0200,Anti-Federalist,A02,9,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Faw,FA0015,Anti-Federalist,A02,10,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Done,DJ0119,Anti-Federalist,A02,11,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William V. Murray,MW0069,Anti-Federalist,A02,12,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Nathaniel Ramsay,RN0009,null,null,13,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Chase,CS0019,null,null,14,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Johnson,JT0019,Federalist,A01,15,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,James MacHenry,MJ0196,null,null,16,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0184,null,null,17,NA,NA
+md.uscongress.1789,1789-01,1789,General,Maryland 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,William Paca,PW0039,null,null,18,NA,NA

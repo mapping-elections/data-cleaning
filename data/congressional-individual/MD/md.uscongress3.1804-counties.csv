@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Frederick,md.uscongress3.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Plater,PT0052,Federalist,A01,606
+2,Frederick,md.uscongress3.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Patrick Magruder,MP0018,Republican,A03,182
+1,Montgomery,md.uscongress3.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Thomas Plater,PT0052,Federalist,A01,349
+2,Montgomery,md.uscongress3.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Patrick Magruder,MP0018,Republican,A03,569

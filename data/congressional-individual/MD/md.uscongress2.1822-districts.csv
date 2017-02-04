@@ -1,0 +1,10 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,1,Two,1688
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,1,One,183
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,1,Two,82
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,1,Three,124
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,1,Four,418
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,1,Five,210
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas King,KT0015,null,null,2,Two,5
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Howard,HR0155,null,null,3,Two,2
+md.uscongress2.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander C. Magruder,MA0076,null,null,4,Two,2

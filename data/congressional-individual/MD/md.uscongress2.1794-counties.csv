@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gabriel Duvall,DG0008,Republican,A03,1088
+2,Anne Arundel,md.uscongress2.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard A. Contee,CR0017,Federalist,A01,53
+1,Prince George's,md.uscongress2.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gabriel Duvall,DG0008,Republican,A03,146
+2,Prince George's,md.uscongress2.1794,1794,1794,General,"Maryland 1794 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard A. Contee,CR0017,Federalist,A01,489

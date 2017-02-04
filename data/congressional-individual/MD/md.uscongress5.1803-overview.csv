@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress5.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Nicholas Moore,MN0021,Republican,A03,1,5069
+md.uscongress5.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William MacCreery,MW0092,Republican,A03,2,3610
+md.uscongress5.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,George Buchanan,BG0026,Federalist,A01,3,736

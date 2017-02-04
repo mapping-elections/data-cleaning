@@ -1,0 +1,95 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1822,1822,Samuel Smith,SS0062,Republican,A03,1207,6725,5518,0.82
+md.uscongress5.1822,1822,Peter Little,LP0015,Republican,A03,1723,6866,5143,0.75
+md.uscongress6.1822,1822,George E. Mitchell,MG0025,Republican,A03,3133,128,-3005,0.96
+md.uscongress6.1822,1822,George E. Mitchell,MG0025,Republican,A03,3133,158,-2975,0.95
+md.uscongress6.1822,1822,George E. Mitchell,MG0025,Republican,A03,3133,178,-2955,0.94
+md.uscongress8.1822,1822,John S. Spence,SJ0312,Republican,A03,2558,134,-2424,0.95
+md.uscongress8.1822,1822,John S. Spence,SJ0312,Republican,A03,2558,278,-2280,0.89
+md.uscongress8.1822,1822,John S. Spence,SJ0312,Republican,A03,2558,337,-2221,0.87
+md.uscongress4.1822,1822,John Lee,LJ0093,Federalist,A01,1841,NA,-1841,1.0
+md.uscongress4.1822,1822,Thomas C. Worthington,WT0053,Republican,A03,1789,NA,-1789,1.0
+md.uscongress7.1822,1822,"William Hayward, Jr.",HW0144,Republican,A03,1720,38,-1682,0.98
+md.uscongress7.1822,1822,"William Hayward, Jr.",HW0144,Republican,A03,1720,106,-1614,0.94
+md.uscongress2.1822,1822,Joseph Kent,KJ0034,Republican,A03,1688,82,-1606,0.95
+md.uscongress2.1822,1822,Joseph Kent,KJ0034,Republican,A03,1688,124,-1564,0.93
+md.uscongress2.1822,1822,Joseph Kent,KJ0034,Republican,A03,1688,183,-1505,0.89
+md.uscongress2.1822,1822,Joseph Kent,KJ0034,Republican,A03,1688,210,-1478,0.88
+md.uscongress4.1822,1822,Michael Sprigg,SM0042,Republican,A03,1476,NA,-1476,1.0
+md.uscongress7.1822,1822,"William Hayward, Jr.",HW0144,Republican,A03,1720,248,-1472,0.86
+md.uscongress7.1822,1822,"William Hayward, Jr.",HW0144,Republican,A03,1720,248,-1472,0.86
+md.uscongress5.1822,1822,John Patterson,PJ0186,Republican,A03,599,1973,1374,0.7
+md.uscongress7.1822,1822,Thomas Emory,ET0007,Republican,A03,1431,60,-1371,0.96
+md.uscongress7.1822,1822,Thomas Emory,ET0007,Republican,A03,1431,120,-1311,0.92
+md.uscongress7.1822,1822,Thomas Emory,ET0007,Republican,A03,1431,159,-1272,0.89
+md.uscongress2.1822,1822,Joseph Kent,KJ0034,Republican,A03,1688,418,-1270,0.75
+md.uscongress7.1822,1822,Thomas Emory,ET0007,Republican,A03,1431,247,-1184,0.83
+md.uscongress8.1822,1822,James Murray,MJ0225,Federalist,A01,1288,150,-1138,0.88
+md.uscongress8.1822,1822,James Murray,MJ0225,Federalist,A01,1288,150,-1138,0.88
+md.uscongress8.1822,1822,James Murray,MJ0225,Federalist,A01,1288,270,-1018,0.79
+md.uscongress4.1822,1822,Casper Weaver,WC0031,Republican,A03,390,NA,-390,1.0
+md.uscongress4.1822,1822,William Gabby,GW0039,Republican,A03,360,NA,-360,1.0
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,420,280,0.67
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,356,216,0.61
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,351,211,0.6
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,339,199,0.59
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,18,-122,0.87
+md.uscongress4.1822,1822,Joseph Swearingen,SJ0246,Republican,A03,91,NA,-91,1.0
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,197,57,0.29
+md.uscongress6.1822,1822,Philip Reed,RP0009,Federalist,A01,10,6,-4,0.4
+md.uscongress4.1822,1822,Gabriel Norse,NG0006,null,null,2,NA,-2,1.0
+md.uscongress1.1822,1822,James Fenwick,FJ0074,null,null,7,7,0,0.0
+md.uscongress1.1822,1822,Raphael Neale,NR0018,Federalist,A01,1344,1344,0,0.0
+md.uscongress1.1822,1822,Thomas Blackiston,BT0085,Federalist,A01,724,724,0,0.0
+md.uscongress1.1822,1822,Thomas O. Bean,BT0014,null,null,1,1,0,0.0
+md.uscongress1.1822,1822,William Blackiston,BW0060,null,null,1,1,0,0.0
+md.uscongress2.1822,1822,Alexander C. Magruder,MA0076,null,null,2,2,0,0.0
+md.uscongress2.1822,1822,Joseph Kent,KJ0034,Republican,A03,1688,1688,0,0.0
+md.uscongress2.1822,1822,Richard Howard,HR0155,null,null,2,2,0,0.0
+md.uscongress2.1822,1822,Thomas King,KT0015,null,null,5,5,0,0.0
+md.uscongress3.1822,1822,Barton Harris,HB0062,null,null,81,81,0,0.0
+md.uscongress3.1822,1822,Henry R. Warfield,WH0013,Federalist,A01,2707,2707,0,0.0
+md.uscongress6.1822,1822,A. B. Hanson,HA0000,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,A. B. Hanson,HA0000,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,Amos D. Parker,PA0000,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,B. Monahan,MB0044,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,Charles S. Sewell,SC0014,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Eli Plummer,PE0000,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Eli Plummer,PE0000,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,George E. Mitchell,MG0025,Republican,A03,3133,3133,0,0.0
+md.uscongress6.1822,1822,George W. Hanson,HG0012,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,George W. Hanson,HG0012,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,George W. Thomas,TG0031,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,George W. Thomas,TG0031,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,Isaiah Cooper,CI0018,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Israel Reynolds,RI0015,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,James Grey,GJ0035,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,James Rowland,RJ0400,null,null,3,3,0,0.0
+md.uscongress6.1822,1822,Jeremiah Cosden,CJ0268,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,John B. Eccleston,EJ0059,null,null,3,3,0,0.0
+md.uscongress6.1822,1822,John B. Eccleston,EJ0059,null,null,3,3,0,0.0
+md.uscongress6.1822,1822,John Buck,BJ0828,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,John Buck,BJ0828,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,John G. Grindall,GJ0127,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Joseph Gears,GJ0034,null,null,3,3,0,0.0
+md.uscongress6.1822,1822,Joseph Gears,GJ0034,null,null,3,3,0,0.0
+md.uscongress6.1822,1822,Michael Miller,MM0065,null,null,5,5,0,0.0
+md.uscongress6.1822,1822,Michael Miller,MM0065,null,null,5,5,0,0.0
+md.uscongress6.1822,1822,Peregrine L. Lynch,LP0031,Republican,A03,140,140,0,0.0
+md.uscongress6.1822,1822,Philip Reed,RP0009,Federalist,A01,10,10,0,0.0
+md.uscongress6.1822,1822,Robert John,JR0001,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Samuel M. Canady,CS0199,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Samuel M. Canady,CS0199,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,Thomas W. Bond,BT0101,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,William Davis,DW0071,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,William Davis,DW0071,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,William Jadwin,JW0041,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,William Jadwin,JW0041,null,null,2,2,0,0.0
+md.uscongress6.1822,1822,William Moffett,MW0104,null,null,1,1,0,0.0
+md.uscongress6.1822,1822,William Moffett,MW0104,null,null,1,1,0,0.0
+md.uscongress7.1822,1822,Thomas Emory,ET0007,Republican,A03,1431,1431,0,0.0
+md.uscongress7.1822,1822,"William Hayward, Jr.",HW0144,Republican,A03,1720,1720,0,0.0
+md.uscongress8.1822,1822,Bob Griffith,GR0074,null,null,1,1,0,0.0
+md.uscongress8.1822,1822,James Murray,MJ0225,Federalist,A01,1288,1288,0,0.0
+md.uscongress8.1822,1822,John S. Spence,SJ0312,Republican,A03,2558,2558,0,0.0
+md.uscongress8.1822,1822,Samuel Heath,HS0010,null,null,1,1,0,0.0

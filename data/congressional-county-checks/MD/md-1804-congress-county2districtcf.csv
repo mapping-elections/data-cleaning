@@ -1,0 +1,80 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,69,-2869,0.98
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,94,-2844,0.97
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,111,-2827,0.96
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,133,-2805,0.95
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,166,-2772,0.94
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,198,-2740,0.93
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,215,-2723,0.93
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,59,-2613,0.98
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,75,-2597,0.97
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,85,-2587,0.97
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,91,-2581,0.97
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,161,-2511,0.94
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,189,-2483,0.93
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,197,-2475,0.93
+md.uscongress6.1804,1804,John Archer,AJ0075,Republican,A03,2042,209,-1833,0.9
+md.uscongress6.1804,1804,John Archer,AJ0075,Republican,A03,2042,224,-1818,0.89
+md.uscongress6.1804,1804,John Archer,AJ0075,Republican,A03,2042,266,-1776,0.87
+md.uscongress6.1804,1804,John Archer,AJ0075,Republican,A03,2042,273,-1769,0.87
+md.uscongress6.1804,1804,John Archer,AJ0075,Republican,A03,2042,299,-1743,0.85
+md.uscongress4.1804,1804,Roger Nelson,NR0020,Republican,A03,1626,111,-1515,0.93
+md.uscongress4.1804,1804,Roger Nelson,NR0020,Republican,A03,1626,114,-1512,0.93
+md.uscongress4.1804,1804,Roger Nelson,NR0020,Republican,A03,1626,245,-1381,0.85
+md.uscongress4.1804,1804,Roger Nelson,NR0020,Republican,A03,1626,309,-1317,0.81
+md.uscongress5.1804,1804,Robert Goodloe Harper,HR0079,Federalist,A01,105,1,-104,0.99
+md.uscongress5.1804,1804,Robert Goodloe Harper,HR0079,Federalist,A01,105,2,-103,0.98
+md.uscongress5.1804,1804,John Stricker,SJ0047,Republican,A03,34,3,-31,0.91
+md.uscongress5.1804,1804,Charles Ridgley,RC0025,Federalist,A01,13,1,-12,0.92
+md.uscongress7.1804,1804,John Goldsborough,GJ0096,null,null,11,1,-10,0.91
+md.uscongress7.1804,1804,John Goldsborough,GJ0096,null,null,11,3,-8,0.73
+md.uscongress5.1804,1804,Charles Ridgley,RC0025,Federalist,A01,13,6,-7,0.54
+md.uscongress5.1804,1804,John Stricker,SJ0047,Republican,A03,34,30,-4,0.12
+md.uscongress7.1804,1804,John Goldsborough,GJ0096,null,null,11,7,-4,0.36
+md.uscongress5.1804,1804,George Buchanan,BG0026,null,null,4,1,-3,0.75
+md.uscongress5.1804,1804,George Buchanan,BG0026,null,null,4,1,-3,0.75
+md.uscongress5.1804,1804,George Buchanan,BG0026,null,null,4,2,-2,0.5
+md.uscongress4.1804,1804,John Shirer,SJ0052,null,null,2,1,-1,0.5
+md.uscongress6.1804,1804,Abraham Jarrett,JA0018,null,null,1,NA,-1,1.0
+md.uscongress6.1804,1804,Abraham Jarrett,JA0018,null,null,1,NA,-1,1.0
+md.uscongress6.1804,1804,Abraham Jarrett,JA0018,null,null,1,NA,-1,1.0
+md.uscongress6.1804,1804,Abraham Jarrett,JA0018,null,null,1,NA,-1,1.0
+md.uscongress1.1804,1804,Barton Tabbs,TB0021,null,null,1,1,0,0.0
+md.uscongress1.1804,1804,John Campbell,CJ0207,Federalist,A01,1253,1253,0,0.0
+md.uscongress1.1804,1804,William Thomas,TW0029,null,null,4,4,0,0.0
+md.uscongress2.1804,1804,Archibald Van Horne,VA0054,Republican,A03,751,751,0,0.0
+md.uscongress2.1804,1804,Clement Hill,HC0024,Federalist,A01,18,18,0,0.0
+md.uscongress2.1804,1804,John Hall,HJ0533,null,null,1,1,0,0.0
+md.uscongress2.1804,1804,Leonard Covington,CL0008,Republican,A03,834,834,0,0.0
+md.uscongress3.1804,1804,Patrick Magruder,MP0018,Republican,A03,751,751,0,0.0
+md.uscongress3.1804,1804,Thomas Plater,PT0052,Federalist,A01,955,955,0,0.0
+md.uscongress4.1804,1804,Benjamin Brady,BB0014,null,null,1,1,0,0.0
+md.uscongress4.1804,1804,Charles Heck,HC0092,null,null,3,3,0,0.0
+md.uscongress4.1804,1804,Edmund Boyde,BE0149,null,null,1,1,0,0.0
+md.uscongress4.1804,1804,Eli Williams,WE0027,Federalist,A01,14,14,0,0.0
+md.uscongress4.1804,1804,George Rinehart,RG0050,null,null,1,1,0,0.0
+md.uscongress4.1804,1804,George Thistle,TG0057,null,null,1,1,0,0.0
+md.uscongress4.1804,1804,Jacob Shook,SJ0051,null,null,1,1,0,0.0
+md.uscongress4.1804,1804,James Morrison,MJ0262,null,null,1,1,0,0.0
+md.uscongress4.1804,1804,Roger Nelson,NR0020,Republican,A03,1626,1626,0,0.0
+md.uscongress4.1804,1804,William Beard,BW0159,null,null,1,1,0,0.0
+md.uscongress5.1804,1804,Charles Ridgley,RC0025,Federalist,A01,13,13,0,0.0
+md.uscongress5.1804,1804,Clement Brooke,BC0098,Federalist,A01,1,1,0,0.0
+md.uscongress5.1804,1804,Edward Johnson,JE0007,Federalist,A01,2,2,0,0.0
+md.uscongress5.1804,1804,George Buchanan,BG0026,null,null,4,4,0,0.0
+md.uscongress5.1804,1804,James MacHenry,MJ0196,Federalist,A01,5,5,0,0.0
+md.uscongress5.1804,1804,John Stricker,SJ0047,Republican,A03,34,34,0,0.0
+md.uscongress5.1804,1804,Jonathan Hughes,HJ0189,Federalist,A01,1,1,0,0.0
+md.uscongress5.1804,1804,Nicholas R. Moore,MN0021,Republican,A03,2938,2938,0,0.0
+md.uscongress5.1804,1804,Robert Goodloe Harper,HR0079,Federalist,A01,105,105,0,0.0
+md.uscongress5.1804,1804,William Duncan,DW0114,Federalist,A01,1,1,0,0.0
+md.uscongress5.1804,1804,William MacCreery,MW0092,Republican,A03,2672,2672,0,0.0
+md.uscongress6.1804,1804,Abraham Jarrett,JA0018,null,null,1,1,0,0.0
+md.uscongress6.1804,1804,Abraham Jarrett,JA0018,null,null,1,1,0,0.0
+md.uscongress6.1804,1804,John Archer,AJ0075,Republican,A03,2042,2042,0,0.0
+md.uscongress7.1804,1804,George Dawson,DG0040,null,null,0,NA,0,NaN
+md.uscongress7.1804,1804,Joseph H. Nicholson,NJ0026,Republican,A03,1792,1792,0,0.0
+md.uscongress7.1804,1804,Thomas James,JT0063,null,null,0,NA,0,NaN
+md.uscongress8.1804,1804,Charles Goldsborough,GC0057,Federalist,A01,2397,2397,0,0.0
+md.uscongress8.1804,1804,Henry Waggaman,WH0017,Republican,A03,1840,1840,0,0.0
+md.uscongress8.1804,1804,William Winder,WW0073,null,null,1,1,0,0.0

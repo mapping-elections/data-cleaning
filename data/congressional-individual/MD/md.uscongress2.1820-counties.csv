@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,942
+2,Anne Arundel,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John C. Herbert,HJ0191,null,null,NA
+3,Anne Arundel,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard J. Crabb,CR0025,null,null,8
+4,Anne Arundel,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gerald Cowman,CG0003,null,null,6
+5,Anne Arundel,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Robert W. Bowie,BR0037,null,null,NA
+6,Anne Arundel,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Somervell,SJ0196,null,null,NA
+1,Prince George's,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Kent,KJ0034,Republican,A03,825
+2,Prince George's,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John C. Herbert,HJ0191,null,null,41
+3,Prince George's,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard J. Crabb,CR0025,null,null,NA
+4,Prince George's,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gerald Cowman,CG0003,null,null,NA
+5,Prince George's,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Robert W. Bowie,BR0037,null,null,1
+6,Prince George's,md.uscongress2.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,James Somervell,SJ0196,null,null,1

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress7.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hindman,HW0097,Federalist,A01,1,1389
+md.uscongress7.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Tilghman,TJ0158,Anti-Federalist,A02,2,1300

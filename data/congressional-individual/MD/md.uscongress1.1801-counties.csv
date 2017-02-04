@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,249
+2,Calvert,md.uscongress1.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Frances Digges,DF0005,Republican,A03,138
+1,Charles,md.uscongress1.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,661
+2,Charles,md.uscongress1.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Frances Digges,DF0005,Republican,A03,189
+1,Saint Mary's,md.uscongress1.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,297
+2,Saint Mary's,md.uscongress1.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Frances Digges,DF0005,Republican,A03,42

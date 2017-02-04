@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dorchester,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,Federalist,A01,571
+2,Dorchester,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ephraim K. Wilson,WE0025,Federalist,A01,855
+3,Dorchester,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,Republican,A03,NA
+1,Somerset,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,Federalist,A01,1298
+2,Somerset,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ephraim K. Wilson,WE0025,Federalist,A01,109
+3,Somerset,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,Republican,A03,86
+1,Worcester,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Bayly,BT0056,Federalist,A01,670
+2,Worcester,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Ephraim K. Wilson,WE0025,Federalist,A01,1325
+3,Worcester,md.uscongress8.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,Republican,A03,NA

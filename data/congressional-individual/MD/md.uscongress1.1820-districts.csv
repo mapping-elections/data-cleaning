@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ralph Neale,NR0018,Federalist,A01,1,One,1405
+md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Stonestreet,SN0046,Federalist,A01,2,One,1197
+md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Neale,NF0004,null,null,3,One,1

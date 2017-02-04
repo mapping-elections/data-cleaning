@@ -1,0 +1,248 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,408
+2,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,NA
+3,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,NA
+4,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,NA
+5,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,NA
+6,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,408
+8,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,408
+9,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,408
+10,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,408
+11,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,408
+12,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Allegany,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,40
+2,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,38
+3,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,29
+4,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,3
+5,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,5
+6,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,1
+7,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,38
+8,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,37
+9,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,33
+10,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,12
+11,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,4
+12,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Anne Arundel,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,2486
+2,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,2486
+3,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,2486
+4,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,2486
+5,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,2486
+6,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,2486
+7,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,NA
+8,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,NA
+9,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,NA
+10,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,NA
+11,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,NA
+12,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Baltimore,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,232
+2,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,23
+3,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,4
+4,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,3
+5,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,1
+6,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,235
+8,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,229
+9,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,237
+10,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,230
+11,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,212
+12,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Calvert,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,633
+2,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,622
+3,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,331
+4,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,396
+5,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,313
+6,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,312
+7,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,322
+8,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,294
+9,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,319
+10,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,317
+11,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,NA
+12,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Caroline,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,901
+2,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,857
+3,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,873
+4,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,855
+5,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,856
+6,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,855
+7,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,33
+8,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,36
+9,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,33
+10,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,19
+11,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,33
+12,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Cecil,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,1018
+2,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,NA
+3,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,NA
+4,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,NA
+5,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,NA
+6,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,1018
+8,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,1019
+9,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,1025
+10,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,1019
+11,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,1019
+12,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Charles,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,538
+2,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,540
+3,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,535
+4,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,543
+5,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,533
+6,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,531
+7,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,7
+8,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,6
+9,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,3
+10,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,7
+11,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,NA
+12,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Dorchester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,132
+2,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,6
+3,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,5
+4,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,5
+5,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,5
+6,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,5
+7,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,688
+8,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,686
+9,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,688
+10,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,686
+11,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,684
+12,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Frederick,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,1285
+2,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,1283
+3,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,1282
+4,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,1281
+5,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,1282
+6,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,1283
+7,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,NA
+8,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,NA
+9,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,NA
+10,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,NA
+11,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,NA
+12,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Harford,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,548
+2,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,481
+3,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,573
+4,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,463
+5,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,441
+6,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,431
+7,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,83
+8,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,86
+9,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,58
+10,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,62
+11,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,54
+12,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,6
+13,Kent,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,1416
+2,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,NA
+3,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,NA
+4,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,NA
+5,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,NA
+6,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,1418
+8,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,1419
+9,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,1419
+10,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,1419
+11,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,1419
+12,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Montgomery,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,965
+2,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,2
+3,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,2
+4,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,1
+5,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,NA
+6,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,974
+8,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,972
+9,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,975
+10,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,972
+11,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,973
+12,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Prince George's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,438
+2,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,429
+3,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,461
+4,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,395
+5,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,396
+6,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,389
+7,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,33
+8,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,41
+9,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,34
+10,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,38
+11,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,18
+12,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,2
+13,Queen Anne's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,373
+2,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,133
+3,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,135
+4,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,85
+5,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,231
+6,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,380
+8,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,290
+9,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,197
+10,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,237
+11,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,238
+12,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Saint Mary's,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,147
+2,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,38
+3,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,21
+4,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,NA
+5,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,11
+6,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,15
+7,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,131
+8,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,181
+9,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,126
+10,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,128
+11,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,106
+12,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Somerset,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,280
+2,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,123
+3,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,51
+4,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,50
+5,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,24
+6,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,28
+7,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,255
+8,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,247
+9,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,246
+10,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,243
+11,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,166
+12,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Talbot,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,1152
+2,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,NA
+3,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,NA
+4,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,NA
+5,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,NA
+6,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,NA
+7,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,1152
+8,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,1152
+9,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,1152
+10,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,1152
+11,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,1152
+12,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,NA
+13,Washington,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA
+1,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Sterett,SS0058,Chesapeake,A09,278
+2,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Pinkney,PW0043,Chesapeake,A09,228
+3,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Seney,SJ0183,Chesapeake,A09,4
+4,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,William Vans Murray,MW0069,Chesapeake,A09,2
+5,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Key,KP0011,Chesapeake,A09,NA
+6,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Upton Sheredine,SU0000,Chesapeake,A09,1
+7,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Carroll,CD0030,Potomac,A09,263
+8,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,George Gale,GG0007,Potomac,A09,278
+9,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Michael Jenifer Stone,SM0034,Potomac,A09,264
+10,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Tilghman,TJ0158,Potomac,A09,268
+11,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Benjamin Contee,CB0013,Potomac,A09,40
+12,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,Dent,null,null,null,3
+13,Worcester,md.uscongress.1790,1790,1790,General,Maryland 1790 U.S. House of Representatives,U.S. House of Representatives,ON125,James Brown,BJ0266,null,null,NA

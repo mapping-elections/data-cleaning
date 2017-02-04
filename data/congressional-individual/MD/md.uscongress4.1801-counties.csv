@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Heister,HD0024,Republican,A03,241
+2,Allegany,md.uscongress4.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,Federalist,A01,398
+1,Frederick,md.uscongress4.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Heister,HD0024,Republican,A03,1041
+2,Frederick,md.uscongress4.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,Federalist,A01,553
+1,Washington,md.uscongress4.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Heister,HD0024,Republican,A03,1178
+2,Washington,md.uscongress4.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Eli Williams,WE0027,Federalist,A01,874

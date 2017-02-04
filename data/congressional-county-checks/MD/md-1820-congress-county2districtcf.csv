@@ -1,0 +1,75 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,211,-4728,0.96
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,295,-4644,0.94
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,316,-4623,0.94
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,367,-4572,0.93
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,385,-4554,0.92
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,442,-4497,0.91
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,474,-4465,0.9
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,503,-4436,0.9
+md.uscongress6.1820,1820,Jeremiah Cosden,CJ0268,Republican,A03,2340,116,-2224,0.95
+md.uscongress6.1820,1820,Jeremiah Cosden,CJ0268,Republican,A03,2340,130,-2210,0.94
+md.uscongress6.1820,1820,Philip Reed,RP0009,Federalist,A01,2340,176,-2164,0.92
+md.uscongress6.1820,1820,Jeremiah Cosden,CJ0268,Republican,A03,2340,201,-2139,0.91
+md.uscongress6.1820,1820,Philip Reed,RP0009,Federalist,A01,2340,204,-2136,0.91
+md.uscongress6.1820,1820,Philip Reed,RP0009,Federalist,A01,2340,252,-2088,0.89
+md.uscongress2.1820,1820,Joseph Kent,KJ0034,Republican,A03,1767,69,-1698,0.96
+md.uscongress2.1820,1820,Joseph Kent,KJ0034,Republican,A03,1767,108,-1659,0.94
+md.uscongress2.1820,1820,Joseph Kent,KJ0034,Republican,A03,1767,163,-1604,0.91
+md.uscongress7.1820,1820,Robert Wright,WR0038,Republican,A03,1604,23,-1581,0.99
+md.uscongress2.1820,1820,Joseph Kent,KJ0034,Republican,A03,1767,190,-1577,0.89
+md.uscongress7.1820,1820,Robert Wright,WR0038,Republican,A03,1604,37,-1567,0.98
+md.uscongress2.1820,1820,Joseph Kent,KJ0034,Republican,A03,1767,260,-1507,0.85
+md.uscongress7.1820,1820,Robert Wright,WR0038,Republican,A03,1604,180,-1424,0.89
+md.uscongress7.1820,1820,Thomas Culbreth,CT0095,Federalist,A01,1572,189,-1383,0.88
+md.uscongress7.1820,1820,Thomas Culbreth,CT0095,Federalist,A01,1572,205,-1367,0.87
+md.uscongress7.1820,1820,Thomas Culbreth,CT0095,Federalist,A01,1572,275,-1297,0.83
+md.uscongress2.1820,1820,John C. Herbert,HJ0191,null,null,41,6,-35,0.85
+md.uscongress6.1820,1820,John Ferguson,FJ0464,null,null,1,NA,-1,1.0
+md.uscongress6.1820,1820,John Ferguson,FJ0464,null,null,1,NA,-1,1.0
+md.uscongress8.1820,1820,Noah Wheeler,WN0038,null,null,1,NA,-1,1.0
+md.uscongress1.1820,1820,Francis Neale,NF0004,null,null,1,1,0,0.0
+md.uscongress1.1820,1820,Nicholas Stonestreet,SN0046,Federalist,A01,1197,1197,0,0.0
+md.uscongress1.1820,1820,Ralph Neale,NR0018,Federalist,A01,1405,1405,0,0.0
+md.uscongress2.1820,1820,Gerald Cowman,CG0003,null,null,6,6,0,0.0
+md.uscongress2.1820,1820,James Somervell,SJ0196,null,null,1,1,0,0.0
+md.uscongress2.1820,1820,John C. Herbert,HJ0191,null,null,41,41,0,0.0
+md.uscongress2.1820,1820,Joseph Kent,KJ0034,Republican,A03,1767,1767,0,0.0
+md.uscongress2.1820,1820,Richard J. Crabb,CR0025,null,null,8,8,0,0.0
+md.uscongress2.1820,1820,Robert W. Bowie,BR0037,null,null,1,1,0,0.0
+md.uscongress3.1820,1820,Henry R. Warfield,WH0013,Federalist,A01,3098,3098,0,0.0
+md.uscongress3.1820,1820,scattering,null,null,null,22,22,0,0.0
+md.uscongress4.1820,1820,Daniel Schnebly,SD0054,null,null,1,1,0,0.0
+md.uscongress4.1820,1820,David Mellinger,MD0131,null,null,13,13,0,0.0
+md.uscongress4.1820,1820,Jacob Mellinger,MJ0325,null,null,1,1,0,0.0
+md.uscongress4.1820,1820,John Nelson,NJ0035,Republican,A03,3501,3501,0,0.0
+md.uscongress4.1820,1820,Samuel Hughes,HS0068,null,null,1,1,0,0.0
+md.uscongress4.1820,1820,Thomas C. Worthington,WT0053,Federalist,A01,2534,2534,0,0.0
+md.uscongress5.1820,1820,Peter Little,LP0015,Republican,A03,7441,7441,0,0.0
+md.uscongress5.1820,1820,Samuel Smith,SS0062,Republican,A03,7440,7440,0,0.0
+md.uscongress6.1820,1820,George B. Milligan,MG0032,null,null,1,1,0,0.0
+md.uscongress6.1820,1820,Jeremiah Cosden,CJ0268,Republican,A03,2340,2340,0,0.0
+md.uscongress6.1820,1820,John Ferguson,FJ0464,null,null,1,1,0,0.0
+md.uscongress6.1820,1820,John Ferguson,FJ0464,null,null,1,1,0,0.0
+md.uscongress6.1820,1820,John S. Moffitt,MJ0271,null,null,1,1,0,0.0
+md.uscongress6.1820,1820,Philip Reed,RP0009,Federalist,A01,2340,2340,0,0.0
+md.uscongress6.1820,1820,Robert Archer,AR0016,null,null,1,1,0,0.0
+md.uscongress6.1820,1820,Thomas Williams,WT0021,null,null,1,1,0,0.0
+md.uscongress7.1820,1820,John Kelsey,KJ0052,null,null,1,1,0,0.0
+md.uscongress7.1820,1820,John Leeds Kerr,KJ0030,null,null,1,1,0,0.0
+md.uscongress7.1820,1820,Robert Wright,WR0038,Republican,A03,1604,1604,0,0.0
+md.uscongress7.1820,1820,Thomas Culbreth,CT0095,Federalist,A01,1572,1572,0,0.0
+md.uscongress8.1820,1820,Caleb Griffin,GC0059,null,null,1,1,0,0.0
+md.uscongress8.1820,1820,Charles Goldsborough,GC0057,Federalist,A01,10,10,0,0.0
+md.uscongress8.1820,1820,Ennals Rawsil,RE0019,null,null,1,1,0,0.0
+md.uscongress8.1820,1820,Enoch Sloan,SE0015,null,null,2,2,0,0.0
+md.uscongress8.1820,1820,Ephraim Williams,WE0006,null,null,1,1,0,0.0
+md.uscongress8.1820,1820,Ephraim Williams,WE0006,null,null,1,1,0,0.0
+md.uscongress8.1820,1820,Greenburg L. Rawley,RG0000,null,null,1,1,0,0.0
+md.uscongress8.1820,1820,John Lecompte,LJ0239,null,null,1,1,0,0.0
+md.uscongress8.1820,1820,Samuel Banks,BS0320,null,null,4,4,0,0.0
+md.uscongress8.1820,1820,Thomas Bayly,BT0056,supported by both parties,A10,4939,4939,0,0.0
+md.uscongress8.1820,1820,Thomas Williams,WT0027,null,null,2,2,0,0.0
+md.uscongress8.1820,1820,Thomas Williams,WT0027,null,null,2,2,0,0.0
+md.uscongress8.1820,1820,Tristam Richardson,RT0016,null,null,2,2,0,0.0
+md.uscongress8.1820,1820,William C. Ridgeway,RW0037,null,null,1,1,0,0.0

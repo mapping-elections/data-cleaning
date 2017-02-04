@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ralph Neale,NR0018,Federalist,A01,524
+2,Calvert,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Stonestreet,SN0046,Federalist,A01,218
+3,Calvert,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Neale,NF0004,null,null,NA
+1,Charles,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ralph Neale,NR0018,Federalist,A01,148
+2,Charles,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Stonestreet,SN0046,Federalist,A01,844
+3,Charles,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Neale,NF0004,null,null,1
+1,Saint Mary's,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ralph Neale,NR0018,Federalist,A01,733
+2,Saint Mary's,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Stonestreet,SN0046,Federalist,A01,135
+3,Saint Mary's,md.uscongress1.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Neale,NF0004,null,null,NA

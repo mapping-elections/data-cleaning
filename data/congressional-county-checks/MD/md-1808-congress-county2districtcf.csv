@@ -1,0 +1,59 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress5.1808,1808,Nicholas Moore,MN0021,Republican,A03,3305,6857,3552,0.52
+md.uscongress5.1808,1808,Alexander MacKim,MA0045,Republican,A03,3103,6642,3539,0.53
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,94,-2475,0.96
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,133,-2436,0.95
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,190,-2379,0.93
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,197,-2372,0.92
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,204,-2365,0.92
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,206,-2363,0.92
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,211,-2358,0.92
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,366,-2203,0.86
+md.uscongress2.1808,1808,Archibald Van Horn,VA0054,Republican,A03,1770,55,-1715,0.97
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,11,-1631,0.99
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,35,-1607,0.98
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,35,-1607,0.98
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,39,-1603,0.98
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,44,-1598,0.97
+md.uscongress2.1808,1808,Archibald Van Horn,VA0054,Republican,A03,1770,207,-1563,0.88
+md.uscongress2.1808,1808,Archibald Van Horn,VA0054,Republican,A03,1770,212,-1558,0.88
+md.uscongress2.1808,1808,Archibald Van Horn,VA0054,Republican,A03,1770,214,-1556,0.88
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,149,-1493,0.91
+md.uscongress2.1808,1808,Archibald Van Horn,VA0054,Republican,A03,1770,280,-1490,0.84
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,194,-1448,0.88
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,200,-1442,0.88
+md.uscongress2.1808,1808,Henry A. Callis,CH0056,Federalist,A01,1179,9,-1170,0.99
+md.uscongress2.1808,1808,Henry A. Callis,CH0056,Federalist,A01,1179,48,-1131,0.96
+md.uscongress2.1808,1808,Henry A. Callis,CH0056,Federalist,A01,1179,107,-1072,0.91
+md.uscongress2.1808,1808,Henry A. Callis,CH0056,Federalist,A01,1179,124,-1055,0.89
+md.uscongress2.1808,1808,Henry A. Callis,CH0056,Federalist,A01,1179,197,-982,0.83
+md.uscongress5.1808,1808,William Winder,WW0073,Federalist,A01,1004,1818,814,0.45
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,1,-780,1.0
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,2,-779,1.0
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,3,-778,1.0
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,59,-722,0.92
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,141,-640,0.82
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,160,-621,0.8
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,182,-599,0.77
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,217,-564,0.72
+md.uscongress2.1808,1808,Henry A. Callis,CH0056,Federalist,A01,1179,1183,4,0.0
+md.uscongress7.1808,1808,John Brown,BJ0315,Republican,A03,2181,2180,-1,0.0
+md.uscongress1.1808,1808,James Fenwick,FJ0074,Republican,A03,774,774,0,0.0
+md.uscongress1.1808,1808,John Campbell,CJ0207,Federalist,A01,1828,1828,0,0.0
+md.uscongress1.1808,1808,John Mitchell,MJ0207,null,null,1,1,0,0.0
+md.uscongress1.1808,1808,John R. Plater,PJ0155,Federalist,A01,3,3,0,0.0
+md.uscongress1.1808,1808,Philip Stewart,SP0013,null,null,1,1,0,0.0
+md.uscongress2.1808,1808,Archibald Van Horn,VA0054,Republican,A03,1770,1770,0,0.0
+md.uscongress3.1808,1808,John Wampler,WJ0178,Republican,A03,1358,1358,0,0.0
+md.uscongress3.1808,1808,Philip B. Key,KP0001,Federalist,A01,2698,2698,0,0.0
+md.uscongress4.1808,1808,John Ratton,RJ0398,null,null,3,3,0,0.0
+md.uscongress4.1808,1808,Roger Nelson,NR0020,Republican,A03,3078,3078,0,0.0
+md.uscongress4.1808,1808,Upton Bruce,BU0002,Federalist,A01,2865,2865,0,0.0
+md.uscongress6.1808,1808,John Archer,AJ0075,Republican,A03,781,781,0,0.0
+md.uscongress6.1808,1808,John Montgomery,MJ0205,Republican,A03,2569,2569,0,0.0
+md.uscongress6.1808,1808,William Spencer,SW0032,Federalist,A01,1642,1642,0,0.0
+md.uscongress7.1808,1808,Edward Lloyd,LE0016,null,null,1,1,0,0.0
+md.uscongress7.1808,1808,John Harwood,HJ0164,null,null,1,1,0,0.0
+md.uscongress7.1808,1808,Robert H. Goldsborough,GR0028,Federalist,A01,1541,1541,0,0.0
+md.uscongress8.1808,1808,Charles Goldsborough,GC0057,Federalist,A01,2634,2634,0,0.0
+md.uscongress8.1808,1808,Charles Nutter,NC0000,Republican,A03,874,874,0,0.0

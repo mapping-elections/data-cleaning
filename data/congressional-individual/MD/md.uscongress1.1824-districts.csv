@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress1.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Clement Dorsey,DC0019,Federalist,A01,1,One,1824
+md.uscongress1.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Raphael Neale,NR0018,Federalist,A01,2,One,1476
+md.uscongress1.1824,1824,1824,General,"Maryland 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Nicholas Williams,WN0002,null,null,3,One,1

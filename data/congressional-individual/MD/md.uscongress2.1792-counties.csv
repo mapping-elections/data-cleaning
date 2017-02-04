@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John F. Mercer,MJ0200,Anti-Federalist,A02,608
+2,Anne Arundel,md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Thomas,TJ0160,Federalist,A01,667
+3,Anne Arundel,md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard A. Contee,CR0017,null,null,NA
+1,Prince George's,md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John F. Mercer,MJ0200,Anti-Federalist,A02,797
+2,Prince George's,md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Thomas,TJ0160,Federalist,A01,372
+3,Prince George's,md.uscongress2.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard A. Contee,CR0017,null,null,23

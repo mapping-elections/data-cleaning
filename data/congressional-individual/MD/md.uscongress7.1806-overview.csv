@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Edward Lloyd,LE0016,Republican,A03,1,2614
+md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James Brown,BJ0266,Quid,A04,2,607
+md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Hugh Sherwood,SH0028,null,null,3,1
+md.uscongress7.1806,1806,1806,General,"Maryland 1806 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel Tilghman,TS0083,null,null,4,1

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress7.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Culbreth,CT0095,Republican,A03,1,1879
+md.uscongress7.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Potter,PW0046,Federalist,A01,2,1818
+md.uscongress7.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Emory,ET0007,null,null,3,1

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress4.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,1,Four,2846
+md.uscongress4.1798,1798,1798,General,"Maryland 1798 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Daniel Heister,HD0024,Republican,A03,2,Four,2338

@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,1,Six,3147
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,1,One,198
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,1,Two,180
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Stevenson Archer,AS0013,Republican,A03,1,Three,198
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Garrison Moffet,MT0057,null,null,2,Six,3
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Garrison Moffet,MT0057,null,null,2,One,NA
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Garrison Moffet,MT0057,null,null,2,Two,NA
+md.uscongress6.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Garrison Moffet,MT0057,null,null,2,Three,NA

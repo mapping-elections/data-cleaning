@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Raphael Neale,NR0018,Federalist,A01,348
+2,Calvert,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Blackiston,BT0085,Federalist,A01,100
+3,Calvert,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Fenwick,FJ0074,null,null,NA
+4,Calvert,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas O. Bean,BT0014,null,null,NA
+5,Calvert,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Blackiston,BW0060,null,null,NA
+1,Charles,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Raphael Neale,NR0018,Federalist,A01,414
+2,Charles,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Blackiston,BT0085,Federalist,A01,308
+3,Charles,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Fenwick,FJ0074,null,null,7
+4,Charles,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas O. Bean,BT0014,null,null,1
+5,Charles,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Blackiston,BW0060,null,null,1
+1,Saint Mary's,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Raphael Neale,NR0018,Federalist,A01,582
+2,Saint Mary's,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Blackiston,BT0085,Federalist,A01,316
+3,Saint Mary's,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Fenwick,FJ0074,null,null,NA
+4,Saint Mary's,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas O. Bean,BT0014,null,null,NA
+5,Saint Mary's,md.uscongress1.1822,1822,1822,General,"Maryland 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Blackiston,BW0060,null,null,NA

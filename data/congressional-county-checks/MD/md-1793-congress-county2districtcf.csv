@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+md.uscongress2.1793,1793,Thomas Whittington,WT0058,null,null,204,204,0,0.0
+md.uscongress2.1793,1793,William Hindman,HW0097,Federalist,A01,350,350,0,0.0

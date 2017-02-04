@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walter Bowie,BW0122,Republican,A03,1154
+2,Anne Arundel,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander Boone,BA0013,null,null,NA
+3,Anne Arundel,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Charles Carroll,CC0012,Federalist,A01,NA
+4,Anne Arundel,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Manning,MJ1120,null,null,NA
+5,Anne Arundel,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gabriel Van Horn,VG0000,null,null,NA
+6,Anne Arundel,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Whitemore,WH0052,null,null,NA
+1,Prince George's,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walter Bowie,BW0122,Republican,A03,930
+2,Prince George's,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Alexander Boone,BA0013,null,null,4
+3,Prince George's,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Charles Carroll,CC0012,Federalist,A01,2
+4,Prince George's,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Manning,MJ1120,null,null,2
+5,Prince George's,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Gabriel Van Horn,VG0000,null,null,1
+6,Prince George's,md.uscongress2.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Whitemore,WH0052,null,null,1

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,116
+2,Calvert,md.uscongress1.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,null,null,NA
+1,Charles,md.uscongress1.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,654
+2,Charles,md.uscongress1.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,null,null,NA
+1,Saint Mary's,md.uscongress1.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,15
+2,Saint Mary's,md.uscongress1.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,null,null,2

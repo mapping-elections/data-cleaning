@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Reed,RP0009,Federalist,A01,973
+2,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jeremiah Cosden,CJ0268,Republican,A03,1117
+3,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ferguson,FJ0464,null,null,NA
+4,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Archer,AR0016,null,null,1
+5,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,George B. Milligan,MG0032,null,null,1
+6,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John S. Moffitt,MJ0271,null,null,1
+7,Cecil,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Williams,WT0021,null,null,1
+1,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Reed,RP0009,Federalist,A01,735
+2,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jeremiah Cosden,CJ0268,Republican,A03,776
+3,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ferguson,FJ0464,null,null,NA
+4,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Archer,AR0016,null,null,NA
+5,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,George B. Milligan,MG0032,null,null,NA
+6,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John S. Moffitt,MJ0271,null,null,NA
+7,Harford,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Williams,WT0021,null,null,NA
+1,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Philip Reed,RP0009,Federalist,A01,632
+2,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jeremiah Cosden,CJ0268,Republican,A03,447
+3,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Ferguson,FJ0464,null,null,1
+4,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Archer,AR0016,null,null,NA
+5,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,George B. Milligan,MG0032,null,null,NA
+6,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John S. Moffitt,MJ0271,null,null,NA
+7,Kent,md.uscongress6.1820,1820,1820,General,"Maryland 1820 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Thomas Williams,WT0021,null,null,NA

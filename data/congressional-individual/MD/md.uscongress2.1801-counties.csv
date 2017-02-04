@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Anne Arundel,md.uscongress2.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Sprigg,SR0049,Republican,A03,829
+2,Anne Arundel,md.uscongress2.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Thomas,TJ0160,Federalist,A01,360
+1,Prince George's,md.uscongress2.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Sprigg,SR0049,Republican,A03,564
+2,Prince George's,md.uscongress2.1801,1801,1801,General,"Maryland 1801 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Thomas,TJ0160,Federalist,A01,390

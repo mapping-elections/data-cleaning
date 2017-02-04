@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.uscongress5.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Smith,SS0062,Republican,A03,1776
+2,Baltimore,md.uscongress5.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Peter Little,LP0015,Republican,A03,1680
+3,Baltimore,md.uscongress5.1816,1816,1816,General,"Maryland 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Tobias Stansbury,ST0095,Republican,A03,1461

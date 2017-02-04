@@ -1,0 +1,22 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,681
+2,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joshua Prideaux,PJ0138,Republican,A03,NA
+3,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James B. Robinson,RJ0049,Republican,A03,NA
+4,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Arthur Whitely,WA0005,null,null,NA
+5,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Heath,HS0010,null,null,NA
+6,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas S. Tapett,TT0044,null,null,NA
+7,Dorchester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,null,null,NA
+1,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,576
+2,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joshua Prideaux,PJ0138,Republican,A03,NA
+3,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James B. Robinson,RJ0049,Republican,A03,NA
+4,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Arthur Whitely,WA0005,null,null,2
+5,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Heath,HS0010,null,null,2
+6,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas S. Tapett,TT0044,null,null,NA
+7,Somerset,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,null,null,NA
+1,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Dennis,DJ0122,Federalist,A01,494
+2,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Joshua Prideaux,PJ0138,Republican,A03,62
+3,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,James B. Robinson,RJ0049,Republican,A03,20
+4,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Arthur Whitely,WA0005,null,null,6
+5,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Samuel Heath,HS0010,null,null,NA
+6,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas S. Tapett,TT0044,null,null,2
+7,Worcester,md.uscongress8.1803,1803,1803,General,"Maryland 1803 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Polk,PW0048,null,null,1

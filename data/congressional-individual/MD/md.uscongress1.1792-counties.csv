@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,346
+2,Calvert,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Federalist,A01,42
+3,Calvert,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,Federalist,A01,105
+1,Charles,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,619
+2,Charles,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Federalist,A01,506
+3,Charles,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,Federalist,A01,41
+1,Saint Mary's,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Dent,DG0004,Federalist,A01,6
+2,Saint Mary's,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Parnham,PJ0127,Federalist,A01,99
+3,Saint Mary's,md.uscongress1.1792,1792,1792,General,"Maryland 1792 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip B. Key,KP0001,Federalist,A01,409

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.uscongress4.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,449
+2,Allegany,md.uscongress4.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,61
+1,Frederick,md.uscongress4.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,709
+2,Frederick,md.uscongress4.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,16
+1,Washington,md.uscongress4.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,George Baer,BG0023,Federalist,A01,634
+2,Washington,md.uscongress4.1796,1796,1796,General,"Maryland 1796 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Ringgold,RS0013,Republican,A03,618

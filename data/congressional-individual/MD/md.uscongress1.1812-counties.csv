@@ -1,0 +1,31 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,367
+2,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,Republican,A03,NA
+3,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Mark Richardson,RM0043,null,null,NA
+4,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Caleb Hawkins,HC0033,Republican,A03,NA
+5,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry H. Chapman,CH0050,Federalist,A01,NA
+6,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Forbes,FJ0390,Republican,A03,NA
+7,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William G. Hunt,HW0234,null,null,NA
+8,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John R. Plater,PJ0155,Federalist,A01,NA
+9,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonas Rogerson,RJ0614,null,null,NA
+10,Calvert,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John B. Turner,TJ0586,null,null,NA
+1,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,1169
+2,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,Republican,A03,8
+3,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Mark Richardson,RM0043,null,null,4
+4,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Caleb Hawkins,HC0033,Republican,A03,3
+5,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry H. Chapman,CH0050,Federalist,A01,1
+6,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Forbes,FJ0390,Republican,A03,NA
+7,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William G. Hunt,HW0234,null,null,1
+8,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John R. Plater,PJ0155,Federalist,A01,1
+9,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonas Rogerson,RJ0614,null,null,1
+10,Charles,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John B. Turner,TJ0586,null,null,1
+1,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Philip Stewart,SP0013,Federalist,A01,515
+2,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Francis Digges,DF0005,Republican,A03,1
+3,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Mark Richardson,RM0043,null,null,NA
+4,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Caleb Hawkins,HC0033,Republican,A03,NA
+5,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry H. Chapman,CH0050,Federalist,A01,NA
+6,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Forbes,FJ0390,Republican,A03,1
+7,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William G. Hunt,HW0234,null,null,NA
+8,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John R. Plater,PJ0155,Federalist,A01,NA
+9,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jonas Rogerson,RJ0614,null,null,NA
+10,Saint Mary's,md.uscongress1.1812,1812,1812,General,"Maryland 1812 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John B. Turner,TJ0586,null,null,NA

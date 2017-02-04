@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dorchester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,938
+2,Dorchester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,Republican,A03,NA
+3,Dorchester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Levin Winder,WL0015,Federalist,A01,NA
+4,Dorchester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Cottman,CJ0222,null,null,NA
+5,Dorchester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Williams,WJ0163,null,null,NA
+1,Somerset,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,475
+2,Somerset,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,Republican,A03,95
+3,Somerset,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Levin Winder,WL0015,Federalist,A01,5
+4,Somerset,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Cottman,CJ0222,null,null,1
+5,Somerset,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Williams,WJ0163,null,null,1
+1,Worcester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Charles Goldsborough,GC0057,Federalist,A01,1049
+2,Worcester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Thomas Williams,WT0027,Republican,A03,841
+3,Worcester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Levin Winder,WL0015,Federalist,A01,NA
+4,Worcester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Cottman,CJ0222,null,null,NA
+5,Worcester,md.uscongress8.1810,1810,1810,General,"Maryland 1810 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Williams,WJ0163,null,null,NA

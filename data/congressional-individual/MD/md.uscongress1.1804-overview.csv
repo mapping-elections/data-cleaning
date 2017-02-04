@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.uscongress1.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Campbell,CJ0207,Federalist,A01,1,1253
+md.uscongress1.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Thomas,TW0029,null,null,2,4
+md.uscongress1.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Thomas,TW0029,null,null,2,1
+md.uscongress1.1804,1804,1804,General,"Maryland 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Barton Tabbs,TB0021,null,null,3,NA
