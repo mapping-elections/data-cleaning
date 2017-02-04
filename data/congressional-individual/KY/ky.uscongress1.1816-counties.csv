@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bath,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,538
+2,Bath,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,388
+1,Clark,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,751
+2,Clark,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,680
+1,Estill,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,252
+2,Estill,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,142
+1,Fleming,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,181
+2,Fleming,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,877
+1,Floyd,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,496
+2,Floyd,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,208
+1,Greenup,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,328
+2,Greenup,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,82
+1,Montgomery,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,773
+2,Montgomery,ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,310

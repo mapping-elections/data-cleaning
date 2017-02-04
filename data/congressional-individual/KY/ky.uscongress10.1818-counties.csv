@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Greene,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Benjamin Hardin,HB0033,null,null,212
+2,Greene,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Richard Rudd,RR0013,null,null,22
+3,Greene,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Rowan,RJ0044,null,null,587
+4,Greene,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Hays,HJ0129,null,null,NA
+1,Hardin,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Benjamin Hardin,HB0033,null,null,945
+2,Hardin,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Richard Rudd,RR0013,null,null,287
+3,Hardin,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Rowan,RJ0044,null,null,42
+4,Hardin,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Hays,HJ0129,null,null,NA
+1,Nelson,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Benjamin Hardin,HB0033,null,null,285
+2,Nelson,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Richard Rudd,RR0013,null,null,431
+3,Nelson,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Rowan,RJ0044,null,null,411
+4,Nelson,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Hays,HJ0129,null,null,46
+1,Washington,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Benjamin Hardin,HB0033,null,null,274
+2,Washington,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Richard Rudd,RR0013,null,null,963
+3,Washington,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Rowan,RJ0044,null,null,395
+4,Washington,ky.uscongress10.1818,1818,1818,General,"Kentucky 1818 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Hays,HJ0129,null,null,NA

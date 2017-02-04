@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,1,One,3319
+ky.uscongress1.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,George Stockton,SG0021,null,null,2,One,2687

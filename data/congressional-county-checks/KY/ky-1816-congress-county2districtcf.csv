@@ -1,0 +1,23 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress6.1816,1816,David Walker,WD0004,null,null,2498,3300,802,0.24
+ky.uscongress5.1816,1816,Anthony New,NA0009,null,null,4187,3587,-600,0.14
+ky.uscongress6.1816,1816,William Thompson,TW0023,null,null,1924,2295,371,0.16
+ky.uscongress6.1816,1816,Solomon Sharp,SS0045,null,null,393,499,106,0.21
+ky.uscongress1.1816,1816,David Trimble,TD0023,null,null,3319,3319,0,0.0
+ky.uscongress1.1816,1816,George Stockton,SG0021,null,null,2687,2687,0,0.0
+ky.uscongress10.1816,1816,James Crutcher,CJ0162,null,null,1624,1624,0,0.0
+ky.uscongress10.1816,1816,John Lancaster,LJ0049,null,null,1383,1383,0,0.0
+ky.uscongress10.1816,1816,Thomas Speed,ST0054,null,null,2204,2204,0,0.0
+ky.uscongress2.1816,1816,Henry Clay,CH0035,null,null,2493,2493,0,0.0
+ky.uscongress2.1816,1816,John Pope,PJ0075,Federalist,A01,1837,1837,0,0.0
+ky.uscongress3.1816,1816,Benjamin Taylor,TB0031,Federalist,A01,2787,2787,0,0.0
+ky.uscongress3.1816,1816,Richard M. Johnson,JR0007,null,null,3640,3640,0,0.0
+ky.uscongress4.1816,1816,Joseph Desha,DJ0079,null,null,2991,2991,0,0.0
+ky.uscongress4.1816,1816,William Garrard,GW0016,null,null,2341,2341,0,0.0
+ky.uscongress5.1816,1816,Benjamin W. Patton,PB0013,null,null,1980,1980,0,0.0
+ky.uscongress7.1816,1816,George C. Robinson,RG0015,null,null,2597,2597,0,0.0
+ky.uscongress7.1816,1816,Robert Caldwell,CR0013,null,null,1571,1571,0,0.0
+ky.uscongress8.1816,1816,Edward George,GE0026,null,null,1569,1569,0,0.0
+ky.uscongress8.1816,1816,Richard C. Anderson,AR0003,null,null,2578,2578,0,0.0
+ky.uscongress8.1816,1816,Stephen Ormsby,OS0002,null,null,389,389,0,0.0
+ky.uscongress9.1816,1816,Tunstall Quarles,QT0001,null,null,0,NA,0,NaN

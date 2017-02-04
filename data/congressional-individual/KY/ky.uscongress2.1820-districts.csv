@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress2.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Samuel H. Woodson,WS0054,null,null,1,Two,2651
+ky.uscongress2.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Pope,PJ0075,Federalist,A01,2,Two,1686
+ky.uscongress2.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Pope,PJ0075,Federalist,A01,2,Two,126
+ky.uscongress2.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas T. Barr,BT0025,null,null,3,NA,NA

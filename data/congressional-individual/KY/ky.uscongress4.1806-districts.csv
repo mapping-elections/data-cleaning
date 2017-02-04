@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress4.1806,1806,1806,General,"Kentucky 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard M. Johnson,JR0007,null,null,1,Four,2315
+ky.uscongress4.1806,1806,1806,General,"Kentucky 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Sandford,ST0052,null,null,2,Four,1643
+ky.uscongress4.1806,1806,1806,General,"Kentucky 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Moore,MJ0155,null,null,3,Four,1488

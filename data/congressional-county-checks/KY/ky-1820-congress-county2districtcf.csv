@@ -1,0 +1,22 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress1.1820,1820,David Trimble,TD0023,null,null,2700,NA,-2700,1.0
+ky.uscongress7.1820,1820,George C. Robinson,RG0015,null,null,2540,NA,-2540,1.0
+ky.uscongress3.1820,1820,John T. Johnson,JJ0065,null,null,2146,NA,-2146,1.0
+ky.uscongress2.1820,1820,John Pope,PJ0075,Federalist,A01,1812,126,-1686,0.93
+ky.uscongress8.1820,1820,Norborne B. Beall,BN0023,null,null,1109,NA,-1109,1.0
+ky.uscongress6.1820,1820,Francis Johnson,JF0000,null,null,886,NA,-886,1.0
+ky.uscongress1.1820,1820,William P. Fleming,FW0016,null,null,797,NA,-797,1.0
+ky.uscongress8.1820,1820,Samuel Churchill,CS0014,null,null,656,NA,-656,1.0
+ky.uscongress6.1820,1820,John Breathitt,BJ0236,null,null,648,NA,-648,1.0
+ky.uscongress8.1820,1820,John Logan,LJ0052,null,null,316,NA,-316,1.0
+ky.uscongress8.1820,1820,Wingfield Bullock,BW0099,null,null,176,NA,-176,1.0
+ky.uscongress2.1820,1820,John Pope,PJ0075,Federalist,A01,1812,1686,-126,0.07
+ky.uscongress3.1820,1820,Thomas A. Grimes,GT0026,null,null,54,NA,-54,1.0
+ky.uscongress6.1820,1820,Willis Wills,WW0062,null,null,16,NA,-16,1.0
+ky.uscongress10.1820,1820,Benjamin Hardin,HB0033,null,null,0,NA,0,NaN
+ky.uscongress10.1820,1820,John Hays,HJ0129,null,null,0,NA,0,NaN
+ky.uscongress10.1820,1820,Richard Rudd,RR0013,null,null,0,NA,0,NaN
+ky.uscongress2.1820,1820,Samuel H. Woodson,WS0054,null,null,2651,2651,0,0.0
+ky.uscongress2.1820,1820,Thomas T. Barr,BT0025,null,null,0,NA,0,NaN
+ky.uscongress4.1820,1820,Thomas Metcalf,MT0035,null,null,0,NA,0,NaN
+ky.uscongress9.1820,1820,Thomas Montgomery,MT0031,null,null,0,NA,0,NaN

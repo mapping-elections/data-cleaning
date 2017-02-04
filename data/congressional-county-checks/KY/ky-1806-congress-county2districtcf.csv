@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress1.1806,1806,Matthew Lyon,LM0053,null,null,310,4484,4174,0.93
+ky.uscongress1.1806,1806,David Walker,WD0004,null,null,101,3261,3160,0.97
+ky.uscongress2.1806,1806,John Boyle,BJ0201,null,null,0,NA,0,NaN
+ky.uscongress3.1806,1806,John Rowan,RJ0044,null,null,2747,2747,0,0.0
+ky.uscongress3.1806,1806,Stephen Ormsby,OS0002,null,null,2173,2173,0,0.0
+ky.uscongress4.1806,1806,James Moore,MJ0155,null,null,1488,1488,0,0.0
+ky.uscongress4.1806,1806,Richard M. Johnson,JR0007,null,null,2315,2315,0,0.0
+ky.uscongress4.1806,1806,Thomas Sandford,ST0052,null,null,1643,1643,0,0.0
+ky.uscongress5.1806,1806,Benjamin Howard,HB0032,null,null,4353,4353,0,0.0
+ky.uscongress6.1806,1806,Joseph Desha,DJ0079,null,null,0,NA,0,NaN

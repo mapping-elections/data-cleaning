@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fayette,ky.uscongress2.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Clay,CH0035,null,null,1432
+2,Fayette,ky.uscongress2.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Pope,PJ0075,Federalist,A01,936
+1,Jessamine,ky.uscongress2.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Clay,CH0035,null,null,512
+2,Jessamine,ky.uscongress2.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Pope,PJ0075,Federalist,A01,302
+1,Woodford,ky.uscongress2.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Henry Clay,CH0035,null,null,549
+2,Woodford,ky.uscongress2.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Pope,PJ0075,Federalist,A01,599

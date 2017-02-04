@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress7.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,George C. Robinson,RG0015,null,null,1,Seven,2597
+ky.uscongress7.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Robert Caldwell,CR0013,null,null,2,Seven,1571

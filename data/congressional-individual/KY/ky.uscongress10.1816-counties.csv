@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Green,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Speed,ST0054,null,null,419
+2,Green,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Crutcher,CJ0162,null,null,507
+3,Green,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Lancaster,LJ0049,null,null,140
+1,Hardin,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Speed,ST0054,null,null,225
+2,Hardin,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Crutcher,CJ0162,null,null,814
+3,Hardin,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Lancaster,LJ0049,null,null,61
+1,Nelson,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Speed,ST0054,null,null,1083
+2,Nelson,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Crutcher,CJ0162,null,null,63
+3,Nelson,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Lancaster,LJ0049,null,null,259
+1,Washington,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Thomas Speed,ST0054,null,null,477
+2,Washington,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,James Crutcher,CJ0162,null,null,240
+3,Washington,ky.uscongress10.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Lancaster,LJ0049,null,null,923

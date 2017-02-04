@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress4.1810,1810,Richard M. Johnson,JR0007,null,null,684,NA,-684,1.0
+ky.uscongress4.1810,1810,John S. Hunter,HJ0108,null,null,200,NA,-200,1.0
+ky.uscongress6.1810,1810,Joseph Desha,DJ0079,null,null,0,NA,0,NaN

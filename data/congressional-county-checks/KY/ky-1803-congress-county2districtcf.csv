@@ -1,0 +1,13 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress1.1803,1803,Matthew Lyon,LM0053,null,null,0,2472,2472,1.0
+ky.uscongress1.1803,1803,David Walker,WD0004,Republican,A03,0,2373,2373,1.0
+ky.uscongress6.1803,1803,George M. Bedinger,BG0011,Republican,A03,2529,2539,10,0.0
+ky.uscongress4.1803,1803,Richard M. Johnson,JR0007,Republican,A03,1336,1345,9,0.01
+ky.uscongress4.1803,1803,Thomas Sandford,ST0052,Republican,A03,2338,2333,-5,0.0
+ky.uscongress2.1803,1803,John Boyle,BJ0201,Republican,A03,0,NA,0,NaN
+ky.uscongress3.1803,1803,Matthew Walton,WM0023,Republican,A03,0,NA,0,NaN
+ky.uscongress4.1803,1803,Joseph H. Daveiss,DJ0080,Federalist,A01,238,238,0,0.0
+ky.uscongress4.1803,1803,William Henry,HW0084,Republican,A03,1482,1482,0,0.0
+ky.uscongress5.1803,1803,John Fowler,FJ0047,Republican,A03,0,NA,0,NaN
+ky.uscongress6.1803,1803,George Culp,CG0036,Republican,A03,448,448,0,0.0
+ky.uscongress6.1803,1803,Philemon Thomas,TP0004,Republican,A03,1407,1407,0,0.0

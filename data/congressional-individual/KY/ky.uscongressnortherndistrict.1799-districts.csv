@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongressnortherndistrict.1799,1799,1799,General,"Kentucky 1799 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,John Fowler,FJ0047,null,null,1,Northern,5519
+ky.uscongressnortherndistrict.1799,1799,1799,General,"Kentucky 1799 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,Robert Johnston,JR0005,null,null,2,Northern,2543
+ky.uscongressnortherndistrict.1799,1799,1799,General,"Kentucky 1799 U.S. House of Representatives, Northern District",U.S. House of Representatives,ON125,Philemon Thomas,TP0004,null,null,3,Northern,1914

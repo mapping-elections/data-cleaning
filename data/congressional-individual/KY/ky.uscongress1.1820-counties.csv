@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bath,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,789
+2,Bath,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,170
+1,Clark,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,1085
+2,Clark,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,56
+1,Estill,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,NA
+2,Estill,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,NA
+1,Fleming,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,826
+2,Fleming,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,571
+1,Floyd,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,NA
+2,Floyd,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,NA
+1,Greenup,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,NA
+2,Greenup,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,NA
+1,Montgomery,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Trimble,TD0023,null,null,NA
+2,Montgomery,ky.uscongress1.1820,1820,1820,General,"Kentucky 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William P. Fleming,FW0016,null,null,NA

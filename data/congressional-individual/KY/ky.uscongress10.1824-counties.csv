@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allen,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Francis Johnson,JF0000,null,null,333
+2,Allen,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0044,null,null,202
+1,Barren,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Francis Johnson,JF0000,null,null,882
+2,Barren,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0044,null,null,243
+1,Logan,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Francis Johnson,JF0000,null,null,676
+2,Logan,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0044,null,null,211
+1,Monroe,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Francis Johnson,JF0000,null,null,355
+2,Monroe,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0044,null,null,197
+1,Simpson,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Francis Johnson,JF0000,null,null,422
+2,Simpson,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0044,null,null,185
+1,Warren,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Francis Johnson,JF0000,null,null,879
+2,Warren,ky.uscongress10.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0044,null,null,472

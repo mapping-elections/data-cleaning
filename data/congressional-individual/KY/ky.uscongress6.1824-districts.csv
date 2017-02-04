@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph Lecompte,LJ0051,null,null,1,NA,NA
+ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Logan,LJ0052,null,null,2,NA,NA

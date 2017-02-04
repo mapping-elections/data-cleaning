@@ -1,0 +1,7 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress12.1826,1826,Chittendon Lyon,LC0008,null,null,2149,2149,0,0.0
+ky.uscongress12.1826,1826,John F. Henry,HJ0557,Democrat,A03,2206,2206,0,0.0
+ky.uscongress5.1826,1826,Alfred Sandford,SA0002,null,null,1167,1167,0,0.0
+ky.uscongress5.1826,1826,Nicholas D. Coleman,CN0008,null,null,987,987,0,0.0
+ky.uscongress5.1826,1826,Robert MacHatton,MR0018,Democrat,A03,1479,1479,0,0.0
+ky.uscongress5.1826,1826,William Brown,BW0095,null,null,677,677,0,0.0

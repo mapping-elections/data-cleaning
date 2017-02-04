@@ -1,0 +1,9 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress2.1808,1808,Philip Trapnell,TP0005,null,null,1447,NA,-1447,1.0
+ky.uscongress2.1808,1808,Samuel MacKee,MS0028,null,null,1139,NA,-1139,1.0
+ky.uscongress4.1808,1808,Richard M. Johnson,JR0007,null,null,737,NA,-737,1.0
+ky.uscongress3.1808,1808,Stephen Ormsby,OS0002,null,null,583,NA,-583,1.0
+ky.uscongress3.1808,1808,Henry Crist,CH0038,null,null,377,NA,-377,1.0
+ky.uscongress2.1808,1808,John L. Bridges,BJ0156,null,null,16,NA,-16,1.0
+ky.uscongress5.1808,1808,Benjamin Howard,HB0032,null,null,4745,4745,0,0.0
+ky.uscongress6.1808,1808,Joseph Desha,DJ0079,null,null,0,NA,0,NaN

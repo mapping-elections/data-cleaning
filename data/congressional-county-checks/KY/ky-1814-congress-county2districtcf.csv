@@ -1,0 +1,17 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress4.1814,1814,Joseph Desha,DJ0079,null,null,2081,NA,-2081,1.0
+ky.uscongress1.1814,1814,James Clarke,CJ0165,null,null,1025,NA,-1025,1.0
+ky.uscongress10.1814,1814,Benjamin Harden,HB0033,null,null,0,NA,0,NaN
+ky.uscongress10.1814,1814,Mathew Walton,WM0023,null,null,0,NA,0,NaN
+ky.uscongress2.1814,1814,Henry Clay,CH0035,null,null,0,NA,0,NaN
+ky.uscongress3.1814,1814,Richard M. Johnson,JR0007,Republican,A03,3677,3677,0,0.0
+ky.uscongress5.1814,1814,Alney MacLean,MA0033,null,null,3156,3156,0,0.0
+ky.uscongress5.1814,1814,Anthony New,NA0009,null,null,1580,1580,0,0.0
+ky.uscongress5.1814,1814,Rezin Davidge,DR0004,null,null,1100,1100,0,0.0
+ky.uscongress6.1814,1814,Solomon P. Sharpe,SS0045,null,null,0,NA,0,NaN
+ky.uscongress7.1814,1814,Samuel MacKee,MS0028,Republican,A03,2272,2272,0,0.0
+ky.uscongress7.1814,1814,Samuel South,SS0039,null,null,1436,1436,0,0.0
+ky.uscongress8.1814,1814,James Moore,MJ0155,null,null,0,NA,0,NaN
+ky.uscongress8.1814,1814,John Mavity,MJ0162,null,null,0,NA,0,NaN
+ky.uscongress8.1814,1814,Stephen Ormsby,OS0002,null,null,0,NA,0,NaN
+ky.uscongress8.1814,1814,NA,NA,NA,NA,0,NA,0,NaN

@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress6.1804,1804,George M. Bedinger,BG0011,null,null,1788,NA,-1788,1.0
+ky.uscongress5.1804,1804,John Fowler,FJ0047,null,null,1380,NA,-1380,1.0
+ky.uscongress5.1804,1804,Benjamin Howard,HB0032,null,null,848,NA,-848,1.0
+ky.uscongress6.1804,1804,Robert H. Grayson,GR0098,null,null,449,NA,-449,1.0
+ky.uscongress6.1804,1804,Philemon Thomas,TP0004,null,null,315,NA,-315,1.0
+ky.uscongress1.1804,1804,Matthew Lyon,LM0053,null,null,0,NA,0,NaN
+ky.uscongress1.1804,1804,Samuel Hopkins,HS0042,null,null,0,NA,0,NaN
+ky.uscongress2.1804,1804,John Boyle,BJ0201,null,null,0,NA,0,NaN
+ky.uscongress3.1804,1804,Mathew Walton,WM0023,null,null,0,NA,0,NaN
+ky.uscongress4.1804,1804,Thomas Sandford,ST0052,null,null,0,NA,0,NaN

@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongressnortherndistrict.1799,1799,John Fowler,FJ0047,null,null,1674,5519,3845,0.7
+ky.uscongressnortherndistrict.1799,1799,Robert Johnston,JR0005,null,null,889,2543,1654,0.65
+ky.uscongressnortherndistrict.1799,1799,Philemon Thomas,TP0004,null,null,725,1914,1189,0.62
+ky.uscongresssoutherndistrict.1799,1799,Thomas T. Davis,DT0030,null,null,0,NA,0,NaN

@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongressnortherndistrict.1792,1792,Alexander D. Orr,OA0007,Republican,A03,0,NA,0,NaN
+ky.uscongressnortherndistrict.1792,1792,Hubbard Taylor,TH0002,Republican,A03,0,NA,0,NaN
+ky.uscongresssoutherndistrict.1792,1792,Christopher Greenup,GC0053,null,null,0,NA,0,NaN
+ky.uscongresssoutherndistrict.1792,1792,Robert Brackenridge,BR0018,null,null,0,NA,0,NaN

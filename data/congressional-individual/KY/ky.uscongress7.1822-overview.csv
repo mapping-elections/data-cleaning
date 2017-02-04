@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ky.uscongress7.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas P. Moore,MT0036,null,null,1,2593
+ky.uscongress7.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Pope,PJ0075,Federalist,A01,2,1857
+ky.uscongress7.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel Woodson,WS0054,null,null,3,1800

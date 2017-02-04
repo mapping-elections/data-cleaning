@@ -1,0 +1,27 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress6.1824,1824,John Logan,LJ0052,null,null,2516,NA,-2516,1.0
+ky.uscongress6.1824,1824,Joseph Lecompte,LJ0051,null,null,2111,NA,-2111,1.0
+ky.uscongress5.1824,1824,James Johnson,JJ0068,null,null,1917,NA,-1917,1.0
+ky.uscongress5.1824,1824,Robert MacHatton,MR0018,null,null,1517,NA,-1517,1.0
+ky.uscongress3.1824,1824,Henry Clay,CH0035,null,null,1438,NA,-1438,1.0
+ky.uscongress8.1824,1824,Richard A. Buckner,BR0028,null,null,1017,NA,-1017,1.0
+ky.uscongress7.1824,1824,Samuel Woodson,WS0054,null,null,837,NA,-837,1.0
+ky.uscongress11.1824,1824,William Singleton Young,YW0000,null,null,340,NA,-340,1.0
+ky.uscongress7.1824,1824,Thomas P. Moore,MT0036,null,null,268,NA,-268,1.0
+ky.uscongress8.1824,1824,Tunstall Quarles,QT0001,null,null,156,NA,-156,1.0
+ky.uscongress11.1824,1824,John Calhoon,CJ0186,null,null,71,NA,-71,1.0
+ky.uscongress11.1824,1824,Hardin,null,null,null,40,NA,-40,1.0
+ky.uscongress4.1824,1824,Robert P. Letcher,LR0005,null,null,3814,3823,9,0.0
+ky.uscongress1.1824,1824,David Trimble,TD0023,null,null,0,NA,0,NaN
+ky.uscongress10.1824,1824,Francis Johnson,JF0000,null,null,3547,3547,0,0.0
+ky.uscongress10.1824,1824,Robert F. Slaughter,SR0044,null,null,1510,1510,0,0.0
+ky.uscongress11.1824,1824,Francis E. Walker,WF0033,null,null,0,NA,0,NaN
+ky.uscongress11.1824,1824,Philip Thompson,TP0009,null,null,0,NA,0,NaN
+ky.uscongress12.1824,1824,Robert P. Henry,HR0031,null,null,0,NA,0,NaN
+ky.uscongress2.1824,1824,Thomas Metcalf,MT0035,null,null,4263,4263,0,0.0
+ky.uscongress2.1824,1824,Walker Reed,RW0032,null,null,683,683,0,0.0
+ky.uscongress2.1824,1824,William Worthington,WW0056,null,null,234,234,0,0.0
+ky.uscongress4.1824,1824,John Speed Smith,SJ0165,null,null,2537,2537,0,0.0
+ky.uscongress9.1824,1824,Burr Harrison,HB0034,null,null,1435,1435,0,0.0
+ky.uscongress9.1824,1824,Charles A. Wickliffe,WC0021,null,null,2928,2928,0,0.0
+ky.uscongress9.1824,1824,Norborne B. Beall,BN0023,null,null,643,643,0,0.0

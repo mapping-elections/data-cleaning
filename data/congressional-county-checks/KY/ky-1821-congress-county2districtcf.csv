@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress7.1821,1821,John Speed Smith,SJ0165,null,null,1636,NA,-1636,1.0
+ky.uscongress8.1821,1821,James D. Breckenridge,BJ0216,null,null,1485,NA,-1485,1.0
+ky.uscongress8.1821,1821,Norborne B. Beall,BN0023,null,null,133,NA,-133,1.0
+ky.uscongress8.1821,1821,George B. Knight,KG0003,null,null,74,NA,-74,1.0
+ky.uscongress7.1821,1821,Stephen Richardson,RS0009,null,null,37,NA,-37,1.0

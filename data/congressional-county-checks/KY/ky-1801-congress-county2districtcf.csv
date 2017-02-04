@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongresssoutherndistrict.1801,1801,Thomas T. Davis,DT0030,null,null,0,8901,8901,1.0
+ky.uscongresssoutherndistrict.1801,1801,John Pope,PJ0075,Federalist,A01,0,2401,2401,1.0
+ky.uscongressnortherndistrict.1801,1801,John Fowler,FJ0047,null,null,7175,7175,0,0.0
+ky.uscongressnortherndistrict.1801,1801,Philemon Thomas,TP0004,null,null,1351,1351,0,0.0
+ky.uscongressnortherndistrict.1801,1801,William Garrard,GW0016,null,null,2048,2048,0,0.0

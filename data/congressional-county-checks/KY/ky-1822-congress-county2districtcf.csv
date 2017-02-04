@@ -1,0 +1,26 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress3.1822,1822,Henry Clay,CH0035,null,null,2992,NA,-2992,1.0
+ky.uscongress9.1822,1822,Charles A. Wickliffe,WC0021,null,null,2068,NA,-2068,1.0
+ky.uscongress9.1822,1822,James D. Breckenridge,BJ0216,null,null,1910,NA,-1910,1.0
+ky.uscongress1.1822,1822,David Trimble,TD0023,null,null,1021,NA,-1021,1.0
+ky.uscongress5.1822,1822,Robert MacHatton,MR0018,null,null,732,NA,-732,1.0
+ky.uscongress5.1822,1822,John T. Johnson,JJ0065,null,null,727,NA,-727,1.0
+ky.uscongress1.1822,1822,Thomas Fletcher,FT0013,null,null,259,NA,-259,1.0
+ky.uscongress5.1822,1822,Alfred Sanford,SA0027,null,null,72,NA,-72,1.0
+ky.uscongress10.1822,1822,Francis Johnson,JF0000,null,null,0,NA,0,NaN
+ky.uscongress12.1822,1822,Breathitt,null,null,null,0,NA,0,NaN
+ky.uscongress12.1822,1822,Dickson Given,GD0005,null,null,0,NA,0,NaN
+ky.uscongress12.1822,1822,Robert P. Henry,HR0031,null,null,0,NA,0,NaN
+ky.uscongress12.1822,1822,Young Ewing,EY0000,null,null,0,NA,0,NaN
+ky.uscongress2.1822,1822,Thomas Metcalf,MT0035,null,null,3960,3960,0,0.0
+ky.uscongress2.1822,1822,Walker Reid,RW0032,null,null,658,658,0,0.0
+ky.uscongress2.1822,1822,William Worthington,WW0056,null,null,750,750,0,0.0
+ky.uscongress4.1822,1822,John Speed Smith,SJ0165,null,null,2805,2805,0,0.0
+ky.uscongress4.1822,1822,Robert P. Letcher,LR0005,null,null,3067,3067,0,0.0
+ky.uscongress6.1822,1822,"David White, Jr.",WD0009,null,null,3576,3576,0,0.0
+ky.uscongress6.1822,1822,John Logan,LJ0052,null,null,2795,2795,0,0.0
+ky.uscongress7.1822,1822,John Pope,PJ0075,Federalist,A01,1857,1857,0,0.0
+ky.uscongress7.1822,1822,Samuel Woodson,WS0054,null,null,1800,1800,0,0.0
+ky.uscongress7.1822,1822,Thomas P. Moore,MT0036,null,null,2593,2593,0,0.0
+ky.uscongress8.1822,1822,Nathan Gaither,GN0000,null,null,0,NA,0,NaN
+ky.uscongress8.1822,1822,Richard A. Buckner,BR0028,null,null,0,NA,0,NaN

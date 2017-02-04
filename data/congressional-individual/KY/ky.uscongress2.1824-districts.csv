@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress2.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Metcalf,MT0035,null,null,1,Two,4263
+ky.uscongress2.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Walker Reed,RW0032,null,null,2,Two,683
+ky.uscongress2.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Worthington,WW0056,null,null,3,Two,234

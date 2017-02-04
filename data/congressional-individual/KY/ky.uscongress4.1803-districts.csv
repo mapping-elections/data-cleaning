@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress4.1803,1803,1803,General,"Kentucky 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Thomas Sandford,ST0052,Republican,A03,1,Four,2333
+ky.uscongress4.1803,1803,1803,General,"Kentucky 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Henry,HW0084,Republican,A03,2,Four,1482
+ky.uscongress4.1803,1803,1803,General,"Kentucky 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Richard M. Johnson,JR0007,Republican,A03,3,Four,1345
+ky.uscongress4.1803,1803,1803,General,"Kentucky 1803 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Joseph H. Daveiss,DJ0080,Federalist,A01,4,Four,238

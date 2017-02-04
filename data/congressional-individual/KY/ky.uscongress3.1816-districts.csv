@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress3.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Richard M. Johnson,JR0007,null,null,1,Three,3640
+ky.uscongress3.1816,1816,1816,General,"Kentucky 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Taylor,TB0031,Federalist,A01,2,Three,2787

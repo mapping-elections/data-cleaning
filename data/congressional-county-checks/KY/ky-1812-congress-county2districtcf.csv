@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ky.uscongress1.1812,1812,James Clark,CJ0165,null,null,4560,4560,0,0.0
+ky.uscongress10.1812,1812,William P. Duval,DW0027,null,null,0,NA,0,NaN
+ky.uscongress2.1812,1812,Henry Clay,CH0035,null,null,3164,3164,0,0.0
+ky.uscongress3.1812,1812,Richard M. Johnson,JR0007,null,null,4048,4048,0,0.0
+ky.uscongress4.1812,1812,Joseph Desha,DJ0079,null,null,3830,3830,0,0.0
+ky.uscongress5.1812,1812,Matthew Lyon,LM0053,null,null,924,924,0,0.0
+ky.uscongress5.1812,1812,Rezin Davidge,DR0004,null,null,1497,1497,0,0.0
+ky.uscongress5.1812,1812,Samuel G. Hopkins,HS0042,null,null,2341,2341,0,0.0
+ky.uscongress6.1812,1812,Anthony Butler,BA0048,null,null,1374,1374,0,0.0
+ky.uscongress6.1812,1812,Solomon P. Sharpe,SS0045,null,null,3197,3197,0,0.0
+ky.uscongress7.1812,1812,Samuel MacKee,MS0028,null,null,3406,3406,0,0.0
+ky.uscongress8.1812,1812,John Simpson,SJ0160,null,null,0,NA,0,NaN
+ky.uscongress8.1812,1812,Stephen Ormsby,OS0002,null,null,0,NA,0,NaN

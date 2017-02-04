@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph Lecompte,LJ0051,null,null,800
+2,Franklin,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Logan,LJ0052,null,null,505
+1,Gallatin,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph Lecompte,LJ0051,null,null,407
+2,Gallatin,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Logan,LJ0052,null,null,345
+1,Henry,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph Lecompte,LJ0051,null,null,NA
+2,Henry,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Logan,LJ0052,null,null,NA
+1,Owen,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph Lecompte,LJ0051,null,null,390
+2,Owen,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Logan,LJ0052,null,null,112
+1,Shelby,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph Lecompte,LJ0051,null,null,514
+2,Shelby,ky.uscongress6.1824,1824,1824,General,"Kentucky 1824 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John Logan,LJ0052,null,null,1554

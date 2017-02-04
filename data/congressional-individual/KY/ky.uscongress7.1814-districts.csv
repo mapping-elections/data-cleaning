@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress7.1814,1814,1814,General,"Kentucky 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel MacKee,MS0028,Republican,A03,1,Seven,2272
+ky.uscongress7.1814,1814,1814,General,"Kentucky 1814 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel South,SS0039,null,null,2,Seven,1436
