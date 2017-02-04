@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+in.uscongress.1820,1820,William Hendricks,HW0072,null,null,16331,NA,-16331,1.0
+in.uscongress.1820,1820,Reuben W. Nelson,NR0022,null,null,1623,NA,-1623,1.0

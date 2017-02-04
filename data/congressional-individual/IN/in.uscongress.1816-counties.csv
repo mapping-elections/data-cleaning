@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hendricks,HW0072,null,null,449
+2,Franklin,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen D. Thom,TA0002,null,null,40
+3,Franklin,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George R.C. Sullivan,SG0008,null,null,NA
+1,Jackson,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hendricks,HW0072,null,null,93
+2,Jackson,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen D. Thom,TA0002,null,null,41
+3,Jackson,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George R.C. Sullivan,SG0008,null,null,NA
+1,Knox,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hendricks,HW0072,null,null,170
+2,Knox,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen D. Thom,TA0002,null,null,543
+3,Knox,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George R.C. Sullivan,SG0008,null,null,NA
+1,Orange,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hendricks,HW0072,null,null,191
+2,Orange,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen D. Thom,TA0002,null,null,96
+3,Orange,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George R.C. Sullivan,SG0008,null,null,NA
+1,Washington,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Hendricks,HW0072,null,null,499
+2,Washington,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen D. Thom,TA0002,null,null,85
+3,Washington,in.uscongress.1816,1816,1816,General,Indiana 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,George R.C. Sullivan,SG0008,null,null,NA

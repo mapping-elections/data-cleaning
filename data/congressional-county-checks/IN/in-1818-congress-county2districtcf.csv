@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+in.uscongress.1818,1818,William Hendricks,HW0072,null,null,10646,NA,-10646,1.0
+in.uscongress.1818,1818,Reuben W. Nelson,NR0022,null,null,1122,NA,-1122,1.0
+in.uscongress.1818,1818,R. W. Noble,NR0021,null,null,1,NA,-1,1.0
+in.uscongress.1818,1818,Waller Taylor,TW0011,null,null,1,NA,-1,1.0

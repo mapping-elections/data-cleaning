@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+in.uscongress.1817,1817,William Hendricks,HW0072,null,null,5743,NA,-5743,1.0
+in.uscongress.1817,1817,Thomas Posey,PT0039,null,null,3813,NA,-3813,1.0

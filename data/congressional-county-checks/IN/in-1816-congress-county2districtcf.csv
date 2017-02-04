@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+in.uscongress.1816,1816,William Hendricks,HW0072,null,null,1402,NA,-1402,1.0
+in.uscongress.1816,1816,Allen D. Thom,TA0002,null,null,805,NA,-805,1.0
+in.uscongress.1816,1816,George R.C. Sullivan,SG0008,null,null,0,NA,0,NaN
