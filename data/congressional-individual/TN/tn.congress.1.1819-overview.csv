@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+tn.congress.1.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Rhea,RJ0595,null,null,1,2530
+tn.congress.1.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Tipton,TJ0594,null,null,2,2306
+tn.congress.1.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Kennedy,KJ0334,null,null,3,619

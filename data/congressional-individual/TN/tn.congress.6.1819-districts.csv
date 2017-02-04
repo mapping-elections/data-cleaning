@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+tn.congress.6.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Henry H. Bryan,BH0168,null,null,1,Six,3941
+tn.congress.6.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Robert Mark,MR0204,null,null,2,Six,3298
+tn.congress.6.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,James B. Reynolds,RJ0680,null,null,3,Six,1394

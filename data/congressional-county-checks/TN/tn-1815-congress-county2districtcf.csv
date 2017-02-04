@@ -1,0 +1,15 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.2.1815,1815,John Sevier,SJ0166,null,null,3694,NA,-3694,1.0
+tn.congress.4.1815,1815,Bennett H. Henderson,HB0169,null,null,3471,NA,-3471,1.0
+tn.congress.4.1815,1815,Archibald W. Overton,OA0020,null,null,1231,NA,-1231,1.0
+tn.congress.5.1815,1815,Newton Cannon,CN0037,null,null,5466,4884,-582,0.11
+tn.congress.4.1815,1815,Willis Jones,JW0099,null,null,553,NA,-553,1.0
+tn.congress.6.1815,1815,Peter R. Booker,BP0099,null,null,2250,2258,8,0.0
+tn.congress.4.1815,1815,Aaron Lombert,LA0133,null,null,1,NA,-1,1.0
+tn.congress.1.1815,1815,John Rhea,RJ0595,null,null,1882,1882,0,0.0
+tn.congress.1.1815,1815,Samuel Powell,PS0136,null,null,2702,2702,0,0.0
+tn.congress.3.1815,1815,Isaac Thomas,TI0031,null,null,3941,3941,0,0.0
+tn.congress.3.1815,1815,Thomas K. Harris,HT0213,null,null,3309,3309,0,0.0
+tn.congress.6.1815,1815,George W. L. Marr,MG0138,null,null,2058,2058,0,0.0
+tn.congress.6.1815,1815,James B. Reynolds,RJ0680,null,null,2402,2402,0,0.0
+tn.congress.6.1815,1815,James Holland,HJ1278,null,null,417,417,0,0.0

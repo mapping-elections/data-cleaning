@@ -1,0 +1,28 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.5th.1825,1825,Robert Allen,AR0060,null,null,1910,NA,-1910,1.0
+tn.congress.4th.1825,1825,Jacob C. Isacks,IJ0062,null,null,1708,3406,1698,0.5
+tn.congress.1st.1825,1825,John Blair,BJ1418,null,null,3613,3613,0,0.0
+tn.congress.1st.1825,1825,John Tipton,TJ0594,null,null,3348,3348,0,0.0
+tn.congress.2nd.1825,1825,John Cocke,CJ1064,null,null,4770,4770,0,0.0
+tn.congress.2nd.1825,1825,Thomas D. Arnold,AT0047,null,null,3343,3343,0,0.0
+tn.congress.3rd.1825,1825,James C. Mitchell,MJ1383,null,null,4332,4332,0,0.0
+tn.congress.3rd.1825,1825,James Standifer,SJ0195,null,null,3793,3793,0,0.0
+tn.congress.6th.1825,1825,Andrew Erwin,EA0049,null,null,2742,2742,0,0.0
+tn.congress.6th.1825,1825,Francis Willis,WF0038,null,null,105,105,0,0.0
+tn.congress.6th.1825,1825,James K. Polk,PJ0736,null,null,3659,3659,0,0.0
+tn.congress.6th.1825,1825,James Sandford,SJ1542,null,null,1508,1508,0,0.0
+tn.congress.6th.1825,1825,Lunsford M. Bramlett,BL0071,null,null,2347,2347,0,0.0
+tn.congress.7th.1825,1825,Felix Grundy,GF0029,null,null,1,1,0,0.0
+tn.congress.7th.1825,1825,John Bruce,BJ1424,null,null,1014,1014,0,0.0
+tn.congress.7th.1825,1825,Philip Wilson,WP0099,null,null,1,1,0,0.0
+tn.congress.7th.1825,1825,Samuel Houston,HS0248,null,null,5684,5684,0,0.0
+tn.congress.7th.1825,1825,W. H. Brown,BW0461,null,null,1,1,0,0.0
+tn.congress.7th.1825,1825,W. T. Crenshaw,CW0016,null,null,2,2,0,0.0
+tn.congress.7th.1825,1825,W. Tannehill,TW0007,null,null,1,1,0,0.0
+tn.congress.8th.1825,1825,James B. Reynolds,RJ0680,null,null,1922,1922,0,0.0
+tn.congress.8th.1825,1825,John H. Marable,MJ1391,null,null,2177,2177,0,0.0
+tn.congress.8th.1825,1825,Willie Blount,BW0403,null,null,1533,1533,0,0.0
+tn.congress.9th.1825,1825,Adam R. Alexander,AA0061,null,null,2865,2865,0,0.0
+tn.congress.9th.1825,1825,David Crockett,CD0202,null,null,2595,2595,0,0.0
+tn.congress.9th.1825,1825,James Terrell,TJ0068,null,null,912,912,0,0.0
+tn.congress.9th.1825,1825,Thomas H. Persons,PT0133,null,null,447,447,0,0.0

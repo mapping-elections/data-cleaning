@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.washington.1807,1807,John Rhea,RJ0595,null,null,0,5655,5655,1.0
+tn.congress.hamilton.1807,1807,George W. Campbell,CG0108,Republican,A03,5143,5143,0,0.0
+tn.congress.hamilton.1807,1807,Pleasant M. Miller,MP0110,null,null,2281,2281,0,0.0

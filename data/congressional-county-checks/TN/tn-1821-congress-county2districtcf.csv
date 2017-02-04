@@ -1,0 +1,15 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.4.1821,1821,Robert Allen,AR0060,null,null,6131,61313,55182,0.9
+tn.congress.3.1821,1821,Francis Jones,JF0010,null,null,7587,NA,-7587,1.0
+tn.congress.5.1821,1821,Newton Cannon,CN0037,null,null,6081,NA,-6081,1.0
+tn.congress.6.1821,1821,Henry H. Bryan,BH0168,null,null,5373,NA,-5373,1.0
+tn.congress.6.1821,1821,Eldridge B. Robertson,RE0082,null,null,2962,NA,-2962,1.0
+tn.congress.2.1821,1821,John Cocke,CJ1064,null,null,2779,NA,-2779,1.0
+tn.congress.6.1821,1821,Colmore Duvall,DC0062,null,null,258,NA,-258,1.0
+tn.congress.5.1821,1821,Fitzgerald Beasley,BF0008,null,null,59,NA,-59,1.0
+tn.congress.3.1821,1821,Reuban Lidwell,LR0012,null,null,32,NA,-32,1.0
+tn.congress.1.1821,1821,John A. Rogers,RJ0045,null,null,1465,1465,0,0.0
+tn.congress.1.1821,1821,John Rhea,RJ0595,null,null,2456,2456,0,0.0
+tn.congress.1.1821,1821,John Tipton,TJ0594,null,null,2164,2164,0,0.0
+tn.congress.4.1821,1821,H. L. Douglass,DH0063,null,null,1,1,0,0.0
+tn.congress.4.1821,1821,John H. Brown,BJ0013,null,null,2,2,0,0.0

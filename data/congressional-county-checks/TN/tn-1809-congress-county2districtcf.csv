@@ -1,0 +1,7 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.mero.1809,1809,Pleasant M. Miller,MP0110,Republican,A03,475,1107,632,0.57
+tn.congress.mero.1809,1809,scattering,null,null,null,6,327,321,0.98
+tn.congress.hamilton.1809,1809,Abraham Maury,MA0293,Republican,A03,2671,2671,0,0.0
+tn.congress.hamilton.1809,1809,James Lyon,LJ0535,Republican,A03,844,844,0,0.0
+tn.congress.hamilton.1809,1809,Moses Fisk,FM0045,null,null,2,2,0,0.0
+tn.congress.hamilton.1809,1809,Robert Weakley,WR0102,Republican,A03,3171,3171,0,0.0

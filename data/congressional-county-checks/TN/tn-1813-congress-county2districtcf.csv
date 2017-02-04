@@ -1,0 +1,9 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.3.1813,1813,William Kelly,KW0069,null,null,842,1067,225,0.21
+tn.congress.3.1813,1813,James Rogers,RJ0597,null,null,661,866,205,0.24
+tn.congress.3.1813,1813,Bird Smith,SB0126,null,null,363,407,44,0.11
+tn.congress.3.1813,1813,Thomas K. Harris,HT0213,null,null,1105,1068,-37,0.03
+tn.congress.3.1813,1813,Moses Fisk,FM0045,null,null,3,3,0,0.0
+tn.congress.3.1813,1813,Rogers,null,null,null,2,2,0,0.0
+tn.congress.5.1813,1813,Felix Grundy,GF0029,null,null,3277,3277,0,0.0
+tn.congress.5.1813,1813,Newton Cannon,CN0037,null,null,757,757,0,0.0

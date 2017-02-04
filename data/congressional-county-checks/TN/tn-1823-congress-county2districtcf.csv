@@ -1,0 +1,23 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.1st.1823,1823,John Blair,BJ1418,null,null,3350,3350,0,0.0
+tn.congress.1st.1823,1823,John Tipton,TJ0594,null,null,3035,3035,0,0.0
+tn.congress.2nd.1823,1823,John Cocke,CJ1064,null,null,6471,6471,0,0.0
+tn.congress.3rd.1823,1823,James C. Mitchell,MJ1383,null,null,2602,2602,0,0.0
+tn.congress.3rd.1823,1823,James Standifer,SJ0195,null,null,2956,2956,0,0.0
+tn.congress.3rd.1823,1823,William Dunlap,DW0015,null,null,1398,1398,0,0.0
+tn.congress.4th.1823,1823,Jacob Isaacs,IJ0062,null,null,4648,4648,0,0.0
+tn.congress.4th.1823,1823,James Rogers,RJ0597,null,null,2486,2486,0,0.0
+tn.congress.5th.1823,1823,Edward D. Trailor,TE0068,null,null,11,11,0,0.0
+tn.congress.5th.1823,1823,Robert Allen,AR0060,null,null,4828,4828,0,0.0
+tn.congress.6th.1823,1823,Alfred M. Harris,HA0185,null,null,2263,2263,0,0.0
+tn.congress.6th.1823,1823,Andrew Erwin,EA0049,null,null,2793,2793,0,0.0
+tn.congress.6th.1823,1823,James T. Sandford,SJ1542,null,null,3968,3968,0,0.0
+tn.congress.7th.1823,1823,Landrum,null,null,null,1,1,0,0.0
+tn.congress.7th.1823,1823,MacNeal,null,null,null,1,1,0,0.0
+tn.congress.7th.1823,1823,Samuel Houston,HS0248,null,null,5889,5889,0,0.0
+tn.congress.8th.1823,1823,James B. Reynolds,RJ0680,null,null,2385,2385,0,0.0
+tn.congress.8th.1823,1823,John H. Marable,MJ1391,null,null,1341,1341,0,0.0
+tn.congress.8th.1823,1823,Sterling Brewer,BS0308,null,null,1415,1415,0,0.0
+tn.congress.9th.1823,1823,Adam R. Alexander,AA0061,null,null,1923,1923,0,0.0
+tn.congress.9th.1823,1823,James Terrill,TJ0068,null,null,1355,1355,0,0.0
+tn.congress.9th.1823,1823,William R. Hess,HW0222,null,null,1121,1121,0,0.0

@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.hamilton.1805,1805,George W. Campbell,CG0108,null,null,5210,5210,0,0.0
+tn.congressdistrict1.1805,1805,John Rhea,RJ0595,null,null,4130,4130,0,0.0
+tn.uscongressdistrict3.1805,1805,William Dickson,DW0184,null,null,6006,6006,0,0.0

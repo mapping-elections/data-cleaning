@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jackson,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,802
+2,Jackson,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John H. Brown,BJ0013,null,null,NA
+3,Jackson,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,H. L. Douglass,DH0063,null,null,NA
+1,Smith,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,2038
+2,Smith,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John H. Brown,BJ0013,null,null,2
+3,Smith,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,H. L. Douglass,DH0063,null,null,1
+1,Sumner,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,1523
+2,Sumner,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John H. Brown,BJ0013,null,null,NA
+3,Sumner,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,H. L. Douglass,DH0063,null,null,NA
+1,Wilson,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,1768
+2,Wilson,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John H. Brown,BJ0013,null,null,NA
+3,Wilson,tn.congress.4.1821,1821,1821,General,"Tennessee 1821 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,H. L. Douglass,DH0063,null,null,NA

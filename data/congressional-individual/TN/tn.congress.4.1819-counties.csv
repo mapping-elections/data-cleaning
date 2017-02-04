@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Jackson,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,758
+2,Jackson,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Hadley,HW0347,null,null,141
+1,Smith,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,1977
+2,Smith,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Hadley,HW0347,null,null,146
+1,Sumner,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,406
+2,Sumner,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Hadley,HW0347,null,null,1517
+1,Wilson,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Robert Allen,AR0060,null,null,1171
+2,Wilson,tn.congress.4.1819,1819,1819,General,"Tennessee 1819 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Hadley,HW0347,null,null,918

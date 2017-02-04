@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.3.1811,1811,Felix Grundy,GF0029,null,null,1927,7878,5951,0.76
+tn.congress.3.1811,1811,Isaac Roberts,RI0017,null,null,831,2829,1998,0.71
+tn.congress.3.1811,1811,James Winchester,WJ0955,null,null,867,2331,1464,0.63

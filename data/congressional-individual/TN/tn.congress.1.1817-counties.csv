@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Carter,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Rhea,RJ0595,null,null,271
+2,Carter,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Sevier,SA0273,null,null,185
+1,Greene,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Rhea,RJ0595,null,null,731
+2,Greene,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Sevier,SA0273,null,null,719
+1,Hawkins,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Rhea,RJ0595,null,null,367
+2,Hawkins,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Sevier,SA0273,null,null,391
+1,Sullivan,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Rhea,RJ0595,null,null,794
+2,Sullivan,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Sevier,SA0273,null,null,256
+1,Washington,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Rhea,RJ0595,null,null,973
+2,Washington,tn.congress.1.1817,1817,1817,General,"Tennessee 1817 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Sevier,SA0273,null,null,218

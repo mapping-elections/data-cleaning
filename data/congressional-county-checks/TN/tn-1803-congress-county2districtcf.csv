@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+tn.congress.1803,1803,John Rhea,RJ0595,null,null,4809,NA,-4809,1.0
+tn.congress.1803,1803,George W. Campbell,CG0108,null,null,4275,NA,-4275,1.0
+tn.congress.1803,1803,William Dickson,DW0184,null,null,3741,NA,-3741,1.0
+tn.congress.1803,1803,John Cocke,CJ1064,null,null,2582,NA,-2582,1.0

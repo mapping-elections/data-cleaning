@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bedford,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Felix Grundy,GF0029,null,null,NA
+2,Bedford,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Roberts,RI0017,null,null,NA
+3,Bedford,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Winchester,WJ0955,null,null,NA
+1,Davidson,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Felix Grundy,GF0029,null,null,1164
+2,Davidson,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Roberts,RI0017,null,null,233
+3,Davidson,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Winchester,WJ0955,null,null,142
+1,Maury,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Felix Grundy,GF0029,null,null,467
+2,Maury,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Roberts,RI0017,null,null,532
+3,Maury,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Winchester,WJ0955,null,null,27
+1,Rutherford,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Felix Grundy,GF0029,null,null,296
+2,Rutherford,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Roberts,RI0017,null,null,66
+3,Rutherford,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Winchester,WJ0955,null,null,698
+1,Wilson,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Felix Grundy,GF0029,null,null,NA
+2,Wilson,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Isaac Roberts,RI0017,null,null,NA
+3,Wilson,tn.congress.3.1811,1811,1811,General,"Tennessee 1811 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Winchester,WJ0955,null,null,NA

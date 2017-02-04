@@ -7,7 +7,7 @@
 # STATES to export
 states <- c("NY", "VA", "NC", "MA", "ME", "NH", "VT", "CT", "RI", "PA", "NJ",
             "DE", "MD", "SC", "GA", "AL", "IL", "IN", "KY", "LA", "MS", "MO",
-            "OH")
+            "OH", "TN")
 
 suppressMessages(library(tidyverse))
 suppressMessages(library(stringr))
