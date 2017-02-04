@@ -1,0 +1,89 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,731
+2,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,601
+3,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,5
+4,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,153
+5,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,7
+6,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,2
+7,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Burke,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,30
+2,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,81
+3,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,45
+4,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,6
+5,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,NA
+6,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Camden,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,726
+2,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,304
+3,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,8
+4,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,248
+5,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,193
+6,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Columbia,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1
+1,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,209
+2,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,13
+3,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,NA
+4,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,192
+5,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,1
+6,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,8
+8,Effingham,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,2
+1,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,510
+2,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,156
+3,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,391
+4,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,NA
+5,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,1
+6,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Elbert,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,211
+2,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,336
+3,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,110
+4,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,NA
+5,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,7
+6,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,17
+7,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Franklin,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,930
+2,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,331
+3,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,489
+4,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,122
+5,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,191
+6,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Greene,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,181
+2,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,27
+3,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,2
+4,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,152
+5,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,NA
+6,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,1
+7,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Liberty,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,2
+1,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,276
+2,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,222
+3,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,7
+4,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,102
+5,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,52
+6,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Richmond,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,7
+1,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,496
+2,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,507
+3,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,13
+4,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,6
+5,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,79
+6,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Washington,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Republican,A03,1188
+2,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,1054
+3,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,George Matthews,MG0009,Federalist,A01,264
+4,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Milledge,MJ0057,Republican,A03,21
+5,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Willis,WF0022,null,null,293
+6,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+7,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,NA
+8,Wilkes,ga.uscongress.1792,1792,1792,General,Georgia 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,1

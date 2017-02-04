@@ -1,0 +1,7 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1801,1801,John Milledge,MJ0057,null,null,2669,NA,-2669,1.0
+ga.uscongress.1801,1801,William Stith,SW0016,null,null,921,NA,-921,1.0
+ga.uscongress.1801,1801,Peter L. Van Allen,VP0048,null,null,548,NA,-548,1.0
+ga.uscongress.1801,1801,George Jones,JG0000,null,null,163,NA,-163,1.0
+ga.uscongress.1801,1801,Grisham,null,null,null,1,NA,-1,1.0
+ga.uscongress.1801,1801,Thomas P. Carnes,CT0042,null,null,1,NA,-1,1.0

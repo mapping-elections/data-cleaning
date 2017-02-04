@@ -1,0 +1,7 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1808,1808,William Bibb,BW0000,Republican,A03,13091,NA,-13091,1.0
+ga.uscongress.1808,1808,George Troup,TG0014,Republican,A03,12725,NA,-12725,1.0
+ga.uscongress.1808,1808,Howell Cobb,CH0029,Republican,A03,11494,NA,-11494,1.0
+ga.uscongress.1808,1808,Dennis Smelt,SD0007,Republican,A03,8321,NA,-8321,1.0
+ga.uscongress.1808,1808,James E. Houston,HJ0052,Republican,A03,6064,NA,-6064,1.0
+ga.uscongress.1808,1808,John M. Dooley,DJ0047,Federalist,A01,4750,NA,-4750,1.0

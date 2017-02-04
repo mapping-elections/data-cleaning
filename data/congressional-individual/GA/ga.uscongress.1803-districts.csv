@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ga.uscongress.1803,1803,1803,Special,"Georgia 1803 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,Republican,A03,1,NA,NA
+ga.uscongress.1803,1803,1803,Special,"Georgia 1803 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,Federalist,A01,2,NA,NA
+ga.uscongress.1803,1803,1803,Special,"Georgia 1803 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Cowles Mead,MC0004,Republican,A03,3,NA,NA
+ga.uscongress.1803,1803,1803,Special,"Georgia 1803 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Jared Irwin,IJ0023,Republican,A03,4,NA,NA

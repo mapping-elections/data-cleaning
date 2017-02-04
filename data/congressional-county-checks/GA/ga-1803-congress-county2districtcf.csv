@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1803,1803,Joseph Bryan,BJ0111,Republican,A03,8159,NA,-8159,1.0
+ga.uscongress.1803,1803,Matthew MacAllister,MM0004,Federalist,A01,2284,NA,-2284,1.0
+ga.uscongress.1803,1803,Cowles Mead,MC0004,Republican,A03,1039,NA,-1039,1.0
+ga.uscongress.1803,1803,Jared Irwin,IJ0023,Republican,A03,15,NA,-15,1.0

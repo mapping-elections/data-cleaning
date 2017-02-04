@@ -1,0 +1,531 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,91
+2,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,100
+3,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,61
+4,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,73
+5,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,1
+6,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,26
+7,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,79
+8,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,20
+9,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,NA
+10,Appling,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,80
+1,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,523
+2,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,505
+3,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,424
+4,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,364
+5,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,504
+6,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,438
+7,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,379
+8,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,178
+9,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,198
+10,Baldwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,64
+1,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,137
+2,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,178
+3,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,118
+4,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,132
+5,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,NA
+6,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,17
+7,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,180
+8,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,179
+9,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,107
+10,Bulloch,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,24
+1,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,471
+2,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,428
+3,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,369
+4,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,112
+5,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,345
+6,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,352
+7,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,380
+8,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,623
+9,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,183
+10,Burke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,5
+1,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,110
+2,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,111
+3,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,104
+4,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,42
+5,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,25
+6,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,102
+7,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,110
+8,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,1
+9,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,101
+10,Bryan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,4
+1,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,271
+2,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,273
+3,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,176
+4,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,260
+5,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,150
+6,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,140
+7,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,261
+8,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,114
+9,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,51
+10,Camden,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,45
+1,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,698
+2,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,731
+3,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,354
+4,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,455
+5,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,447
+6,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,382
+7,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,602
+8,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,451
+9,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,231
+10,Chatham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,260
+1,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,623
+2,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,542
+3,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,551
+4,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,510
+5,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,565
+6,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,579
+7,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,289
+8,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,223
+9,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,186
+10,Clarke,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,431
+1,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,422
+2,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,334
+3,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,333
+4,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,179
+5,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,258
+6,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,378
+7,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,278
+8,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,352
+9,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,106
+10,Columbia,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,31
+1,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,18
+2,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,1
+3,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+4,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,3
+5,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,2
+6,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,NA
+7,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,10
+8,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,25
+9,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,NA
+10,Dooly,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,NA
+1,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,81
+2,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,73
+3,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,70
+4,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,59
+5,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,18
+6,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,29
+7,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,82
+8,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,79
+9,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,8
+10,Early,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,43
+1,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,191
+2,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,190
+3,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,188
+4,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,127
+5,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,190
+6,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,171
+7,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,192
+8,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,1
+9,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,14
+10,Effingham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,NA
+1,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,558
+2,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,552
+3,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,539
+4,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,705
+5,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,664
+6,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,595
+7,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,273
+8,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,247
+9,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,251
+10,Elbert,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,115
+1,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,97
+2,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,66
+3,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,64
+4,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,68
+5,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,7
+6,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,NA
+7,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,73
+8,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,104
+9,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,NA
+10,Emanuel,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,NA
+1,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,136
+2,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,115
+3,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,137
+4,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,119
+5,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,107
+6,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,77
+7,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,35
+8,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,51
+9,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,14
+10,Fayette,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,135
+1,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,600
+2,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,407
+3,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,451
+4,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,666
+5,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,565
+6,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,356
+7,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,180
+8,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,491
+9,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,134
+10,Franklin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,422
+1,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,73
+2,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,87
+3,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,54
+4,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,54
+5,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,3
+6,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,55
+7,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,86
+8,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,28
+9,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,9
+10,Glynn,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,30
+1,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,858
+2,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,779
+3,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,658
+4,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,656
+5,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,924
+6,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,795
+7,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,425
+8,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,132
+9,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,416
+10,Greene,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,246
+1,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,380
+2,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,300
+3,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,261
+4,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,407
+5,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,307
+6,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,342
+7,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,198
+8,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,183
+9,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,215
+10,Gwinnett,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,334
+1,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,272
+2,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,266
+3,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,155
+4,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,229
+5,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,137
+6,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,45
+7,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,291
+8,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,503
+9,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,13
+10,Habersham,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,224
+1,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,391
+2,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,410
+3,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,479
+4,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,492
+5,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,375
+6,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,146
+7,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,328
+8,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,394
+9,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,122
+10,Hall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,466
+1,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,736
+2,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,641
+3,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,528
+4,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,491
+5,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,718
+6,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,705
+7,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,402
+8,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,164
+9,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,622
+10,Hancock,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,22
+1,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,42
+2,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,61
+3,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,9
+4,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,68
+5,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,11
+6,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,NA
+7,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,52
+8,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,109
+9,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,32
+10,Henry,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,98
+1,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,45
+2,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,26
+3,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,37
+4,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,30
+5,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,35
+6,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,38
+7,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,27
+8,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,46
+9,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,13
+10,Houston,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,9
+1,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,20
+2,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,14
+3,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,13
+4,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,14
+5,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,NA
+6,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,NA
+7,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,18
+8,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,27
+9,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,NA
+10,Irwin,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,15
+1,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,815
+2,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,673
+3,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,776
+4,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,779
+5,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,640
+6,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,634
+7,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,321
+8,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,332
+9,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,440
+10,Jackson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,488
+1,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,994
+2,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,1046
+3,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,881
+4,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,833
+5,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,728
+6,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,631
+7,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,526
+8,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,975
+9,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,979
+10,Jasper,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,532
+1,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,278
+2,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,256
+3,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,222
+4,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,62
+5,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,194
+6,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,164
+7,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,218
+8,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,207
+9,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,44
+10,Jefferson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,63
+1,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,802
+2,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,637
+3,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,622
+4,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,599
+5,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,407
+6,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,356
+7,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,655
+8,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,703
+9,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,486
+10,Jones,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,184
+1,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,303
+2,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,257
+3,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,229
+4,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,207
+5,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,320
+6,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,282
+7,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,119
+8,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,62
+9,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,37
+10,Laurens,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,17
+1,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,84
+2,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,87
+3,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,51
+4,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,29
+5,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,75
+6,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,29
+7,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,91
+8,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,31
+9,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,28
+10,Liberty,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,46
+1,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,381
+2,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,383
+3,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,352
+4,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,187
+5,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,266
+6,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,297
+7,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,275
+8,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,318
+9,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,135
+10,Lincoln,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,4
+1,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,377
+2,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,349
+3,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,267
+4,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,367
+5,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,363
+6,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,226
+7,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,313
+8,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,223
+9,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,23
+10,Madison,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,120
+1,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,155
+2,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,157
+3,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,140
+4,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,121
+5,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,150
+6,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,123
+7,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,153
+8,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,4
+9,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,25
+10,McIntosh,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,36
+1,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,197
+2,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,178
+3,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,173
+4,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,155
+5,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,138
+6,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,150
+7,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,145
+8,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,151
+9,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,69
+10,Monroe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,48
+1,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,138
+2,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,131
+3,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,93
+4,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,129
+5,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,76
+6,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,58
+7,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,93
+8,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,85
+9,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,96
+10,Montgomery,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,22
+1,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,1003
+2,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,901
+3,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,867
+4,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,899
+5,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,886
+6,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,787
+7,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,845
+8,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,414
+9,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,462
+10,Morgan,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,154
+1,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,327
+2,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,291
+3,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,223
+4,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,333
+5,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,263
+6,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,151
+7,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,274
+8,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,241
+9,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,170
+10,Newton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,218
+1,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,751
+2,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,671
+3,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,662
+4,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,625
+5,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,594
+6,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,585
+7,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,240
+8,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,286
+9,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,525
+10,Oglethorpe,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,107
+1,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,193
+2,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,144
+3,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,87
+4,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,118
+5,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,133
+6,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,94
+7,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,126
+8,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,143
+9,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,63
+10,Pulaski,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,20
+1,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,997
+2,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,937
+3,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,930
+4,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,893
+5,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,965
+6,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,805
+7,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,1100
+8,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,388
+9,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,186
+10,Putnam,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,23
+1,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,39
+2,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,8
+3,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,37
+4,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,32
+5,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,2
+6,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,NA
+7,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,18
+8,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,53
+9,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,NA
+10,Rabun,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,55
+1,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,321
+2,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,418
+3,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,198
+4,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,146
+5,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,186
+6,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,187
+7,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,192
+8,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,507
+9,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,37
+10,Richmond,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,36
+1,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,186
+2,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,220
+3,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,98
+4,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,59
+5,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,82
+6,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,12
+7,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,268
+8,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,374
+9,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,3
+10,Screven,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,11
+1,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,161
+2,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,164
+3,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,47
+4,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,103
+5,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,3
+6,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,153
+7,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,122
+8,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,84
+9,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,58
+10,Tattnall,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,17
+1,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,162
+2,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,161
+3,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,119
+4,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,89
+5,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,58
+6,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,93
+7,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,136
+8,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,86
+9,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,47
+10,Telfair,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,145
+1,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,387
+2,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,341
+3,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,289
+4,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,361
+5,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,431
+6,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,340
+7,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,129
+8,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,298
+9,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,207
+10,Twiggs,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,27
+1,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,367
+2,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,332
+3,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,388
+4,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,402
+5,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,230
+6,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,222
+7,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,248
+8,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,315
+9,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,250
+10,Walton,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,237
+1,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,521
+2,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,249
+3,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,414
+4,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,304
+5,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,451
+6,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,509
+7,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,327
+8,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,351
+9,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,268
+10,Warren,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,19
+1,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,289
+2,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,266
+3,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,176
+4,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,61
+5,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,196
+6,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,123
+7,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,250
+8,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,517
+9,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,464
+10,Washington,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,5
+1,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,94
+2,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,92
+3,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,83
+4,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,33
+5,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,43
+6,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,22
+7,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,94
+8,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,20
+9,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,69
+10,Wayne,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,33
+1,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,819
+2,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,669
+3,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,787
+4,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,594
+5,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,551
+6,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,601
+7,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,346
+8,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,561
+9,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,310
+10,Wilkes,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,69
+1,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,375
+2,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward F. Tattnall,TE0021,null,null,286
+3,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,262
+4,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,null,null,343
+5,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,229
+6,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,George Carey,CG0025,null,null,60
+7,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,345
+8,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Glascock,GT0014,null,null,485
+9,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles E. Haynes,HC0011,null,null,30
+10,Wilkinson,ga.uscongress.1822,1822-10,1822,General,Georgia 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John R. Golding,GJ0041,null,null,2

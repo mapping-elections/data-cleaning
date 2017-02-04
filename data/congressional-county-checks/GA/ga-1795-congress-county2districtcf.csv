@@ -1,0 +1,26 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1795,1795,John Milledge,MJ0057,null,null,1487,NA,-1487,1.0
+ga.uscongress.1795,1795,Abraham Baldwin,BA0026,null,null,1391,NA,-1391,1.0
+ga.uscongress.1795,1795,Thomas P. Carnes,CT0042,null,null,1190,NA,-1190,1.0
+ga.uscongress.1795,1795,Jacob B. Waldburber,WJ0062,null,null,1143,NA,-1143,1.0
+ga.uscongress.1795,1795,James Sims,SJ0091,null,null,941,NA,-941,1.0
+ga.uscongress.1795,1795,Francis Willis,WF0022,null,null,765,NA,-765,1.0
+ga.uscongress.1795,1795,Lachlan MacIntosh,ML0009,null,null,290,NA,-290,1.0
+ga.uscongress.1795,1795,Bartholomew Thompson,TB0057,null,null,51,NA,-51,1.0
+ga.uscongress.1795,1795,David Perryman,PD0104,null,null,51,NA,-51,1.0
+ga.uscongress.1795,1795,Elias Wilbourne,WE0173,null,null,51,NA,-51,1.0
+ga.uscongress.1795,1795,George Foalas,FG0039,null,null,51,NA,-51,1.0
+ga.uscongress.1795,1795,George Ray,RG0063,null,null,51,NA,-51,1.0
+ga.uscongress.1795,1795,John Marshall,MJ1058,null,null,51,NA,-51,1.0
+ga.uscongress.1795,1795,Samuel Blackbourn,BS0271,null,null,38,NA,-38,1.0
+ga.uscongress.1795,1795,James Adcock,AJ0400,null,null,37,NA,-37,1.0
+ga.uscongress.1795,1795,White B. Smith,SW0408,null,null,7,NA,-7,1.0
+ga.uscongress.1795,1795,James Reia,RJ0686,null,null,5,NA,-5,1.0
+ga.uscongress.1795,1795,Richard Sims,SR0183,null,null,4,NA,-4,1.0
+ga.uscongress.1795,1795,Zachariah Marshall,MZ0007,null,null,3,NA,-3,1.0
+ga.uscongress.1795,1795,James Simmons,SJ1238,null,null,2,NA,-2,1.0
+ga.uscongress.1795,1795,John Spencer,SJ1239,null,null,2,NA,-2,1.0
+ga.uscongress.1795,1795,"Joseph Cray, Jr.",CJ0955,null,null,2,NA,-2,1.0
+ga.uscongress.1795,1795,J. Stone,SJ1233,null,null,1,NA,-1,1.0
+ga.uscongress.1795,1795,James Jones,JJ0010,null,null,1,NA,-1,1.0
+ga.uscongress.1795,1795,William Few,FW0005,null,null,1,NA,-1,1.0

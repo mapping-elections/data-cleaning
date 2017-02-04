@@ -1,0 +1,12 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1796,1796,Abraham Baldwin,BA0026,Republican,A03,5932,NA,-5932,1.0
+ga.uscongress.1796,1796,John Milledge,MJ0057,Republican,A03,5489,NA,-5489,1.0
+ga.uscongress.1796,1796,Thomas P. Carnes,CT0042,Federalist,A01,3104,NA,-3104,1.0
+ga.uscongress.1796,1796,Francis Willis,WF0022,Federalist,A01,1745,NA,-1745,1.0
+ga.uscongress.1796,1796,George Nailor,NG0000,Republican,A03,295,NA,-295,1.0
+ga.uscongress.1796,1796,William Barnett,BW0037,null,null,5,NA,-5,1.0
+ga.uscongress.1796,1796,Thomas Glascock,GT0021,null,null,2,NA,-2,1.0
+ga.uscongress.1796,1796,A.C.G. Elholm,EA0052,null,null,1,NA,-1,1.0
+ga.uscongress.1796,1796,Howell Cobb,CH0029,null,null,1,NA,-1,1.0
+ga.uscongress.1796,1796,John W. Thompson,TJ0469,null,null,1,NA,-1,1.0
+ga.uscongress.1796,1796,Josiah Tatnall,TJ0074,null,null,1,NA,-1,1.0

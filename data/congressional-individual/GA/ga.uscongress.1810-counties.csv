@@ -1,0 +1,334 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,699
+2,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,669
+3,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,608
+4,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,360
+5,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,320
+6,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,172
+7,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,39
+8,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Baldwin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,45
+2,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,43
+3,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,36
+4,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,49
+5,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,8
+6,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,9
+7,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,8
+8,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Bryan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,222
+2,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,228
+3,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,NA
+4,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,103
+5,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,15
+6,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,218
+7,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,20
+8,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Bulloch,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,571
+2,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,511
+3,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,354
+4,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,357
+5,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,295
+6,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,301
+7,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,299
+8,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,13
+9,Burke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,210
+2,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,180
+3,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,4
+4,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,211
+5,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,59
+6,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,146
+7,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,30
+8,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Camden,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,319
+2,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,328
+3,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,41
+4,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,207
+5,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,293
+6,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,100
+7,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,145
+8,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Chatham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,722
+2,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,657
+3,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,636
+4,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,254
+5,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,335
+6,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,290
+7,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,66
+8,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Clarke,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,2
+1,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,693
+2,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,635
+3,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,605
+4,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,336
+5,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,213
+6,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,280
+7,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,52
+8,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Columbia,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,150
+2,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,150
+3,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,5
+4,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,20
+5,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,121
+6,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,142
+7,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,2
+8,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Effingham,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,807
+2,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,809
+3,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,791
+4,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,773
+5,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,53
+6,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,38
+7,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,13
+8,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,1
+9,Elbert,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,801
+2,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,727
+3,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,598
+4,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,388
+5,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,518
+6,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,32
+7,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,57
+8,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Franklin,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,585
+2,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,501
+3,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,374
+4,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,264
+5,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,388
+6,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,318
+7,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,74
+8,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Greene,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,33
+2,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,31
+3,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,4
+4,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,28
+5,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,29
+6,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,6
+7,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,10
+8,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Glynn,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,775
+2,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,790
+3,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,660
+4,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,499
+5,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,78
+6,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,248
+7,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,9
+8,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Hancock,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,1
+1,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,839
+2,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,829
+3,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,788
+4,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,626
+5,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,236
+6,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,12
+7,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,2
+8,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Jackson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,492
+2,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,408
+3,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,123
+4,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,299
+5,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,79
+6,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,399
+7,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,152
+8,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,58
+9,Jefferson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,869
+2,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,861
+3,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,789
+4,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,453
+5,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,230
+6,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,182
+7,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,29
+8,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Jones,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,292
+2,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,291
+3,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,43
+4,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,170
+5,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,166
+6,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,190
+7,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,32
+8,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,1
+9,Laurens,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,86
+2,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,87
+3,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,41
+4,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,84
+5,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,NA
+6,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,14
+7,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,77
+8,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Liberty,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,370
+2,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,327
+3,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,241
+4,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,169
+5,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,233
+6,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,207
+7,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,122
+8,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Lincoln,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,115
+2,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,109
+3,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,8
+4,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,1
+5,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,106
+6,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,11
+7,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,114
+8,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,McIntosh,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,133
+2,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,157
+3,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,124
+4,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,41
+5,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,50
+6,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,90
+7,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,14
+8,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,4
+9,Montgomery,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,764
+2,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,728
+3,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,549
+4,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,252
+5,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,475
+6,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,293
+7,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,26
+8,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,16
+9,Morgan,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,904
+2,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,872
+3,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,670
+4,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,414
+5,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,435
+6,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,192
+7,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,24
+8,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Oglethorpe,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,254
+2,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,252
+3,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,154
+4,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,106
+5,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,70
+6,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,45
+7,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,36
+8,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,1
+9,Pulaski,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,902
+2,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,919
+3,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,862
+4,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,506
+5,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,376
+6,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,125
+7,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,26
+8,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,4
+9,Putnam,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,4
+1,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,897
+2,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,884
+3,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,705
+4,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,608
+5,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,437
+6,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,61
+7,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,40
+8,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,3
+9,Randolph,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,288
+2,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,179
+3,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,181
+4,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,98
+5,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,172
+6,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,300
+7,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,136
+8,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Richmond,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,195
+2,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,205
+3,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,8
+4,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,191
+5,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,202
+6,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,126
+7,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,116
+8,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Screven,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,176
+2,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,173
+3,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,164
+4,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,33
+5,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,2
+6,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,137
+7,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,5
+8,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,9
+9,Tattnall,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,98
+2,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,102
+3,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,NA
+4,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,NA
+5,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,53
+6,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,93
+7,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,46
+8,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,46
+9,Telfair,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,434
+2,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,439
+3,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,389
+4,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,274
+5,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,72
+6,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,30
+7,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,17
+8,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Twiggs,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,732
+2,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,681
+3,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,273
+4,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,140
+5,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,446
+6,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,585
+7,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,28
+8,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Warren,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,1
+1,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,856
+2,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,496
+3,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,407
+4,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,391
+5,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,413
+6,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,514
+7,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,360
+8,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,13
+9,Washington,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,1
+1,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,77
+2,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,77
+3,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,79
+4,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,79
+5,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,NA
+6,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,NA
+7,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,NA
+8,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Wayne,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,1039
+2,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,739
+3,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,784
+4,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,154
+5,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,622
+6,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,571
+7,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,180
+8,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,NA
+9,Wilkes,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA
+1,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,William Bibb,BW0000,Republican,A03,250
+2,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,George Troup,TG0014,Republican,A03,396
+3,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Howell Cobb,CH0029,Republican,A03,196
+4,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Bolling Hall,HB0018,Republican,A03,178
+5,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,Republican,A03,189
+6,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Republican,A03,152
+7,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,John Elliot,EJ0015,Federalist,A01,185
+8,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,James E. Houston,HJ0052,Republican,A03,5
+9,Wilkinson,ga.uscongress.1810,1810,1810,General,Georgia 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Jess Hatton,HJ0067,null,null,NA

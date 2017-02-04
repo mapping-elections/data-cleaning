@@ -1,0 +1,9 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1812,1812,William Bibb,BW0000,Republican,A03,11881,NA,-11881,1.0
+ga.uscongress.1812,1812,George M. Troup,TG0014,Republican,A03,11029,NA,-11029,1.0
+ga.uscongress.1812,1812,Thomas Telfair,TT0002,Republican,A03,10568,NA,-10568,1.0
+ga.uscongress.1812,1812,William Barnett,BW0037,Republican,A03,10466,NA,-10466,1.0
+ga.uscongress.1812,1812,Bolling Hall,HB0018,Republican,A03,9925,NA,-9925,1.0
+ga.uscongress.1812,1812,John Forsyth,FJ0021,Republican,A03,9188,NA,-9188,1.0
+ga.uscongress.1812,1812,George Dent,DG0001,Federalist,A01,2699,NA,-2699,1.0
+ga.uscongress.1812,1812,Thomas Carr,CT0026,null,null,47,NA,-47,1.0

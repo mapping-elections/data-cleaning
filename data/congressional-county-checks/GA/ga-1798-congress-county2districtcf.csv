@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1798,1798,James Jones,JJ0010,Federalist,A01,4264,NA,-4264,1.0
+ga.uscongress.1798,1798,Benjamin Taliaferro,TB0026,Federalist,A01,3823,NA,-3823,1.0
+ga.uscongress.1798,1798,Abraham Baldwin,BA0026,Republican,A03,3135,NA,-3135,1.0
+ga.uscongress.1798,1798,John Milledge,MJ0057,Republican,A03,192,NA,-192,1.0
+ga.uscongress.1798,1798,Seaborn Jones,JS0022,null,null,13,NA,-13,1.0
+ga.uscongress.1798,1798,Thomas Pohill,PT0113,null,null,4,NA,-4,1.0
+ga.uscongress.1798,1798,Jesse Scruggs,SJ0094,null,null,2,NA,-2,1.0
+ga.uscongress.1798,1798,John Kogler,KJ0327,null,null,2,NA,-2,1.0
+ga.uscongress.1798,1798,George Walton,WG0006,null,null,1,NA,-1,1.0
+ga.uscongress.1798,1798,Robert Watkins,WR0006,null,null,1,NA,-1,1.0

@@ -1,0 +1,10 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1810,1810,William Bibb,BW0000,Republican,A03,17694,NA,-17694,1.0
+ga.uscongress.1810,1810,George Troup,TG0014,Republican,A03,16470,NA,-16470,1.0
+ga.uscongress.1810,1810,Howell Cobb,CH0029,Republican,A03,12294,NA,-12294,1.0
+ga.uscongress.1810,1810,Bolling Hall,HB0018,Republican,A03,9116,NA,-9116,1.0
+ga.uscongress.1810,1810,Elijah Clark,CE0024,Republican,A03,7789,NA,-7789,1.0
+ga.uscongress.1810,1810,John Forsyth,FJ0021,Republican,A03,6629,NA,-6629,1.0
+ga.uscongress.1810,1810,John Elliot,EJ0015,Federalist,A01,2591,NA,-2591,1.0
+ga.uscongress.1810,1810,James E. Houston,HJ0052,Republican,A03,174,NA,-174,1.0
+ga.uscongress.1810,1810,Jess Hatton,HJ0067,null,null,9,NA,-9,1.0

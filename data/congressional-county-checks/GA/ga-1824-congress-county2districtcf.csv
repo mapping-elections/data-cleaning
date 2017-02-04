@@ -1,0 +1,14 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1824,1824,Wiley Thompson,TW0008,Crawford,A07,10443,NA,-10443,1.0
+ga.uscongress.1824,1824,John Forsyth,FJ0021,Crawford,A07,10219,NA,-10219,1.0
+ga.uscongress.1824,1824,E. F. Tattnall,TE0021,Crawford,A07,10049,NA,-10049,1.0
+ga.uscongress.1824,1824,Alfred Cuthbert,CA0020,Crawford,A07,9950,NA,-9950,1.0
+ga.uscongress.1824,1824,George Cary,CG0025,Crawford,A07,9672,NA,-9672,1.0
+ga.uscongress.1824,1824,James Meriwether,MJ0094,Crawford,A07,9491,NA,-9491,1.0
+ga.uscongress.1824,1824,Charles Haynes,HC0011,Crawford,A07,8881,NA,-8881,1.0
+ga.uscongress.1824,1824,Longstreet,null,null,null,541,NA,-541,1.0
+ga.uscongress.1824,1824,Duncan G. Campbell,CD0013,Jackson,A03,252,NA,-252,1.0
+ga.uscongress.1824,1824,Samuel Rockwell,RS0004,Jackson,A03,196,NA,-196,1.0
+ga.uscongress.1824,1824,Charles J. MacDonald,MC0010,Jackson,A03,184,NA,-184,1.0
+ga.uscongress.1824,1824,Joel Abbott,AJ0029,null,null,2,NA,-2,1.0
+ga.uscongress.1824,1824,Thomas Cobb,CT0041,null,null,2,NA,-2,1.0

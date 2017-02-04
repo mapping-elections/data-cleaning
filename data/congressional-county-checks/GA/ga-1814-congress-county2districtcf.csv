@@ -1,0 +1,10 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1814,1814,John Forsyth,FJ0021,null,null,16389,NA,-16389,1.0
+ga.uscongress.1814,1814,Wilson Lumpkin,LW0012,null,null,14773,NA,-14773,1.0
+ga.uscongress.1814,1814,Alfred Cuthbert,CA0020,null,null,14347,NA,-14347,1.0
+ga.uscongress.1814,1814,Richard H. Wilde,WR0013,null,null,12949,NA,-12949,1.0
+ga.uscongress.1814,1814,Bolling Hall,HB0018,null,null,11946,NA,-11946,1.0
+ga.uscongress.1814,1814,Thomas Telfair,TT0002,null,null,11118,NA,-11118,1.0
+ga.uscongress.1814,1814,Joel Abbott,AJ0029,null,null,10198,NA,-10198,1.0
+ga.uscongress.1814,1814,William Barnett,BW0037,null,null,8895,NA,-8895,1.0
+ga.uscongress.1814,1814,Hiram Storrs,SH0021,null,null,924,NA,-924,1.0

@@ -1,0 +1,9 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1792,1792,Abraham Baldwin,BA0026,Republican,A03,5488,NA,-5488,1.0
+ga.uscongress.1792,1792,Thomas P. Carnes,CT0042,Federalist,A01,3632,NA,-3632,1.0
+ga.uscongress.1792,1792,George Matthews,MG0009,Federalist,A01,1334,NA,-1334,1.0
+ga.uscongress.1792,1792,John Milledge,MJ0057,Republican,A03,1002,NA,-1002,1.0
+ga.uscongress.1792,1792,Francis Willis,WF0022,null,null,824,NA,-824,1.0
+ga.uscongress.1792,1792,James Jackson,JJ0004,null,null,20,NA,-20,1.0
+ga.uscongress.1792,1792,scattering,null,null,null,14,NA,-14,1.0
+ga.uscongress.1792,1792,Matthew MacAllister,MM0004,Federalist,A01,8,NA,-8,1.0

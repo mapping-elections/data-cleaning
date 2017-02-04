@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Burke,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Anti-Federalist,A02,137
+2,Burke,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,46
+3,Burke,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,7
+4,Burke,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,John Jones,JJ0009,null,null,2
+1,Columbia,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Anti-Federalist,A02,121
+2,Columbia,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,17
+3,Columbia,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+4,Columbia,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,John Jones,JJ0009,null,null,NA
+1,Richmond,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Anti-Federalist,A02,24
+2,Richmond,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,74
+3,Richmond,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+4,Richmond,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,John Jones,JJ0009,null,null,NA
+1,Washington,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Abraham Baldwin,BA0026,Anti-Federalist,A02,48
+2,Washington,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,Thomas P. Carnes,CT0042,Federalist,A01,111
+3,Washington,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,NA
+4,Washington,ga.uscongress.MiddleDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Middle District",U.S. House of Representatives,ON125,John Jones,JJ0009,null,null,NA

@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1802,1802,John Milledge,MJ0057,Republican,A03,8138,NA,-8138,1.0
+ga.uscongress.1802,1802,David Meriwether,MD0013,Republican,A03,7763,NA,-7763,1.0
+ga.uscongress.1802,1802,Peter Early,EP0004,Federalist,A01,7305,NA,-7305,1.0
+ga.uscongress.1802,1802,Samuel Hammond,HS0033,Republican,A03,5042,NA,-5042,1.0
+ga.uscongress.1802,1802,Joseph Bryan,BJ0111,null,null,4469,NA,-4469,1.0
+ga.uscongress.1802,1802,Francis Willis,WF0022,null,null,3102,NA,-3102,1.0
+ga.uscongress.1802,1802,Matthew MacAlister,MM0004,null,null,2539,NA,-2539,1.0
+ga.uscongress.1802,1802,William Crawford,CW0010,null,null,140,NA,-140,1.0
+ga.uscongress.1802,1802,scattering,null,null,null,52,NA,-52,1.0
+ga.uscongress.1802,1802,Jared Irwin,IJ0023,null,null,15,NA,-15,1.0

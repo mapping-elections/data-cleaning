@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+ga.uscongress.SouthernDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,Anthony Wayne,WA0009,Federalist,A01,1,278
+ga.uscongress.SouthernDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,James Jackson,JJ0004,Anti-Federalist,A02,2,273
+ga.uscongress.SouthernDistrict.1791,1791,1791,General,"Georgia 1791 U.S. House of Representatives, Southern District",U.S. House of Representatives,ON125,scattering,null,null,null,3,1

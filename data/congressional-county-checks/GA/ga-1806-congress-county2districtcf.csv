@@ -1,0 +1,12 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1806,1806,Dennis Smelt,SD0007,null,null,9758,NA,-9758,1.0
+ga.uscongress.1806,1806,George M. Troup,TG0014,null,null,9112,NA,-9112,1.0
+ga.uscongress.1806,1806,William W. Bibb,BW0000,null,null,8276,NA,-8276,1.0
+ga.uscongress.1806,1806,Howell Cobb,CH0029,null,null,6985,NA,-6985,1.0
+ga.uscongress.1806,1806,Elijah Clarke,CE0024,null,null,6491,NA,-6491,1.0
+ga.uscongress.1806,1806,Thomas Carr,CT0026,null,null,3541,NA,-3541,1.0
+ga.uscongress.1806,1806,William Barnett,BW0037,null,null,3541,NA,-3541,1.0
+ga.uscongress.1806,1806,James Simms,SJ0091,null,null,2770,NA,-2770,1.0
+ga.uscongress.1806,1806,Thomas Spalding,ST0028,null,null,1669,NA,-1669,1.0
+ga.uscongress.1806,1806,Obediah Jones,JO0000,null,null,534,NA,-534,1.0
+ga.uscongress.1806,1806,Buckner Harris,HB0020,null,null,358,NA,-358,1.0

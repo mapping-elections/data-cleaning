@@ -1,0 +1,10 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.MiddleDistrict.1791,1791,Abraham Baldwin,BA0026,Anti-Federalist,A02,330,330,0,0.0
+ga.uscongress.MiddleDistrict.1791,1791,James Jackson,JJ0004,null,null,7,7,0,0.0
+ga.uscongress.MiddleDistrict.1791,1791,John Jones,JJ0009,null,null,2,2,0,0.0
+ga.uscongress.MiddleDistrict.1791,1791,Thomas P. Carnes,CT0042,Federalist,A01,248,248,0,0.0
+ga.uscongress.NorthernDistrict.1791,1791,Francis Willis,WF0022,Anti-Federalist,A02,549,549,0,0.0
+ga.uscongress.NorthernDistrict.1791,1791,George Mathews,MG0009,Federalist,A01,276,276,0,0.0
+ga.uscongress.SouthernDistrict.1791,1791,Anthony Wayne,WA0009,Federalist,A01,278,278,0,0.0
+ga.uscongress.SouthernDistrict.1791,1791,James Jackson,JJ0004,Anti-Federalist,A02,273,273,0,0.0
+ga.uscongress.SouthernDistrict.1791,1791,scattering,null,null,null,1,1,0,0.0

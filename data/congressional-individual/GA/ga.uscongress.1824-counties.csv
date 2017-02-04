@@ -1,0 +1,729 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,38
+2,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,38
+3,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,38
+4,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,31
+5,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,28
+6,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,38
+7,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,31
+8,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Appling,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,209
+2,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,223
+3,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,228
+4,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,217
+5,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,226
+6,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,212
+7,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,215
+8,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Baldwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,55
+2,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,49
+3,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,60
+4,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,46
+5,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,53
+6,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,39
+7,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,45
+8,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Bibb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,132
+2,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,135
+3,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,136
+4,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,137
+5,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,133
+6,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,68
+7,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,65
+8,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,81
+12,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Bryan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,92
+2,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,89
+3,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,134
+4,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,136
+5,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,78
+6,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,73
+7,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,76
+8,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Bulloch,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,46
+2,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,55
+3,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,67
+4,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,56
+5,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,50
+6,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,34
+7,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,49
+8,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Burke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,146
+2,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,175
+3,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,202
+4,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,175
+5,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,130
+6,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,109
+7,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,38
+8,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,116
+12,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,2
+13,Camden,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,2
+1,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,576
+2,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,588
+3,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,624
+4,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,595
+5,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,570
+6,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,584
+7,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,558
+8,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Chatham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,165
+2,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,182
+3,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,155
+4,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,154
+5,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,166
+6,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,335
+7,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,160
+8,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Clarke,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,208
+2,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,218
+3,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,213
+4,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,208
+5,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,234
+6,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,204
+7,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,213
+8,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Columbia,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,55
+2,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,66
+3,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,55
+4,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,64
+5,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,68
+6,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,53
+7,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,106
+8,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Crawford,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,24
+2,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,24
+3,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,25
+4,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,26
+5,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,23
+6,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,21
+7,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,1
+8,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Decatur,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,166
+2,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,110
+3,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,109
+4,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,142
+5,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,108
+6,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,166
+7,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,105
+8,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,De Kalb,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,52
+2,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,64
+3,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,64
+4,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,65
+5,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,55
+6,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,33
+7,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,52
+8,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Dooly,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,44
+2,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,46
+3,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,45
+4,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,45
+5,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,46
+6,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,45
+7,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,46
+8,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Early,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,125
+2,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,125
+3,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,125
+4,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,125
+5,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,124
+6,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,125
+7,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,125
+8,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Effingham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,654
+2,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,138
+3,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,103
+4,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,92
+5,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,105
+6,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,91
+7,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,92
+8,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Elbert,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,48
+2,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,39
+3,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,37
+4,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,89
+5,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,29
+6,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,27
+7,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,40
+8,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Fayette,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,15
+2,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,15
+3,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,14
+4,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,15
+5,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,15
+6,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,13
+7,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,12
+8,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Franklin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,54
+2,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,73
+3,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,91
+4,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,85
+5,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,72
+6,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,63
+7,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,4
+8,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Glynn,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,362
+2,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,376
+3,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,378
+4,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,355
+5,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,375
+6,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,371
+7,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,319
+8,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Greene,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,324
+2,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,271
+3,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,45
+4,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,77
+5,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,49
+6,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,101
+7,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,42
+8,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Gwinnett,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,131
+2,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,86
+3,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,81
+4,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,152
+5,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,73
+6,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,138
+7,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,32
+8,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Habersham,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,71
+2,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,67
+3,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,65
+4,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,65
+5,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,52
+6,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,61
+7,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,55
+8,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Hall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,160
+2,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,265
+3,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,197
+4,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,181
+5,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,291
+6,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,162
+7,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,394
+8,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Hancock,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,155
+2,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,144
+3,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,146
+4,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,144
+5,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,147
+6,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,140
+7,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,133
+8,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Henry,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,38
+2,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,31
+3,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,38
+4,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,36
+5,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,32
+6,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,39
+7,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,64
+8,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Houston,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,12
+2,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,12
+3,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,12
+4,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,11
+5,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,NA
+6,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,NA
+7,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,2
+8,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Irwin,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,306
+2,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,279
+3,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,277
+4,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,273
+5,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,282
+6,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,306
+7,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,232
+8,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Jackson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,330
+2,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,322
+3,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,336
+4,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,324
+5,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,311
+6,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,315
+7,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,335
+8,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Jasper,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,57
+2,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,73
+3,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,71
+4,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,70
+5,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,69
+6,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,74
+7,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,54
+8,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Jefferson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,731
+2,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,722
+3,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,730
+4,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,730
+5,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,722
+6,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,713
+7,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,711
+8,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Jones,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,115
+2,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,143
+3,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,139
+4,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,117
+5,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,142
+6,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,114
+7,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,108
+8,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Laurens,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,69
+2,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,97
+3,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,95
+4,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,115
+5,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,77
+6,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,76
+7,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,57
+8,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Liberty,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,56
+2,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,92
+3,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,144
+4,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,49
+5,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,73
+6,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,40
+7,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,50
+8,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Lincoln,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,83
+2,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,74
+3,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,72
+4,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,70
+5,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,71
+6,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,73
+7,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,65
+8,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Madison,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,213
+2,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,214
+3,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,217
+4,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,211
+5,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,215
+6,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,147
+7,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,77
+8,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,209
+12,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,McIntosh,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,448
+2,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,460
+3,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,448
+4,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,443
+5,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,447
+6,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,432
+7,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,507
+8,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Monroe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,58
+2,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,57
+3,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,55
+4,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,58
+5,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,59
+6,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,48
+7,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,56
+8,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Montgomery,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,610
+2,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,619
+3,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,612
+4,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,607
+5,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,607
+6,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,601
+7,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,598
+8,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Morgan,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,246
+2,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,334
+3,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,331
+4,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,339
+5,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,339
+6,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,330
+7,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,330
+8,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Newton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,631
+2,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,628
+3,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,628
+4,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,627
+5,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,627
+6,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,623
+7,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,619
+8,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,210
+9,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,180
+10,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,177
+11,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Oglethorpe,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,46
+2,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,46
+3,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,48
+4,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,46
+5,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,40
+6,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,41
+7,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,23
+8,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Pike,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,39
+2,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,44
+3,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,44
+4,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,43
+5,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,39
+6,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,39
+7,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,40
+8,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Pulaski,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,264
+2,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,271
+3,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,269
+4,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,271
+5,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,241
+6,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,261
+7,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,249
+8,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Putnam,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,328
+2,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,344
+3,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,353
+4,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,341
+5,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,335
+6,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,316
+7,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,318
+8,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,42
+9,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,16
+10,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,7
+11,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Richmond,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,72
+2,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,104
+3,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,104
+4,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,104
+5,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,77
+6,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,75
+7,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,69
+8,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Screven,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,121
+2,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,131
+3,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,131
+4,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,117
+5,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,128
+6,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,119
+7,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,89
+8,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Tattnall,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,97
+2,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,90
+3,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,106
+4,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,123
+5,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,75
+6,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,72
+7,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,73
+8,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Telfair,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,62
+2,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,66
+3,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,67
+4,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,66
+5,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,59
+6,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,59
+7,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,60
+8,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Twiggs,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,111
+2,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,100
+3,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,80
+4,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,90
+5,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,94
+6,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,91
+7,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,86
+8,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Walton,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,340
+2,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,335
+3,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,324
+4,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,321
+5,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,337
+6,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,320
+7,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,333
+8,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Warren,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,43
+2,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,49
+3,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,49
+4,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,40
+5,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,46
+6,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,40
+7,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,45
+8,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Washington,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,139
+2,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,139
+3,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,139
+4,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,139
+5,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,139
+6,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,138
+7,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,NA
+8,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,135
+12,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Wayne,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,583
+2,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,597
+3,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,614
+4,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,608
+5,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,613
+6,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,604
+7,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,597
+8,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Wilkes,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+1,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,88
+2,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,85
+3,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,79
+4,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,84
+5,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,76
+6,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,79
+7,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,26
+8,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,NA
+9,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,NA
+10,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,NA
+11,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,NA
+12,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,NA
+13,Wilkinson,ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA

@@ -1,0 +1,12 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1820,1820,Robert R. Reid,RR0004,null,null,10512,NA,-10512,1.0
+ga.uscongress.1820,1820,Alfred Cuthbert,CA0020,null,null,9041,NA,-9041,1.0
+ga.uscongress.1820,1820,Joel Abbot,AJ0029,null,null,8756,NA,-8756,1.0
+ga.uscongress.1820,1820,Edward F. Tatnall,TE0021,null,null,8026,NA,-8026,1.0
+ga.uscongress.1820,1820,George R. Gilmer,GG0006,null,null,7929,NA,-7929,1.0
+ga.uscongress.1820,1820,Wiley Thompson,TW0008,null,null,7587,NA,-7587,1.0
+ga.uscongress.1820,1820,Thomas W. Cobb,CT0041,null,null,7545,NA,-7545,1.0
+ga.uscongress.1820,1820,George Walton,WG0006,null,null,5073,NA,-5073,1.0
+ga.uscongress.1820,1820,Zadock Cook,CZ0000,null,null,3001,NA,-3001,1.0
+ga.uscongress.1820,1820,Gibson Clark,CG0023,null,null,2027,NA,-2027,1.0
+ga.uscongress.1820,1820,James Blair,BJ0133,null,null,1851,NA,-1851,1.0

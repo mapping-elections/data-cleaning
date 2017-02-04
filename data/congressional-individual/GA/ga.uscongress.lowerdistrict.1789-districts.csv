@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ga.uscongress.lowerdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Lower District",U.S. House of Representatives,ON125,James Jackson,JJ0004,null,null,1,NA,NA
+ga.uscongress.lowerdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Lower District",U.S. House of Representatives,ON125,William Houston,HW0061,null,null,2,NA,NA
+ga.uscongress.lowerdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Lower District",U.S. House of Representatives,ON125,Henry Osborne,OH0000,null,null,3,NA,NA
+ga.uscongress.lowerdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Lower District",U.S. House of Representatives,ON125,James Seagrove,SJ0082,null,null,4,NA,NA
+ga.uscongress.lowerdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Lower District",U.S. House of Representatives,ON125,scattering,null,null,null,5,NA,NA

@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ga.uscongress.upperdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Upper District",U.S. House of Representatives,ON125,George Matthews,MG0009,null,null,1,NA,NA
+ga.uscongress.upperdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Upper District",U.S. House of Representatives,ON125,Henry Osborne,OH0000,null,null,2,NA,NA
+ga.uscongress.upperdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Upper District",U.S. House of Representatives,ON125,Anthony Wayne,WA0009,null,null,3,NA,NA
+ga.uscongress.upperdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Upper District",U.S. House of Representatives,ON125,Joseph Sumner,SJ0083,null,null,4,NA,NA
+ga.uscongress.upperdistrict.1789,1789,1789,General,"Georgia 1789 U.S. House of Representatives, Upper District",U.S. House of Representatives,ON125,scattering,null,null,null,5,NA,NA

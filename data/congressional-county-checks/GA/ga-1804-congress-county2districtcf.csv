@@ -1,0 +1,18 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1804,1804,Peter Early,EP0004,null,null,10369,NA,-10369,1.0
+ga.uscongress.1804,1804,David Meriweather,MD0013,null,null,9584,NA,-9584,1.0
+ga.uscongress.1804,1804,Joseph Bryan,BJ0111,null,null,9117,NA,-9117,1.0
+ga.uscongress.1804,1804,Thomas Spalding,ST0028,null,null,4504,NA,-4504,1.0
+ga.uscongress.1804,1804,Cowles Mead,MC0004,null,null,4465,NA,-4465,1.0
+ga.uscongress.1804,1804,Thomas Carr,CT0026,null,null,2806,NA,-2806,1.0
+ga.uscongress.1804,1804,Obadiah Jones,JO0000,null,null,2079,NA,-2079,1.0
+ga.uscongress.1804,1804,Thomas U.P. Charlton,CT0031,null,null,317,NA,-317,1.0
+ga.uscongress.1804,1804,Matthew MacAllister,MM0004,null,null,7,NA,-7,1.0
+ga.uscongress.1804,1804,Jared Irwin,IJ0023,null,null,5,NA,-5,1.0
+ga.uscongress.1804,1804,Daniel Merriwether,MD0013,null,null,3,NA,-3,1.0
+ga.uscongress.1804,1804,Owen Shannon,SO0015,null,null,2,NA,-2,1.0
+ga.uscongress.1804,1804,Charles Harris,HC0003,null,null,1,NA,-1,1.0
+ga.uscongress.1804,1804,Charles Odingsills,OC0000,null,null,1,NA,-1,1.0
+ga.uscongress.1804,1804,Elijah Clark,CE0024,null,null,1,NA,-1,1.0
+ga.uscongress.1804,1804,William Jones,JW0090,null,null,1,NA,-1,1.0
+ga.uscongress.1804,1804,Willis,null,null,null,1,NA,-1,1.0

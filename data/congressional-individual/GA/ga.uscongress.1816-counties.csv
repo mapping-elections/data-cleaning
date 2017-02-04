@@ -1,0 +1,586 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,347
+2,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,491
+3,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,285
+4,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,167
+5,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,247
+6,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,207
+7,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,191
+8,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,162
+9,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,368
+10,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,213
+11,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,168
+12,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,88
+13,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,61
+14,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,12
+15,Baldwin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,63
+2,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,62
+3,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,35
+4,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,33
+5,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,1
+6,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,34
+7,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,NA
+8,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,23
+9,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,39
+10,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,8
+11,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,62
+12,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,60
+13,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,21
+14,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,Bulloch,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,204
+2,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,272
+3,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,308
+4,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,115
+5,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,234
+6,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,111
+7,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,28
+8,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,131
+9,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,366
+10,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,58
+11,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,215
+12,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,13
+13,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,44
+14,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,12
+15,Burke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,1
+1,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,NA
+2,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,26
+3,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,6
+4,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,NA
+5,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,NA
+6,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,28
+7,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,NA
+8,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,28
+9,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,12
+10,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,35
+11,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,37
+12,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,NA
+13,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,22
+14,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,Bryan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,57
+2,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,36
+3,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,56
+4,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,67
+5,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,1
+6,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,95
+7,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,50
+8,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,41
+9,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,21
+10,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,2
+11,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,95
+12,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,NA
+13,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,84
+14,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,7
+15,Camden,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,27
+2,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,55
+3,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,72
+4,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,1
+5,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,30
+6,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,141
+7,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,7
+8,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,125
+9,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,101
+10,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,46
+11,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,433
+12,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,1
+13,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,66
+14,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,3
+15,Chatham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,296
+2,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,139
+3,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,157
+4,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,617
+5,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,209
+6,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,206
+7,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,315
+8,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,183
+9,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,146
+10,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,111
+11,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,111
+12,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,227
+13,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,12
+14,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,131
+15,Clarke,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,214
+2,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,469
+3,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,318
+4,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,262
+5,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,252
+6,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,305
+7,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,385
+8,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,277
+9,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,118
+10,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,90
+11,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,258
+12,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,17
+13,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,101
+14,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,230
+15,Columbia,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,52
+2,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,61
+3,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,121
+4,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,2
+5,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,7
+6,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,144
+7,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,NA
+8,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,95
+9,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+10,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,120
+11,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,210
+12,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,1
+13,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,158
+14,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,Effingham,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,318
+2,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,400
+3,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,548
+4,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,16
+5,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,679
+6,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,542
+7,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,299
+8,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,583
+9,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,25
+10,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,354
+11,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,80
+12,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,491
+13,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,99
+14,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,13
+15,Elbert,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,NA
+2,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,30
+3,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,NA
+4,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,115
+5,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,4
+6,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,98
+7,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,4
+8,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+9,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,16
+10,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,117
+11,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,131
+12,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,NA
+13,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,97
+14,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,95
+15,Emanuel,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,504
+2,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,356
+3,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,434
+4,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,142
+5,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,691
+6,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,142
+7,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,520
+8,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,110
+9,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,125
+10,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,80
+11,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,30
+12,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,25
+13,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,45
+14,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,12
+15,Franklin,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,23
+2,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,37
+3,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,32
+4,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,32
+5,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,NA
+6,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,4
+7,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,NA
+8,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+9,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,32
+10,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,NA
+11,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,35
+12,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,NA
+13,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,9
+14,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,Glynn,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,477
+2,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,286
+3,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,282
+4,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,83
+5,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,483
+6,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,479
+7,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,19
+8,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,441
+9,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,325
+10,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,490
+11,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,100
+12,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,8
+13,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,119
+14,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,2
+15,Greene,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,662
+2,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,597
+3,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,209
+4,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,122
+5,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,350
+6,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,472
+7,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,15
+8,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,446
+9,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,350
+10,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,196
+11,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,172
+12,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,27
+13,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,65
+14,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,1
+15,Hancock,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,756
+2,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,306
+3,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,606
+4,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,723
+5,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,616
+6,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,54
+7,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,699
+8,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,19
+9,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,51
+10,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,16
+11,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,NA
+12,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,707
+13,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,2
+14,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,79
+15,Jackson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,1060
+2,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,625
+3,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,702
+4,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,1019
+5,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,239
+6,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,138
+7,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,466
+8,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,109
+9,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,880
+10,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,298
+11,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,NA
+12,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,718
+13,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,10
+14,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,71
+15,Jasper,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,1
+1,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,296
+2,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,207
+3,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,254
+4,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,117
+5,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,123
+6,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,226
+7,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,34
+8,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,318
+9,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,371
+10,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,171
+11,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,305
+12,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,7
+13,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,100
+14,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,8
+15,Jefferson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,8
+1,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,852
+2,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,747
+3,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,401
+4,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,672
+5,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,373
+6,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,340
+7,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,345
+8,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,316
+9,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,524
+10,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,406
+11,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,295
+12,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,690
+13,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,81
+14,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,93
+15,Jones,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,153
+2,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,357
+3,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,289
+4,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,123
+5,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,68
+6,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,236
+7,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,98
+8,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,266
+9,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,14
+10,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,287
+11,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,258
+12,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,68
+13,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,51
+14,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,11
+15,Laurens,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,54
+2,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,16
+3,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,1
+4,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,12
+5,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,84
+6,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,1
+7,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,76
+8,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,1
+9,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,51
+10,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,91
+11,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,8
+12,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,51
+13,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,NA
+14,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,Liberty,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,330
+2,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,244
+3,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,415
+4,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,187
+5,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,447
+6,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,163
+7,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,526
+8,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,185
+9,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,29
+10,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,61
+11,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,96
+12,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,41
+13,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,5
+14,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,32
+15,Lincoln,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,260
+2,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,175
+3,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,115
+4,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,337
+5,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,109
+6,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,23
+7,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,274
+8,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,11
+9,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,14
+10,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,89
+11,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,28
+12,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,392
+13,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,11
+14,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,36
+15,Madison,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,65
+2,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,71
+3,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,79
+4,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,8
+5,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,5
+6,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,13
+7,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,43
+8,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,13
+9,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,52
+10,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,NA
+11,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,74
+12,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,28
+13,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,NA
+14,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,McIntosh,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,98
+2,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,97
+3,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,113
+4,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,2
+5,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,114
+6,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,25
+7,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,77
+8,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,28
+9,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,18
+10,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,3
+11,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,34
+12,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,60
+13,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,22
+14,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,NA
+15,Montgomery,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,723
+2,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,573
+3,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,398
+4,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,735
+5,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,494
+6,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,540
+7,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,281
+8,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,466
+9,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,377
+10,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,634
+11,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,416
+12,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,233
+13,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,21
+14,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,88
+15,Morgan,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,289
+2,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,350
+3,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,224
+4,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,424
+5,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,480
+6,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,415
+7,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,170
+8,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,332
+9,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,347
+10,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,532
+11,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,224
+12,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,322
+13,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,166
+14,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,34
+15,Oglethorpe,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,210
+2,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,384
+3,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,91
+4,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,105
+5,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,219
+6,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,83
+7,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,205
+8,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,111
+9,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,144
+10,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,147
+11,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,102
+12,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,135
+13,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,13
+14,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,85
+15,Pulaski,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,558
+2,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,676
+3,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,456
+4,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,462
+5,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,335
+6,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,549
+7,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,250
+8,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,421
+9,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,284
+10,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,712
+11,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,498
+12,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,227
+13,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,63
+14,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,45
+15,Putnam,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,144
+2,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,254
+3,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,306
+4,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,8
+5,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,146
+6,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,507
+7,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,122
+8,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,410
+9,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,413
+10,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,44
+11,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,391
+12,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,4
+13,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,80
+14,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,3
+15,Richmond,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,2
+1,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,1
+2,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,21
+3,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,35
+4,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,83
+5,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,12
+6,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,79
+7,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,64
+8,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,56
+9,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,27
+10,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,46
+11,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,104
+12,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,51
+13,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,74
+14,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,35
+15,Screven,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,79
+2,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,101
+3,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,152
+4,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,57
+5,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,71
+6,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,23
+7,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,125
+8,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,93
+9,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,159
+10,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,21
+11,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,99
+12,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,12
+13,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,1
+14,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,56
+15,Tattnall,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,33
+2,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,119
+3,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,91
+4,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,118
+5,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,21
+6,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,8
+7,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,118
+8,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,10
+9,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,67
+10,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,35
+11,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,9
+12,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,76
+13,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,3
+14,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,10
+15,Telfair,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,446
+2,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,534
+3,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,325
+4,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,185
+5,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,303
+6,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,230
+7,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,229
+8,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,141
+9,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,258
+10,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,212
+11,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,181
+12,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,186
+13,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,23
+14,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,33
+15,Twiggs,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,234
+2,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,474
+3,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,357
+4,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,209
+5,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,247
+6,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,543
+7,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,160
+8,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,503
+9,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,64
+10,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,395
+11,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,413
+12,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,60
+13,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,94
+14,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,11
+15,Warren,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,473
+2,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,461
+3,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,264
+4,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,397
+5,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,106
+6,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,74
+7,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,208
+8,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,73
+9,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,441
+10,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,35
+11,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,69
+12,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,184
+13,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,14
+14,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,109
+15,Washington,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,NA
+2,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,NA
+3,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,NA
+4,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,90
+5,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,NA
+6,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,90
+7,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,NA
+8,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+9,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+10,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,92
+11,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,85
+12,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,42
+13,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,90
+14,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,48
+15,Wayne,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,536
+2,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,259
+3,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,827
+4,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,294
+5,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,457
+6,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,459
+7,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,556
+8,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,442
+9,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,158
+10,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,452
+11,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,298
+12,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,198
+13,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,324
+14,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,115
+15,Wilkes,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA
+1,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,103
+2,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,201
+3,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbot,AJ0029,null,null,299
+4,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Zadock Cook,CZ0000,null,null,340
+5,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,75
+6,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,68
+7,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,John M. Dooly,DJ0047,null,null,338
+8,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,28
+9,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,151
+10,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Wilson Lumpkin,LW0012,null,null,211
+11,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,null,null,83
+12,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen Daniel,DA0004,null,null,303
+13,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Telfair,TT0002,null,null,19
+14,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,James Wood,WJ0077,null,null,104
+15,Wilkinson,ga.uscongress.1816,1816-10,1816,General,Georgia 1816 U.S. House of Representatives,U.S. House of Representatives,ON125,Key,null,null,null,NA

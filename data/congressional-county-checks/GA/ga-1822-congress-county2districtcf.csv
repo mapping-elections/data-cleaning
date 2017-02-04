@@ -1,0 +1,11 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.1822,1822,John Forsyth,FJ0021,null,null,19360,NA,-19360,1.0
+ga.uscongress.1822,1822,Edward F. Tattnall,TE0021,null,null,17494,NA,-17494,1.0
+ga.uscongress.1822,1822,Joel Abbott,AJ0029,null,null,15606,NA,-15606,1.0
+ga.uscongress.1822,1822,Wiley Thompson,TW0008,null,null,15178,NA,-15178,1.0
+ga.uscongress.1822,1822,Thomas W. Cobb,CT0041,null,null,15018,NA,-15018,1.0
+ga.uscongress.1822,1822,George Carey,CG0025,null,null,13462,NA,-13462,1.0
+ga.uscongress.1822,1822,Alfred Cuthbert,CA0020,null,null,13199,NA,-13199,1.0
+ga.uscongress.1822,1822,Thomas Glascock,GT0014,null,null,12939,NA,-12939,1.0
+ga.uscongress.1822,1822,Charles E. Haynes,HC0011,null,null,8537,NA,-8537,1.0
+ga.uscongress.1822,1822,John R. Golding,GJ0041,null,null,5841,NA,-5841,1.0

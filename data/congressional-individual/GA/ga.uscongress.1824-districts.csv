@@ -1,0 +1,14 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Wiley Thompson,TW0008,Crawford,A07,1,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,Crawford,A07,2,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,E. F. Tattnall,TE0021,Crawford,A07,3,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Alfred Cuthbert,CA0020,Crawford,A07,4,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Cary,CG0025,Crawford,A07,5,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,James Meriwether,MJ0094,Crawford,A07,6,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Haynes,HC0011,Crawford,A07,7,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Duncan G. Campbell,CD0013,Jackson,A03,8,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel Rockwell,RS0004,Jackson,A03,9,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles J. MacDonald,MC0010,Jackson,A03,10,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Longstreet,null,null,null,11,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cobb,CT0041,null,null,12,NA,NA
+ga.uscongress.1824,1824,1824,General,Georgia 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,13,NA,NA

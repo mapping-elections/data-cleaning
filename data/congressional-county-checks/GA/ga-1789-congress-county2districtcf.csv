@@ -1,0 +1,18 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ga.uscongress.upperdistrict.1789,1789,George Matthews,MG0009,null,null,1158,NA,-1158,1.0
+ga.uscongress.middledistrict.1789,1789,Abraham Baldwin,BA0026,null,null,1096,NA,-1096,1.0
+ga.uscongress.lowerdistrict.1789,1789,James Jackson,JJ0004,null,null,604,NA,-604,1.0
+ga.uscongress.lowerdistrict.1789,1789,William Houston,HW0061,null,null,399,NA,-399,1.0
+ga.uscongress.middledistrict.1789,1789,Henry Osborne,OH0000,null,null,241,NA,-241,1.0
+ga.uscongress.lowerdistrict.1789,1789,Henry Osborne,OH0000,null,null,172,NA,-172,1.0
+ga.uscongress.middledistrict.1789,1789,Joseph Sumner,SJ0083,null,null,165,NA,-165,1.0
+ga.uscongress.middledistrict.1789,1789,Isaac Briggs,BI0007,null,null,42,NA,-42,1.0
+ga.uscongress.upperdistrict.1789,1789,Henry Osborne,OH0000,null,null,24,NA,-24,1.0
+ga.uscongress.middledistrict.1789,1789,William Houston,HW0061,null,null,23,NA,-23,1.0
+ga.uscongress.middledistrict.1789,1789,James Jackson,JJ0004,null,null,9,NA,-9,1.0
+ga.uscongress.middledistrict.1789,1789,scattering,null,null,null,8,NA,-8,1.0
+ga.uscongress.upperdistrict.1789,1789,Anthony Wayne,WA0009,null,null,8,NA,-8,1.0
+ga.uscongress.upperdistrict.1789,1789,scattering,null,null,null,8,NA,-8,1.0
+ga.uscongress.lowerdistrict.1789,1789,James Seagrove,SJ0082,null,null,7,NA,-7,1.0
+ga.uscongress.lowerdistrict.1789,1789,scattering,null,null,null,5,NA,-5,1.0
+ga.uscongress.upperdistrict.1789,1789,Joseph Sumner,SJ0083,null,null,5,NA,-5,1.0

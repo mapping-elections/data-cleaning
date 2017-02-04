@@ -1,0 +1,443 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,114
+2,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,117
+3,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,110
+4,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,2
+5,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,58
+6,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,NA
+7,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,58
+9,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Bulloch,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,318
+2,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,218
+3,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,304
+4,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,28
+5,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,426
+6,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,3
+7,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,82
+8,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Burke,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,188
+2,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,126
+3,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,185
+4,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,176
+5,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,3
+6,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,NA
+7,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,34
+8,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,26
+9,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,5
+11,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,1
+16,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Camden,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,135
+2,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,129
+3,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,150
+4,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,50
+5,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,28
+6,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,13
+7,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,80
+8,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,1
+15,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,1
+17,Chatham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,704
+2,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,714
+3,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,651
+4,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,234
+5,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,50
+6,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,357
+7,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,136
+8,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Clark,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,540
+2,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,524
+3,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,549
+4,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,15
+5,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,265
+6,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,219
+7,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,40
+8,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Columbia,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,117
+2,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,80
+3,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,109
+4,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,49
+5,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,56
+6,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,NA
+7,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Effingham,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,1
+1,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,379
+2,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,745
+3,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,670
+4,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,34
+5,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,490
+6,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,16
+7,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,622
+8,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,1
+9,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Elbert,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,496
+2,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,402
+3,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,453
+4,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,234
+5,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,39
+6,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,130
+7,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,64
+8,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,21
+9,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Franklin,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,64
+2,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,2
+3,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,64
+4,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,137
+5,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,NA
+6,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,41
+7,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Glynn,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,1083
+2,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,610
+3,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,167
+4,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,487
+5,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,743
+6,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,115
+7,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,137
+8,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Greene,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,503
+2,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,659
+3,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,571
+4,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,317
+5,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,103
+6,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,268
+7,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,135
+8,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Hancock,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,731
+2,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,704
+3,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,544
+4,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,296
+5,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,63
+6,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,463
+7,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,140
+8,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,1
+9,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,7
+10,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,2
+13,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Jackson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,339
+2,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,489
+3,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,473
+4,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,140
+5,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,221
+6,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,108
+7,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Jefferson,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,117
+2,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,111
+3,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,115
+4,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,19
+5,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,NA
+6,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,6
+7,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,70
+8,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,3
+12,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,1
+14,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Liberty,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,390
+2,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,358
+3,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,277
+4,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,314
+5,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,108
+6,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,71
+7,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,7
+8,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,10
+9,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Lincoln,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,1
+2,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,1
+3,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,3
+4,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,105
+5,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,NA
+6,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,NA
+7,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,McIntosh,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,290
+2,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,284
+3,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,288
+4,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,114
+5,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,157
+6,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,17
+7,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Montgomery,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,794
+2,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,601
+3,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,673
+4,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,269
+5,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,167
+6,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,32
+7,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,290
+8,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Oglethorpe,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,303
+2,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,176
+3,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,231
+4,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,163
+5,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,208
+6,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,113
+7,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,36
+8,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Richmond,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,229
+2,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,228
+3,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,229
+4,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,25
+5,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,120
+6,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,87
+7,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Scriven,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,61
+2,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,1
+3,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,111
+4,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,40
+5,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,24
+6,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,26
+7,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,6
+8,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,NA
+9,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Tattnall,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,86
+2,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,86
+3,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,86
+4,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,NA
+5,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,NA
+6,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,NA
+7,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,NA
+8,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,86
+9,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Walton,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,656
+2,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,478
+3,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,725
+4,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,77
+5,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,385
+6,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,381
+7,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,102
+8,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,71
+9,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Warren,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,658
+2,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,662
+3,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,712
+4,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,368
+5,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,361
+6,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,14
+7,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,54
+8,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,2
+9,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Washington,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA
+1,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Peter Early,EP0004,null,null,1073
+2,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,David Meriweather,MD0013,null,null,1079
+3,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Bryan,BJ0111,null,null,667
+4,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Spalding,ST0028,null,null,811
+5,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Cowles Mead,MC0004,null,null,390
+6,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Carr,CT0026,null,null,326
+7,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Obadiah Jones,JO0000,null,null,44
+8,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas U.P. Charlton,CT0031,null,null,41
+9,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Matthew MacAllister,MM0004,null,null,NA
+10,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Jared Irwin,IJ0023,null,null,NA
+11,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Daniel Merriwether,MD0013,null,null,NA
+12,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Owen Shannon,SO0015,null,null,NA
+13,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Elijah Clark,CE0024,null,null,NA
+14,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Harris,HC0003,null,null,NA
+15,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,William Jones,JW0090,null,null,NA
+16,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Charles Odingsills,OC0000,null,null,NA
+17,Wilkes,ga.uscongress.1804,1804,1804,General,Georgia 1804 U.S. House of Representatives,U.S. House of Representatives,ON125,Willis,null,null,null,NA

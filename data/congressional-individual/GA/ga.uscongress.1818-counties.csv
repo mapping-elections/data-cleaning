@@ -1,0 +1,307 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,247
+2,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,224
+3,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,242
+4,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,301
+5,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,210
+6,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,240
+7,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,64
+8,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,17
+9,Baldwin,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,1
+1,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,97
+2,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,97
+3,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,93
+4,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,96
+5,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,92
+6,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,94
+7,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Bulloch,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,132
+2,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,140
+3,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,85
+4,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,87
+5,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,112
+6,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,66
+7,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,32
+8,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,9
+9,Burke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,96
+2,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,101
+3,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,92
+4,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,97
+5,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,88
+6,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,67
+7,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,15
+9,Camden,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,412
+2,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,574
+3,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,196
+4,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,294
+5,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,282
+6,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,189
+7,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,276
+8,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Chatham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,358
+2,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,205
+3,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,339
+4,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,227
+5,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,303
+6,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,356
+7,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,330
+8,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Clarke,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,394
+2,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,223
+3,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,282
+4,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,378
+5,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,286
+6,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,299
+7,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,385
+8,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,135
+9,Columbia,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,111
+2,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,174
+3,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,109
+4,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,130
+5,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,106
+6,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,24
+7,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,134
+8,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Effingham,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,347
+2,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,390
+3,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,326
+4,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,339
+5,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,336
+6,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,358
+7,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,11
+9,Elbert,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,42
+2,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,44
+3,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,39
+4,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,38
+5,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,41
+6,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,39
+7,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Glynn,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,180
+2,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,160
+3,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,180
+4,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,155
+5,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,164
+6,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,186
+7,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,12
+8,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Greene,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,363
+2,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,221
+3,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,505
+4,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,496
+5,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,261
+6,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,289
+7,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,324
+8,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Hancock,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,574
+2,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,399
+3,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,599
+4,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,521
+5,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,571
+6,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,617
+7,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Jackson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,318
+2,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,259
+3,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,316
+4,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,265
+5,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,229
+6,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,316
+7,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,153
+8,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,178
+9,Jasper,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,5
+1,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,79
+2,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,122
+3,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,51
+4,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,64
+5,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,68
+6,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,36
+7,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,46
+8,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Jefferson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,277
+2,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,246
+3,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,180
+4,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,267
+5,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,151
+6,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,242
+7,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,245
+8,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,35
+9,Jones,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,38
+2,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,31
+3,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,36
+4,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,29
+5,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,34
+6,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,NA
+7,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,3
+9,Laurens,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,123
+2,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,140
+3,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,113
+4,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,72
+5,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,87
+6,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,113
+7,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,91
+8,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Liberty,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,260
+2,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,224
+3,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,340
+4,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,210
+5,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,387
+6,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,250
+7,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,263
+8,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,25
+9,Lincoln,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,203
+2,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,198
+3,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,235
+4,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,199
+5,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,137
+6,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,184
+7,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,128
+8,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,36
+9,Madison,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,2
+1,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,64
+2,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,77
+3,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,59
+4,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,79
+5,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,61
+6,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,48
+7,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,36
+8,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,McIntosh,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,31
+2,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,37
+3,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,28
+4,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,35
+5,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,34
+6,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,35
+7,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,20
+8,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Montgomery,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,127
+2,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,106
+3,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,150
+4,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,106
+5,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,102
+6,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,108
+7,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,20
+8,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,9
+9,Morgan,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,9
+1,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,547
+2,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,482
+3,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,517
+4,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,484
+5,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,484
+6,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,518
+7,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,118
+8,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,49
+9,Oglethorpe,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,74
+2,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,41
+3,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,43
+4,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,70
+5,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,26
+6,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,73
+7,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,16
+8,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,3
+9,Pulaski,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,2
+1,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,321
+2,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,739
+3,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,316
+4,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,331
+5,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,286
+6,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,296
+7,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Putnam,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,255
+2,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,246
+3,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,190
+4,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,203
+5,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,217
+6,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,203
+7,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,27
+9,Richmond,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,85
+2,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,73
+3,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,44
+4,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,46
+5,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,33
+6,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,46
+7,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,30
+8,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,42
+9,Screven,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,2
+1,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,197
+2,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,120
+3,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,185
+4,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,232
+5,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,158
+6,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,125
+7,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,13
+8,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,143
+9,Twiggs,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,166
+2,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,145
+3,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,149
+4,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,151
+5,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,149
+6,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,145
+7,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Warren,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
+1,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,35
+2,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,39
+3,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,25
+4,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,35
+5,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,19
+6,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,21
+7,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,3
+8,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,3
+9,Washington,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,2
+1,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,59
+2,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,57
+3,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,59
+4,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,59
+5,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,NA
+6,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,60
+7,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,NA
+8,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,26
+9,Wayne,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,31
+1,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,571
+2,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,414
+3,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,575
+4,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,485
+5,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,645
+6,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,482
+7,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,482
+8,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,59
+9,Wilkes,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,40
+1,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Forsyth,FJ0021,null,null,53
+2,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John A. Cuthbert,CJ0138,null,null,26
+3,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Terrell,TW0005,null,null,43
+4,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Crawford,CJ0122,null,null,52
+5,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Joel Abbott,AJ0029,null,null,49
+6,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas W. Cobb,CT0041,null,null,44
+7,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard H. Wilde,WR0013,null,null,58
+8,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Homer Virgil Milton,MH0021,null,null,NA
+9,Wilkinson,ga.uscongress.1818,1818-10,1818,General,Georgia 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Cook,null,null,null,NA
