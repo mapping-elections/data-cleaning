@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.washington.1798,1798,1798,General,"South Carolina 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Abraham Nott,NA0041,Federalist,A01,1,1415
+sc.uscongress.washington.1798,1798,1798,General,"South Carolina 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Smith,SW0300,Republican,A03,2,1393
+sc.uscongress.washington.1798,1798,1798,General,"South Carolina 1798 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,William Hill,HW0378,Federalist,A01,3,419

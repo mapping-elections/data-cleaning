@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Winton,sc.uscongress.beaufort.1796,1796,1796,General,"South Carolina 1796 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"John Rutledge, Jr.",RJ0621,Federalist,A01,308
+2,Winton,sc.uscongress.beaufort.1796,1796,1796,General,"South Carolina 1796 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Elnathan Haskell,HE0016,Republican,A03,49

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.kershaw.1824,1824,1824,General,"South Carolina 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John W. Carter,CJ1058,null,null,1,1882
+sc.uscongress.kershaw.1824,1824,1824,General,"South Carolina 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James G. Spann,SJ1511,null,null,2,1137
+sc.uscongress.kershaw.1824,1824,1824,General,"South Carolina 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Chapman Levy,LC0066,null,null,3,1055

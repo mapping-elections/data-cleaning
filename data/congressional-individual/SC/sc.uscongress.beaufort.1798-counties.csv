@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Orange,sc.uscongress.beaufort.1798,1798,1798,General,"South Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"John Rutledge, Jr.",RJ0621,Federalist,A01,128
+2,Orange,sc.uscongress.beaufort.1798,1798,1798,General,"South Carolina 1798 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pierce Butler,BP0091,Republican,A03,NA

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.chester.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Thomas Moore,MT0220,Republican,A03,1,694
+sc.uscongress.chester.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Hill,HW0378,Federalist,A01,2,296
+sc.uscongress.chester.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,William Smith,SW0305,Republican,A03,3,158

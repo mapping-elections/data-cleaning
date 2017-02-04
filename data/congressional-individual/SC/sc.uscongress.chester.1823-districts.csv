@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.chester.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Joseph Gist,GJ0573,null,null,1,Seven,1502
+sc.uscongress.chester.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,James MacCreary,MJ1355,null,null,2,Seven,1211
+sc.uscongress.chester.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,scattering,null,null,null,3,Seven,18

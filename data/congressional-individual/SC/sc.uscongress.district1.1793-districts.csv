@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.district1.1793,1793,1793,General,"South Carolina 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William L. Smith,SW0299,null,null,1,NA,NA
+sc.uscongress.district1.1793,1793,1793,General,"South Carolina 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tucker,TT0123,null,null,2,NA,NA
+sc.uscongress.district1.1793,1793,1793,General,"South Carolina 1793 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Read,RJ0598,Federalist,A01,3,NA,NA

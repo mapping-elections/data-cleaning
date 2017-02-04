@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.abbeville.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Levi Casey,CL0065,Republican,A03,1,1301
+sc.uscongress.abbeville.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John A. Elmore,EJ0269,Federalist,A01,2,654
+sc.uscongress.abbeville.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Joseph C. Calhoun,CJ1013,Republican,A03,3,640
+sc.uscongress.abbeville.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,scattering,null,null,null,4,NA

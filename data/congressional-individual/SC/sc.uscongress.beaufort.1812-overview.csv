@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.beaufort.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William Lowndes,LW0219,Republican,A03,1,NA
+sc.uscongress.beaufort.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Stephen Elliot,ES0048,Federalist,A01,2,NA
+sc.uscongress.beaufort.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA
+sc.uscongress.beaufort.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Richard Yeadon,YR0006,null,null,4,NA

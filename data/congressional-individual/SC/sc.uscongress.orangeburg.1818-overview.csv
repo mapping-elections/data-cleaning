@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.orangeburg.1818,1818,1818,General,"South Carolina 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,James Overstreet,OJ0112,Republican,A03,1,1249
+sc.uscongress.orangeburg.1818,1818,1818,General,"South Carolina 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John J. Chappell,CJ1050,Republican,A03,2,1073
+sc.uscongress.orangeburg.1818,1818,1818,General,"South Carolina 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John M. Felder,FJ0438,Federalist,A01,3,725
