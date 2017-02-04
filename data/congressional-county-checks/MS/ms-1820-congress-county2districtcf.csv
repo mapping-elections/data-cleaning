@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ms.uscongress.1820,1820,Christopher Rankin,RC0047,null,null,3908,NA,-3908,1.0
+ms.uscongress.1820,1820,Cowles Mead,MC0004,null,null,1,NA,-1,1.0
+ms.uscongress.1820,1820,Thomas B. Read,RT0129,null,null,0,NA,0,NaN

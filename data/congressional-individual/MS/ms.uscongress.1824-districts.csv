@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ms.uscongress.1824,1824,1824,General,Mississippi 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Christopher Rankin,RC0047,null,null,1,NA,NA
+ms.uscongress.1824,1824,1824,General,Mississippi 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George Poindexter,PG0042,null,null,2,NA,NA
+ms.uscongress.1824,1824,1824,General,Mississippi 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Lenemon Shearman,SL0071,null,null,3,NA,NA

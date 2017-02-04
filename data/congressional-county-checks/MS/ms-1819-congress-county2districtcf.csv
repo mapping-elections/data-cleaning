@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ms.congress.1819,1819,Christopher Rankin,RC0047,null,null,2769,NA,-2769,1.0
+ms.congress.1819,1819,Cowles Mead,MC0004,null,null,1150,NA,-1150,1.0
+ms.congress.1819,1819,George Poindexter,PG0042,null,null,1,NA,-1,1.0

@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+ms.congress.1817,1817,George Poindexter,PG0042,null,null,3042,NA,-3042,1.0
+ms.congress.1817,1817,Christopher Rankin,RC0047,null,null,6,NA,-6,1.0

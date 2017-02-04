@@ -6,7 +6,7 @@ library(stringr)
 library(purrr)
 
 # Set the state you are working on here
-STATE <- "LA"
+STATE <- "MS"
 
 # Export individual elections
 elections <- read_csv("data/congressional-elections-list.csv")
@@ -48,3 +48,4 @@ run_check <- function(df) {
 keepers %>%
   distinct(state, year) %>%
   by_row(run_check)
+
