@@ -1,0 +1,17 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1820,1820,Caesar A. Rodney,RC0001,Republican,A03,4029,NA,-4029,1.0
+de.uscongress.1820,1820,Louis MacLane,ML0002,Federalist,A01,3918,NA,-3918,1.0
+de.uscongress.1820,1820,Willard Hall,HW0048,Republican,A03,3525,NA,-3525,1.0
+de.uscongress.1820,1820,John Mitchell,MJ0047,Federalist,A01,3500,NA,-3500,1.0
+de.uscongress.1820,1820,William Poole,PW0016,null,null,14,NA,-14,1.0
+de.uscongress.1820,1820,David Houston,HD0013,null,null,7,NA,-7,1.0
+de.uscongress.1820,1820,Caleb Kirk,KC0001,null,null,2,NA,-2,1.0
+de.uscongress.1820,1820,G. Willard,WG0137,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,J. Rice,RJ0684,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,James Canby,CJ0099,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,Joshua Wollaston,WJ0824,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,Samuel H. Black,BS0038,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,Thomas Clayton,CT0005,Federalist,A01,1,NA,-1,1.0
+de.uscongress.1820,1820,Thomas Mendenhall,MT0163,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,Thomas Richardson,RT0127,null,null,1,NA,-1,1.0
+de.uscongress.1820,1820,William Wood,WW0292,null,null,1,NA,-1,1.0

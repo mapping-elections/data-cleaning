@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,1,3011
+de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,2,2682
+de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Isaac H. Starr,SI0020,Republican,A03,3,24
+de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Hugh W. Richie,RH0078,null,null,4,2

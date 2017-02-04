@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1824,1824,Louis MacLane,ML0002,Federalist,A01,3387,NA,-3387,1.0
+de.uscongress.1824,1824,Arnold Naudain,NA0005,Republican,A03,3163,NA,-3163,1.0

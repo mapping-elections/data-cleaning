@@ -1,0 +1,19 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,1340
+2,Kent,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,1329
+3,Kent,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,649
+4,Kent,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,639
+5,Kent,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis MacLane,ML0002,Federalist,A01,NA
+6,Kent,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Clements,CW0335,Federalist,A01,NA
+1,New Castle,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,1038
+2,New Castle,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,1034
+3,New Castle,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,1682
+4,New Castle,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,1683
+5,New Castle,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis MacLane,ML0002,Federalist,A01,1
+6,New Castle,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Clements,CW0335,Federalist,A01,1
+1,Sussex,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,1815
+2,Sussex,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,1820
+3,Sussex,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,890
+4,Sussex,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,889
+5,Sussex,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,Lewis MacLane,ML0002,Federalist,A01,NA
+6,Sussex,de.uscongress.1812,1812,1812,General,Delaware 1812 U.S. House of Representatives,U.S. House of Representatives,ON125,William Clements,CW0335,Federalist,A01,NA

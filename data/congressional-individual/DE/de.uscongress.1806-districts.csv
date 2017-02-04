@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,1,NA,NA
+de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzgerald,FT0001,Republican,A03,2,NA,NA
+de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,3,NA,NA
+de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Montgomery,MT0004,Republican,A03,4,NA,NA

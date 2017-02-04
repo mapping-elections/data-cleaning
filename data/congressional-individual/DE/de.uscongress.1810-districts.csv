@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,1,NA,NA
+de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,2,NA,NA

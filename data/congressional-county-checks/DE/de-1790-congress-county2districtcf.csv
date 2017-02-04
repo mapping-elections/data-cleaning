@@ -1,0 +1,8 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1790,1790,John Vining,VJ0002,null,null,252,NA,-252,1.0
+de.uscongress.1790,1790,Joshua Clayton,CJ0087,null,null,145,NA,-145,1.0
+de.uscongress.1790,1790,Thomas Duff,DT0018,null,null,104,NA,-104,1.0
+de.uscongress.1790,1790,John Banning,BJ0072,null,null,2,NA,-2,1.0
+de.uscongress.1790,1790,Nathaniel Mitchell,MN0002,null,null,2,NA,-2,1.0
+de.uscongress.1790,1790,John Gordon,GJ0019,null,null,1,NA,-1,1.0
+de.uscongress.1790,1790,William Perry,PW0014,null,null,1,NA,-1,1.0

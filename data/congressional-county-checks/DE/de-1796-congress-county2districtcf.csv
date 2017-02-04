@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1796,1796,James Bayard,BJ0078,Federalist,A01,2292,NA,-2292,1.0
+de.uscongress.1796,1796,William Perry,PW0014,Republican,A03,1779,NA,-1779,1.0

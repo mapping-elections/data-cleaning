@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,709
+2,Kent,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzgerald,FT0001,Republican,A03,NA
+3,Kent,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,NA
+4,Kent,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Montgomery,MT0004,Republican,A03,30
+1,New Castle,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,928
+2,New Castle,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzgerald,FT0001,Republican,A03,830
+3,New Castle,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,382
+4,New Castle,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Montgomery,MT0004,Republican,A03,NA
+1,Sussex,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,716
+2,Sussex,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Fitzgerald,FT0001,Republican,A03,NA
+3,Sussex,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,NA
+4,Sussex,de.uscongress.1806,1806,1806,General,Delaware 1806 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Montgomery,MT0004,Republican,A03,293

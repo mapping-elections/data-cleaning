@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1798,1798,James Bayard,BJ0078,Federalist,A01,2792,NA,-2792,1.0
+de.uscongress.1798,1798,Archibald Alexander,AA0027,Republican,A03,1772,NA,-1772,1.0

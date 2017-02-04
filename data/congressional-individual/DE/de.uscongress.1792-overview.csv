@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Anti-Federalist,A02,1,2273
+de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Lattimer,LH0001,Federalist,A01,2,2243
+de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Many,MF0000,null,null,3,685
+de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Roche,RE0089,null,null,4,465
+de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Barrett,BA0023,null,null,5,195

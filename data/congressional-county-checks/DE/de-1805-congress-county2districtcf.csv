@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1805,1805,James M. Broom,BJ0090,Federalist,A01,3011,NA,-3011,1.0
+de.uscongress.1805,1805,David Hall,HD0005,Republican,A03,2682,NA,-2682,1.0
+de.uscongress.1805,1805,Isaac H. Starr,SI0020,Republican,A03,24,NA,-24,1.0
+de.uscongress.1805,1805,Hugh W. Richie,RH0078,null,null,2,NA,-2,1.0

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,1249
+2,Kent,de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,1023
+1,New Castle,de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,722
+2,New Castle,de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,1586
+1,Sussex,de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,1663
+2,Sussex,de.uscongress.1810,1810,1810,General,Delaware 1810 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,Republican,A03,1008

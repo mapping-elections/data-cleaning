@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,1084
+2,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,1079
+3,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,473
+4,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Reed,RG0002,Republican,A03,467
+5,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward J. Dupont,DE0088,null,null,NA
+6,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,NA
+7,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,null,null,NA
+8,Kent,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Hardcastle,HP0011,null,null,NA
+1,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,1087
+2,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,1090
+3,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,1365
+4,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Reed,RG0002,Republican,A03,1364
+5,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward J. Dupont,DE0088,null,null,2
+6,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,1
+7,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,null,null,1
+8,New Castle,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Hardcastle,HP0011,null,null,1
+1,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,1793
+2,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,1791
+3,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,709
+4,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,George Reed,RG0002,Republican,A03,714
+5,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward J. Dupont,DE0088,null,null,NA
+6,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,NA
+7,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Richard C. Dale,DR0001,null,null,NA
+8,Sussex,de.uscongress.1814,1814,1814,General,Delaware 1814 U.S. House of Representatives,U.S. House of Representatives,ON125,Philip Hardcastle,HP0011,null,null,NA

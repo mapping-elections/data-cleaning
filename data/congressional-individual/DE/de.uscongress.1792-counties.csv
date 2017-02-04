@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Anti-Federalist,A02,710
+2,Kent,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Lattimer,LH0001,Federalist,A01,905
+3,Kent,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Many,MF0000,null,null,685
+4,Kent,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Roche,RE0089,null,null,465
+5,Kent,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Barrett,BA0023,null,null,195
+1,New Castle,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Anti-Federalist,A02,719
+2,New Castle,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Lattimer,LH0001,Federalist,A01,476
+3,New Castle,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Many,MF0000,null,null,NA
+4,New Castle,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Roche,RE0089,null,null,NA
+5,New Castle,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Barrett,BA0023,null,null,NA
+1,Sussex,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Anti-Federalist,A02,844
+2,Sussex,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Lattimer,LH0001,Federalist,A01,862
+3,Sussex,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Francis Many,MF0000,null,null,NA
+4,Sussex,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Edward Roche,RE0089,null,null,NA
+5,Sussex,de.uscongress.1792,1792,1792,General,Delaware 1792 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Barrett,BA0023,null,null,NA

@@ -1,0 +1,82 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,716
+2,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,620
+3,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,709
+4,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Read,RG0002,Republican,A03,564
+5,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,NA
+6,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0105,Federalist,A01,NA
+7,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hall,HT0198,null,null,NA
+8,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lea,LJ0495,null,null,NA
+9,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bennett Downs,DB0045,null,null,NA
+10,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Reynolds,RW0203,null,null,NA
+11,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Sutton,SJ0072,Republican,A03,NA
+12,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,"George Read, Jr.",RG0002,Republican,A03,NA
+13,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Rodney,RC0002,Federalist,A01,NA
+14,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,NA
+15,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,NA
+16,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stockton,SJ1498,null,null,NA
+17,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Clark,CG0013,Republican,A03,NA
+18,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gray,GA0001,Republican,A03,NA
+19,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,"James Booth, Jr.",BJ0100,Federalist,A01,NA
+20,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lea,LT0004,Federalist,A01,NA
+21,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Shipley,SW0404,Republican,A03,NA
+22,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barr,BJ1342,null,null,NA
+23,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Button,BJ1340,null,null,NA
+24,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ziba Ferris,FZ0003,null,null,NA
+25,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Houton,HJ1123,null,null,NA
+26,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Sellars,SJ1499,null,null,NA
+27,Kent,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,1125
+2,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,1799
+3,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,987
+4,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Read,RG0002,Republican,A03,1658
+5,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,10
+6,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0105,Federalist,A01,9
+7,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hall,HT0198,null,null,9
+8,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lea,LJ0495,null,null,9
+9,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bennett Downs,DB0045,null,null,9
+10,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Reynolds,RW0203,null,null,9
+11,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Sutton,SJ0072,Republican,A03,9
+12,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,"George Read, Jr.",RG0002,Republican,A03,8
+13,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Rodney,RC0002,Federalist,A01,5
+14,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,4
+15,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,4
+16,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stockton,SJ1498,null,null,4
+17,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Clark,CG0013,Republican,A03,3
+18,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gray,GA0001,Republican,A03,3
+19,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,"James Booth, Jr.",BJ0100,Federalist,A01,2
+20,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lea,LT0004,Federalist,A01,2
+21,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Shipley,SW0404,Republican,A03,2
+22,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barr,BJ1342,null,null,1
+23,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Button,BJ1340,null,null,1
+24,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ziba Ferris,FZ0003,null,null,1
+25,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Houton,HJ1123,null,null,1
+26,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Sellars,SJ1499,null,null,1
+27,New Castle,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,58
+1,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,1257
+2,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,588
+3,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,1206
+4,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Read,RG0002,Republican,A03,588
+5,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Cooper,CT0008,Federalist,A01,NA
+6,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Caldwell,CJ0105,Federalist,A01,NA
+7,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Hall,HT0198,null,null,NA
+8,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Lea,LJ0495,null,null,NA
+9,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Bennett Downs,DB0045,null,null,NA
+10,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Reynolds,RW0203,null,null,NA
+11,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Sutton,SJ0072,Republican,A03,NA
+12,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,"George Read, Jr.",RG0002,Republican,A03,NA
+13,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Rodney,RC0002,Federalist,A01,NA
+14,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry M. Ridgely,RH0001,Federalist,A01,NA
+15,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,NA
+16,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Stockton,SJ1498,null,null,NA
+17,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,George Clark,CG0013,Republican,A03,NA
+18,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Andrew Gray,GA0001,Republican,A03,NA
+19,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,"James Booth, Jr.",BJ0100,Federalist,A01,NA
+20,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Lea,LT0004,Federalist,A01,NA
+21,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,William Shipley,SW0404,Republican,A03,NA
+22,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Barr,BJ1342,null,null,NA
+23,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,James Button,BJ1340,null,null,NA
+24,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Ziba Ferris,FZ0003,null,null,NA
+25,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,Jacob Houton,HJ1123,null,null,NA
+26,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,John Sellars,SJ1499,null,null,NA
+27,Sussex,de.uscongress.1818,1818,1818,General,Delaware 1818 U.S. House of Representatives,U.S. House of Representatives,ON125,scattering,null,null,null,NA

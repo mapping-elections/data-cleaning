@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1810,1810,Henry M. Ridgely,RH0001,Federalist,A01,3634,NA,-3634,1.0
+de.uscongress.1810,1810,Richard C. Dale,DR0001,Republican,A03,3617,NA,-3617,1.0

@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Nicholas Van Dyke,VN0010,Federalist,A01,1070
+2,Kent,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,John Dickinson,DJ0039,Republican,A03,970
+3,Kent,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Peter Bayard,BP0118,null,null,NA
+4,Kent,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,William Brady,BW0429,null,null,NA
+5,Kent,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Richard C. Dale,DR0001,null,null,NA
+1,New Castle,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Nicholas Van Dyke,VN0010,Federalist,A01,579
+2,New Castle,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,John Dickinson,DJ0039,Republican,A03,1249
+3,New Castle,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Peter Bayard,BP0118,null,null,1
+4,New Castle,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,William Brady,BW0429,null,null,1
+5,New Castle,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Richard C. Dale,DR0001,null,null,1
+1,Sussex,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Nicholas Van Dyke,VN0010,Federalist,A01,1645
+2,Sussex,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,John Dickinson,DJ0039,Republican,A03,859
+3,Sussex,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Peter Bayard,BP0118,null,null,NA
+4,Sussex,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,William Brady,BW0429,null,null,NA
+5,Sussex,de.uscongress.1807,1807,1807,Special,"Delaware 1807 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Richard C. Dale,DR0001,null,null,NA

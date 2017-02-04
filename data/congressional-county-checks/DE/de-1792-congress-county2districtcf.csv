@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1792,1792,John Patton,PJ0032,Anti-Federalist,A02,2273,NA,-2273,1.0
+de.uscongress.1792,1792,Henry Lattimer,LH0001,Federalist,A01,2243,NA,-2243,1.0
+de.uscongress.1792,1792,Francis Many,MF0000,null,null,685,NA,-685,1.0
+de.uscongress.1792,1792,Edward Roche,RE0089,null,null,465,NA,-465,1.0
+de.uscongress.1792,1792,Andrew Barrett,BA0023,null,null,195,NA,-195,1.0

@@ -1,0 +1,7 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1812,1812,Henry M. Ridgely,RH0001,Federalist,A01,4193,NA,-4193,1.0
+de.uscongress.1812,1812,Thomas Cooper,CT0008,Federalist,A01,4183,NA,-4183,1.0
+de.uscongress.1812,1812,David Hall,HD0005,Republican,A03,3221,NA,-3221,1.0
+de.uscongress.1812,1812,Richard C. Dale,DR0001,Republican,A03,3211,NA,-3211,1.0
+de.uscongress.1812,1812,Lewis MacLane,ML0002,Federalist,A01,1,NA,-1,1.0
+de.uscongress.1812,1812,William Clements,CW0335,Federalist,A01,1,NA,-1,1.0

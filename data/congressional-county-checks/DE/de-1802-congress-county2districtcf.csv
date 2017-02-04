@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1802,1802,Caesar A. Rodney,RC0001,Republican,A03,3421,NA,-3421,1.0
+de.uscongress.1802,1802,James A. Bayard,BJ0078,Federalist,A01,3406,NA,-3406,1.0

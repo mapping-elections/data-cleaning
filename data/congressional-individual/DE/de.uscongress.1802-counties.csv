@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1802,1802,1802,General,Delaware 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,943
+2,Kent,de.uscongress.1802,1802,1802,General,Delaware 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,James A. Bayard,BJ0078,Federalist,A01,1162
+1,New Castle,de.uscongress.1802,1802,1802,General,Delaware 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,1664
+2,New Castle,de.uscongress.1802,1802,1802,General,Delaware 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,James A. Bayard,BJ0078,Federalist,A01,707
+1,Sussex,de.uscongress.1802,1802,1802,General,Delaware 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,814
+2,Sussex,de.uscongress.1802,1802,1802,General,Delaware 1802 U.S. House of Representatives,U.S. House of Representatives,ON125,James A. Bayard,BJ0078,Federalist,A01,1537

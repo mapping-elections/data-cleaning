@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1794,1794,1794,General,Delaware 1794 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Republican,A03,857
+2,Kent,de.uscongress.1794,1794,1794,General,Delaware 1794 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Latimer,LH0001,Federalist,A01,593
+1,New Castle,de.uscongress.1794,1794,1794,General,Delaware 1794 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Republican,A03,656
+2,New Castle,de.uscongress.1794,1794,1794,General,Delaware 1794 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Latimer,LH0001,Federalist,A01,709
+1,Sussex,de.uscongress.1794,1794,1794,General,Delaware 1794 U.S. House of Representatives,U.S. House of Representatives,ON125,John Patton,PJ0032,Republican,A03,896
+2,Sussex,de.uscongress.1794,1794,1794,General,Delaware 1794 U.S. House of Representatives,U.S. House of Representatives,ON125,Henry Latimer,LH0001,Federalist,A01,983

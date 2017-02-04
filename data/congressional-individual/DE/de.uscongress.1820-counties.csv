@@ -1,0 +1,49 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,989
+2,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,913
+3,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,1006
+4,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mitchell,MJ0047,Federalist,A01,947
+5,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Poole,PW0016,null,null,NA
+6,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Houston,HD0013,null,null,NA
+7,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Kirk,KC0001,null,null,NA
+8,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel H. Black,BS0038,null,null,NA
+9,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Canby,CJ0099,null,null,NA
+10,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,NA
+11,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Mendenhall,MT0163,null,null,NA
+12,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Rice,RJ0684,null,null,NA
+13,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Richardson,RT0127,null,null,NA
+14,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,G. Willard,WG0137,null,null,NA
+15,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wood,WW0292,null,null,NA
+16,Kent,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Wollaston,WJ0824,null,null,NA
+1,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,1682
+2,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,1003
+3,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,1458
+4,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mitchell,MJ0047,Federalist,A01,823
+5,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Poole,PW0016,null,null,14
+6,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Houston,HD0013,null,null,7
+7,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Kirk,KC0001,null,null,2
+8,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel H. Black,BS0038,null,null,1
+9,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Canby,CJ0099,null,null,1
+10,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,1
+11,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Mendenhall,MT0163,null,null,1
+12,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Rice,RJ0684,null,null,1
+13,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Richardson,RT0127,null,null,1
+14,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,G. Willard,WG0137,null,null,1
+15,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wood,WW0292,null,null,1
+16,New Castle,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Wollaston,WJ0824,null,null,1
+1,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caesar A. Rodney,RC0001,Republican,A03,1358
+2,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,2002
+3,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Willard Hall,HW0048,Republican,A03,1061
+4,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Mitchell,MJ0047,Federalist,A01,1730
+5,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Poole,PW0016,null,null,NA
+6,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,David Houston,HD0013,null,null,NA
+7,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Caleb Kirk,KC0001,null,null,NA
+8,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Samuel H. Black,BS0038,null,null,NA
+9,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Canby,CJ0099,null,null,NA
+10,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Clayton,CT0005,Federalist,A01,NA
+11,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Mendenhall,MT0163,null,null,NA
+12,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,J. Rice,RJ0684,null,null,NA
+13,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Thomas Richardson,RT0127,null,null,NA
+14,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,G. Willard,WG0137,null,null,NA
+15,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,William Wood,WW0292,null,null,NA
+16,Sussex,de.uscongress.1820,1820,1820,General,Delaware 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Wollaston,WJ0824,null,null,NA

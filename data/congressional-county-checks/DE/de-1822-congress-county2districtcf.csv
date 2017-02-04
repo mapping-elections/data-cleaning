@@ -1,0 +1,12 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1822,1822,Louis MacLane,ML0002,Federalist,A01,4110,NA,-4110,1.0
+de.uscongress.1822,1822,Arnold Naudain,NA0005,Republican,A03,3466,NA,-3466,1.0
+de.uscongress.1822,1822,Allen MacLane,MA0235,null,null,2,NA,-2,1.0
+de.uscongress.1822,1822,John Torbert,TJ0492,null,null,2,NA,-2,1.0
+de.uscongress.1822,1822,Daniel Rodney,RD0004,Federalist,A01,1,NA,-1,1.0
+de.uscongress.1822,1822,Henry Baly,BH0194,null,null,1,NA,-1,1.0
+de.uscongress.1822,1822,Isaac Starr,SI0020,null,null,1,NA,-1,1.0
+de.uscongress.1822,1822,James Derickson,DJ0042,Republican,A03,1,NA,-1,1.0
+de.uscongress.1822,1822,James Rogers,RJ0009,null,null,1,NA,-1,1.0
+de.uscongress.1822,1822,John Clark,CJ0108,null,null,1,NA,-1,1.0
+de.uscongress.1822,1822,Joseph Haslet,HJ0024,null,null,1,NA,-1,1.0

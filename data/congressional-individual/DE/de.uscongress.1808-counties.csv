@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1808,1808,1808,General,Delaware 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Van Dyke,VN0010,Federalist,A01,1030
+2,Kent,de.uscongress.1808,1808,1808,General,Delaware 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,600
+1,New Castle,de.uscongress.1808,1808,1808,General,Delaware 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Van Dyke,VN0010,Federalist,A01,888
+2,New Castle,de.uscongress.1808,1808,1808,General,Delaware 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,1575
+1,Sussex,de.uscongress.1808,1808,1808,General,Delaware 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Nicholas Van Dyke,VN0010,Federalist,A01,1324
+2,Sussex,de.uscongress.1808,1808,1808,General,Delaware 1808 U.S. House of Representatives,U.S. House of Representatives,ON125,Joseph Haslet,HJ0024,Republican,A03,662

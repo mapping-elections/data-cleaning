@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1800,1800,James A. Bayard,BJ0078,Federalist,A01,2674,NA,-2674,1.0
+de.uscongress.1800,1800,John Patton,PJ0032,Republican,A03,2340,NA,-2340,1.0

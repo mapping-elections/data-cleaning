@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1794,1794,John Patton,PJ0032,Republican,A03,2409,NA,-2409,1.0
+de.uscongress.1794,1794,Henry Latimer,LH0001,Federalist,A01,2285,NA,-2285,1.0

@@ -1,0 +1,16 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vining,VJ0002,null,null,332
+2,Kent,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Rhoads Shankland,SR0023,null,null,NA
+3,Kent,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"Gunning Bedford, Jr.",BG0002,null,null,48
+4,Kent,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Clayton,CJ0087,null,null,272
+5,Kent,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen MacLean,MA0018,null,null,NA
+1,New Castle,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vining,VJ0002,null,null,52
+2,New Castle,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Rhoads Shankland,SR0023,null,null,NA
+3,New Castle,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"Gunning Bedford, Jr.",BG0002,null,null,162
+4,New Castle,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Clayton,CJ0087,null,null,NA
+5,New Castle,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen MacLean,MA0018,null,null,90
+1,Sussex,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,John Vining,VJ0002,null,null,514
+2,Sussex,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Rhoads Shankland,SR0023,null,null,491
+3,Sussex,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,"Gunning Bedford, Jr.",BG0002,null,null,98
+4,Sussex,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Joshua Clayton,CJ0087,null,null,NA
+5,Sussex,de.uscongress.1789,1789-01,1789,General,Delaware 1789 U.S. House of Representatives,U.S. House of Representatives,ON125,Allen MacLean,MA0018,null,null,NA

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1824,1824,1824,General,Delaware 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,1107
+2,Kent,de.uscongress.1824,1824,1824,General,Delaware 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arnold Naudain,NA0005,Republican,A03,1194
+1,New Castle,de.uscongress.1824,1824,1824,General,Delaware 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,844
+2,New Castle,de.uscongress.1824,1824,1824,General,Delaware 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arnold Naudain,NA0005,Republican,A03,1269
+1,Sussex,de.uscongress.1824,1824,1824,General,Delaware 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Louis MacLane,ML0002,Federalist,A01,1436
+2,Sussex,de.uscongress.1824,1824,1824,General,Delaware 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Arnold Naudain,NA0005,Republican,A03,700

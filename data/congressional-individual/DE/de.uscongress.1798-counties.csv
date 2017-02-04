@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1798,1798,1798,General,Delaware 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bayard,BJ0078,Federalist,A01,891
+2,Kent,de.uscongress.1798,1798,1798,General,Delaware 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Archibald Alexander,AA0027,Republican,A03,735
+1,New Castle,de.uscongress.1798,1798,1798,General,Delaware 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bayard,BJ0078,Federalist,A01,485
+2,New Castle,de.uscongress.1798,1798,1798,General,Delaware 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Archibald Alexander,AA0027,Republican,A03,488
+1,Sussex,de.uscongress.1798,1798,1798,General,Delaware 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,James Bayard,BJ0078,Federalist,A01,1416
+2,Sussex,de.uscongress.1798,1798,1798,General,Delaware 1798 U.S. House of Representatives,U.S. House of Representatives,ON125,Archibald Alexander,AA0027,Republican,A03,549

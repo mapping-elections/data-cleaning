@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,966
+2,Kent,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,593
+3,Kent,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Isaac H. Starr,SI0020,Republican,A03,23
+4,Kent,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Hugh W. Richie,RH0078,null,null,NA
+1,New Castle,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,683
+2,New Castle,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,1407
+3,New Castle,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Isaac H. Starr,SI0020,Republican,A03,1
+4,New Castle,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Hugh W. Richie,RH0078,null,null,2
+1,Sussex,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,James M. Broom,BJ0090,Federalist,A01,1362
+2,Sussex,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,David Hall,HD0005,Republican,A03,682
+3,Sussex,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Isaac H. Starr,SI0020,Republican,A03,NA
+4,Sussex,de.uscongress.1805,1805,1805,Special,"Delaware 1805 U.S. House of Representatives, Special",U.S. House of Representatives,ON125,Hugh W. Richie,RH0078,null,null,NA

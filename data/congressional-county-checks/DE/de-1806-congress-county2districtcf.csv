@@ -1,0 +1,5 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1806,1806,James M. Broom,BJ0090,Federalist,A01,2353,NA,-2353,1.0
+de.uscongress.1806,1806,Thomas Fitzgerald,FT0001,Republican,A03,830,NA,-830,1.0
+de.uscongress.1806,1806,Joseph Haslet,HJ0024,Republican,A03,382,NA,-382,1.0
+de.uscongress.1806,1806,Thomas Montgomery,MT0004,Republican,A03,323,NA,-323,1.0

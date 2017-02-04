@@ -1,0 +1,6 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+de.uscongress.1807,1807,Nicholas Van Dyke,VN0010,Federalist,A01,3294,NA,-3294,1.0
+de.uscongress.1807,1807,John Dickinson,DJ0039,Republican,A03,3078,NA,-3078,1.0
+de.uscongress.1807,1807,Peter Bayard,BP0118,null,null,1,NA,-1,1.0
+de.uscongress.1807,1807,Richard C. Dale,DR0001,null,null,1,NA,-1,1.0
+de.uscongress.1807,1807,William Brady,BW0429,null,null,1,NA,-1,1.0
