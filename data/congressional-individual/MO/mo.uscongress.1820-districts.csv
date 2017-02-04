@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,1,NA,NA
+mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,2,NA,NA

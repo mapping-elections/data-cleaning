@@ -1,0 +1,85 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Boone,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,551
+2,Boone,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,107
+3,Boone,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,28
+1,Callaway,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,190
+2,Callaway,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,102
+3,Callaway,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,46
+1,Cape Girardeau,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,499
+2,Cape Girardeau,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,38
+3,Cape Girardeau,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,263
+1,Chariton,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,23
+2,Chariton,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,204
+3,Chariton,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,6
+1,Clay,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,42
+2,Clay,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,280
+3,Clay,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,7
+1,Cole,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,131
+2,Cole,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,87
+3,Cole,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,10
+1,Cooper,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,507
+2,Cooper,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,81
+3,Cooper,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,5
+1,Franklin,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,111
+2,Franklin,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,139
+3,Franklin,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,22
+1,Gasconade,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,154
+2,Gasconade,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,34
+3,Gasconade,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,2
+1,Howard,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,539
+2,Howard,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,451
+3,Howard,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,58
+1,Jefferson,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,156
+2,Jefferson,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,89
+3,Jefferson,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,25
+1,Lillard,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,206
+2,Lillard,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,91
+3,Lillard,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,NA
+1,Lincoln,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,123
+2,Lincoln,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,196
+3,Lincoln,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,28
+1,Madison,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,48
+2,Madison,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,168
+3,Madison,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,48
+1,Montgomery,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,72
+2,Montgomery,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,150
+3,Montgomery,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,104
+1,New Madrid,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,189
+2,New Madrid,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,2
+3,New Madrid,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,23
+1,Perry,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,249
+2,Perry,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,2
+3,Perry,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,2
+1,Pike,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,46
+2,Pike,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,387
+3,Pike,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,58
+1,Ralls,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,44
+2,Ralls,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,280
+3,Ralls,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,8
+1,Ray,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,13
+2,Ray,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,160
+3,Ray,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,NA
+1,Saint Charles,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,118
+2,Saint Charles,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,214
+3,Saint Charles,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,153
+1,Saint Francois,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,55
+2,Saint Francois,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,167
+3,Saint Francois,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,5
+1,Saint Genevieve,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,114
+2,Saint Genevieve,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,41
+3,Saint Genevieve,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,1
+1,Saint Louis,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,221
+2,Saint Louis,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,572
+3,Saint Louis,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,168
+1,Saline,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,108
+2,Saline,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,12
+3,Saline,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,8
+1,Scott,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,123
+2,Scott,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,12
+3,Scott,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,1
+1,Washington,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,266
+2,Washington,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,312
+3,Washington,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,39
+1,Wayne,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,133
+2,Wayne,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,150
+3,Wayne,mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,7

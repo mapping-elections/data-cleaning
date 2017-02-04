@@ -1,0 +1,3 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+mo.uscongress.1820,1820,John Scott,SJ0448,Republican,A03,3836,NA,-3836,1.0
+mo.uscongress.1820,1820,James Caldwell,CJ0045,null,null,390,NA,-390,1.0

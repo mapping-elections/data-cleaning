@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+mo.uscongress.1824,1824,John Scott,SJ0448,null,null,5031,NA,-5031,1.0
+mo.uscongress.1824,1824,George F. Strother,SG0055,null,null,4528,NA,-4528,1.0
+mo.uscongress.1824,1824,Robert Wash,WR0078,null,null,1125,NA,-1125,1.0

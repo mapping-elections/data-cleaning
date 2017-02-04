@@ -1,0 +1,85 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Boone,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,502
+2,Boone,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,6
+3,Boone,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,49
+1,Callaway,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,96
+2,Callaway,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,146
+3,Callaway,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,33
+1,Cape Girardeau,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,595
+2,Cape Girardeau,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,120
+3,Cape Girardeau,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,64
+1,Chariton,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,162
+2,Chariton,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,16
+3,Chariton,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,40
+1,Clay,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,162
+2,Clay,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,7
+3,Clay,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,61
+1,Cole,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,74
+2,Cole,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,NA
+3,Cole,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,86
+1,Cooper,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,316
+2,Cooper,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,72
+3,Cooper,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,132
+1,Franklin,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,174
+2,Franklin,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,47
+3,Franklin,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,53
+1,Gasconade,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,157
+2,Gasconade,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,17
+3,Gasconade,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,4
+1,Howard,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,887
+2,Howard,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,30
+3,Howard,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,158
+1,Jefferson,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,41
+2,Jefferson,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,156
+3,Jefferson,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,38
+1,Lillard,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,189
+2,Lillard,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,13
+3,Lillard,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,58
+1,Lincoln,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,151
+2,Lincoln,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,99
+3,Lincoln,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,64
+1,Madison,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,91
+2,Madison,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,136
+3,Madison,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,62
+1,Montgomery,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,163
+2,Montgomery,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,76
+3,Montgomery,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,66
+1,New Madrid,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,151
+2,New Madrid,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,52
+3,New Madrid,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,NA
+1,Perry,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,239
+2,Perry,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,19
+3,Perry,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,5
+1,Pike,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,16
+2,Pike,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,85
+3,Pike,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,70
+1,Ralls,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,94
+2,Ralls,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,144
+3,Ralls,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,27
+1,Ray,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,121
+2,Ray,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,NA
+3,Ray,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,19
+1,Saint Charles,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,184
+2,Saint Charles,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,263
+3,Saint Charles,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,81
+1,Saint Francois,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,85
+2,Saint Francois,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,136
+3,Saint Francois,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,26
+1,Saint Genevieve,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,180
+2,Saint Genevieve,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,30
+3,Saint Genevieve,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,1
+1,Saint Louis,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,392
+2,Saint Louis,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,438
+3,Saint Louis,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,221
+1,Saline,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,175
+2,Saline,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,8
+3,Saline,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,NA
+1,Scott,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,147
+2,Scott,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,3
+3,Scott,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,NA
+1,Washington,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,384
+2,Washington,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,145
+3,Washington,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,50
+1,Wayne,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,40
+2,Wayne,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,169
+3,Wayne,mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,12

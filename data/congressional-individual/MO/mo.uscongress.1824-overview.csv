@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,1,5031
+mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,George F. Strother,SG0055,null,null,2,4528
+mo.uscongress.1824,1824,1824,General,Missouri 1824 U.S. House of Representatives,U.S. House of Representatives,ON125,Robert Wash,WR0078,null,null,3,1125

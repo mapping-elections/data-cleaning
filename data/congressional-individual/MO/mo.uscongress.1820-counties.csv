@@ -1,0 +1,17 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cooper,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,762
+2,Cooper,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,NA
+1,Howard,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,1469
+2,Howard,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,NA
+1,Jefferson,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,88
+2,Jefferson,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,121
+1,Lincoln,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,280
+2,Lincoln,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,NA
+1,Madison,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,14
+2,Madison,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,NA
+1,Saint Charles,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,383
+2,Saint Charles,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,NA
+1,Saint Louis,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,831
+2,Saint Louis,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,269
+1,Wayne,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,Republican,A03,9
+2,Wayne,mo.uscongress.1820,1820,1820,General,Missouri 1820 U.S. House of Representatives,U.S. House of Representatives,ON125,James Caldwell,CJ0045,null,null,NA

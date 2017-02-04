@@ -1,0 +1,4 @@
+election_id,election_year,candidate,name_id,affiliation,affiliation_id,county_vote,district_vote,difference_vote,difference_percentage
+mo.uscongress.1822,1822,John Scott,SJ0448,null,null,5968,NA,-5968,1.0
+mo.uscongress.1822,1822,John B. Lucas,LJ0123,null,null,2433,NA,-2433,1.0
+mo.uscongress.1822,1822,Alexander Stuart,SA0074,null,null,1480,NA,-1480,1.0

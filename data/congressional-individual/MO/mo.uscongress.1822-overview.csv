@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John Scott,SJ0448,null,null,1,5940
+mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,John B. Lucas,LJ0123,null,null,2,2501
+mo.uscongress.1822,1822,1822,General,Missouri 1822 U.S. House of Representatives,U.S. House of Representatives,ON125,Alexander Stuart,SA0074,null,null,3,1465
