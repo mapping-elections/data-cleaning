@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress14.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Mordecai Bartley,BM0087,null,null,1,Fourteen,1729
+oh.uscongress14.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Alfred Kelly,KA0057,null,null,2,Fourteen,1617
+oh.uscongress14.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 14",U.S. House of Representatives,ON125,Eleutherus Cooke,CE0127,null,null,3,Fourteen,1362

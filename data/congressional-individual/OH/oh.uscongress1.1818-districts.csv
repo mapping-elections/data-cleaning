@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress1.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,Republican,A03,1,One,2810
+oh.uscongress1.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John H. Platt,PJ0397,null,null,2,One,1669
+oh.uscongress1.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ethan Stone,SE0090,null,null,3,One,1294
+oh.uscongress1.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,S. P. Tingle,TS0031,null,null,4,One,2

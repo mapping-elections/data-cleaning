@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Athens,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"William Creighton, Jr.",CW0192,Republican,A03,274
+2,Athens,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levin Belt,BL0054,Federalist,A01,111
+1,Gallia,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"William Creighton, Jr.",CW0192,Republican,A03,NA
+2,Gallia,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levin Belt,BL0054,Federalist,A01,NA
+1,Pickaway,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"William Creighton, Jr.",CW0192,Republican,A03,NA
+2,Pickaway,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levin Belt,BL0054,Federalist,A01,NA
+1,Ross,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"William Creighton, Jr.",CW0192,Republican,A03,1504
+2,Ross,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levin Belt,BL0054,Federalist,A01,NA
+1,Scioto,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"William Creighton, Jr.",CW0192,Republican,A03,NA
+2,Scioto,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levin Belt,BL0054,Federalist,A01,NA
+1,Washington,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,"William Creighton, Jr.",CW0192,Republican,A03,518
+2,Washington,oh.uscongress3.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levin Belt,BL0054,Federalist,A01,362

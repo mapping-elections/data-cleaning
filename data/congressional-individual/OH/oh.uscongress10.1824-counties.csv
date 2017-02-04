@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Belmont,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Jennings,JD0018,null,null,1432
+2,Belmont,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,1026
+1,Guernsey,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Jennings,JD0018,null,null,891
+2,Guernsey,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,575
+1,Monroe,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Jennings,JD0018,null,null,266
+2,Monroe,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,343
+1,Morgan,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Jennings,JD0018,null,null,338
+2,Morgan,oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,495

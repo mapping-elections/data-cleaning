@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress4.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Samuel Herrick,HS0176,Republican,A03,1,Four,3645
+oh.uscongress4.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John C. Wright,WJ0569,Federalist,A01,2,Four,3198
+oh.uscongress4.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John MacLaughlin,MJ0639,null,null,3,Four,49
+oh.uscongress4.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,William Anderson,AW0039,null,null,4,Four,1

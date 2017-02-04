@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Harrison,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John C. Wright,WJ0569,null,null,537
+2,Harrison,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John MacLaughlin,MJ0639,null,null,676
+3,Harrison,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Kimmel,KJ0093,null,null,2
+1,Jefferson,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John C. Wright,WJ0569,null,null,1201
+2,Jefferson,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John MacLaughlin,MJ0639,null,null,459
+3,Jefferson,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Kimmel,KJ0093,null,null,NA
+1,Tuscarawas,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John C. Wright,WJ0569,null,null,464
+2,Tuscarawas,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John MacLaughlin,MJ0639,null,null,431
+3,Tuscarawas,oh.uscongress11.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John Kimmel,KJ0093,null,null,NA

@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clermont,oh.uscongress1.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James W. Gazlay,GJ0367,null,null,716
+2,Clermont,oh.uscongress1.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William H. Harrison,HW0286,null,null,1077
+1,Hamilton,oh.uscongress1.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James W. Gazlay,GJ0367,null,null,2460
+2,Hamilton,oh.uscongress1.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William H. Harrison,HW0286,null,null,1757

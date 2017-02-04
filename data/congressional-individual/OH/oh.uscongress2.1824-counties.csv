@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Butler,oh.uscongress2.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Woods,WJ0599,null,null,1656
+2,Butler,oh.uscongress2.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,null,null,577
+1,Warren,oh.uscongress2.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Woods,WJ0599,null,null,964
+2,Warren,oh.uscongress2.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,null,null,1514

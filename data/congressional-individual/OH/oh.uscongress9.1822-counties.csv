@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfield,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,null,null,1429
+2,Fairfield,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,150
+3,Fairfield,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Sullivan,SS0242,null,null,3
+4,Fairfield,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Trimble,TW0085,null,null,349
+1,Muskingum,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,null,null,63
+2,Muskingum,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,1302
+3,Muskingum,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Sullivan,SS0242,null,null,883
+4,Muskingum,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Trimble,TW0085,null,null,2
+1,Perry,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,null,null,504
+2,Perry,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,368
+3,Perry,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Samuel Sullivan,SS0242,null,null,70
+4,Perry,oh.uscongress9.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William Trimble,TW0085,null,null,187

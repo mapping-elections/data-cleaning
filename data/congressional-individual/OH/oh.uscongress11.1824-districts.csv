@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress11.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John C. Wright,WJ0569,null,null,1,Eleven,3732
+oh.uscongress11.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Walter B. Bebee,BW0264,null,null,2,Eleven,2205
+oh.uscongress11.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,David Gambolee,GD0021,null,null,3,Eleven,1

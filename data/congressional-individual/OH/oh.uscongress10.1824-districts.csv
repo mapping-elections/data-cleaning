@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,David Jennings,JD0018,null,null,1,Ten,2927
+oh.uscongress10.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,2,Ten,2439

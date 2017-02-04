@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress3.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,1,Three,2692
+oh.uscongress3.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,2,Three,1987
+oh.uscongress3.1818,1818-10,1818,General,"Ohio 1818 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Edward W. Tupper,TE0067,null,null,3,Three,1873

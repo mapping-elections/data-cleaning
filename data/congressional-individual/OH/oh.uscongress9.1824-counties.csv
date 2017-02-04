@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fairfield,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,null,null,1436
+2,Fairfield,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,118
+3,Fairfield,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William W. Irwin,IW0018,null,null,1019
+4,Fairfield,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert MacConnel,MR0097,null,null,5
+1,Muskingum,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,null,null,513
+2,Muskingum,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,1692
+3,Muskingum,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William W. Irwin,IW0018,null,null,30
+4,Muskingum,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert MacConnel,MR0097,null,null,366
+1,Perry,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,null,null,719
+2,Perry,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,392
+3,Perry,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,William W. Irwin,IW0018,null,null,241
+4,Perry,oh.uscongress9.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,Robert MacConnel,MR0097,null,null,64

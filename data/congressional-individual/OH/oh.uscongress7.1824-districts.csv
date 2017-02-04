@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress7.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Samuel F. Vinton,VS0017,null,null,1,Seven,3973
+oh.uscongress7.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Levi Barber,BL0052,null,null,2,Seven,1104

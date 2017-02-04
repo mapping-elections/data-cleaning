@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Delaware,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Wilson,WW0209,null,null,376
+2,Delaware,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Orris Parish,PO0021,null,null,708
+1,Franklin,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Wilson,WW0209,null,null,569
+2,Franklin,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Orris Parish,PO0021,null,null,910
+1,Licking,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Wilson,WW0209,null,null,1306
+2,Licking,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Orris Parish,PO0021,null,null,332
+1,Marion,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,William Wilson,WW0209,null,null,90
+2,Marion,oh.uscongress8.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Orris Parish,PO0021,null,null,279

@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Columbiana,oh.uscongress12.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Sloan,SJ0866,null,null,1629
+2,Columbiana,oh.uscongress12.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George M. Crane,CG0092,null,null,48
+1,Stark,oh.uscongress12.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Sloan,SJ0866,null,null,1387
+2,Stark,oh.uscongress12.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George M. Crane,CG0092,null,null,3
+1,Wayne,oh.uscongress12.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Sloan,SJ0866,null,null,1437
+2,Wayne,oh.uscongress12.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,George M. Crane,CG0092,null,null,NA

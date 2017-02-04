@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Butler,oh.uscongress1.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John MacClean,MJ0663,Republican,A03,866
+1,Hamilton,oh.uscongress1.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John MacClean,MJ0663,Republican,A03,1355
+1,Preble,oh.uscongress1.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John MacClean,MJ0663,Republican,A03,357
+1,Warren,oh.uscongress1.1814,1814-10,1814,General,"Ohio 1814 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John MacClean,MJ0663,Republican,A03,844

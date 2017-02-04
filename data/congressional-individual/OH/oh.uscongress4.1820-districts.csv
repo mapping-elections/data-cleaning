@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+oh.uscongress4.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John C. Wright,WJ0569,null,null,1,Four,4688
+oh.uscongress4.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,David Chambers,CD0147,null,null,2,Four,4702
+oh.uscongress4.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Andrew Thompson,TA0025,null,null,3,Four,4

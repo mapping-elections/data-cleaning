@@ -1,0 +1,41 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Athens,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,189
+2,Athens,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,4
+3,Athens,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,NA
+4,Athens,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,NA
+5,Athens,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,14
+1,Gallia,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,243
+2,Gallia,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,162
+3,Gallia,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,54
+4,Gallia,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,NA
+5,Gallia,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,NA
+1,Jackson,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,125
+2,Jackson,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,31
+3,Jackson,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,72
+4,Jackson,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,17
+5,Jackson,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,12
+1,Pickaway,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,279
+2,Pickaway,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,443
+3,Pickaway,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,27
+4,Pickaway,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,72
+5,Pickaway,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,30
+1,Pike,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,86
+2,Pike,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,163
+3,Pike,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,18
+4,Pike,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,4
+5,Pike,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,25
+1,Ross,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,305
+2,Ross,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,547
+3,Ross,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,302
+4,Ross,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,387
+5,Ross,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,62
+1,Scioto,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,133
+2,Scioto,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,89
+3,Scioto,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,120
+4,Scioto,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,18
+5,Scioto,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,41
+1,Washington,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Levi Barber,BL0052,Republican,A03,521
+2,Washington,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Henry Brush,BH0091,Republican,A03,17
+3,Washington,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Joseph Kerr,KJ0130,Republican,A03,NA
+4,Washington,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel Monett,MS0125,Republican,A03,NA
+5,Washington,oh.uscongress3.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John A. Fulton,FJ0273,Republican,A03,7

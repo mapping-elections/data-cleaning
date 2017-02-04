@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Clermont,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Findlay,FJ0300,null,null,288
+2,Clermont,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James W. Gazlay,GJ0367,null,null,340
+3,Clermont,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Morris,MD0151,null,null,1176
+4,Clermont,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin M. Piatt,PB0066,null,null,153
+1,Hamilton,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James Findlay,FJ0300,null,null,1929
+2,Hamilton,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,James W. Gazlay,GJ0367,null,null,1841
+3,Hamilton,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Morris,MD0151,null,null,18
+4,Hamilton,oh.uscongress1.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Benjamin M. Piatt,PB0066,null,null,221

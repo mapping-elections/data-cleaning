@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Columbiana,oh.uscongress12.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Sloane,SJ0866,null,null,978
+2,Columbiana,oh.uscongress12.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Joseph Richardson,RJ0286,null,null,1650
+1,Stark,oh.uscongress12.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Sloane,SJ0866,null,null,1336
+2,Stark,oh.uscongress12.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Joseph Richardson,RJ0286,null,null,339
+1,Wayne,oh.uscongress12.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,John Sloane,SJ0866,null,null,1452
+2,Wayne,oh.uscongress12.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Joseph Richardson,RJ0286,null,null,761

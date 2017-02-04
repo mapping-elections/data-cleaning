@@ -1,0 +1,37 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Adams,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John W. Campbell,CJ0622,Republican,A03,830
+2,Adams,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaiah Morris,MI0045,Republican,A03,24
+3,Adams,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Morris,MT0090,Republican,A03,137
+4,Adams,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Alexander,AJ0239,Republican,A03,12
+5,Adams,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Foote,FT0057,Republican,A03,17
+6,Adams,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pollock,null,null,null,NA
+1,Clermont,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John W. Campbell,CJ0622,Republican,A03,NA
+2,Clermont,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaiah Morris,MI0045,Republican,A03,NA
+3,Clermont,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Morris,MT0090,Republican,A03,NA
+4,Clermont,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Alexander,AJ0239,Republican,A03,NA
+5,Clermont,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Foote,FT0057,Republican,A03,NA
+6,Clermont,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pollock,null,null,null,NA
+1,Clinton,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John W. Campbell,CJ0622,Republican,A03,19
+2,Clinton,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaiah Morris,MI0045,Republican,A03,492
+3,Clinton,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Morris,MT0090,Republican,A03,50
+4,Clinton,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Alexander,AJ0239,Republican,A03,NA
+5,Clinton,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Foote,FT0057,Republican,A03,3
+6,Clinton,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pollock,null,null,null,NA
+1,Fayette,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John W. Campbell,CJ0622,Republican,A03,167
+2,Fayette,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaiah Morris,MI0045,Republican,A03,123
+3,Fayette,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Morris,MT0090,Republican,A03,189
+4,Fayette,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Alexander,AJ0239,Republican,A03,42
+5,Fayette,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Foote,FT0057,Republican,A03,NA
+6,Fayette,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pollock,null,null,null,NA
+1,Greene,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John W. Campbell,CJ0622,Republican,A03,581
+2,Greene,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaiah Morris,MI0045,Republican,A03,176
+3,Greene,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Morris,MT0090,Republican,A03,2
+4,Greene,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Alexander,AJ0239,Republican,A03,6
+5,Greene,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Foote,FT0057,Republican,A03,11
+6,Greene,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pollock,null,null,null,NA
+1,Highland,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John W. Campbell,CJ0622,Republican,A03,452
+2,Highland,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Isaiah Morris,MI0045,Republican,A03,30
+3,Highland,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Morris,MT0090,Republican,A03,262
+4,Highland,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Alexander,AJ0239,Republican,A03,5
+5,Highland,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Thomas Foote,FT0057,Republican,A03,11
+6,Highland,oh.uscongress2.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Pollock,null,null,null,NA

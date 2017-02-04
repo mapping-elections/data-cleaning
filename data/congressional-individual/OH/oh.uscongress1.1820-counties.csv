@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Butler,oh.uscongress1.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,null,null,1286
+1,Hamilton,oh.uscongress1.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,null,null,2087
+1,Preble,oh.uscongress1.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,null,null,NA
+1,Warren,oh.uscongress1.1820,1820-10,1820,General,"Ohio 1820 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas R. Ross,RT0081,null,null,1154

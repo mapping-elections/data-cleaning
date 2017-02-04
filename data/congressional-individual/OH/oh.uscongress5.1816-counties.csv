@@ -1,0 +1,81 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,30
+2,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,836
+3,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,222
+4,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,142
+5,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,160
+6,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,31
+7,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,36
+8,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,NA
+9,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,2
+10,Champaign,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA
+1,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,71
+2,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,36
+3,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,223
+4,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,NA
+5,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,15
+6,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,NA
+7,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,67
+8,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,NA
+9,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,84
+10,Delaware,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA
+1,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,948
+2,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,1
+3,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,21
+4,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,NA
+5,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,100
+6,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,514
+7,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,1
+8,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,320
+9,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,8
+10,Fairfield,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA
+1,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,167
+2,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,25
+3,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,376
+4,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,NA
+5,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,241
+6,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,NA
+7,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,22
+8,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,3
+9,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,86
+10,Franklin,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA
+1,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,168
+2,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,166
+3,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,6
+4,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,110
+5,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,10
+6,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,112
+7,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,NA
+8,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,29
+9,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,65
+10,Licking,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA
+1,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,18
+2,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,227
+3,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,133
+4,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,NA
+5,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,67
+6,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,NA
+7,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,20
+8,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,NA
+9,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,28
+10,Madison,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA
+1,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,6
+2,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,64
+3,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,58
+4,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,106
+5,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,7
+6,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,NA
+7,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,433
+8,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,NA
+9,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,NA
+10,Miami,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,10
+1,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Philemon Beecher,BP0045,Federalist,A01,65
+2,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Vance,VJ0083,Republican,A03,36
+3,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Joseph Foos,FJ0281,Republican,A03,6
+4,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel C. Cooper,CD0143,Federalist,A01,660
+5,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Ludlow,LW0130,Republican,A03,86
+6,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Daniel Smith,SD0123,Republican,A03,NA
+7,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Fielding Lowry,LF0011,Republican,A03,38
+8,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Robert F. Slaughter,SR0170,Republican,A03,NA
+9,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Chester Griswold,GC0072,Republican,A03,NA
+10,Montgomery,oh.uscongress5.1816,1816-10,1816,General,"Ohio 1816 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,John Vance,VJ0084,null,null,NA

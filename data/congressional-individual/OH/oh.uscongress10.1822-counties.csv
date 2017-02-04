@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Belmont,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,1015
+2,Belmont,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Hammond,HC0091,Federalist,A01,1218
+1,Guernsey,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,582
+2,Guernsey,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Hammond,HC0091,Federalist,A01,441
+1,Monroe,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,205
+2,Monroe,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Hammond,HC0091,Federalist,A01,143
+1,Morgan,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,John Patterson,PJ0401,null,null,403
+2,Morgan,oh.uscongress10.1822,1822-10,1822,General,"Ohio 1822 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Charles Hammond,HC0091,Federalist,A01,98

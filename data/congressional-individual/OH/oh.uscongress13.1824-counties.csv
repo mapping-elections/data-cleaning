@@ -1,0 +1,13 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Ashtabula,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Elisha Whittlesey,WE0121,null,null,671
+2,Ashtabula,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Eli Baldwin,BE0250,null,null,240
+3,Ashtabula,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Geauga,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Elisha Whittlesey,WE0121,null,null,996
+2,Geauga,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Eli Baldwin,BE0250,null,null,8
+3,Geauga,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Portage,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Elisha Whittlesey,WE0121,null,null,766
+2,Portage,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Eli Baldwin,BE0250,null,null,381
+3,Portage,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
+1,Trumbull,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Elisha Whittlesey,WE0121,null,null,906
+2,Trumbull,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,Eli Baldwin,BE0250,null,null,863
+3,Trumbull,oh.uscongress13.1824,1824-10,1824,General,"Ohio 1824 U.S. House of Representatives, District 13",U.S. House of Representatives,ON125,scattering,null,null,null,NA
