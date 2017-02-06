@@ -7,23 +7,22 @@ library(stringr)
 library(fuzzyjoin)
 library(ggmap)
 
-#Global Variables
-STATE <- "Rhode Island"
-ABBR_STATE <- "RI"
+# Global Variables
+STATE <- "New York"
+ABBR_STATE <- "NY"
+
 NNV <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
 CCD <- read_csv("data-raw/ccd-csv/1790-2010_MASTER.csv")
 DUPLICATE <- read_csv("data/town-georeferenced/ri_duplicate.csv")
 
-#Clean NNV and CCD (standardize variable case, populate town variable)
+# Clean NNV and CCD (standardize variable case, populate town variable)
 names(NNV) <- names(NNV) %>%
   str_to_lower() %>%
   str_replace_all("\\.", "") %>%
   str_replace_all("\\s", "_")
 
 NNV <- NNV %>%
-  mutate(town = ifelse(is.na(town), city, town))
-
-NNV <- NNV %>%
+  mutate(town = ifelse(is.na(town), city, town)) %>%
   mutate(year = str_extract(date, "\\d{4}") %>% as.integer())
 
 names(CCD) <- names(CCD) %>%
@@ -31,7 +30,22 @@ names(CCD) <- names(CCD) %>%
   str_replace_all("\\.", "") %>%
   str_replace_all("\\s", "_")
 
-#Filtering tables down to specific state
+# function to change the write out .csv file name according to your global variables
+create_intermediate_filename <- function(state_abbr) {
+path_to_output <- "data/town-georeferenced/"
+file_suffix <- "_intermediate-table.csv"
+str_c(path_to_output, str_to_lower(state_abbr), file_suffix)
+}
+
+create_coordinates_filename <- function(state_abbr) {
+  path_to_output <- "data/town-georeferenced/"
+  file_suffix <- "_coordinates.csv"
+  str_c(path_to_output, str_to_lower(state_abbr), file_suffix)
+}
+
+create_output_filename(STATE_ABBR)
+
+# Filtering tables down to specific state
 nnv_state <- NNV %>%
   filter(state == STATE,
          !is.na(town))
@@ -48,7 +62,7 @@ clean_town <- duplicate_join %>%
   mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
   count(corrected_town, state)
 
-#Fuzzy Join of distance 1 and filtering to unmatched towns
+# Fuzzy Join of distance 1 and filtering to unmatched towns
 fuzzy_join <- clean_town %>% stringdist_left_join(ccd_state, by = c("corrected_town" = "city"),
                                                      max_dist = 1, ignore_case=TRUE)
 unmatched_towns <- fuzzy_join %>%
@@ -57,7 +71,7 @@ unmatched_towns <- fuzzy_join %>%
   mutate(state = STATE,
          city_state = paste(corrected_town, state, sep = ', '))
 
-#Geocode with Google API
+# Geocode with Google API
 lat_long <-  geocode(as.character(unmatched_towns$city_state), output = "more")
 
 geocoded_town <- bind_cols(unmatched_towns, lat_long) %>%
@@ -72,7 +86,7 @@ intermediate_table <- duplicate_join %>%
   mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
   count(town, corrected_town, state) %>%
   select(town, corrected_town, state)
-write_csv(intermediate_table, "data/town-georeferenced/ri_intermediate_table.csv")
+write_csv(intermediate_table, create_intermediate_filename(ABBR_STATE))
 
 # Joining the georeferenced table back to NNV
 fuzzyjoined_towns <- fuzzy_join %>%
@@ -87,7 +101,7 @@ total_towns <- bind_rows(fuzzyjoined_towns, towns_geolocated) %>%
          lon = ifelse(is.na(lon), lon_bing, lon)) %>%
   select (corrected_town, state, lat, lon)
 
-write_csv(total_towns, "data/town-georeferenced/ri_coordinates.csv")
+write_csv(total_towns, create_coordinates_filename(ABBR_STATE))
 
 
 
@@ -96,7 +110,7 @@ write_csv(total_towns, "data/town-georeferenced/ri_coordinates.csv")
 # Correcting duplicates and joining coordinates
 
 # Read in Geochecker .csv and georefernce towns
-georeferenced <- read_csv("data/town-georeferenced/nh_coordinates.csv")
+georeferenced <- read_csv("data/town-georeferenced/ny_coordinates.csv")
 
 corrected_towns <- unmatched_towns %>%
   left_join(georeferenced, by = c("corrected_town" = "town", "state" = "state")) %>%
