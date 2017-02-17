@@ -1,0 +1,2047 @@
+file,congress,statename,id,district,startcong,endcong
+districtShapes/districts001.dbf,1,Massachusetts,025001001006,6,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001007,7,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001008,8,1,1
+districtShapes/districts001.dbf,1,New York,036001002001,1,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002001,1,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002010,10,1,2
+districtShapes/districts001.dbf,1,Connecticut,009001002000,0,1,2
+districtShapes/districts001.dbf,1,Delaware,010001012000,0,1,12
+districtShapes/districts001.dbf,1,Georgia,0130010010-1,-1,1,1
+districtShapes/districts001.dbf,1,Georgia,013001001001,1,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001001,1,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001002,2,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001003,3,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001004,4,1,1
+districtShapes/districts001.dbf,1,Massachusetts,025001001005,5,1,1
+districtShapes/districts001.dbf,1,Georgia,013001001002,2,1,1
+districtShapes/districts001.dbf,1,Georgia,013001001003,3,1,1
+districtShapes/districts001.dbf,1,New York,036001002002,2,1,2
+districtShapes/districts001.dbf,1,New York,036001002003,3,1,2
+districtShapes/districts001.dbf,1,New York,036001002004,4,1,2
+districtShapes/districts001.dbf,1,New York,036001002005,5,1,2
+districtShapes/districts001.dbf,1,New York,036001002006,6,1,2
+districtShapes/districts001.dbf,1,Maryland,024001002001,1,1,2
+districtShapes/districts001.dbf,1,Maryland,024001002002,2,1,2
+districtShapes/districts001.dbf,1,Maryland,024001002003,3,1,2
+districtShapes/districts001.dbf,1,Maryland,024001002004,4,1,2
+districtShapes/districts001.dbf,1,Maryland,024001002005,5,1,2
+districtShapes/districts001.dbf,1,Maryland,024001002006,6,1,2
+districtShapes/districts001.dbf,1,New Hampshire,033001002000,0,1,2
+districtShapes/districts001.dbf,1,New Jersey,034001002000,0,1,2
+districtShapes/districts001.dbf,1,Pennsylvania,042001001000,0,1,1
+districtShapes/districts001.dbf,1,Rhode Island,044001002000,0,1,2
+districtShapes/districts001.dbf,1,South Carolina,045001002001,1,1,2
+districtShapes/districts001.dbf,1,South Carolina,045001002002,2,1,2
+districtShapes/districts001.dbf,1,South Carolina,045001002003,3,1,2
+districtShapes/districts001.dbf,1,South Carolina,045001002004,4,1,2
+districtShapes/districts001.dbf,1,South Carolina,045001002005,5,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002002,2,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002003,3,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002004,4,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002005,5,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002006,6,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002007,7,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002008,8,1,2
+districtShapes/districts001.dbf,1,Virginia,051001002009,9,1,2
+districtShapes/districts001.dbf,1,North Carolina,0370010010-1,-1,1,1
+districtShapes/districts001.dbf,1,North Carolina,037001001001,1,1,1
+districtShapes/districts001.dbf,1,North Carolina,037001001002,2,1,1
+districtShapes/districts001.dbf,1,North Carolina,037001001003,3,1,1
+districtShapes/districts001.dbf,1,North Carolina,037001001004,4,1,1
+districtShapes/districts001.dbf,1,North Carolina,037001001005,5,1,1
+districtShapes/districts002.dbf,2,New York,036001002001,1,1,2
+districtShapes/districts002.dbf,2,Vermont,050002006001,1,2,6
+districtShapes/districts002.dbf,2,Vermont,050002006002,2,2,6
+districtShapes/districts002.dbf,2,Virginia,051001002001,1,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002010,10,1,2
+districtShapes/districts002.dbf,2,Connecticut,009001002000,0,1,2
+districtShapes/districts002.dbf,2,Delaware,010001012000,0,1,12
+districtShapes/districts002.dbf,2,Georgia,013002002001,1,2,2
+districtShapes/districts002.dbf,2,Georgia,0130020020-1,-1,2,2
+districtShapes/districts002.dbf,2,Georgia,013002002002,2,2,2
+districtShapes/districts002.dbf,2,Georgia,013002002003,3,2,2
+districtShapes/districts002.dbf,2,Kentucky,021002006001,1,2,6
+districtShapes/districts002.dbf,2,Kentucky,021002006002,2,2,6
+districtShapes/districts002.dbf,2,Pennsylvania,042002002001,1,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002002,2,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002003,3,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002004,4,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002005,5,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002006,6,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002007,7,2,2
+districtShapes/districts002.dbf,2,Pennsylvania,042002002008,8,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002001,1,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002002,2,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002003,3,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002004,4,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002005,5,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002006,6,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002007,7,2,2
+districtShapes/districts002.dbf,2,Massachusetts,025002002008,8,2,2
+districtShapes/districts002.dbf,2,New York,036001002002,2,1,2
+districtShapes/districts002.dbf,2,New York,036001002003,3,1,2
+districtShapes/districts002.dbf,2,New York,036001002004,4,1,2
+districtShapes/districts002.dbf,2,New York,036001002005,5,1,2
+districtShapes/districts002.dbf,2,New York,036001002006,6,1,2
+districtShapes/districts002.dbf,2,Maryland,024001002001,1,1,2
+districtShapes/districts002.dbf,2,Maryland,024001002002,2,1,2
+districtShapes/districts002.dbf,2,Maryland,024001002003,3,1,2
+districtShapes/districts002.dbf,2,Maryland,024001002004,4,1,2
+districtShapes/districts002.dbf,2,Maryland,024001002005,5,1,2
+districtShapes/districts002.dbf,2,Maryland,024001002006,6,1,2
+districtShapes/districts002.dbf,2,New Hampshire,033001002000,0,1,2
+districtShapes/districts002.dbf,2,New Jersey,034001002000,0,1,2
+districtShapes/districts002.dbf,2,Rhode Island,044001002000,0,1,2
+districtShapes/districts002.dbf,2,South Carolina,045001002001,1,1,2
+districtShapes/districts002.dbf,2,South Carolina,045001002002,2,1,2
+districtShapes/districts002.dbf,2,South Carolina,045001002003,3,1,2
+districtShapes/districts002.dbf,2,South Carolina,045001002004,4,1,2
+districtShapes/districts002.dbf,2,South Carolina,045001002005,5,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002002,2,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002003,3,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002004,4,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002005,5,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002006,6,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002007,7,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002008,8,1,2
+districtShapes/districts002.dbf,2,Virginia,051001002009,9,1,2
+districtShapes/districts002.dbf,2,North Carolina,037002002001,1,2,2
+districtShapes/districts002.dbf,2,North Carolina,037002002002,2,2,2
+districtShapes/districts002.dbf,2,North Carolina,037002002003,3,2,2
+districtShapes/districts002.dbf,2,North Carolina,037002002004,4,2,2
+districtShapes/districts002.dbf,2,North Carolina,037002002005,5,2,2
+districtShapes/districts003.dbf,3,Maryland,024003007003,3,3,7
+districtShapes/districts003.dbf,3,Maryland,024003007004,4,3,7
+districtShapes/districts003.dbf,3,Maryland,024003007005,5,3,7
+districtShapes/districts003.dbf,3,Maryland,024003007006,6,3,7
+districtShapes/districts003.dbf,3,Maryland,024003007007,7,3,7
+districtShapes/districts003.dbf,3,Maryland,024003007008,8,3,7
+districtShapes/districts003.dbf,3,Massachusetts,025003003000,0,3,3
+districtShapes/districts003.dbf,3,Massachusetts,025003003001,1,3,3
+districtShapes/districts003.dbf,3,Massachusetts,025003003002,2,3,3
+districtShapes/districts003.dbf,3,New York,036003005010,10,3,5
+districtShapes/districts003.dbf,3,Vermont,050002006001,1,2,6
+districtShapes/districts003.dbf,3,Vermont,050002006002,2,2,6
+districtShapes/districts003.dbf,3,Connecticut,009003007000,0,3,7
+districtShapes/districts003.dbf,3,Georgia,0130030070-1,-1,3,7
+districtShapes/districts003.dbf,3,Georgia,013003007000,0,3,7
+districtShapes/districts003.dbf,3,Delaware,010001012000,0,1,12
+districtShapes/districts003.dbf,3,Kentucky,021002006001,1,2,6
+districtShapes/districts003.dbf,3,Kentucky,021002006002,2,2,6
+districtShapes/districts003.dbf,3,Maryland,024003007001,1,3,7
+districtShapes/districts003.dbf,3,Maryland,024003007002,2,3,7
+districtShapes/districts003.dbf,3,New York,036003005001,1,3,5
+districtShapes/districts003.dbf,3,New York,036003005003,3,3,5
+districtShapes/districts003.dbf,3,New York,036003005004,4,3,5
+districtShapes/districts003.dbf,3,New York,036003005005,5,3,5
+districtShapes/districts003.dbf,3,New York,036003005006,6,3,5
+districtShapes/districts003.dbf,3,New York,036003005007,7,3,5
+districtShapes/districts003.dbf,3,New York,036003005008,8,3,5
+districtShapes/districts003.dbf,3,New York,036003005009,9,3,5
+districtShapes/districts003.dbf,3,Massachusetts,025003003003,3,3,3
+districtShapes/districts003.dbf,3,Massachusetts,025003003004,4,3,3
+districtShapes/districts003.dbf,3,New York,036003005002,2,3,5
+districtShapes/districts003.dbf,3,New Hampshire,033003007000,0,3,7
+districtShapes/districts003.dbf,3,New Jersey,034003005000,0,3,5
+districtShapes/districts003.dbf,3,North Carolina,037003007001,1,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007010,10,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007002,2,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007003,3,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007004,4,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007005,5,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007006,6,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007007,7,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007008,8,3,7
+districtShapes/districts003.dbf,3,North Carolina,037003007009,9,3,7
+districtShapes/districts003.dbf,3,Pennsylvania,042003003000,0,3,3
+districtShapes/districts003.dbf,3,Rhode Island,044003027000,0,3,27
+districtShapes/districts003.dbf,3,South Carolina,045003007001,1,3,7
+districtShapes/districts003.dbf,3,South Carolina,045003007002,2,3,7
+districtShapes/districts003.dbf,3,South Carolina,045003007003,3,3,7
+districtShapes/districts003.dbf,3,South Carolina,045003007004,4,3,7
+districtShapes/districts003.dbf,3,South Carolina,045003007005,5,3,7
+districtShapes/districts003.dbf,3,South Carolina,045003007006,6,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007010,10,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007011,11,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007012,12,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007013,13,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007014,14,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007015,15,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007016,16,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007017,17,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007018,18,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007019,19,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007001,1,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007002,2,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007003,3,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007004,4,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007005,5,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007006,6,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007007,7,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007008,8,3,7
+districtShapes/districts003.dbf,3,Virginia,051003007009,9,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007003,3,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007004,4,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007005,5,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007006,6,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007007,7,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007008,8,3,7
+districtShapes/districts004.dbf,4,New York,036003005010,10,3,5
+districtShapes/districts004.dbf,4,Vermont,050002006001,1,2,6
+districtShapes/districts004.dbf,4,Vermont,050002006002,2,2,6
+districtShapes/districts004.dbf,4,Connecticut,009003007000,0,3,7
+districtShapes/districts004.dbf,4,Georgia,0130030070-1,-1,3,7
+districtShapes/districts004.dbf,4,Georgia,013003007000,0,3,7
+districtShapes/districts004.dbf,4,Delaware,010001012000,0,1,12
+districtShapes/districts004.dbf,4,Pennsylvania,042004006003,3,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006004,4,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006005,5,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006006,6,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006007,7,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006008,8,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006009,9,4,6
+districtShapes/districts004.dbf,4,Kentucky,021002006001,1,2,6
+districtShapes/districts004.dbf,4,Kentucky,021002006002,2,2,6
+districtShapes/districts004.dbf,4,Maryland,024003007001,1,3,7
+districtShapes/districts004.dbf,4,Maryland,024003007002,2,3,7
+districtShapes/districts004.dbf,4,New York,036003005001,1,3,5
+districtShapes/districts004.dbf,4,New York,036003005003,3,3,5
+districtShapes/districts004.dbf,4,New York,036003005004,4,3,5
+districtShapes/districts004.dbf,4,New York,036003005005,5,3,5
+districtShapes/districts004.dbf,4,New York,036003005006,6,3,5
+districtShapes/districts004.dbf,4,New York,036003005007,7,3,5
+districtShapes/districts004.dbf,4,New York,036003005008,8,3,5
+districtShapes/districts004.dbf,4,New York,036003005009,9,3,5
+districtShapes/districts004.dbf,4,Massachusetts,025004007010,10,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007011,11,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007012,12,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007013,13,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007014,14,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007001,1,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007002,2,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007003,3,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007004,4,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007005,5,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007006,6,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007007,7,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007008,8,4,7
+districtShapes/districts004.dbf,4,Massachusetts,025004007009,9,4,7
+districtShapes/districts004.dbf,4,New York,036003005002,2,3,5
+districtShapes/districts004.dbf,4,New Hampshire,033003007000,0,3,7
+districtShapes/districts004.dbf,4,New Jersey,034003005000,0,3,5
+districtShapes/districts004.dbf,4,North Carolina,037003007001,1,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007010,10,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007002,2,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007003,3,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007004,4,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007005,5,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007006,6,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007007,7,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007008,8,3,7
+districtShapes/districts004.dbf,4,North Carolina,037003007009,9,3,7
+districtShapes/districts004.dbf,4,Rhode Island,044003027000,0,3,27
+districtShapes/districts004.dbf,4,South Carolina,045003007001,1,3,7
+districtShapes/districts004.dbf,4,South Carolina,045003007002,2,3,7
+districtShapes/districts004.dbf,4,South Carolina,045003007003,3,3,7
+districtShapes/districts004.dbf,4,South Carolina,045003007004,4,3,7
+districtShapes/districts004.dbf,4,South Carolina,045003007005,5,3,7
+districtShapes/districts004.dbf,4,South Carolina,045003007006,6,3,7
+districtShapes/districts004.dbf,4,Tennessee,0470040050-1,-1,4,5
+districtShapes/districts004.dbf,4,Tennessee,047004005000,0,4,5
+districtShapes/districts004.dbf,4,Virginia,051003007010,10,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007011,11,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007012,12,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007013,13,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007014,14,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007015,15,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007016,16,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007017,17,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007018,18,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007019,19,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007001,1,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007002,2,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007003,3,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007004,4,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007005,5,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007006,6,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007007,7,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007008,8,3,7
+districtShapes/districts004.dbf,4,Virginia,051003007009,9,3,7
+districtShapes/districts004.dbf,4,Pennsylvania,042004006010,10,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006011,11,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006012,12,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006001,1,4,6
+districtShapes/districts004.dbf,4,Pennsylvania,042004006002,2,4,6
+districtShapes/districts005.dbf,5,Maryland,024003007003,3,3,7
+districtShapes/districts005.dbf,5,Maryland,024003007004,4,3,7
+districtShapes/districts005.dbf,5,Maryland,024003007005,5,3,7
+districtShapes/districts005.dbf,5,Maryland,024003007006,6,3,7
+districtShapes/districts005.dbf,5,Maryland,024003007007,7,3,7
+districtShapes/districts005.dbf,5,Maryland,024003007008,8,3,7
+districtShapes/districts005.dbf,5,New York,036003005010,10,3,5
+districtShapes/districts005.dbf,5,Vermont,050002006001,1,2,6
+districtShapes/districts005.dbf,5,Vermont,050002006002,2,2,6
+districtShapes/districts005.dbf,5,Connecticut,009003007000,0,3,7
+districtShapes/districts005.dbf,5,Georgia,0130030070-1,-1,3,7
+districtShapes/districts005.dbf,5,Georgia,013003007000,0,3,7
+districtShapes/districts005.dbf,5,Delaware,010001012000,0,1,12
+districtShapes/districts005.dbf,5,Pennsylvania,042004006003,3,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006004,4,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006005,5,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006006,6,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006007,7,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006008,8,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006009,9,4,6
+districtShapes/districts005.dbf,5,Kentucky,021002006001,1,2,6
+districtShapes/districts005.dbf,5,Kentucky,021002006002,2,2,6
+districtShapes/districts005.dbf,5,Maryland,024003007001,1,3,7
+districtShapes/districts005.dbf,5,Maryland,024003007002,2,3,7
+districtShapes/districts005.dbf,5,New York,036003005001,1,3,5
+districtShapes/districts005.dbf,5,New York,036003005003,3,3,5
+districtShapes/districts005.dbf,5,New York,036003005004,4,3,5
+districtShapes/districts005.dbf,5,New York,036003005005,5,3,5
+districtShapes/districts005.dbf,5,New York,036003005006,6,3,5
+districtShapes/districts005.dbf,5,New York,036003005007,7,3,5
+districtShapes/districts005.dbf,5,New York,036003005008,8,3,5
+districtShapes/districts005.dbf,5,New York,036003005009,9,3,5
+districtShapes/districts005.dbf,5,Massachusetts,025004007010,10,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007011,11,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007012,12,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007013,13,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007014,14,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007001,1,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007002,2,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007003,3,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007004,4,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007005,5,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007006,6,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007007,7,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007008,8,4,7
+districtShapes/districts005.dbf,5,Massachusetts,025004007009,9,4,7
+districtShapes/districts005.dbf,5,New York,036003005002,2,3,5
+districtShapes/districts005.dbf,5,New Hampshire,033003007000,0,3,7
+districtShapes/districts005.dbf,5,New Jersey,034003005000,0,3,5
+districtShapes/districts005.dbf,5,North Carolina,037003007001,1,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007010,10,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007002,2,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007003,3,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007004,4,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007005,5,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007006,6,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007007,7,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007008,8,3,7
+districtShapes/districts005.dbf,5,North Carolina,037003007009,9,3,7
+districtShapes/districts005.dbf,5,Rhode Island,044003027000,0,3,27
+districtShapes/districts005.dbf,5,South Carolina,045003007001,1,3,7
+districtShapes/districts005.dbf,5,South Carolina,045003007002,2,3,7
+districtShapes/districts005.dbf,5,South Carolina,045003007003,3,3,7
+districtShapes/districts005.dbf,5,South Carolina,045003007004,4,3,7
+districtShapes/districts005.dbf,5,South Carolina,045003007005,5,3,7
+districtShapes/districts005.dbf,5,South Carolina,045003007006,6,3,7
+districtShapes/districts005.dbf,5,Tennessee,0470040050-1,-1,4,5
+districtShapes/districts005.dbf,5,Tennessee,047004005000,0,4,5
+districtShapes/districts005.dbf,5,Virginia,051003007010,10,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007011,11,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007012,12,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007013,13,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007014,14,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007015,15,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007016,16,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007017,17,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007018,18,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007019,19,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007001,1,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007002,2,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007003,3,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007004,4,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007005,5,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007006,6,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007007,7,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007008,8,3,7
+districtShapes/districts005.dbf,5,Virginia,051003007009,9,3,7
+districtShapes/districts005.dbf,5,Pennsylvania,042004006010,10,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006011,11,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006012,12,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006001,1,4,6
+districtShapes/districts005.dbf,5,Pennsylvania,042004006002,2,4,6
+districtShapes/districts006.dbf,6,Maryland,024003007003,3,3,7
+districtShapes/districts006.dbf,6,Maryland,024003007004,4,3,7
+districtShapes/districts006.dbf,6,Maryland,024003007005,5,3,7
+districtShapes/districts006.dbf,6,Maryland,024003007006,6,3,7
+districtShapes/districts006.dbf,6,Maryland,024003007007,7,3,7
+districtShapes/districts006.dbf,6,Maryland,024003007008,8,3,7
+districtShapes/districts006.dbf,6,Vermont,050002006001,1,2,6
+districtShapes/districts006.dbf,6,Vermont,050002006002,2,2,6
+districtShapes/districts006.dbf,6,New York,036006007010,10,6,7
+districtShapes/districts006.dbf,6,New York,036006007001,1,6,7
+districtShapes/districts006.dbf,6,New York,036006007003,3,6,7
+districtShapes/districts006.dbf,6,Connecticut,009003007000,0,3,7
+districtShapes/districts006.dbf,6,Georgia,0130030070-1,-1,3,7
+districtShapes/districts006.dbf,6,Georgia,013003007000,0,3,7
+districtShapes/districts006.dbf,6,Delaware,010001012000,0,1,12
+districtShapes/districts006.dbf,6,Pennsylvania,042004006003,3,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006004,4,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006005,5,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006006,6,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006007,7,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006008,8,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006009,9,4,6
+districtShapes/districts006.dbf,6,Kentucky,021002006001,1,2,6
+districtShapes/districts006.dbf,6,Kentucky,021002006002,2,2,6
+districtShapes/districts006.dbf,6,Maryland,024003007001,1,3,7
+districtShapes/districts006.dbf,6,Maryland,024003007002,2,3,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007010,10,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007011,11,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007012,12,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007013,13,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007014,14,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007001,1,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007002,2,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007003,3,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007004,4,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007005,5,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007006,6,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007007,7,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007008,8,4,7
+districtShapes/districts006.dbf,6,Massachusetts,025004007009,9,4,7
+districtShapes/districts006.dbf,6,New York,036006007005,5,6,7
+districtShapes/districts006.dbf,6,New York,036006007006,6,6,7
+districtShapes/districts006.dbf,6,New York,036006007007,7,6,7
+districtShapes/districts006.dbf,6,New York,036006007008,8,6,7
+districtShapes/districts006.dbf,6,New York,036006007009,9,6,7
+districtShapes/districts006.dbf,6,New Hampshire,033003007000,0,3,7
+districtShapes/districts006.dbf,6,New Jersey,034006006001,1,6,6
+districtShapes/districts006.dbf,6,New Jersey,034006006002,2,6,6
+districtShapes/districts006.dbf,6,New Jersey,034006006003,3,6,6
+districtShapes/districts006.dbf,6,New Jersey,034006006004,4,6,6
+districtShapes/districts006.dbf,6,New Jersey,034006006005,5,6,6
+districtShapes/districts006.dbf,6,North Carolina,037003007001,1,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007010,10,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007002,2,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007003,3,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007004,4,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007005,5,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007006,6,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007007,7,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007008,8,3,7
+districtShapes/districts006.dbf,6,North Carolina,037003007009,9,3,7
+districtShapes/districts006.dbf,6,Rhode Island,044003027000,0,3,27
+districtShapes/districts006.dbf,6,South Carolina,045003007001,1,3,7
+districtShapes/districts006.dbf,6,South Carolina,045003007002,2,3,7
+districtShapes/districts006.dbf,6,South Carolina,045003007003,3,3,7
+districtShapes/districts006.dbf,6,South Carolina,045003007004,4,3,7
+districtShapes/districts006.dbf,6,South Carolina,045003007005,5,3,7
+districtShapes/districts006.dbf,6,South Carolina,045003007006,6,3,7
+districtShapes/districts006.dbf,6,New York,036006007002,2,6,7
+districtShapes/districts006.dbf,6,New York,036006007004,4,6,7
+districtShapes/districts006.dbf,6,Tennessee,0470060070-1,-1,6,7
+districtShapes/districts006.dbf,6,Tennessee,047006007000,0,6,7
+districtShapes/districts006.dbf,6,Virginia,051003007010,10,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007011,11,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007012,12,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007013,13,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007014,14,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007015,15,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007016,16,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007017,17,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007018,18,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007019,19,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007001,1,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007002,2,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007003,3,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007004,4,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007005,5,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007006,6,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007007,7,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007008,8,3,7
+districtShapes/districts006.dbf,6,Virginia,051003007009,9,3,7
+districtShapes/districts006.dbf,6,Pennsylvania,042004006010,10,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006011,11,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006012,12,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006001,1,4,6
+districtShapes/districts006.dbf,6,Pennsylvania,042004006002,2,4,6
+districtShapes/districts007.dbf,7,Ohio,0390070080-1,-1,7,8
+districtShapes/districts007.dbf,7,Ohio,039007008000,0,7,8
+districtShapes/districts007.dbf,7,Maryland,024003007003,3,3,7
+districtShapes/districts007.dbf,7,Maryland,024003007004,4,3,7
+districtShapes/districts007.dbf,7,Maryland,024003007005,5,3,7
+districtShapes/districts007.dbf,7,Maryland,024003007006,6,3,7
+districtShapes/districts007.dbf,7,Maryland,024003007007,7,3,7
+districtShapes/districts007.dbf,7,Maryland,024003007008,8,3,7
+districtShapes/districts007.dbf,7,Vermont,050007007001,1,7,7
+districtShapes/districts007.dbf,7,Vermont,050007007002,2,7,7
+districtShapes/districts007.dbf,7,New York,036006007010,10,6,7
+districtShapes/districts007.dbf,7,New York,036006007001,1,6,7
+districtShapes/districts007.dbf,7,New York,036006007003,3,6,7
+districtShapes/districts007.dbf,7,Connecticut,009003007000,0,3,7
+districtShapes/districts007.dbf,7,Georgia,0130030070-1,-1,3,7
+districtShapes/districts007.dbf,7,Georgia,013003007000,0,3,7
+districtShapes/districts007.dbf,7,Delaware,010001012000,0,1,12
+districtShapes/districts007.dbf,7,Kentucky,021007007001,1,7,7
+districtShapes/districts007.dbf,7,Kentucky,021007007002,2,7,7
+districtShapes/districts007.dbf,7,Maryland,024003007001,1,3,7
+districtShapes/districts007.dbf,7,Maryland,024003007002,2,3,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007010,10,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007011,11,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007012,12,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007013,13,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007014,14,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007001,1,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007002,2,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007003,3,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007004,4,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007005,5,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007006,6,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007007,7,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007008,8,4,7
+districtShapes/districts007.dbf,7,Massachusetts,025004007009,9,4,7
+districtShapes/districts007.dbf,7,New York,036006007005,5,6,7
+districtShapes/districts007.dbf,7,New York,036006007006,6,6,7
+districtShapes/districts007.dbf,7,New York,036006007007,7,6,7
+districtShapes/districts007.dbf,7,New York,036006007008,8,6,7
+districtShapes/districts007.dbf,7,New York,036006007009,9,6,7
+districtShapes/districts007.dbf,7,New Hampshire,033003007000,0,3,7
+districtShapes/districts007.dbf,7,New Jersey,034007007000,0,7,7
+districtShapes/districts007.dbf,7,North Carolina,037003007001,1,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007010,10,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007002,2,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007003,3,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007004,4,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007005,5,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007006,6,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007007,7,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007008,8,3,7
+districtShapes/districts007.dbf,7,North Carolina,037003007009,9,3,7
+districtShapes/districts007.dbf,7,Rhode Island,044003027000,0,3,27
+districtShapes/districts007.dbf,7,South Carolina,045003007001,1,3,7
+districtShapes/districts007.dbf,7,South Carolina,045003007002,2,3,7
+districtShapes/districts007.dbf,7,South Carolina,045003007003,3,3,7
+districtShapes/districts007.dbf,7,South Carolina,045003007004,4,3,7
+districtShapes/districts007.dbf,7,South Carolina,045003007005,5,3,7
+districtShapes/districts007.dbf,7,South Carolina,045003007006,6,3,7
+districtShapes/districts007.dbf,7,New York,036006007002,2,6,7
+districtShapes/districts007.dbf,7,New York,036006007004,4,6,7
+districtShapes/districts007.dbf,7,Tennessee,0470060070-1,-1,6,7
+districtShapes/districts007.dbf,7,Tennessee,047006007000,0,6,7
+districtShapes/districts007.dbf,7,Virginia,051003007010,10,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007011,11,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007012,12,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007013,13,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007014,14,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007015,15,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007016,16,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007017,17,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007018,18,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007019,19,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007001,1,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007002,2,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007003,3,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007004,4,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007005,5,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007006,6,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007007,7,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007008,8,3,7
+districtShapes/districts007.dbf,7,Virginia,051003007009,9,3,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007010,10,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007011,11,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007012,12,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007001,1,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007002,2,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007003,3,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007004,4,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007005,5,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007006,6,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007007,7,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007008,8,7,7
+districtShapes/districts007.dbf,7,Pennsylvania,042007007009,9,7,7
+districtShapes/districts008.dbf,8,Ohio,0390070080-1,-1,7,8
+districtShapes/districts008.dbf,8,Ohio,039007008000,0,7,8
+districtShapes/districts008.dbf,8,Massachusetts,025008012011,11,8,12
+districtShapes/districts008.dbf,8,New York,036008008017,17,8,8
+districtShapes/districts008.dbf,8,Vermont,050008012001,1,8,12
+districtShapes/districts008.dbf,8,Vermont,050008012002,2,8,12
+districtShapes/districts008.dbf,8,Vermont,050008012003,3,8,12
+districtShapes/districts008.dbf,8,Vermont,050008012004,4,8,12
+districtShapes/districts008.dbf,8,Virginia,051008009001,1,8,9
+districtShapes/districts008.dbf,8,Connecticut,009008024000,0,8,24
+districtShapes/districts008.dbf,8,Georgia,0130080080-1,-1,8,8
+districtShapes/districts008.dbf,8,Georgia,013008008000,0,8,8
+districtShapes/districts008.dbf,8,Delaware,010001012000,0,1,12
+districtShapes/districts008.dbf,8,Kentucky,021008012001,1,8,12
+districtShapes/districts008.dbf,8,Kentucky,021008012002,2,8,12
+districtShapes/districts008.dbf,8,Kentucky,021008012003,3,8,12
+districtShapes/districts008.dbf,8,Kentucky,021008012004,4,8,12
+districtShapes/districts008.dbf,8,Kentucky,021008012005,5,8,12
+districtShapes/districts008.dbf,8,Kentucky,021008012006,6,8,12
+districtShapes/districts008.dbf,8,Maryland,024008022001,1,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022002,2,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022003,3,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022004,4,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022005,5,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022006,6,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022007,7,8,22
+districtShapes/districts008.dbf,8,Maryland,024008022008,8,8,22
+districtShapes/districts008.dbf,8,Massachusetts,025008012010,10,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012012,12,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012013,13,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012014,14,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012015,15,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012016,16,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012017,17,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012001,1,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012002,2,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012003,3,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012004,4,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012005,5,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012006,6,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012007,7,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012008,8,8,12
+districtShapes/districts008.dbf,8,Massachusetts,025008012009,9,8,12
+districtShapes/districts008.dbf,8,New Hampshire,033008012000,0,8,12
+districtShapes/districts008.dbf,8,New Jersey,034008012000,0,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012001,1,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012010,10,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012011,11,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012012,12,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012002,2,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012003,3,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012004,4,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012005,5,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012006,6,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012007,7,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012008,8,8,12
+districtShapes/districts008.dbf,8,North Carolina,037008012009,9,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012001,1,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012010,10,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012011,11,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012002,2,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012003,3,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012004,4,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012005,5,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012006,6,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012007,7,8,12
+districtShapes/districts008.dbf,8,New York,036008008002,2,8,8
+districtShapes/districts008.dbf,8,New York,036008008003,3,8,8
+districtShapes/districts008.dbf,8,New York,036008008004,4,8,8
+districtShapes/districts008.dbf,8,New York,036008008005,5,8,8
+districtShapes/districts008.dbf,8,New York,036008008006,6,8,8
+districtShapes/districts008.dbf,8,New York,036008008007,7,8,8
+districtShapes/districts008.dbf,8,New York,036008008008,8,8,8
+districtShapes/districts008.dbf,8,New York,036008008009,9,8,8
+districtShapes/districts008.dbf,8,New York,036008008001,1,8,8
+districtShapes/districts008.dbf,8,Pennsylvania,042008012008,8,8,12
+districtShapes/districts008.dbf,8,Pennsylvania,042008012009,9,8,12
+districtShapes/districts008.dbf,8,Rhode Island,044003027000,0,3,27
+districtShapes/districts008.dbf,8,South Carolina,045008012001,1,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012002,2,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012003,3,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012004,4,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012005,5,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012006,6,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012007,7,8,12
+districtShapes/districts008.dbf,8,South Carolina,045008012008,8,8,12
+districtShapes/districts008.dbf,8,Virginia,051008009010,10,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009011,11,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009012,12,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009013,13,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009014,14,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009015,15,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009016,16,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009017,17,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009018,18,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009019,19,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009002,2,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009020,20,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009021,21,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009022,22,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009003,3,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009004,4,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009005,5,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009006,6,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009007,7,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009008,8,8,9
+districtShapes/districts008.dbf,8,Virginia,051008009009,9,8,9
+districtShapes/districts008.dbf,8,Tennessee,0470080080-1,-1,8,8
+districtShapes/districts008.dbf,8,Tennessee,047008008000,0,8,8
+districtShapes/districts008.dbf,8,New York,036008008010,10,8,8
+districtShapes/districts008.dbf,8,New York,036008008011,11,8,8
+districtShapes/districts008.dbf,8,New York,036008008012,12,8,8
+districtShapes/districts008.dbf,8,New York,036008008013,13,8,8
+districtShapes/districts008.dbf,8,New York,036008008014,14,8,8
+districtShapes/districts008.dbf,8,New York,036008008015,15,8,8
+districtShapes/districts008.dbf,8,New York,036008008016,16,8,8
+districtShapes/districts009.dbf,9,Ohio,039009012000,0,9,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012011,11,8,12
+districtShapes/districts009.dbf,9,New York,036009010002,2,9,10
+districtShapes/districts009.dbf,9,Vermont,050008012001,1,8,12
+districtShapes/districts009.dbf,9,Vermont,050008012002,2,8,12
+districtShapes/districts009.dbf,9,Vermont,050008012003,3,8,12
+districtShapes/districts009.dbf,9,Vermont,050008012004,4,8,12
+districtShapes/districts009.dbf,9,Virginia,051008009001,1,8,9
+districtShapes/districts009.dbf,9,Connecticut,009008024000,0,8,24
+districtShapes/districts009.dbf,9,Georgia,0130090090-1,-1,9,9
+districtShapes/districts009.dbf,9,Georgia,013009009000,0,9,9
+districtShapes/districts009.dbf,9,New York,036009010001,1,9,10
+districtShapes/districts009.dbf,9,Delaware,010001012000,0,1,12
+districtShapes/districts009.dbf,9,Kentucky,021008012001,1,8,12
+districtShapes/districts009.dbf,9,Kentucky,021008012002,2,8,12
+districtShapes/districts009.dbf,9,Kentucky,021008012003,3,8,12
+districtShapes/districts009.dbf,9,Kentucky,021008012004,4,8,12
+districtShapes/districts009.dbf,9,Kentucky,021008012005,5,8,12
+districtShapes/districts009.dbf,9,Kentucky,021008012006,6,8,12
+districtShapes/districts009.dbf,9,Maryland,024008022001,1,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022002,2,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022003,3,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022004,4,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022005,5,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022006,6,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022007,7,8,22
+districtShapes/districts009.dbf,9,Maryland,024008022008,8,8,22
+districtShapes/districts009.dbf,9,New York,036009010016,16,9,10
+districtShapes/districts009.dbf,9,New York,036009010017,17,9,10
+districtShapes/districts009.dbf,9,New York,036009010003,3,9,10
+districtShapes/districts009.dbf,9,New York,036009010004,4,9,10
+districtShapes/districts009.dbf,9,New York,036009010005,5,9,10
+districtShapes/districts009.dbf,9,New York,036009010006,6,9,10
+districtShapes/districts009.dbf,9,New York,036009010007,7,9,10
+districtShapes/districts009.dbf,9,New York,036009010008,8,9,10
+districtShapes/districts009.dbf,9,New York,036009010009,9,9,10
+districtShapes/districts009.dbf,9,Massachusetts,025008012010,10,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012012,12,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012013,13,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012014,14,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012015,15,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012016,16,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012017,17,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012001,1,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012002,2,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012003,3,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012004,4,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012005,5,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012006,6,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012007,7,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012008,8,8,12
+districtShapes/districts009.dbf,9,Massachusetts,025008012009,9,8,12
+districtShapes/districts009.dbf,9,New Hampshire,033008012000,0,8,12
+districtShapes/districts009.dbf,9,New Jersey,034008012000,0,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012001,1,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012010,10,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012011,11,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012012,12,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012002,2,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012003,3,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012004,4,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012005,5,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012006,6,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012007,7,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012008,8,8,12
+districtShapes/districts009.dbf,9,North Carolina,037008012009,9,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012001,1,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012010,10,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012011,11,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012002,2,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012003,3,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012004,4,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012005,5,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012006,6,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012007,7,8,12
+districtShapes/districts009.dbf,9,New York,036009010010,10,9,10
+districtShapes/districts009.dbf,9,New York,036009010011,11,9,10
+districtShapes/districts009.dbf,9,New York,036009010012,12,9,10
+districtShapes/districts009.dbf,9,New York,036009010013,13,9,10
+districtShapes/districts009.dbf,9,New York,036009010014,14,9,10
+districtShapes/districts009.dbf,9,New York,036009010015,15,9,10
+districtShapes/districts009.dbf,9,Pennsylvania,042008012008,8,8,12
+districtShapes/districts009.dbf,9,Pennsylvania,042008012009,9,8,12
+districtShapes/districts009.dbf,9,Rhode Island,044003027000,0,3,27
+districtShapes/districts009.dbf,9,South Carolina,045008012001,1,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012002,2,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012003,3,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012004,4,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012005,5,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012006,6,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012007,7,8,12
+districtShapes/districts009.dbf,9,South Carolina,045008012008,8,8,12
+districtShapes/districts009.dbf,9,Virginia,051008009010,10,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009011,11,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009012,12,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009013,13,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009014,14,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009015,15,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009016,16,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009017,17,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009018,18,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009019,19,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009002,2,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009020,20,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009021,21,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009022,22,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009003,3,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009004,4,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009005,5,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009006,6,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009007,7,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009008,8,8,9
+districtShapes/districts009.dbf,9,Virginia,051008009009,9,8,9
+districtShapes/districts009.dbf,9,Tennessee,0470090090-1,-1,9,9
+districtShapes/districts009.dbf,9,Tennessee,047009009001,1,9,9
+districtShapes/districts009.dbf,9,Tennessee,047009009002,2,9,9
+districtShapes/districts009.dbf,9,Tennessee,047009009003,3,9,9
+districtShapes/districts010.dbf,10,Ohio,039009012000,0,9,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012011,11,8,12
+districtShapes/districts010.dbf,10,New York,036009010002,2,9,10
+districtShapes/districts010.dbf,10,Vermont,050008012001,1,8,12
+districtShapes/districts010.dbf,10,Vermont,050008012002,2,8,12
+districtShapes/districts010.dbf,10,Vermont,050008012003,3,8,12
+districtShapes/districts010.dbf,10,Vermont,050008012004,4,8,12
+districtShapes/districts010.dbf,10,Virginia,051010012001,1,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012010,10,10,12
+districtShapes/districts010.dbf,10,Connecticut,009008024000,0,8,24
+districtShapes/districts010.dbf,10,Georgia,0130100120-1,-1,10,12
+districtShapes/districts010.dbf,10,Georgia,013010012000,0,10,12
+districtShapes/districts010.dbf,10,New York,036009010001,1,9,10
+districtShapes/districts010.dbf,10,Delaware,010001012000,0,1,12
+districtShapes/districts010.dbf,10,Kentucky,021008012001,1,8,12
+districtShapes/districts010.dbf,10,Kentucky,021008012002,2,8,12
+districtShapes/districts010.dbf,10,Kentucky,021008012003,3,8,12
+districtShapes/districts010.dbf,10,Kentucky,021008012004,4,8,12
+districtShapes/districts010.dbf,10,Kentucky,021008012005,5,8,12
+districtShapes/districts010.dbf,10,Kentucky,021008012006,6,8,12
+districtShapes/districts010.dbf,10,Maryland,024008022001,1,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022002,2,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022003,3,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022004,4,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022005,5,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022006,6,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022007,7,8,22
+districtShapes/districts010.dbf,10,Maryland,024008022008,8,8,22
+districtShapes/districts010.dbf,10,New York,036009010016,16,9,10
+districtShapes/districts010.dbf,10,New York,036009010017,17,9,10
+districtShapes/districts010.dbf,10,New York,036009010003,3,9,10
+districtShapes/districts010.dbf,10,New York,036009010004,4,9,10
+districtShapes/districts010.dbf,10,New York,036009010005,5,9,10
+districtShapes/districts010.dbf,10,New York,036009010006,6,9,10
+districtShapes/districts010.dbf,10,New York,036009010007,7,9,10
+districtShapes/districts010.dbf,10,New York,036009010008,8,9,10
+districtShapes/districts010.dbf,10,New York,036009010009,9,9,10
+districtShapes/districts010.dbf,10,Massachusetts,025008012010,10,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012012,12,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012013,13,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012014,14,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012015,15,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012016,16,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012017,17,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012001,1,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012002,2,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012003,3,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012004,4,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012005,5,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012006,6,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012007,7,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012008,8,8,12
+districtShapes/districts010.dbf,10,Massachusetts,025008012009,9,8,12
+districtShapes/districts010.dbf,10,New Hampshire,033008012000,0,8,12
+districtShapes/districts010.dbf,10,New Jersey,034008012000,0,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012001,1,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012010,10,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012011,11,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012012,12,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012002,2,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012003,3,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012004,4,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012005,5,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012006,6,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012007,7,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012008,8,8,12
+districtShapes/districts010.dbf,10,North Carolina,037008012009,9,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012001,1,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012010,10,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012011,11,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012002,2,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012003,3,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012004,4,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012005,5,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012006,6,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012007,7,8,12
+districtShapes/districts010.dbf,10,New York,036009010010,10,9,10
+districtShapes/districts010.dbf,10,New York,036009010011,11,9,10
+districtShapes/districts010.dbf,10,New York,036009010012,12,9,10
+districtShapes/districts010.dbf,10,New York,036009010013,13,9,10
+districtShapes/districts010.dbf,10,New York,036009010014,14,9,10
+districtShapes/districts010.dbf,10,New York,036009010015,15,9,10
+districtShapes/districts010.dbf,10,Pennsylvania,042008012008,8,8,12
+districtShapes/districts010.dbf,10,Pennsylvania,042008012009,9,8,12
+districtShapes/districts010.dbf,10,Rhode Island,044003027000,0,3,27
+districtShapes/districts010.dbf,10,South Carolina,045008012001,1,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012002,2,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012003,3,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012004,4,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012005,5,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012006,6,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012007,7,8,12
+districtShapes/districts010.dbf,10,South Carolina,045008012008,8,8,12
+districtShapes/districts010.dbf,10,Virginia,051010012011,11,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012012,12,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012013,13,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012014,14,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012015,15,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012016,16,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012017,17,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012018,18,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012019,19,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012002,2,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012020,20,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012021,21,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012022,22,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012003,3,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012004,4,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012005,5,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012006,6,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012007,7,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012008,8,10,12
+districtShapes/districts010.dbf,10,Virginia,051010012009,9,10,12
+districtShapes/districts010.dbf,10,Tennessee,0470100100-1,-1,10,10
+districtShapes/districts010.dbf,10,Tennessee,047010010001,1,10,10
+districtShapes/districts010.dbf,10,Tennessee,047010010002,2,10,10
+districtShapes/districts010.dbf,10,Tennessee,047010010003,3,10,10
+districtShapes/districts011.dbf,11,Ohio,039009012000,0,9,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012011,11,8,12
+districtShapes/districts011.dbf,11,Vermont,050008012001,1,8,12
+districtShapes/districts011.dbf,11,Vermont,050008012002,2,8,12
+districtShapes/districts011.dbf,11,Vermont,050008012003,3,8,12
+districtShapes/districts011.dbf,11,Vermont,050008012004,4,8,12
+districtShapes/districts011.dbf,11,Virginia,051010012001,1,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012010,10,10,12
+districtShapes/districts011.dbf,11,Connecticut,009008024000,0,8,24
+districtShapes/districts011.dbf,11,Georgia,0130100120-1,-1,10,12
+districtShapes/districts011.dbf,11,Georgia,013010012000,0,10,12
+districtShapes/districts011.dbf,11,Delaware,010001012000,0,1,12
+districtShapes/districts011.dbf,11,Kentucky,021008012001,1,8,12
+districtShapes/districts011.dbf,11,Kentucky,021008012002,2,8,12
+districtShapes/districts011.dbf,11,Kentucky,021008012003,3,8,12
+districtShapes/districts011.dbf,11,Kentucky,021008012004,4,8,12
+districtShapes/districts011.dbf,11,Kentucky,021008012005,5,8,12
+districtShapes/districts011.dbf,11,Kentucky,021008012006,6,8,12
+districtShapes/districts011.dbf,11,Maryland,024008022001,1,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022002,2,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022003,3,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022004,4,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022005,5,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022006,6,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022007,7,8,22
+districtShapes/districts011.dbf,11,Maryland,024008022008,8,8,22
+districtShapes/districts011.dbf,11,Massachusetts,025008012010,10,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012012,12,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012013,13,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012014,14,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012015,15,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012016,16,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012017,17,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012001,1,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012002,2,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012003,3,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012004,4,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012005,5,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012006,6,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012007,7,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012008,8,8,12
+districtShapes/districts011.dbf,11,Massachusetts,025008012009,9,8,12
+districtShapes/districts011.dbf,11,New Hampshire,033008012000,0,8,12
+districtShapes/districts011.dbf,11,New Jersey,034008012000,0,8,12
+districtShapes/districts011.dbf,11,New York,036011012001,1,11,12
+districtShapes/districts011.dbf,11,New York,036011012010,10,11,12
+districtShapes/districts011.dbf,11,New York,036011012011,11,11,12
+districtShapes/districts011.dbf,11,New York,036011012012,12,11,12
+districtShapes/districts011.dbf,11,New York,036011012013,13,11,12
+districtShapes/districts011.dbf,11,New York,036011012014,14,11,12
+districtShapes/districts011.dbf,11,New York,036011012015,15,11,12
+districtShapes/districts011.dbf,11,New York,036011012002,2,11,12
+districtShapes/districts011.dbf,11,New York,036011012003,3,11,12
+districtShapes/districts011.dbf,11,New York,036011012004,4,11,12
+districtShapes/districts011.dbf,11,New York,036011012005,5,11,12
+districtShapes/districts011.dbf,11,New York,036011012006,6,11,12
+districtShapes/districts011.dbf,11,New York,036011012007,7,11,12
+districtShapes/districts011.dbf,11,New York,036011012008,8,11,12
+districtShapes/districts011.dbf,11,New York,036011012009,9,11,12
+districtShapes/districts011.dbf,11,North Carolina,037008012001,1,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012010,10,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012011,11,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012012,12,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012002,2,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012003,3,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012004,4,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012005,5,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012006,6,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012007,7,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012008,8,8,12
+districtShapes/districts011.dbf,11,North Carolina,037008012009,9,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012001,1,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012010,10,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012011,11,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012002,2,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012003,3,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012004,4,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012005,5,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012006,6,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012007,7,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012008,8,8,12
+districtShapes/districts011.dbf,11,Pennsylvania,042008012009,9,8,12
+districtShapes/districts011.dbf,11,Rhode Island,044003027000,0,3,27
+districtShapes/districts011.dbf,11,South Carolina,045008012001,1,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012002,2,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012003,3,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012004,4,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012005,5,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012006,6,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012007,7,8,12
+districtShapes/districts011.dbf,11,South Carolina,045008012008,8,8,12
+districtShapes/districts011.dbf,11,Virginia,051010012011,11,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012012,12,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012013,13,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012014,14,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012015,15,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012016,16,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012017,17,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012018,18,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012019,19,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012002,2,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012020,20,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012021,21,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012022,22,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012003,3,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012004,4,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012005,5,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012006,6,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012007,7,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012008,8,10,12
+districtShapes/districts011.dbf,11,Virginia,051010012009,9,10,12
+districtShapes/districts011.dbf,11,Tennessee,0470110110-1,-1,11,11
+districtShapes/districts011.dbf,11,Tennessee,047011011001,1,11,11
+districtShapes/districts011.dbf,11,Tennessee,047011011002,2,11,11
+districtShapes/districts011.dbf,11,Tennessee,047011011003,3,11,11
+districtShapes/districts012.dbf,12,Ohio,039009012000,0,9,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012011,11,8,12
+districtShapes/districts012.dbf,12,Vermont,050008012001,1,8,12
+districtShapes/districts012.dbf,12,Vermont,050008012002,2,8,12
+districtShapes/districts012.dbf,12,Vermont,050008012003,3,8,12
+districtShapes/districts012.dbf,12,Vermont,050008012004,4,8,12
+districtShapes/districts012.dbf,12,Virginia,051010012001,1,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012010,10,10,12
+districtShapes/districts012.dbf,12,Connecticut,009008024000,0,8,24
+districtShapes/districts012.dbf,12,Georgia,0130100120-1,-1,10,12
+districtShapes/districts012.dbf,12,Georgia,013010012000,0,10,12
+districtShapes/districts012.dbf,12,Delaware,010001012000,0,1,12
+districtShapes/districts012.dbf,12,Kentucky,021008012001,1,8,12
+districtShapes/districts012.dbf,12,Kentucky,021008012002,2,8,12
+districtShapes/districts012.dbf,12,Kentucky,021008012003,3,8,12
+districtShapes/districts012.dbf,12,Kentucky,021008012004,4,8,12
+districtShapes/districts012.dbf,12,Kentucky,021008012005,5,8,12
+districtShapes/districts012.dbf,12,Kentucky,021008012006,6,8,12
+districtShapes/districts012.dbf,12,Maryland,024008022001,1,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022002,2,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022003,3,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022004,4,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022005,5,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022006,6,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022007,7,8,22
+districtShapes/districts012.dbf,12,Maryland,024008022008,8,8,22
+districtShapes/districts012.dbf,12,Massachusetts,025008012010,10,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012012,12,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012013,13,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012014,14,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012015,15,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012016,16,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012017,17,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012001,1,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012002,2,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012003,3,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012004,4,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012005,5,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012006,6,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012007,7,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012008,8,8,12
+districtShapes/districts012.dbf,12,Massachusetts,025008012009,9,8,12
+districtShapes/districts012.dbf,12,Louisiana,022012017000,0,12,17
+districtShapes/districts012.dbf,12,New Hampshire,033008012000,0,8,12
+districtShapes/districts012.dbf,12,New Jersey,034008012000,0,8,12
+districtShapes/districts012.dbf,12,New York,036011012001,1,11,12
+districtShapes/districts012.dbf,12,New York,036011012010,10,11,12
+districtShapes/districts012.dbf,12,New York,036011012011,11,11,12
+districtShapes/districts012.dbf,12,New York,036011012012,12,11,12
+districtShapes/districts012.dbf,12,New York,036011012013,13,11,12
+districtShapes/districts012.dbf,12,New York,036011012014,14,11,12
+districtShapes/districts012.dbf,12,New York,036011012015,15,11,12
+districtShapes/districts012.dbf,12,New York,036011012002,2,11,12
+districtShapes/districts012.dbf,12,New York,036011012003,3,11,12
+districtShapes/districts012.dbf,12,New York,036011012004,4,11,12
+districtShapes/districts012.dbf,12,New York,036011012005,5,11,12
+districtShapes/districts012.dbf,12,New York,036011012006,6,11,12
+districtShapes/districts012.dbf,12,New York,036011012007,7,11,12
+districtShapes/districts012.dbf,12,New York,036011012008,8,11,12
+districtShapes/districts012.dbf,12,New York,036011012009,9,11,12
+districtShapes/districts012.dbf,12,North Carolina,037008012001,1,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012010,10,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012011,11,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012012,12,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012002,2,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012003,3,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012004,4,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012005,5,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012006,6,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012007,7,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012008,8,8,12
+districtShapes/districts012.dbf,12,North Carolina,037008012009,9,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012001,1,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012010,10,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012011,11,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012002,2,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012003,3,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012004,4,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012005,5,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012006,6,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012007,7,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012008,8,8,12
+districtShapes/districts012.dbf,12,Pennsylvania,042008012009,9,8,12
+districtShapes/districts012.dbf,12,Rhode Island,044003027000,0,3,27
+districtShapes/districts012.dbf,12,South Carolina,045008012001,1,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012002,2,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012003,3,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012004,4,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012005,5,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012006,6,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012007,7,8,12
+districtShapes/districts012.dbf,12,South Carolina,045008012008,8,8,12
+districtShapes/districts012.dbf,12,Virginia,051010012011,11,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012012,12,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012013,13,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012014,14,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012015,15,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012016,16,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012017,17,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012018,18,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012019,19,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012002,2,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012020,20,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012021,21,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012022,22,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012003,3,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012004,4,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012005,5,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012006,6,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012007,7,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012008,8,10,12
+districtShapes/districts012.dbf,12,Virginia,051010012009,9,10,12
+districtShapes/districts012.dbf,12,Tennessee,0470120120-1,-1,12,12
+districtShapes/districts012.dbf,12,Tennessee,047012012001,1,12,12
+districtShapes/districts012.dbf,12,Tennessee,047012012002,2,12,12
+districtShapes/districts012.dbf,12,Tennessee,047012012003,3,12,12
+districtShapes/districts013.dbf,13,Vermont,050013016000,0,13,16
+districtShapes/districts013.dbf,13,Virginia,051013017001,1,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017010,10,13,17
+districtShapes/districts013.dbf,13,Connecticut,009008024000,0,8,24
+districtShapes/districts013.dbf,13,Georgia,0130130150-1,-1,13,15
+districtShapes/districts013.dbf,13,Georgia,013013015000,0,13,15
+districtShapes/districts013.dbf,13,Delaware,010013017000,0,13,17
+districtShapes/districts013.dbf,13,Maryland,024008022001,1,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022002,2,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022003,3,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022004,4,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022005,5,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022006,6,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022007,7,8,22
+districtShapes/districts013.dbf,13,Maryland,024008022008,8,8,22
+districtShapes/districts013.dbf,13,Massachusetts,025013013010,10,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013011,11,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013012,12,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013013,13,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013014,14,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013015,15,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013016,16,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013017,17,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013018,18,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013019,19,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013001,1,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013020,20,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013002,2,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013003,3,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013004,4,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013005,5,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013006,6,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013007,7,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013008,8,13,13
+districtShapes/districts013.dbf,13,Massachusetts,025013013009,9,13,13
+districtShapes/districts013.dbf,13,New York,036013016010,10,13,16
+districtShapes/districts013.dbf,13,New York,036013016011,11,13,16
+districtShapes/districts013.dbf,13,New York,036013016012,12,13,16
+districtShapes/districts013.dbf,13,New York,036013016013,13,13,16
+districtShapes/districts013.dbf,13,New York,036013016014,14,13,16
+districtShapes/districts013.dbf,13,New York,036013016015,15,13,16
+districtShapes/districts013.dbf,13,New York,036013016016,16,13,16
+districtShapes/districts013.dbf,13,New York,036013016017,17,13,16
+districtShapes/districts013.dbf,13,New York,036013016018,18,13,16
+districtShapes/districts013.dbf,13,New York,036013016019,19,13,16
+districtShapes/districts013.dbf,13,New York,036013016020,20,13,16
+districtShapes/districts013.dbf,13,New York,036013016021,21,13,16
+districtShapes/districts013.dbf,13,New York,036013016002,2,13,16
+districtShapes/districts013.dbf,13,New York,036013016003,3,13,16
+districtShapes/districts013.dbf,13,New York,036013016004,4,13,16
+districtShapes/districts013.dbf,13,New York,036013016005,5,13,16
+districtShapes/districts013.dbf,13,New York,036013016006,6,13,16
+districtShapes/districts013.dbf,13,New York,036013016007,7,13,16
+districtShapes/districts013.dbf,13,New York,036013016001,1,13,16
+districtShapes/districts013.dbf,13,New York,036013016008,8,13,16
+districtShapes/districts013.dbf,13,New York,036013016009,9,13,16
+districtShapes/districts013.dbf,13,Kentucky,021013017001,1,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017010,10,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017002,2,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017003,3,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017004,4,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017005,5,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017006,6,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017007,7,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017008,8,13,17
+districtShapes/districts013.dbf,13,Kentucky,021013017009,9,13,17
+districtShapes/districts013.dbf,13,Louisiana,022012017000,0,12,17
+districtShapes/districts013.dbf,13,New Hampshire,033013022000,0,13,22
+districtShapes/districts013.dbf,13,New Jersey,034013013001,1,13,13
+districtShapes/districts013.dbf,13,New Jersey,034013013002,2,13,13
+districtShapes/districts013.dbf,13,New Jersey,034013013003,3,13,13
+districtShapes/districts013.dbf,13,North Carolina,037013027001,1,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027010,10,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027011,11,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027012,12,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027013,13,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027002,2,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027003,3,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027004,4,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027005,5,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027006,6,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027007,7,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027008,8,13,27
+districtShapes/districts013.dbf,13,North Carolina,037013027009,9,13,27
+districtShapes/districts013.dbf,13,Ohio,039013017001,1,13,17
+districtShapes/districts013.dbf,13,Ohio,039013017002,2,13,17
+districtShapes/districts013.dbf,13,Ohio,039013017003,3,13,17
+districtShapes/districts013.dbf,13,Ohio,039013017006,6,13,17
+districtShapes/districts013.dbf,13,Ohio,039013017005,5,13,17
+districtShapes/districts013.dbf,13,Ohio,039013017004,4,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017001,1,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017010,10,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017011,11,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017012,12,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017013,13,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017014,14,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017015,15,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017002,2,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017003,3,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017004,4,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017005,5,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017006,6,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017007,7,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017008,8,13,17
+districtShapes/districts013.dbf,13,Pennsylvania,042013017009,9,13,17
+districtShapes/districts013.dbf,13,Rhode Island,044003027000,0,3,27
+districtShapes/districts013.dbf,13,Virginia,051013017011,11,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017012,12,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017013,13,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017014,14,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017015,15,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017016,16,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017017,17,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017018,18,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017019,19,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017002,2,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017020,20,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017021,21,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017022,22,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017023,23,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017003,3,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017004,4,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017005,5,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017006,6,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017007,7,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017008,8,13,17
+districtShapes/districts013.dbf,13,Virginia,051013017009,9,13,17
+districtShapes/districts013.dbf,13,South Carolina,0450130140-1,-1,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014001,1,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014002,2,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014003,3,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014004,4,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014005,5,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014006,6,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014007,7,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014008,8,13,14
+districtShapes/districts013.dbf,13,South Carolina,045013014009,9,13,14
+districtShapes/districts013.dbf,13,Tennessee,0470130170-1,-1,13,17
+districtShapes/districts013.dbf,13,Tennessee,047013017001,1,13,17
+districtShapes/districts013.dbf,13,Tennessee,047013017002,2,13,17
+districtShapes/districts013.dbf,13,Tennessee,047013017003,3,13,17
+districtShapes/districts013.dbf,13,Tennessee,047013017004,4,13,17
+districtShapes/districts013.dbf,13,Tennessee,047013017005,5,13,17
+districtShapes/districts013.dbf,13,Tennessee,047013017006,6,13,17
+districtShapes/districts014.dbf,14,Indiana,0180140150-1,-1,14,15
+districtShapes/districts014.dbf,14,Indiana,018014015000,0,14,15
+districtShapes/districts014.dbf,14,Vermont,050013016000,0,13,16
+districtShapes/districts014.dbf,14,Virginia,051013017001,1,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017010,10,13,17
+districtShapes/districts014.dbf,14,Connecticut,009008024000,0,8,24
+districtShapes/districts014.dbf,14,Georgia,0130130150-1,-1,13,15
+districtShapes/districts014.dbf,14,Georgia,013013015000,0,13,15
+districtShapes/districts014.dbf,14,Delaware,010013017000,0,13,17
+districtShapes/districts014.dbf,14,Maryland,024008022001,1,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022002,2,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022003,3,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022004,4,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022005,5,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022006,6,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022007,7,8,22
+districtShapes/districts014.dbf,14,Maryland,024008022008,8,8,22
+districtShapes/districts014.dbf,14,Massachusetts,025014014010,10,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014011,11,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014012,12,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014013,13,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014014,14,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014015,15,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014016,16,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014017,17,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014018,18,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014019,19,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014001,1,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014020,20,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014002,2,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014003,3,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014004,4,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014005,5,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014006,6,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014007,7,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014008,8,14,14
+districtShapes/districts014.dbf,14,Massachusetts,025014014009,9,14,14
+districtShapes/districts014.dbf,14,New York,036013016010,10,13,16
+districtShapes/districts014.dbf,14,New York,036013016011,11,13,16
+districtShapes/districts014.dbf,14,New York,036013016012,12,13,16
+districtShapes/districts014.dbf,14,New York,036013016013,13,13,16
+districtShapes/districts014.dbf,14,New York,036013016014,14,13,16
+districtShapes/districts014.dbf,14,New York,036013016015,15,13,16
+districtShapes/districts014.dbf,14,New York,036013016016,16,13,16
+districtShapes/districts014.dbf,14,New York,036013016017,17,13,16
+districtShapes/districts014.dbf,14,New York,036013016018,18,13,16
+districtShapes/districts014.dbf,14,New York,036013016019,19,13,16
+districtShapes/districts014.dbf,14,New York,036013016020,20,13,16
+districtShapes/districts014.dbf,14,New York,036013016021,21,13,16
+districtShapes/districts014.dbf,14,New York,036013016002,2,13,16
+districtShapes/districts014.dbf,14,New York,036013016003,3,13,16
+districtShapes/districts014.dbf,14,New York,036013016004,4,13,16
+districtShapes/districts014.dbf,14,New York,036013016005,5,13,16
+districtShapes/districts014.dbf,14,New York,036013016006,6,13,16
+districtShapes/districts014.dbf,14,New York,036013016007,7,13,16
+districtShapes/districts014.dbf,14,New York,036013016001,1,13,16
+districtShapes/districts014.dbf,14,New York,036013016008,8,13,16
+districtShapes/districts014.dbf,14,New York,036013016009,9,13,16
+districtShapes/districts014.dbf,14,Kentucky,021013017001,1,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017010,10,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017002,2,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017003,3,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017004,4,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017005,5,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017006,6,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017007,7,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017008,8,13,17
+districtShapes/districts014.dbf,14,Kentucky,021013017009,9,13,17
+districtShapes/districts014.dbf,14,Louisiana,022012017000,0,12,17
+districtShapes/districts014.dbf,14,New Hampshire,033013022000,0,13,22
+districtShapes/districts014.dbf,14,New Jersey,034014027000,0,14,27
+districtShapes/districts014.dbf,14,North Carolina,037013027001,1,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027010,10,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027011,11,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027012,12,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027013,13,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027002,2,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027003,3,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027004,4,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027005,5,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027006,6,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027007,7,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027008,8,13,27
+districtShapes/districts014.dbf,14,North Carolina,037013027009,9,13,27
+districtShapes/districts014.dbf,14,Ohio,039013017001,1,13,17
+districtShapes/districts014.dbf,14,Ohio,039013017002,2,13,17
+districtShapes/districts014.dbf,14,Ohio,039013017003,3,13,17
+districtShapes/districts014.dbf,14,Ohio,039013017006,6,13,17
+districtShapes/districts014.dbf,14,Ohio,039013017005,5,13,17
+districtShapes/districts014.dbf,14,Ohio,039013017004,4,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017001,1,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017010,10,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017011,11,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017012,12,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017013,13,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017014,14,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017015,15,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017002,2,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017003,3,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017004,4,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017005,5,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017006,6,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017007,7,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017008,8,13,17
+districtShapes/districts014.dbf,14,Pennsylvania,042013017009,9,13,17
+districtShapes/districts014.dbf,14,Rhode Island,044003027000,0,3,27
+districtShapes/districts014.dbf,14,Virginia,051013017011,11,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017012,12,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017013,13,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017014,14,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017015,15,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017016,16,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017017,17,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017018,18,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017019,19,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017002,2,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017020,20,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017021,21,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017022,22,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017023,23,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017003,3,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017004,4,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017005,5,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017006,6,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017007,7,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017008,8,13,17
+districtShapes/districts014.dbf,14,Virginia,051013017009,9,13,17
+districtShapes/districts014.dbf,14,South Carolina,0450130140-1,-1,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014001,1,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014002,2,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014003,3,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014004,4,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014005,5,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014006,6,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014007,7,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014008,8,13,14
+districtShapes/districts014.dbf,14,South Carolina,045013014009,9,13,14
+districtShapes/districts014.dbf,14,Tennessee,0470130170-1,-1,13,17
+districtShapes/districts014.dbf,14,Tennessee,047013017001,1,13,17
+districtShapes/districts014.dbf,14,Tennessee,047013017002,2,13,17
+districtShapes/districts014.dbf,14,Tennessee,047013017003,3,13,17
+districtShapes/districts014.dbf,14,Tennessee,047013017004,4,13,17
+districtShapes/districts014.dbf,14,Tennessee,047013017005,5,13,17
+districtShapes/districts014.dbf,14,Tennessee,047013017006,6,13,17
+districtShapes/districts015.dbf,15,Indiana,0180140150-1,-1,14,15
+districtShapes/districts015.dbf,15,Indiana,018014015000,0,14,15
+districtShapes/districts015.dbf,15,Vermont,050013016000,0,13,16
+districtShapes/districts015.dbf,15,Virginia,051013017001,1,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017010,10,13,17
+districtShapes/districts015.dbf,15,Connecticut,009008024000,0,8,24
+districtShapes/districts015.dbf,15,Georgia,0130130150-1,-1,13,15
+districtShapes/districts015.dbf,15,Georgia,013013015000,0,13,15
+districtShapes/districts015.dbf,15,Delaware,010013017000,0,13,17
+districtShapes/districts015.dbf,15,Maryland,024008022001,1,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022002,2,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022003,3,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022004,4,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022005,5,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022006,6,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022007,7,8,22
+districtShapes/districts015.dbf,15,Maryland,024008022008,8,8,22
+districtShapes/districts015.dbf,15,Massachusetts,025015016010,10,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016011,11,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016012,12,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016013,13,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016014,14,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016015,15,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016016,16,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016017,17,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016018,18,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016019,19,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016001,1,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016020,20,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016002,2,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016003,3,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016004,4,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016005,5,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016006,6,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016007,7,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016008,8,15,16
+districtShapes/districts015.dbf,15,Massachusetts,025015016009,9,15,16
+districtShapes/districts015.dbf,15,Illinois,017015022000,0,15,22
+districtShapes/districts015.dbf,15,New York,036013016010,10,13,16
+districtShapes/districts015.dbf,15,New York,036013016011,11,13,16
+districtShapes/districts015.dbf,15,New York,036013016012,12,13,16
+districtShapes/districts015.dbf,15,New York,036013016013,13,13,16
+districtShapes/districts015.dbf,15,New York,036013016014,14,13,16
+districtShapes/districts015.dbf,15,New York,036013016015,15,13,16
+districtShapes/districts015.dbf,15,New York,036013016016,16,13,16
+districtShapes/districts015.dbf,15,New York,036013016017,17,13,16
+districtShapes/districts015.dbf,15,New York,036013016018,18,13,16
+districtShapes/districts015.dbf,15,New York,036013016019,19,13,16
+districtShapes/districts015.dbf,15,New York,036013016020,20,13,16
+districtShapes/districts015.dbf,15,New York,036013016021,21,13,16
+districtShapes/districts015.dbf,15,New York,036013016002,2,13,16
+districtShapes/districts015.dbf,15,New York,036013016003,3,13,16
+districtShapes/districts015.dbf,15,New York,036013016004,4,13,16
+districtShapes/districts015.dbf,15,New York,036013016005,5,13,16
+districtShapes/districts015.dbf,15,New York,036013016006,6,13,16
+districtShapes/districts015.dbf,15,New York,036013016007,7,13,16
+districtShapes/districts015.dbf,15,New York,036013016001,1,13,16
+districtShapes/districts015.dbf,15,New York,036013016008,8,13,16
+districtShapes/districts015.dbf,15,New York,036013016009,9,13,16
+districtShapes/districts015.dbf,15,Kentucky,021013017001,1,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017010,10,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017002,2,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017003,3,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017004,4,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017005,5,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017006,6,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017007,7,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017008,8,13,17
+districtShapes/districts015.dbf,15,Kentucky,021013017009,9,13,17
+districtShapes/districts015.dbf,15,Louisiana,022012017000,0,12,17
+districtShapes/districts015.dbf,15,Mississippi,028015022000,0,15,22
+districtShapes/districts015.dbf,15,New Hampshire,033013022000,0,13,22
+districtShapes/districts015.dbf,15,New Jersey,034014027000,0,14,27
+districtShapes/districts015.dbf,15,South Carolina,045015017001,1,15,17
+districtShapes/districts015.dbf,15,North Carolina,037013027001,1,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027010,10,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027011,11,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027012,12,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027013,13,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027002,2,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027003,3,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027004,4,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027005,5,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027006,6,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027007,7,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027008,8,13,27
+districtShapes/districts015.dbf,15,North Carolina,037013027009,9,13,27
+districtShapes/districts015.dbf,15,Ohio,039013017001,1,13,17
+districtShapes/districts015.dbf,15,Ohio,039013017002,2,13,17
+districtShapes/districts015.dbf,15,Ohio,039013017003,3,13,17
+districtShapes/districts015.dbf,15,Ohio,039013017006,6,13,17
+districtShapes/districts015.dbf,15,Ohio,039013017005,5,13,17
+districtShapes/districts015.dbf,15,Ohio,039013017004,4,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017001,1,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017010,10,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017011,11,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017012,12,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017013,13,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017014,14,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017015,15,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017002,2,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017003,3,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017004,4,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017005,5,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017006,6,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017007,7,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017008,8,13,17
+districtShapes/districts015.dbf,15,Pennsylvania,042013017009,9,13,17
+districtShapes/districts015.dbf,15,Rhode Island,044003027000,0,3,27
+districtShapes/districts015.dbf,15,Virginia,051013017011,11,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017012,12,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017013,13,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017014,14,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017015,15,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017016,16,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017017,17,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017018,18,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017019,19,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017002,2,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017020,20,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017021,21,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017022,22,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017023,23,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017003,3,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017004,4,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017005,5,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017006,6,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017007,7,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017008,8,13,17
+districtShapes/districts015.dbf,15,Virginia,051013017009,9,13,17
+districtShapes/districts015.dbf,15,South Carolina,045015017002,2,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017003,3,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017004,4,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017005,5,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017006,6,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017007,7,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017008,8,15,17
+districtShapes/districts015.dbf,15,South Carolina,045015017009,9,15,17
+districtShapes/districts015.dbf,15,Tennessee,0470130170-1,-1,13,17
+districtShapes/districts015.dbf,15,Tennessee,047013017001,1,13,17
+districtShapes/districts015.dbf,15,Tennessee,047013017002,2,13,17
+districtShapes/districts015.dbf,15,Tennessee,047013017003,3,13,17
+districtShapes/districts015.dbf,15,Tennessee,047013017004,4,13,17
+districtShapes/districts015.dbf,15,Tennessee,047013017005,5,13,17
+districtShapes/districts015.dbf,15,Tennessee,047013017006,6,13,17
+districtShapes/districts016.dbf,16,Indiana,0180160160-1,-1,16,16
+districtShapes/districts016.dbf,16,Indiana,018016016000,0,16,16
+districtShapes/districts016.dbf,16,Vermont,050013016000,0,13,16
+districtShapes/districts016.dbf,16,Virginia,051013017001,1,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017010,10,13,17
+districtShapes/districts016.dbf,16,Alabama,001016017000,0,16,17
+districtShapes/districts016.dbf,16,Connecticut,009008024000,0,8,24
+districtShapes/districts016.dbf,16,Georgia,0130160170-1,-1,16,17
+districtShapes/districts016.dbf,16,Georgia,013016017000,0,16,17
+districtShapes/districts016.dbf,16,Delaware,010013017000,0,13,17
+districtShapes/districts016.dbf,16,Maryland,024008022001,1,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022002,2,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022003,3,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022004,4,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022005,5,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022006,6,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022007,7,8,22
+districtShapes/districts016.dbf,16,Maryland,024008022008,8,8,22
+districtShapes/districts016.dbf,16,Massachusetts,025015016010,10,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016011,11,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016012,12,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016013,13,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016014,14,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016015,15,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016016,16,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016017,17,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016018,18,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016019,19,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016001,1,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016020,20,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016002,2,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016003,3,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016004,4,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016005,5,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016006,6,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016007,7,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016008,8,15,16
+districtShapes/districts016.dbf,16,Massachusetts,025015016009,9,15,16
+districtShapes/districts016.dbf,16,Illinois,017015022000,0,15,22
+districtShapes/districts016.dbf,16,New York,036013016010,10,13,16
+districtShapes/districts016.dbf,16,New York,036013016011,11,13,16
+districtShapes/districts016.dbf,16,New York,036013016012,12,13,16
+districtShapes/districts016.dbf,16,New York,036013016013,13,13,16
+districtShapes/districts016.dbf,16,New York,036013016014,14,13,16
+districtShapes/districts016.dbf,16,New York,036013016015,15,13,16
+districtShapes/districts016.dbf,16,New York,036013016016,16,13,16
+districtShapes/districts016.dbf,16,New York,036013016017,17,13,16
+districtShapes/districts016.dbf,16,New York,036013016018,18,13,16
+districtShapes/districts016.dbf,16,New York,036013016019,19,13,16
+districtShapes/districts016.dbf,16,New York,036013016020,20,13,16
+districtShapes/districts016.dbf,16,New York,036013016021,21,13,16
+districtShapes/districts016.dbf,16,New York,036013016002,2,13,16
+districtShapes/districts016.dbf,16,New York,036013016003,3,13,16
+districtShapes/districts016.dbf,16,New York,036013016004,4,13,16
+districtShapes/districts016.dbf,16,New York,036013016005,5,13,16
+districtShapes/districts016.dbf,16,New York,036013016006,6,13,16
+districtShapes/districts016.dbf,16,New York,036013016007,7,13,16
+districtShapes/districts016.dbf,16,New York,036013016001,1,13,16
+districtShapes/districts016.dbf,16,New York,036013016008,8,13,16
+districtShapes/districts016.dbf,16,New York,036013016009,9,13,16
+districtShapes/districts016.dbf,16,Kentucky,021013017001,1,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017010,10,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017002,2,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017003,3,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017004,4,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017005,5,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017006,6,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017007,7,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017008,8,13,17
+districtShapes/districts016.dbf,16,Kentucky,021013017009,9,13,17
+districtShapes/districts016.dbf,16,Louisiana,022012017000,0,12,17
+districtShapes/districts016.dbf,16,Mississippi,028015022000,0,15,22
+districtShapes/districts016.dbf,16,New Hampshire,033013022000,0,13,22
+districtShapes/districts016.dbf,16,New Jersey,034014027000,0,14,27
+districtShapes/districts016.dbf,16,South Carolina,045015017001,1,15,17
+districtShapes/districts016.dbf,16,North Carolina,037013027001,1,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027010,10,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027011,11,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027012,12,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027013,13,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027002,2,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027003,3,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027004,4,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027005,5,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027006,6,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027007,7,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027008,8,13,27
+districtShapes/districts016.dbf,16,North Carolina,037013027009,9,13,27
+districtShapes/districts016.dbf,16,Ohio,039013017001,1,13,17
+districtShapes/districts016.dbf,16,Ohio,039013017002,2,13,17
+districtShapes/districts016.dbf,16,Ohio,039013017003,3,13,17
+districtShapes/districts016.dbf,16,Ohio,039013017006,6,13,17
+districtShapes/districts016.dbf,16,Ohio,039013017005,5,13,17
+districtShapes/districts016.dbf,16,Ohio,039013017004,4,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017001,1,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017010,10,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017011,11,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017012,12,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017013,13,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017014,14,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017015,15,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017002,2,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017003,3,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017004,4,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017005,5,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017006,6,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017007,7,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017008,8,13,17
+districtShapes/districts016.dbf,16,Pennsylvania,042013017009,9,13,17
+districtShapes/districts016.dbf,16,Rhode Island,044003027000,0,3,27
+districtShapes/districts016.dbf,16,Virginia,051013017011,11,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017012,12,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017013,13,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017014,14,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017015,15,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017016,16,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017017,17,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017018,18,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017019,19,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017002,2,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017020,20,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017021,21,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017022,22,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017023,23,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017003,3,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017004,4,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017005,5,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017006,6,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017007,7,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017008,8,13,17
+districtShapes/districts016.dbf,16,Virginia,051013017009,9,13,17
+districtShapes/districts016.dbf,16,South Carolina,045015017002,2,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017003,3,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017004,4,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017005,5,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017006,6,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017007,7,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017008,8,15,17
+districtShapes/districts016.dbf,16,South Carolina,045015017009,9,15,17
+districtShapes/districts016.dbf,16,Tennessee,0470130170-1,-1,13,17
+districtShapes/districts016.dbf,16,Tennessee,047013017001,1,13,17
+districtShapes/districts016.dbf,16,Tennessee,047013017002,2,13,17
+districtShapes/districts016.dbf,16,Tennessee,047013017003,3,13,17
+districtShapes/districts016.dbf,16,Tennessee,047013017004,4,13,17
+districtShapes/districts016.dbf,16,Tennessee,047013017005,5,13,17
+districtShapes/districts016.dbf,16,Tennessee,047013017006,6,13,17
+districtShapes/districts017.dbf,17,Indiana,0180170170-1,-1,17,17
+districtShapes/districts017.dbf,17,Indiana,018017017000,0,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017006,6,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017007,7,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017008,8,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017009,9,17,17
+districtShapes/districts017.dbf,17,Virginia,051013017001,1,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017010,10,13,17
+districtShapes/districts017.dbf,17,Alabama,001016017000,0,16,17
+districtShapes/districts017.dbf,17,Connecticut,009008024000,0,8,24
+districtShapes/districts017.dbf,17,Georgia,0130160170-1,-1,16,17
+districtShapes/districts017.dbf,17,Georgia,013016017000,0,16,17
+districtShapes/districts017.dbf,17,New York,036017017001,1,17,17
+districtShapes/districts017.dbf,17,Delaware,010013017000,0,13,17
+districtShapes/districts017.dbf,17,Maine,023017017001,1,17,17
+districtShapes/districts017.dbf,17,Maine,023017017002,2,17,17
+districtShapes/districts017.dbf,17,Maine,023017017003,3,17,17
+districtShapes/districts017.dbf,17,Maine,023017017004,4,17,17
+districtShapes/districts017.dbf,17,Maine,023017017005,5,17,17
+districtShapes/districts017.dbf,17,Maine,023017017006,6,17,17
+districtShapes/districts017.dbf,17,Maine,023017017007,7,17,17
+districtShapes/districts017.dbf,17,Maryland,024008022001,1,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022002,2,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022003,3,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022004,4,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022005,5,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022006,6,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022007,7,8,22
+districtShapes/districts017.dbf,17,Maryland,024008022008,8,8,22
+districtShapes/districts017.dbf,17,Massachusetts,025017017010,10,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017011,11,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017012,12,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017013,13,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017001,1,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017002,2,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017003,3,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017004,4,17,17
+districtShapes/districts017.dbf,17,Massachusetts,025017017005,5,17,17
+districtShapes/districts017.dbf,17,Illinois,017015022000,0,15,22
+districtShapes/districts017.dbf,17,New York,036017017010,10,17,17
+districtShapes/districts017.dbf,17,New York,036017017011,11,17,17
+districtShapes/districts017.dbf,17,New York,036017017012,12,17,17
+districtShapes/districts017.dbf,17,New York,036017017013,13,17,17
+districtShapes/districts017.dbf,17,New York,036017017014,14,17,17
+districtShapes/districts017.dbf,17,New York,036017017015,15,17,17
+districtShapes/districts017.dbf,17,New York,036017017016,16,17,17
+districtShapes/districts017.dbf,17,New York,036017017017,17,17,17
+districtShapes/districts017.dbf,17,New York,036017017018,18,17,17
+districtShapes/districts017.dbf,17,New York,036017017019,19,17,17
+districtShapes/districts017.dbf,17,New York,036017017020,20,17,17
+districtShapes/districts017.dbf,17,New York,036017017021,21,17,17
+districtShapes/districts017.dbf,17,New York,036017017022,22,17,17
+districtShapes/districts017.dbf,17,New York,036017017002,2,17,17
+districtShapes/districts017.dbf,17,New York,036017017003,3,17,17
+districtShapes/districts017.dbf,17,New York,036017017004,4,17,17
+districtShapes/districts017.dbf,17,New York,036017017005,5,17,17
+districtShapes/districts017.dbf,17,New York,036017017006,6,17,17
+districtShapes/districts017.dbf,17,New York,036017017007,7,17,17
+districtShapes/districts017.dbf,17,New York,036017017008,8,17,17
+districtShapes/districts017.dbf,17,New York,036017017009,9,17,17
+districtShapes/districts017.dbf,17,Kentucky,021013017001,1,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017010,10,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017002,2,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017003,3,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017004,4,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017005,5,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017006,6,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017007,7,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017008,8,13,17
+districtShapes/districts017.dbf,17,Kentucky,021013017009,9,13,17
+districtShapes/districts017.dbf,17,Louisiana,022012017000,0,12,17
+districtShapes/districts017.dbf,17,Mississippi,028015022000,0,15,22
+districtShapes/districts017.dbf,17,Missouri,029017021000,0,17,21
+districtShapes/districts017.dbf,17,New Hampshire,033013022000,0,13,22
+districtShapes/districts017.dbf,17,New Jersey,034014027000,0,14,27
+districtShapes/districts017.dbf,17,South Carolina,045015017001,1,15,17
+districtShapes/districts017.dbf,17,North Carolina,037013027001,1,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027010,10,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027011,11,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027012,12,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027013,13,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027002,2,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027003,3,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027004,4,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027005,5,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027006,6,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027007,7,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027008,8,13,27
+districtShapes/districts017.dbf,17,North Carolina,037013027009,9,13,27
+districtShapes/districts017.dbf,17,Ohio,039013017001,1,13,17
+districtShapes/districts017.dbf,17,Ohio,039013017002,2,13,17
+districtShapes/districts017.dbf,17,Ohio,039013017003,3,13,17
+districtShapes/districts017.dbf,17,Ohio,039013017006,6,13,17
+districtShapes/districts017.dbf,17,Ohio,039013017005,5,13,17
+districtShapes/districts017.dbf,17,Ohio,039013017004,4,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017001,1,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017010,10,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017011,11,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017012,12,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017013,13,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017014,14,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017015,15,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017002,2,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017003,3,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017004,4,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017005,5,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017006,6,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017007,7,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017008,8,13,17
+districtShapes/districts017.dbf,17,Pennsylvania,042013017009,9,13,17
+districtShapes/districts017.dbf,17,Rhode Island,044003027000,0,3,27
+districtShapes/districts017.dbf,17,Virginia,051013017011,11,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017012,12,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017013,13,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017014,14,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017015,15,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017016,16,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017017,17,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017018,18,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017019,19,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017002,2,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017020,20,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017021,21,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017022,22,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017023,23,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017003,3,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017004,4,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017005,5,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017006,6,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017007,7,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017008,8,13,17
+districtShapes/districts017.dbf,17,Virginia,051013017009,9,13,17
+districtShapes/districts017.dbf,17,South Carolina,045015017002,2,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017003,3,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017004,4,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017005,5,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017006,6,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017007,7,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017008,8,15,17
+districtShapes/districts017.dbf,17,South Carolina,045015017009,9,15,17
+districtShapes/districts017.dbf,17,Tennessee,0470130170-1,-1,13,17
+districtShapes/districts017.dbf,17,Tennessee,047013017001,1,13,17
+districtShapes/districts017.dbf,17,Tennessee,047013017002,2,13,17
+districtShapes/districts017.dbf,17,Tennessee,047013017003,3,13,17
+districtShapes/districts017.dbf,17,Tennessee,047013017004,4,13,17
+districtShapes/districts017.dbf,17,Tennessee,047013017005,5,13,17
+districtShapes/districts017.dbf,17,Tennessee,047013017006,6,13,17
+districtShapes/districts017.dbf,17,Vermont,050017017001,1,17,17
+districtShapes/districts017.dbf,17,Vermont,050017017002,2,17,17
+districtShapes/districts017.dbf,17,Vermont,050017017003,3,17,17
+districtShapes/districts017.dbf,17,Vermont,050017017004,4,17,17
+districtShapes/districts017.dbf,17,Vermont,050017017005,5,17,17
+districtShapes/districts017.dbf,17,Vermont,050017017006,6,17,17
+districtShapes/districts018.dbf,18,Pennsylvania,042018022013,13,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022014,14,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022015,15,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022016,16,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022017,17,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022018,18,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022001,1,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022010,10,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022011,11,18,22
+districtShapes/districts018.dbf,18,Vermont,050018018000,0,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018001,1,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018010,10,18,18
+districtShapes/districts018.dbf,18,Alabama,001018022002,2,18,22
+districtShapes/districts018.dbf,18,Alabama,001018022001,1,18,22
+districtShapes/districts018.dbf,18,Alabama,0010180220-1,-1,18,22
+districtShapes/districts018.dbf,18,Alabama,001018022003,3,18,22
+districtShapes/districts018.dbf,18,Connecticut,009008024000,0,8,24
+districtShapes/districts018.dbf,18,Georgia,0130180190-1,-1,18,19
+districtShapes/districts018.dbf,18,Georgia,013018019000,0,18,19
+districtShapes/districts018.dbf,18,Delaware,010018097000,0,18,97
+districtShapes/districts018.dbf,18,Indiana,0180180180-1,-1,18,18
+districtShapes/districts018.dbf,18,Indiana,018018018001,1,18,18
+districtShapes/districts018.dbf,18,Indiana,018018018002,2,18,18
+districtShapes/districts018.dbf,18,Indiana,018018018003,3,18,18
+districtShapes/districts018.dbf,18,Kentucky,021018022010,10,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022011,11,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022012,12,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022001,1,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022002,2,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022003,3,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022004,4,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022005,5,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022006,6,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022007,7,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022008,8,18,22
+districtShapes/districts018.dbf,18,Kentucky,021018022009,9,18,22
+districtShapes/districts018.dbf,18,Maine,023018022001,1,18,22
+districtShapes/districts018.dbf,18,Maine,023018022002,2,18,22
+districtShapes/districts018.dbf,18,Maine,023018022003,3,18,22
+districtShapes/districts018.dbf,18,Maine,023018022004,4,18,22
+districtShapes/districts018.dbf,18,Maine,023018022005,5,18,22
+districtShapes/districts018.dbf,18,Maine,023018022006,6,18,22
+districtShapes/districts018.dbf,18,Maine,023018022007,7,18,22
+districtShapes/districts018.dbf,18,Ohio,039018021010,10,18,21
+districtShapes/districts018.dbf,18,Maryland,024008022001,1,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022002,2,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022003,3,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022004,4,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022005,5,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022006,6,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022007,7,8,22
+districtShapes/districts018.dbf,18,Maryland,024008022008,8,8,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022010,10,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022011,11,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022012,12,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022012,12,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022013,13,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022001,1,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022002,2,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022003,3,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022004,4,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022005,5,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022006,6,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022007,7,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022008,8,18,22
+districtShapes/districts018.dbf,18,Massachusetts,025018022009,9,18,22
+districtShapes/districts018.dbf,18,Illinois,017015022000,0,15,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022002,2,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022003,3,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022004,4,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022005,5,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022006,6,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022007,7,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022008,8,18,22
+districtShapes/districts018.dbf,18,Pennsylvania,042018022009,9,18,22
+districtShapes/districts018.dbf,18,Louisiana,022018027001,1,18,27
+districtShapes/districts018.dbf,18,Louisiana,022018027002,2,18,27
+districtShapes/districts018.dbf,18,Louisiana,022018027003,3,18,27
+districtShapes/districts018.dbf,18,Mississippi,028015022000,0,15,22
+districtShapes/districts018.dbf,18,Missouri,029017021000,0,17,21
+districtShapes/districts018.dbf,18,New Hampshire,033013022000,0,13,22
+districtShapes/districts018.dbf,18,New Jersey,034014027000,0,14,27
+districtShapes/districts018.dbf,18,New York,036018022001,1,18,22
+districtShapes/districts018.dbf,18,New York,036018022010,10,18,22
+districtShapes/districts018.dbf,18,New York,036018022011,11,18,22
+districtShapes/districts018.dbf,18,New York,036018022012,12,18,22
+districtShapes/districts018.dbf,18,New York,036018022013,13,18,22
+districtShapes/districts018.dbf,18,New York,036018022014,14,18,22
+districtShapes/districts018.dbf,18,New York,036018022015,15,18,22
+districtShapes/districts018.dbf,18,New York,036018022016,16,18,22
+districtShapes/districts018.dbf,18,New York,036018022017,17,18,22
+districtShapes/districts018.dbf,18,New York,036018022018,18,18,22
+districtShapes/districts018.dbf,18,New York,036018022019,19,18,22
+districtShapes/districts018.dbf,18,New York,036018022002,2,18,22
+districtShapes/districts018.dbf,18,New York,036018022020,20,18,22
+districtShapes/districts018.dbf,18,New York,036018022021,21,18,22
+districtShapes/districts018.dbf,18,New York,036018022022,22,18,22
+districtShapes/districts018.dbf,18,New York,036018022023,23,18,22
+districtShapes/districts018.dbf,18,New York,036018022024,24,18,22
+districtShapes/districts018.dbf,18,New York,036018022025,25,18,22
+districtShapes/districts018.dbf,18,New York,036018022026,26,18,22
+districtShapes/districts018.dbf,18,New York,036018022027,27,18,22
+districtShapes/districts018.dbf,18,New York,036018022028,28,18,22
+districtShapes/districts018.dbf,18,New York,036018022029,29,18,22
+districtShapes/districts018.dbf,18,New York,036018022003,3,18,22
+districtShapes/districts018.dbf,18,New York,036018022030,30,18,22
+districtShapes/districts018.dbf,18,New York,036018022004,4,18,22
+districtShapes/districts018.dbf,18,New York,036018022005,5,18,22
+districtShapes/districts018.dbf,18,New York,036018022006,6,18,22
+districtShapes/districts018.dbf,18,New York,036018022007,7,18,22
+districtShapes/districts018.dbf,18,New York,036018022008,8,18,22
+districtShapes/districts018.dbf,18,New York,036018022009,9,18,22
+districtShapes/districts018.dbf,18,North Carolina,037013027001,1,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027010,10,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027011,11,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027012,12,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027013,13,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027002,2,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027003,3,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027004,4,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027005,5,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027006,6,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027007,7,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027008,8,13,27
+districtShapes/districts018.dbf,18,North Carolina,037013027009,9,13,27
+districtShapes/districts018.dbf,18,Ohio,039018021001,1,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021011,11,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021012,12,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021013,13,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021014,14,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021002,2,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021003,3,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021006,6,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021005,5,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021004,4,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021007,7,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021008,8,18,21
+districtShapes/districts018.dbf,18,Ohio,039018021009,9,18,21
+districtShapes/districts018.dbf,18,Rhode Island,044003027000,0,3,27
+districtShapes/districts018.dbf,18,Virginia,051018018011,11,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018012,12,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018013,13,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018014,14,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018015,15,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018016,16,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018017,17,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018018,18,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018019,19,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018002,2,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018020,20,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018021,21,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018022,22,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018003,3,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018004,4,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018005,5,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018006,6,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018007,7,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018008,8,18,18
+districtShapes/districts018.dbf,18,Virginia,051018018009,9,18,18
+districtShapes/districts018.dbf,18,South Carolina,045018027001,1,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027002,2,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027003,3,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027004,4,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027005,5,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027006,6,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027007,7,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027008,8,18,27
+districtShapes/districts018.dbf,18,South Carolina,045018027009,9,18,27
+districtShapes/districts018.dbf,18,Tennessee,047018022001,1,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022002,2,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022003,3,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022004,4,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022005,5,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022006,6,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022007,7,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022008,8,18,22
+districtShapes/districts018.dbf,18,Tennessee,047018022009,9,18,22
