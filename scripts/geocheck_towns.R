@@ -13,7 +13,7 @@ ABBR_STATE <- "NY"
 
 NNV <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
 CCD <- read_csv("data-raw/ccd-csv/1790-2010_MASTER.csv")
-DUPLICATE <- read_csv("data/town-georeferenced/ri_duplicate.csv")
+DUPLICATE <- read_csv("data/town-georeferenced/ny_duplicate.csv")
 
 # Clean NNV and CCD (standardize variable case, populate town variable)
 names(NNV) <- names(NNV) %>%
@@ -42,8 +42,6 @@ create_coordinates_filename <- function(state_abbr) {
   file_suffix <- "_coordinates.csv"
   str_c(path_to_output, str_to_lower(state_abbr), file_suffix)
 }
-
-create_output_filename(STATE_ABBR)
 
 # Filtering tables down to specific state
 nnv_state <- NNV %>%
@@ -125,7 +123,7 @@ fuzzyjoined_towns <- fuzzy_join %>%
   mutate (lat = lat_bing,
           lon = lon_bing)
 
-total_towns <- bind_rows(fuzzyjoined_towns, geocheck_join)
+total_towns <- bind_rows(fuzzyjoined_towns, corrected_towns)
 
 
 
