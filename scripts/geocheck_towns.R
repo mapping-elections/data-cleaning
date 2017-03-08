@@ -57,23 +57,23 @@ duplicate_join <- nnv_state %>%
   left_join(DUPLICATE, by = c("town"="nnv_town"))
 
 clean_town <- duplicate_join %>%
-  mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
-  count(corrected_town, state)
+  mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town)) %>%
+  count(standardized_town, state)
 
 # Fuzzy Join of distance 1 and filtering to unmatched towns
-fuzzy_join <- clean_town %>% stringdist_left_join(ccd_state, by = c("corrected_town" = "city"),
+fuzzy_join <- clean_town %>% stringdist_left_join(ccd_state, by = c("standardized_town" = "city"),
                                                      max_dist = 1, ignore_case=TRUE)
 unmatched_towns <- fuzzy_join %>%
-  select(corrected_town, id, state) %>%
+  select(standardized_town, id, state) %>%
   filter(is.na(id)) %>%
   mutate(state = STATE,
-         city_state = paste(corrected_town, state, sep = ', '))
+         city_state = paste(standardized_town, state, sep = ', '))
 
 # Geocode with Google API
 lat_long <-  geocode(as.character(unmatched_towns$city_state), output = "more")
 
 geocoded_town <- bind_cols(unmatched_towns, lat_long) %>%
-  select(corrected_town, state, city_state, lat, lon, administrative_area_level_2,
+  select(standardized_town, state, city_state, lat, lon, administrative_area_level_2,
          administrative_area_level_1)
 
 georeferenced <- geocheck(geocoded_town, zoom = 9, tile_provider = "Esri.WorldTopoMap")
@@ -81,9 +81,9 @@ georeferenced <- geocheck(geocoded_town, zoom = 9, tile_provider = "Esri.WorldTo
 
 # Write out intermediate table
 intermediate_table <- duplicate_join %>%
-  mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town)) %>%
-  count(town, corrected_town, state) %>%
-  select(town, corrected_town, state)
+  mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town)) %>%
+  count(town, standardized_town, state) %>%
+  select(town, standardized_town, state)
 write_csv(intermediate_table, create_intermediate_filename(ABBR_STATE))
 
 # Joining the georeferenced table back to NNV
@@ -92,12 +92,12 @@ fuzzyjoined_towns <- fuzzy_join %>%
 
 towns_geolocated <- georeferenced %>%
   ungroup() %>%
-  select(corrected_town, state, lat, lon)
+  select(standardized_town, state, lat, lon)
 
 total_towns <- bind_rows(fuzzyjoined_towns, towns_geolocated) %>%
   mutate(lat = ifelse(is.na(lat), lat_bing, lat),
          lon = ifelse(is.na(lon), lon_bing, lon)) %>%
-  select (corrected_town, state, lat, lon)
+  select (standardized_town, state, lat, lon)
 
 write_csv(total_towns, create_coordinates_filename(ABBR_STATE))
 
@@ -110,12 +110,12 @@ write_csv(total_towns, create_coordinates_filename(ABBR_STATE))
 # Read in Geochecker .csv and georefernce towns
 georeferenced <- read_csv("data/town-georeferenced/ny_coordinates.csv")
 
-corrected_towns <- unmatched_towns %>%
-  left_join(georeferenced, by = c("corrected_town" = "town", "state" = "state")) %>%
-  select(corrected_town, state, lat, lon)
+standardized_towns <- unmatched_towns %>%
+  left_join(georeferenced, by = c("standardized_town" = "town", "state" = "state")) %>%
+  select(standardized_town, state, lat, lon)
 
-corrected_towns <- duplicate_join %>%
-  mutate(corrected_town = ifelse(is.na(corrected_town), town, corrected_town))
+standardized_towns <- duplicate_join %>%
+  mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town))
 
 fuzzyjoined_towns <- fuzzy_join %>%
   filter(!is.na(id)) %>%
@@ -123,7 +123,7 @@ fuzzyjoined_towns <- fuzzy_join %>%
   mutate (lat = lat_bing,
           lon = lon_bing)
 
-total_towns <- bind_rows(fuzzyjoined_towns, corrected_towns)
+total_towns <- bind_rows(fuzzyjoined_towns, standardized_towns)
 
 
 
