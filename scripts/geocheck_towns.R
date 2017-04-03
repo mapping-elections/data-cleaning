@@ -57,13 +57,20 @@ duplicate_join <- nnv_state %>%
   left_join(DUPLICATE, by = c("town"="nnv_town"))
 
 clean_town <- duplicate_join %>%
-  mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town)) %>%
-  count(standardized_town, state)
+  mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town))
+
+joining_towns <- unique(clean_town[,c('standardized_town', 'state')])
+
+clean_town_b <- unique(clean_town[,c('standardized_town','town','county')])
 
 # Fuzzy Join of distance 1 and filtering to unmatched towns
-fuzzy_join <- clean_town %>% stringdist_left_join(ccd_state, by = c("standardized_town" = "city"),
-                                                     max_dist = 1, ignore_case=TRUE)
-unmatched_towns <- fuzzy_join %>%
+fuzzy_join <- joining_towns %>% stringdist_left_join(ccd_state, by = c("standardized_town" = "city"),
+                                                     max_dist = 1, ignore_case=TRUE) %>%
+  filter(!is.na(id))
+straight_join <- joining_towns %>%
+  left_join(ccd_state, by =c("standardized_town" = "city"))
+
+unmatched_towns <- straight_join %>%
   select(standardized_town, id, state) %>%
   filter(is.na(id)) %>%
   mutate(state = STATE,
@@ -112,7 +119,10 @@ georeferenced <- read_csv("data/town-georeferenced/ny_coordinates.csv")
 
 standardized_towns <- unmatched_towns %>%
   left_join(georeferenced, by = c("standardized_town" = "town", "state" = "state")) %>%
-  select(standardized_town, state, lat, lon)
+  select(standardized_town, state, lat, lon, checked) %>%
+  arrange(standardized_town)
+
+standardized_towns <- geocheck(standardized_towns, zoom = 9, tile_provider = "Esri.WorldTopoMap")
 
 standardized_towns <- duplicate_join %>%
   mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town))
