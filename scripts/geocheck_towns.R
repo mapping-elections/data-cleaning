@@ -43,6 +43,11 @@ create_coordinates_filename <- function(state_abbr) {
   str_c(path_to_output, str_to_lower(state_abbr), file_suffix)
 }
 
+create_id <- function(x, state) {
+  stringr::str_c("ME", "-", state,
+                 stringr::str_pad(x, width = 4, side = "left", pad = "0"))
+}
+
 # Filtering tables down to specific state
 nnv_state <- NNV %>%
   filter(state == STATE,
@@ -67,6 +72,7 @@ clean_town_b <- unique(clean_town[,c('standardized_town','town','county')])
 fuzzy_join <- joining_towns %>% stringdist_left_join(ccd_state, by = c("standardized_town" = "city"),
                                                      max_dist = 1, ignore_case=TRUE) %>%
   filter(!is.na(id))
+
 straight_join <- joining_towns %>%
   left_join(ccd_state, by =c("standardized_town" = "city"))
 
@@ -122,7 +128,45 @@ standardized_towns <- unmatched_towns %>%
   select(standardized_town, state, lat, lon, checked) %>%
   arrange(standardized_town)
 
-standardized_towns <- geocheck(standardized_towns, zoom = 9, tile_provider = "Esri.WorldTopoMap")
+sub_standardized_a <- standardized_towns %>%
+  filter(is.na(lat)) %>%
+  mutate(town_state = paste(standardized_town, state, sep = ', ')) %>%
+  select(standardized_town,state, town_state)
+
+sub_latlon <- geocode(as.character(sub_standardized$town_state), output = "more")
+
+sub_standardized <- bind_cols(sub_standardized,sub_latlon) %>%
+  select(standardized_town, state, town_state, lon, lat, administrative_area_level_2,
+         administrative_area_level_1)
+
+sub_standardized <- geocheck(sub_standardized, zoom = 9, tile_provider = "Esri.WorldTopoMap")
+
+located_towns <- standardized_towns %>%
+  filter(!is.na(lat))
+
+standardized_towns_b <- bind_rows(located_towns, sub_standardized) %>%
+  select(standardized_town, state, lat, lon, checked)
+
+standardized_towns_c <- geocheck(standardized_towns_b, zoom = 9, tile_provider = "Esri.WorldTopoMap")
+
+only_straight_join<- straight_join %>%
+  filter(!is.na(id))
+
+final_product <- bind_rows(standardized_towns_c, only_straight_join) %>%
+  select(standardized_town, state, id, lat, lon, checked)
+
+#write_csv(final_product,create_intermediate_filename(ABBR_STATE))
+
+final_product <- final_product %>%
+  arrange(state, standardized_town) %>%
+  mutate(me_town_id = create_id(1:nrow(.), "NY"))
+
+join_back <- unique(clean_town[,c('standardized_town','town','county',"state")])
+
+join_back <- join_back %>%
+  left_join(final_product, by = c("standardized_town" = "standardized_town"))
+
+write_csv(join_back, create_intermediate_filename("NY_ID"))
 
 standardized_towns <- duplicate_join %>%
   mutate(standardized_town = ifelse(is.na(standardized_town), town, standardized_town))
@@ -135,6 +179,24 @@ fuzzyjoined_towns <- fuzzy_join %>%
 
 total_towns <- bind_rows(fuzzyjoined_towns, standardized_towns)
 
+unique_id <- read_csv("data/town-georeferenced/ny_id_intermediate-table.csv")
+
+unique_sub_a <-  clean_town %>%
+  left_join(unique_id, by=c("standardized_town", "town", "county"))
+
+unique_sub_b <- unique_sub_a %>%
+  filter(!is.na(me_town_id)) %>%
+  mutate(date = as.integer(date))
+
+home_stretch <- read_csv("data/town-georeferenced/ny_lastly.csv")
+
+TA_DA <- bind_rows(unique_sub_b, home_stretch) %>%
+  mutate(ccd_id = id.y,
+         id = id.x,
+         state = state.x) %>%
+  select(id, town, county, state, lat, lon, ccd_id, me_town_id)
+
+TA_DA_a <- unique(TA_DA[,c("id", "town", "county", "state","ccd_id", "lat", "lon","me_town_id")])
 
 
 
