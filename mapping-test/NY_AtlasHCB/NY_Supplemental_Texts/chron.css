@@ -1,0 +1,93 @@
+h1 { 
+   font-size: 16pt; 
+   text-align: center; 
+   margin-top: 12pt; }
+
+.header { 
+	font-size: 10pt; 
+	text-align: center; } 
+
+body { 
+     font-family: Arial; 
+     font-size: 11pt; 
+     text-align: left; 
+     width: 6.5in;
+     margin-left: 0.5in;
+}
+
+.index { 
+       margin-top: 0pt; 
+       margin-bottom: 0pt; 
+       line-height: 150%; 
+}
+
+
+table {
+	font-family: Arial;
+	font-size: 11pt;
+}
+
+.event {
+       padding-top: 0em;
+       margin-top: 0em;
+}
+
+.subevent {
+	  display: block; 
+	  margin-left: 0.5in; 
+	  margin-top: .5em; 
+	  margin-bottom: .5em; 
+} 
+
+.countyname { 
+	    font-weight: bold; 
+}
+
+.eventdate { 
+	   font-weight: bold; 
+	   margin-bottom: 0em;
+	   padding-bottom: 0em;
+} 
+
+.toclink {
+    font-weight: bold;
+}
+
+.date { 
+      float: left;	
+      clear: left;
+      text-align: left;
+      width: 1.1in;
+}
+
+.change-citation {
+	margin-left: 1.2in;
+	margin-bottom: 1em;
+}
+
+
+.vspace {
+	margin-top: 4em;
+	margin-bottom: 3.5em;
+}
+
+.tocitem {
+	 font-weight: bold;
+	 margin-top: 3.5em;
+	 margin-bottom: 0em;
+}
+
+.tocdesc {
+	 margin-left: 0.5in;
+	 margin-top: 0em;
+}
+
+hr {
+   margin-top: 2em;
+   margin-bottom: 2em;
+}
+
+.bibcitation {
+	  text-indent: -3em;
+	  margin-left: 3em;
+}
