@@ -5,8 +5,8 @@ library(stringr)
 NNV <- read_tsv("data-raw/nnv-tsv/all-votes.tsv")
 congress_dates <- read_csv("data/join_tables/district/congress_year_table.csv")
 
-STATE <- "Virginia"
-ST_ABBR <- "VA"
+STATE <- "Pennsylvania"
+ST_ABBR <- "PA"
 
 names(NNV) <- names(NNV) %>%
   str_to_lower() %>%
