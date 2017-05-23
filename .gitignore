@@ -1,6 +1,7 @@
 temp/*
 output/*
 data-raw/*
+mapping-test/*
 .Rproj.user
 .DS_Store
 .Rhistory
