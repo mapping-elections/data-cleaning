@@ -84,3 +84,5 @@ county_maps <- output %>%
   left_join(output, by = c("state", "congress")) %>%
   # select(meae_id, election_id) %>%
   arrange(meae_id, election_id)
+
+write_csv(county_maps, "export/maps-to-elections.csv")
