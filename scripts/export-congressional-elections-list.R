@@ -58,10 +58,10 @@ output <- elections %>%
   full_join(election_info, by = c("election_id" = "id")) %>%
   select(-state.y, -year) %>%
   rename(state = state.x) %>%
+  mutate(district = if_else(district == 0L, NA_integer_, district)) %>%
   select(election_id, election_office = office_name,
          state, congress, district, year = election_year, election_type,
          everything()) %>%
-  mutate(if_else(district == 0, NA_integer_, district)) %>%
   arrange(state, congress, district, year)
 
 write_csv(output, "export/elections.csv")
