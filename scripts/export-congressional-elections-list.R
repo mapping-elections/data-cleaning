@@ -54,14 +54,20 @@ elections <- congressional_counties_raw %>%
   distinct(election_id, election_label, election_year, state, election_type,
            office_name)
 
+extract_state <- function(x) {
+  str_sub(x, 1, 2) %>% str_to_upper()
+}
+
 output <- elections %>%
   full_join(election_info, by = c("election_id" = "id")) %>%
   select(-state.y, -year) %>%
   rename(state = state.x) %>%
-  mutate(district = if_else(district == 0L, NA_integer_, district)) %>%
   select(election_id, election_office = office_name,
          state, congress, district, year = election_year, election_type,
          everything()) %>%
+  mutate(district = if_else(district == 0L, NA_integer_, district)) %>%
+  mutate(election_office = if_else(is.na(election_office), "U.S. House of Representatives", election_office)) %>%
+  mutate(state = if_else(is.na(state), extract_state(election_id), state)) %>%
   arrange(state, congress, district, year)
 
 write_csv(output, "export/elections.csv")
