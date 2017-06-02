@@ -181,14 +181,5 @@ get_district <- function(x) {
   x[ , 2, drop = TRUE] %>% str_replace_all(", Ballot.+", "")
 }
 
-message("EXPORTING export/elections.csv")
-congressional_counties_raw %>%
-  bind_rows() %>%
-  distinct(election_id, election_label, election_year, state, election_type,
-           office_name) %>%
-  arrange(state, election_year, election_id) %>%
-  mutate(district = get_district(election_label)) %>%
-  write_csv("export/elections.csv")
-
 message("COPYING to data repository")
 system("cp -r export/* ../elections-data/")
