@@ -71,3 +71,16 @@ output <- elections %>%
   arrange(state, congress, district, year)
 
 write_csv(output, "export/elections.csv")
+
+
+county_maps <- output %>%
+  distinct(state, congress) %>%
+  filter(!is.na(congress)) %>%
+  mutate(meae_id = str_c("meae.congressional.congress",
+                         str_pad(congress, 2, pad = "0"),
+                         ".",
+                         str_to_lower(state),
+                         ".county")) %>%
+  left_join(output, by = c("state", "congress")) %>%
+  # select(meae_id, election_id) %>%
+  arrange(meae_id, election_id)
