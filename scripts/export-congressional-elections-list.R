@@ -86,3 +86,16 @@ county_maps <- output %>%
   arrange(meae_id, election_id)
 
 write_csv(county_maps, "export/maps-to-elections.csv")
+
+map_list <- county_maps %>%
+  distinct(meae_id) %>%
+  mutate(type = "congressional",
+         congressnum = str_extract(meae_id, "\\d+") %>% as.integer(),
+         state = str_extract(meae_id, "\\.\\w\\w\\.") %>%
+           str_replace_all("\\.", "") %>%
+           str_to_upper(),
+         geography = "county",
+         level = "state") %>%
+  arrange(state, congressnum)
+
+write_csv(map_list, "export/maps.csv")
