@@ -1,0 +1,34 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dearborn,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,272
+2,Dearborn,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,789
+3,Dearborn,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,572
+1,Decatur,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,85
+2,Decatur,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,43
+3,Decatur,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,47
+1,Fayette,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,600
+2,Fayette,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,63
+3,Fayette,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,59
+1,Franklin,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,744
+2,Franklin,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,342
+3,Franklin,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,125
+1,Henry,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,70
+2,Henry,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,12
+3,Henry,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,20
+1,Randolph,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,77
+2,Randolph,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,23
+3,Randolph,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,33
+1,Ripley,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,97
+2,Ripley,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,256
+3,Ripley,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,60
+1,Rush,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,NA
+2,Rush,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,NA
+3,Rush,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,NA
+1,Switzerland,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,331
+2,Switzerland,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,285
+3,Switzerland,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,64
+1,Union,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,365
+2,Union,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,151
+3,Union,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,48
+1,Wayne,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,537
+2,Wayne,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Samuel C. Vance,VS0001,null,null,274
+3,Wayne,in.usrepresentative.3rd.1822,1822-08,1822,General,"Indiana 1822 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Ezra Ferris,FE0008,null,null,397

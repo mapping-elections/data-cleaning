@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.beaufort.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,"James Hamilton, Jr.",HJ1250,null,null,1,Two,463
+sc.uscongress.beaufort.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,scattering,null,null,null,2,Two,10

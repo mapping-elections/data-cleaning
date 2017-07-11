@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Starling Tucker,TS0104,Republican,A03,1,Fairfield,62
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,William Strother,SW0307,Republican,A03,2,Fairfield,320
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Samuel Johnston,JS0080,null,null,3,Fairfield,9
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Alston,null,null,null,4,Fairfield,5
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Bratton,null,null,null,5,Fairfield,1
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,E. Pearson,PE0114,null,null,6,Fairfield,1
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,Towny Powell,PT0129,null,null,7,Fairfield,1
+sc.uscongress.fairfield.1820,1820,1820,General,"South Carolina 1820 U.S. House of Representatives, District 5",U.S. House of Representatives,ON125,blank,null,null,null,8,Fairfield,15

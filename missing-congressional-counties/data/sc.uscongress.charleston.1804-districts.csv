@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.charleston.1804,1804,1804,General,"South Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Marion,MR0181,Republican,A03,1,One,674
+sc.uscongress.charleston.1804,1804,1804,General,"South Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Marion,MR0181,Republican,A03,1,Charleston,674
+sc.uscongress.charleston.1804,1804,1804,General,"South Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas L. Smith,ST0154,Federalist,A01,2,One,411
+sc.uscongress.charleston.1804,1804,1804,General,"South Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas L. Smith,ST0154,Federalist,A01,2,Charleston,411
+sc.uscongress.charleston.1804,1804,1804,General,"South Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,3,One,27
+sc.uscongress.charleston.1804,1804,1804,General,"South Carolina 1804 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,3,Charleston,27

@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.2.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,1,Two,2196
+pa.congress.2.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William J. Duane,DW0162,Republican,A03,2,Two,1620

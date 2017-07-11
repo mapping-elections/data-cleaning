@@ -1,0 +1,28 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,"Isaac Williams, Jr.",WI0029,Republican,A03,495
+2,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John M. Bowers,BJ0742,Federalist,A01,616
+3,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Abraham DeWitt,DA0066,null,null,5
+4,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,James Williams,WJ0533,null,null,NA
+5,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John H. Avery,AJ0207,null,null,3
+6,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Joel Hatch,HJ0473,null,null,NA
+7,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Lewis Lothrop,LL0008,null,null,NA
+8,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Jabez D. Hammond,HJ0566,null,null,NA
+9,Broome,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John Kaple,KJ0188,null,null,NA
+1,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,"Isaac Williams, Jr.",WI0029,Republican,A03,1611
+2,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John M. Bowers,BJ0742,Federalist,A01,1129
+3,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Abraham DeWitt,DA0066,null,null,NA
+4,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,James Williams,WJ0533,null,null,3
+5,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John H. Avery,AJ0207,null,null,NA
+6,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Joel Hatch,HJ0473,null,null,1
+7,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Lewis Lothrop,LL0008,null,null,1
+8,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Jabez D. Hammond,HJ0566,null,null,NA
+9,Chenango,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John Kaple,KJ0188,null,null,NA
+1,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,"Isaac Williams, Jr.",WI0029,Republican,A03,2029
+2,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John M. Bowers,BJ0742,Federalist,A01,2613
+3,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Abraham DeWitt,DA0066,null,null,NA
+4,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,James Williams,WJ0533,null,null,NA
+5,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John H. Avery,AJ0207,null,null,NA
+6,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Joel Hatch,HJ0473,null,null,NA
+7,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Lewis Lothrop,LL0008,null,null,NA
+8,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,Jabez D. Hammond,HJ0566,null,null,2
+9,Otsego,ny.uscongress15.special.1813,1813,1813,Special,"New York 1813 U.S. House of Representatives, District 15, Special",U.S. House of Representatives,ON125,John Kaple,KJ0188,null,null,2

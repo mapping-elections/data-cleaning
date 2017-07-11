@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.orangeburgh.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John Taylor,TJ0451,Republican,A03,1,957
+sc.uscongress.orangeburgh.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Henry Dana Ward,WH0105,Federalist,A01,2,520
+sc.uscongress.orangeburgh.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Miles B. Pinckney,PM0021,Republican,A03,3,247
+sc.uscongress.orangeburgh.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,scattering,null,null,null,4,8

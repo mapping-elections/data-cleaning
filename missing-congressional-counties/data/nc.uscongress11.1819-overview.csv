@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nc.uscongress11.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Davidson,DW0128,Federalist,A01,1,1708
+nc.uscongress11.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,John F. Brevard,BJ0839,Republican,A03,2,1403
+nc.uscongress11.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,Henry W. Conner,CH0119,Republican,A03,3,678
+nc.uscongress11.1819,1819-08,1819,General,"North Carolina 1819 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,blank,null,null,null,4,1

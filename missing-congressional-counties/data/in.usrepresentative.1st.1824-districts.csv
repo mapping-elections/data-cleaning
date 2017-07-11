@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+in.usrepresentative.1st.1824,1824-08,1824,General,"Indiana 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Ratliff Boon,BR0010,null,null,1,One,4281
+in.usrepresentative.1st.1824,1824-08,1824,General,"Indiana 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Jacob Call,CJ0160,null,null,2,One,3230
+in.usrepresentative.1st.1824,1824-08,1824,General,"Indiana 1824 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas H. Blake,BT0018,null,null,3,One,2661

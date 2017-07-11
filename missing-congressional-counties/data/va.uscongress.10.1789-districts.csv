@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+va.uscongress.10.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Samuel Griffin,GS0114,null,null,1,NA,NA
+va.uscongress.10.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,Benjamin Harrison,HB0152,null,null,2,NA,NA
+va.uscongress.10.1789,1789,1789,General,"Virginia 1789 U.S. House of Representatives, District 10",U.S. House of Representatives,ON125,"Miles Selden, Jr.",SM0110,null,null,3,NA,NA

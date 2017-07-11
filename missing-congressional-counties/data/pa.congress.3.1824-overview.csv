@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.congress.3.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Daniel H. Miller,MD0183,Republican,A03,1,2131
+pa.congress.3.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Stephen Duncan,DS0159,Federalist,A01,2,1163
+pa.congress.3.1824,1824,1824,General,"Pennsylvania 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Jacob Shearer,SJ1092,Republican,A03,3,528

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress2.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Frederick A. Muhlenberg,MF0016,Federalist,A01,1,NA,NA
+pa.uscongress2.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Amos Gregg,GA0063,Republican,A03,2,NA,NA
+pa.uscongress2.1791,1791-10,1791,General,"Pennsylvania 1791 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Jones,null,Republican,A03,3,NA,NA

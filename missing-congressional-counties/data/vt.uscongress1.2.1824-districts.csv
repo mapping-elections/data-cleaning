@@ -1,0 +1,13 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,William C. Bradley,BW0418,Republican,A03,1,One,1741
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Phineas White,WP0105,Federalist,A01,2,One,980
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Mark Richards,RM0056,null,null,3,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Orsamus C. Merrill,MO0010,Republican,A03,4,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Calvin Sheldon,SC0145,Republican,A03,5,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Samuel Elliot,ES0058,Federalist,A01,6,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Richard Skinner,SR0206,null,null,7,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Francis Bradley,BF0053,null,null,8,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,William Hall,HW0333,Federalist,null,9,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,Jonathan Hunt,HJ0949,null,null,10,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,"Stephen Pratt, Jr.",PS0190,null,null,11,NA,NA
+vt.uscongress1.2.1824,1824-12,1824,General,"Vermont 1824 U.S. House of Representatives, District 1, Ballot 2",U.S. House of Representatives,ON125,scattering,null,null,null,12,One,10

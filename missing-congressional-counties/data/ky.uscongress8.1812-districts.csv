@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress8.1812,1812,1812,General,"Kentucky 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,John Simpson,SJ0160,null,null,1,NA,NA
+ky.uscongress8.1812,1812,1812,General,"Kentucky 1812 U.S. House of Representatives, District 8",U.S. House of Representatives,ON125,Stephen Ormsby,OS0002,null,null,2,NA,NA

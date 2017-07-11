@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.district1.1788,1788,1788,General,"South Carolina 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Smith,SW0299,null,null,1,600
+sc.uscongress.district1.1788,1788,1788,General,"South Carolina 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Alexander Gillon,GA0121,null,null,2,386
+sc.uscongress.district1.1788,1788,1788,General,"South Carolina 1788 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,David Ramsay,RD0089,null,null,3,191

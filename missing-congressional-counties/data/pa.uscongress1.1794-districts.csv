@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress1.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,John Swanwick,SJ0964,Republican,A03,1,One,1240
+pa.uscongress1.1794,1794-10,1794,General,"Pennsylvania 1794 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Fitzsimons,FT0061,Federalist,A01,2,One,1182
