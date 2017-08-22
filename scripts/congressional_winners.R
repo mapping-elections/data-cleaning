@@ -36,37 +36,70 @@ for(item in 1:length(filenames)){
     }
   }
 
-  congress_num <- list(congress_number = NA)
+  congress_num <- list(congress = NA)
   for(x in 1:nrow(congress)){
     if(congress$`congress(year)`[x]!=""){
       tmp <- str_split_fixed(congress$`congress(year)`[x], "\\(", n=2)
-      congress_num$congress_number[x] <- tmp[1,1]
+      congress_num$congress[x] <- tmp[1,1]
     }else{
       tmp <- ""
-      congress_num$congress_number[x] <- tmp
+      congress_num$congress[x] <- tmp
     }
   }
 
-
   link_counter <- 1
-  rep_id <- list(cong_bio_id = NA)
+  rep_id <- list(bio_id = NA)
   for(y in 1:nrow(congress)){
     if(congress$member_name[y]!=""){
       tmp <- str_sub(congress_links$.[link_counter], 58, 64)
-      rep_id$cong_bio_id[y] <- tmp
+      rep_id$bio_id[y] <- tmp
       link_counter <- link_counter + 1
     }else{
       tmp <- ""
-      rep_id$cong_bio_id[y] <- tmp
+      rep_id$bio_id[y] <- tmp
     }
   }
 
-  congress_total <- bind_cols(congress, link_join, rep_id)
+  proper_name <- list(nnv_name = NA)
+  for(n in 1:nrow(congress)){
+    if(congress$member_name[n]!=""){
+      tmp <- congress$member_name[n] %>%
+        str_to_title() %>%
+        str_split(", ")
+      p_name <- paste0(tmp[[1]][2], " ", tmp[[1]][1])
+      proper_name$nnv_name[n] <- p_name
+    }else{
+      tmp <- ""
+      proper_name$nnv_name[n] <- tmp
+    }
+  }
+
+  congress_total <- bind_cols(congress, congress_num, proper_name, rep_id, link_join)
+
+  for(e in 1:nrow(congress)){
+    if(congress$member_name[e]==""){
+      tmp <- e - 1
+      congress_total$member_name[e] <- congress_total$member_name[tmp]
+      congress_total$`birth-death`[e] <- congress_total$`birth-death`[tmp]
+      congress_total$nnv_name[e] <- congress_total$nnv_name[tmp]
+      congress_total$bio_id[e] <- congress_total$bio_id[tmp]
+      congress_total$bio_url[e] <- congress_total$bio_url[tmp]
+    }
+  }
+
+#   if(is.null(combined[1,1])){
+#     combined <- congress_total
+#   }else{
+#     combined <- bind_rows(combined, congress_total)
+#   }
+
+  congress_reps <- congress_total %>%
+    filter(position=="Representative")
 
   if(is.null(combined[1,1])){
-    combined <- congress_total
+    combined <- congress_reps
   }else{
-    combined <- bind_rows(combined, congress_total)
+    combined <- bind_rows(combined, congress_reps)
   }
 }
 
