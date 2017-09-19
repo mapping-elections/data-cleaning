@@ -1,0 +1,25 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,26
+2,Kings,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,255
+3,Kings,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Henry Peters,PH0027,Federalist,A01,21
+4,Kings,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,33
+5,Kings,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Stephen Carman,CS0101,Federalist,A01,21
+6,Kings,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Isaac Ledyard,LI0009,Anti-Federalist,A02,29
+1,Queens,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,206
+2,Queens,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,60
+3,Queens,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Henry Peters,PH0027,Federalist,A01,268
+4,Queens,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,30
+5,Queens,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Stephen Carman,CS0101,Federalist,A01,338
+6,Queens,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Isaac Ledyard,LI0009,Anti-Federalist,A02,272
+1,Richmond,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,NA
+2,Richmond,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,166
+3,Richmond,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Henry Peters,PH0027,Federalist,A01,77
+4,Richmond,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,9
+5,Richmond,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Stephen Carman,CS0101,Federalist,A01,NA
+6,Richmond,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Isaac Ledyard,LI0009,Anti-Federalist,A02,NA
+1,Suffolk,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Thomas Tredwell,TT0055,Anti-Federalist,A02,434
+2,Suffolk,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,John Vanderbilt,VJ0061,Federalist,A01,NA
+3,Suffolk,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Henry Peters,PH0027,Federalist,A01,3
+4,Suffolk,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Ezra L'Hommedieu,LE0003,Anti-Federalist,A02,289
+5,Suffolk,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Stephen Carman,CS0101,Federalist,A01,1
+6,Suffolk,ny.uscongressspecial.1791,1791,1791,Special,"New York 1791 U.S. House of Representatives, District 1, Special",U.S. House of Representatives,ON125,Isaac Ledyard,LI0009,Anti-Federalist,A02,NA

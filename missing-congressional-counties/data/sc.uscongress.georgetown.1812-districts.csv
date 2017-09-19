@@ -1,0 +1,9 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Theodore Gourdine,GT0086,Republican,A03,1,Georgetown,119
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Theodore Gourdine,GT0086,Republican,A03,1,Williamsburg,290
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Ervin,EJ0276,Republican,A03,2,Georgetown,43
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Ervin,EJ0276,Republican,A03,2,Williamsburg,NA
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Huger,HB0145,Federalist,A01,3,Georgetown,25
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Huger,HB0145,Federalist,A01,3,Williamsburg,NA
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,4,Georgetown,4
+sc.uscongress.georgetown.1812,1812,1812,General,"South Carolina 1812 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,4,Williamsburg,NA

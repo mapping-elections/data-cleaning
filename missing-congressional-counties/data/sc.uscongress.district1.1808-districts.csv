@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.district1.1808,1808,1808,General,"South Carolina 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Marion,MR0181,Republican,A03,1,One,1069
+sc.uscongress.district1.1808,1808,1808,General,"South Carolina 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Lowndes,LT0118,Federalist,A01,2,One,471
+sc.uscongress.district1.1808,1808,1808,General,"South Carolina 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Christopher Fuller,FC0049,Republican,A03,3,One,1
+sc.uscongress.district1.1808,1808,1808,General,"South Carolina 1808 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,4,One,26

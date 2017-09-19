@@ -1,0 +1,10 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John C. Calhoun,CJ1014,Republican,A03,1,Abbeville,NA
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John C. Calhoun,CJ1014,Republican,A03,1,Laurens,NA
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John C. Calhoun,CJ1014,Republican,A03,1,Newberry,610
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John A. Elmore,EJ0269,Republican,A03,2,Abbeville,NA
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John A. Elmore,EJ0269,Republican,A03,2,Laurens,NA
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,John A. Elmore,EJ0269,Republican,A03,2,Newberry,235
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Eastland,null,Republican,A03,3,Abbeville,NA
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Eastland,null,Republican,A03,3,Laurens,NA
+sc.uscongress.newberry.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Eastland,null,Republican,A03,3,Newberry,9

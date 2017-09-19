@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.georgetown.1800,1800,1800,General,"South Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Benjamin Huger,HB0145,Federalist,A01,1,1038
+sc.uscongress.georgetown.1800,1800,1800,General,"South Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Lemuel Benton,BL0075,Republican,A03,2,858
+sc.uscongress.georgetown.1800,1800,1800,General,"South Carolina 1800 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Tristram Thomas,TT0124,null,null,3,8

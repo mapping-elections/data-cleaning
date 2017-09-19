@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+vt.uscongress.eastern.1791,1791-07,1791,General,"Vermont 1791 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,Nathaniel Niles,NN0014,null,null,1,NA
+vt.uscongress.eastern.1791,1791-07,1791,General,"Vermont 1791 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,Stephen Jacob,JS0060,null,null,2,NA
+vt.uscongress.eastern.1791,1791-07,1791,General,"Vermont 1791 U.S. House of Representatives, Eastern District",U.S. House of Representatives,ON125,Daniel Buck,BD0212,Federalist,null,3,NA

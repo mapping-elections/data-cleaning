@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.uscongress2.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Michael Leib,LM0058,Republican,A03,1,Two,2744
+pa.uscongress2.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Michael Leib,LM0058,Republican,A03,1,Southwark,545
+pa.uscongress2.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Lardner,LJ0328,Federalist,A01,2,Two,783
+pa.uscongress2.1800,1800-10,1800,General,"Pennsylvania 1800 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,John Lardner,LJ0328,Federalist,A01,2,Southwark,113

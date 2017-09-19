@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nh.uscongress.1789,1789-02,1789,General,"New Hampshire 1789 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Benjamin West,WB0027,Pro-Administration,A01,1,NA,NA
+nh.uscongress.1789,1789-02,1789,General,"New Hampshire 1789 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Samuel Livermore,LS0047,Pro-Administration,A01,2,NA,NA
+nh.uscongress.1789,1789-02,1789,General,"New Hampshire 1789 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Nicholas Gilman,GN0015,Pro-Administration,A01,3,NA,NA
+nh.uscongress.1789,1789-02,1789,General,"New Hampshire 1789 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Abiel Foster,FA0029,Federalist,A01,4,NA,NA
+nh.uscongress.1789,1789-02,1789,General,"New Hampshire 1789 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,John Sullivan,SJ0462,null,null,5,NA,NA
+nh.uscongress.1789,1789-02,1789,General,"New Hampshire 1789 U.S. House of Representatives, Ballot 2",U.S. House of Representatives,ON125,Paine Wingate,WP0051,Federalist,A01,6,NA,NA

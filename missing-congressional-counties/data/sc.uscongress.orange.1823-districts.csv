@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.orange.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,Andrew R. Govan,GA0112,null,null,1,Four,683
+sc.uscongress.orange.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,John M. Felder,FJ0438,null,null,2,Four,591
+sc.uscongress.orange.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 4",U.S. House of Representatives,ON125,scattering,null,null,null,3,Four,2

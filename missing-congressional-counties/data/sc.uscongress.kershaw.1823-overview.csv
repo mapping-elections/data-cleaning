@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.kershaw.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,John Carter,CJ1058,null,null,1,854
+sc.uscongress.kershaw.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,James G. Spann,SJ1511,null,null,2,682
+sc.uscongress.kershaw.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 9",U.S. House of Representatives,ON125,scattering,null,null,null,3,5

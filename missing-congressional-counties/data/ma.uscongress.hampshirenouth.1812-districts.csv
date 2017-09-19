@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Samuel Taggart,TS0046,Federalist,A01,1,Hampshire North,2434
+ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Solomon Smead,SS0117,Republican,A03,2,Hampshire North,259
+ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Joseph Rice,RJ0228,Republican,A03,3,Hampshire North,96
+ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,Benjamin Smith,SB0037,Republican,A03,4,Hampshire North,6
+ma.uscongress.hampshirenouth.1812,1812-11,1812,General,"Massachusetts 1812 U.S. House of Representatives, Hampshire North District",U.S. House of Representatives,ON125,scattering,null,null,null,5,Hampshire North,6

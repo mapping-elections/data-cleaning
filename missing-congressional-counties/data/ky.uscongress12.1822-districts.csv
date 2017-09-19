@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+ky.uscongress12.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Robert P. Henry,HR0031,null,null,1,NA,NA
+ky.uscongress12.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Dickson Given,GD0005,null,null,2,NA,NA
+ky.uscongress12.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Breathitt,null,null,null,3,NA,NA
+ky.uscongress12.1822,1822,1822,General,"Kentucky 1822 U.S. House of Representatives, District 12",U.S. House of Representatives,ON125,Young Ewing,EY0000,null,null,4,NA,NA

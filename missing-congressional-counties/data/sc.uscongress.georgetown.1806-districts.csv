@@ -1,0 +1,15 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,Three,1088
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,Darlington,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,"Georgetown, Winyaw",60
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,Horry,62
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,Marion,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,Marlborough,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,Williamsburg,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,Three,23
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,Darlington,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,"Georgetown, Winyaw",10
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,Horry,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,Marion,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,Marlborough,NA
+sc.uscongress.georgetown.1806,1806,1806,General,"South Carolina 1806 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,2,Williamsburg,NA

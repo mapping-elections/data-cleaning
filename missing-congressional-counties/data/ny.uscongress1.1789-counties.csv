@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kings,ny.uscongress1.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,NA
+1,Queens,ny.uscongress1.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,NA
+1,Richmond,ny.uscongress1.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,NA
+1,Suffolk,ny.uscongress1.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Floyd,FW0034,Anti-Federalist,A02,NA

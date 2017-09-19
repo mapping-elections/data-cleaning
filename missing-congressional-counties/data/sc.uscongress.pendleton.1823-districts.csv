@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.pendleton.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,John Wilson,WJ0940,null,null,1,Seven,1350
+sc.uscongress.pendleton.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Warren R. Davis,DW0206,null,null,2,Seven,1154
+sc.uscongress.pendleton.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,Elias Earle,EE0042,null,null,3,Seven,583
+sc.uscongress.pendleton.1823,1823,1823,General,"South Carolina 1823 U.S. House of Representatives, District 7",U.S. House of Representatives,ON125,scattering,null,null,null,4,Seven,5

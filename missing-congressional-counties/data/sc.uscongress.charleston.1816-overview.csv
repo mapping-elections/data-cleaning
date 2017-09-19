@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.charleston.1816,1816,1816,General,"South Carolina 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Henry Middleton,MH0114,Republican,A03,1,1234
+sc.uscongress.charleston.1816,1816,1816,General,"South Carolina 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"William Crafts, Jr.",CW0322,Federalist,A01,2,954
+sc.uscongress.charleston.1816,1816,1816,General,"South Carolina 1816 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA

@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Albany,ny.uscongress6.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jeremiah Van Rensselaer,VJ0189,Anti-Federalist,A02,NA
+2,Albany,ny.uscongress6.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Abraham Ten Broeck,TA0014,Federalist,A01,NA
+1,Montgomery,ny.uscongress6.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Jeremiah Van Rensselaer,VJ0189,Anti-Federalist,A02,NA
+2,Montgomery,ny.uscongress6.1789,1789,1789,General,"New York 1789 U.S. House of Representatives, District 6",U.S. House of Representatives,ON125,Abraham Ten Broeck,TA0014,Federalist,A01,NA

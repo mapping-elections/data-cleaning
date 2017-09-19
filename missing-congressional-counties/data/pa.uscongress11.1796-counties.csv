@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Fayette,pa.uscongress11.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,NA
+2,Fayette,pa.uscongress11.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Findlay,FJ0306,Federalist,A01,NA
+1,Westmoreland,pa.uscongress11.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,William Findley,FW0062,Republican,A03,NA
+2,Westmoreland,pa.uscongress11.1796,1796-10,1796,General,"Pennsylvania 1796 U.S. House of Representatives, District 11",U.S. House of Representatives,ON125,James Findlay,FJ0306,Federalist,A01,NA

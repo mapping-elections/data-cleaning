@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.district1.1794,1794,1794,General,"South Carolina 1794 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,William Smith,SW0299,null,null,1,698
+sc.uscongress.district1.1794,1794,1794,General,"South Carolina 1794 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,"John Rutledge, Jr.",RJ0621,null,null,2,504
+sc.uscongress.district1.1794,1794,1794,General,"South Carolina 1794 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Tucker,TT0123,null,null,3,149

@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+in.usrepresentative.3rd.1824,1824-08,1824,General,"Indiana 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,John Test,TJ0114,null,null,1,Three,3522
+in.usrepresentative.3rd.1824,1824-08,1824,General,"Indiana 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,James Brown Ray,RJ0040,null,null,2,Three,2936
+in.usrepresentative.3rd.1824,1824-08,1824,General,"Indiana 1824 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Daniel J. Caswell,CD0021,null,null,3,Three,1459

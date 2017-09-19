@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+sc.uscongress.georgetown.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,David R. Williams,WD0118,Republican,A03,1,NA
+sc.uscongress.georgetown.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,Moses Glover,GM0033,Federalist,A01,2,NA
+sc.uscongress.georgetown.1810,1810,1810,General,"South Carolina 1810 U.S. House of Representatives, District 3",U.S. House of Representatives,ON125,scattering,null,null,null,3,NA

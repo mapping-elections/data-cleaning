@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.congress.2.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Joseph Hemphill,HJ0774,Federalist,A01,1,Two,2268
+pa.congress.2.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,George M. Dallas,DG0055,Republican,A03,2,Two,1367
+pa.congress.2.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,Adam Seybert,SA0219,Republican,A03,3,Two,125
+pa.congress.2.1822,1822-10,1822,General,"Pennsylvania 1822 U.S. House of Representatives, District 2",U.S. House of Representatives,ON125,William J. Duane,DW0162,Federalist,A01,4,Two,93

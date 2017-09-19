@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+tn.congress.mero.1807,1807,1807,General,"Tennessee 1807 U.S. House of Representatives, Mero District",U.S. House of Representatives,ON125,Jesse Wharton,WJ0952,null,null,1,Mero,5165
+tn.congress.mero.1807,1807,1807,General,"Tennessee 1807 U.S. House of Representatives, Mero District",U.S. House of Representatives,ON125,James Lyon,LJ0535,null,null,2,Mero,2574
+tn.congress.mero.1807,1807,1807,General,"Tennessee 1807 U.S. House of Representatives, Mero District",U.S. House of Representatives,ON125,Isaac Clark,CI0055,null,null,3,Mero,287
+tn.congress.mero.1807,1807,1807,General,"Tennessee 1807 U.S. House of Representatives, Mero District",U.S. House of Representatives,ON125,Moses Fisk,FM0045,null,null,4,Mero,235

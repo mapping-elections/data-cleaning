@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+sc.uscongress.charleston.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Lowndes,LT0118,Federalist,A01,1,One,422
+sc.uscongress.charleston.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Thomas Lowndes,LT0118,Federalist,A01,1,Charleston,422
+sc.uscongress.charleston.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Marion,MR0181,Republican,A03,2,One,385
+sc.uscongress.charleston.1803,1803,1803,General,"South Carolina 1803 U.S. House of Representatives, District 1",U.S. House of Representatives,ON125,Robert Marion,MR0181,Republican,A03,2,Charleston,385
