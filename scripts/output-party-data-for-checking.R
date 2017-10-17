@@ -1,7 +1,7 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "NC"
+st <- "VA"
 cong <- 1
 out_dir <- "~/Desktop/congress"
 parties <- c("Federalist", "Anti-Federalist", "Republican")
@@ -86,7 +86,7 @@ candidate_results <- elections %>%
   group_by(election_id) %>%
   mutate(total_vote = sum(vote, na.rm = TRUE),
          percent_vote = round(vote / total_vote, 3),
-         unopposed = NA) %>%
+         unopposed = FALSE) %>%
   select(meae_id, election_id, candidate = candidate_name, candidate_id,
          district, party = affiliation_party, vote, total_vote, percent_vote,
          winner, unopposed) %>%
