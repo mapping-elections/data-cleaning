@@ -7,7 +7,8 @@ elections <- meae_maps %>%
   filter(geography == "county") %>%
   left_join(meae_maps_to_elections, by = "meae_id")
 
-files <- str_c("data-raw/nnv-xml/", elections$election_id, ".xml")
+files <- str_c("~/dev/mapping-elections/data-cleaning/data-raw/nnv-xml/",
+               elections$election_id, ".xml")
 
 get_counties_by_election <- function(f) {
   nnv_xml <- read_xml(f)
