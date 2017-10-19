@@ -1,17 +1,16 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "VA"
-cong <- 1
+st <- "MD"
+cong <- 2
 out_dir <- "~/Desktop/congress"
-parties <- c("Federalist", "Anti-Federalist", "Republican")
-# data("meae_congress_counties_parties")
-# invisible(meae_congress_counties_parties)
+parties <- c("Federalist", "Anti-Federalist", "Republican", "Chesapeake", "Potomac")
 
-counties_in_elections <- read_rds("~/dev/mapping-elections/data-cleaning/data/counties-in-elections-grouped.rds")
+counties_in_elections <- read_rds("../data-cleaning/data/counties-in-elections-grouped.rds")
 
 verify_columns <- function(df, parties = c("federalist", "antifederalist",
-                                           "republican", "other"), suffix) {
+                                           "republican", "chesapeake", "potomac",
+                                           "other"), suffix) {
   for (party in parties) {
     if (!(party %in% colnames(df))) {
       df[[party]] <- NA_integer_
@@ -26,6 +25,14 @@ elections <- meae_maps %>%
   filter(state == st, congress == cong) %>%
   left_join(meae_maps_to_elections, by = "meae_id") %>%
   left_join(meae_elections, by = c("election_id", "state", "congress"))
+
+nnv_id_to_url <- function(ids) {
+  paste0("http://elections.lib.tufts.edu/catalog/tufts:", ids) %>%
+    walk(browseURL)
+}
+
+# open the elections in NNV
+nnv_id_to_url(elections$election_id)
 
 candidate_county_returns <- elections %>%
   left_join(meae_congressional_counties, by = c("election_id", "state")) %>%
@@ -53,14 +60,15 @@ party_returns_from_counties <- party_votes_from_counties %>%
   left_join(party_percentages_from_counties,
             by = c("meae_id", "county_ahcb", "county_fips")) %>%
   mutate(districts = NA_character_,
-         county_source = "county",
-         checked_lam = NA, checked_jfb = NA) %>%
+         county_source = "county") %>%
   select(meae_id, county_ahcb, county_fips, districts,
          federalist_vote, federalist_percentage,
          antifederalist_vote, antifederalist_percentage,
          republican_vote, republican_percentage,
-         other_vote, other_percentage, county_source,
-         checked_lam, checked_jfb)
+         chesapeake_vote, chesapeake_percentage,
+         potomac_vote, potomac_percentage,
+         other_vote, other_percentage,
+         county_source)
 
 county_districts <- counties_in_elections %>%
   filter(state == st, congress == cong) %>%
