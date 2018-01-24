@@ -1,15 +1,15 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "MD"
-cong <- 2
+st <- "MA"
+cong <- 6
 out_dir <- "~/Desktop/congress"
-parties <- c("Federalist", "Anti-Federalist", "Republican", "Chesapeake", "Potomac")
+parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac")
 
 counties_in_elections <- read_rds("../data-cleaning/data/counties-in-elections-grouped.rds")
 
 verify_columns <- function(df, parties = c("federalist", "antifederalist",
-                                           "republican", "chesapeake", "potomac",
+                                           "demrep", "chesapeake", "potomac",
                                            "other"), suffix) {
   for (party in parties) {
     if (!(party %in% colnames(df))) {
@@ -37,7 +37,8 @@ nnv_id_to_url(elections$election_id)
 candidate_county_returns <- elections %>%
   left_join(meae_congressional_counties, by = c("election_id", "state")) %>%
   mutate(party = if_else(party %in% parties, tolower(party), "other"),
-         party = if_else(party == "anti-federalist", "antifederalist", party))
+         party = if_else(party == "anti-federalist", "antifederalist", party),
+         party = if_else(party == "democratic-republican", "demrep", party))
 
 party_county_returns_from_counties <- candidate_county_returns %>%
   group_by(meae_id, county_ahcb, county_fips, party) %>%
@@ -64,7 +65,7 @@ party_returns_from_counties <- party_votes_from_counties %>%
   select(meae_id, county_ahcb, county_fips, districts,
          federalist_vote, federalist_percentage,
          antifederalist_vote, antifederalist_percentage,
-         republican_vote, republican_percentage,
+         demrep_vote, demrep_percentage,
          chesapeake_vote, chesapeake_percentage,
          potomac_vote, potomac_percentage,
          other_vote, other_percentage,
