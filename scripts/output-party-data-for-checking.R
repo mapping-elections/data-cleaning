@@ -2,7 +2,7 @@ library(tidyverse)
 library(mappingelections)
 
 st <- "MA"
-cong <- 6
+cong <- 8
 out_dir <- "~/Desktop/congress"
 parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac")
 
@@ -34,8 +34,22 @@ nnv_id_to_url <- function(ids) {
 # open the elections in NNV
 nnv_id_to_url(elections$election_id)
 
+meae_congressional_counties_raw <- read_csv("congressional-counties.csv", col_types =
+                                              cols(
+                                                election_id = col_character(),
+                                                county = col_character(),
+                                                state = col_character(),
+                                                county_ahcb = col_character(),
+                                                county_fips = col_character(),
+                                                candidate = col_character(),
+                                                candidate_id = col_character(),
+                                                party = col_character(),
+                                                vote = col_integer()
+                                              )
+)
+
 candidate_county_returns <- elections %>%
-  left_join(meae_congressional_counties, by = c("election_id", "state")) %>%
+  left_join(meae_congressional_counties_raw, by = c("election_id", "state")) %>%
   mutate(party = if_else(party %in% parties, tolower(party), "other"),
          party = if_else(party == "anti-federalist", "antifederalist", party),
          party = if_else(party == "democratic-republican", "demrep", party))
