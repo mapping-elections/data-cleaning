@@ -1,16 +1,16 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "MA"
-cong <- 8
+st <- "NY"
+cong <- 10
 out_dir <- "~/Desktop/congress"
-parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac")
+parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac", "Quid")
 
 counties_in_elections <- read_rds("../data-cleaning/data/counties-in-elections-grouped.rds")
 
 verify_columns <- function(df, parties = c("federalist", "antifederalist",
                                            "demrep", "chesapeake", "potomac",
-                                           "other"), suffix) {
+                                           "quid", "other"), suffix) {
   for (party in parties) {
     if (!(party %in% colnames(df))) {
       df[[party]] <- NA_integer_
@@ -50,7 +50,9 @@ meae_congressional_counties_raw <- read_csv("congressional-counties.csv", col_ty
 
 candidate_county_returns <- elections %>%
   left_join(meae_congressional_counties_raw, by = c("election_id", "state")) %>%
-  mutate(party = if_else(party %in% parties, tolower(party), "other"),
+  mutate(party = if_else(party == "Federalist/Quid", "Quid", party),
+         party = if_else(party == "Lewisite", "Quid", party),
+         party = if_else(party %in% parties, tolower(party), "other"),
          party = if_else(party == "anti-federalist", "antifederalist", party),
          party = if_else(party == "democratic-republican", "demrep", party))
 
@@ -82,6 +84,7 @@ party_returns_from_counties <- party_votes_from_counties %>%
          demrep_vote, demrep_percentage,
          chesapeake_vote, chesapeake_percentage,
          potomac_vote, potomac_percentage,
+         quid_vote, quid_percentage,
          other_vote, other_percentage,
          county_source)
 
