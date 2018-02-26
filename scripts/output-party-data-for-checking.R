@@ -1,7 +1,7 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "NY"
+st <- "PA"
 cong <- 10
 out_dir <- "~/Desktop/congress"
 parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac", "Quid")
@@ -50,7 +50,8 @@ meae_congressional_counties_raw <- read_csv("congressional-counties.csv", col_ty
 
 candidate_county_returns <- elections %>%
   left_join(meae_congressional_counties_raw, by = c("election_id", "state")) %>%
-  mutate(party = if_else(party == "Federalist/Quid", "Quid", party),
+  mutate(party = if_else(party == "Constitutionalist", "Quid", party),
+         party = if_else(party == "Federalist/Quid", "Quid", party),
          party = if_else(party == "Lewisite", "Quid", party),
          party = if_else(party %in% parties, tolower(party), "other"),
          party = if_else(party == "anti-federalist", "antifederalist", party),
