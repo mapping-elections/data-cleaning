@@ -118,10 +118,7 @@ candidate_results <- elections %>%
          affiliation_party = if_else(affiliation_party == "Clintonian/Federalist", "Dissenting Republican", affiliation_party),
          affiliation_party = if_else(affiliation_party == "Clintonian", "Dissenting Republican", affiliation_party),
          affiliation_party = if_else(affiliation_party == "Quid", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "Lewisite", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party %in% affiliation_party, tolower(affiliation_party), "other"),
-         affiliation_party = if_else(affiliation_party == "anti-federalist", "antifederalist", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "democratic-republican", "demrep", affiliation_party)) %>%
+         affiliation_party = if_else(affiliation_party == "Lewisite", "Dissenting Republican", affiliation_party)) %>%
   rename(vote = overview) %>%
   group_by(election_id) %>%
   mutate(total_vote = sum(vote, na.rm = TRUE),
