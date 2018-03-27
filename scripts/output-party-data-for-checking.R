@@ -1,8 +1,8 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "PA"
-cong <- 10
+st <- "LA"
+cong <- 12
 out_dir <- "~/Desktop/congress"
 parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac", "Dissenting Republican")
 
@@ -112,7 +112,16 @@ candidate_results <- elections %>%
             by = c("congress", "state", "district",  "candidate_id"),
             suffix = c("", "_congbio")) %>%
   mutate(winner = congbio_position == "Representative",
-         winner = if_else(is.na(winner), FALSE, TRUE)) %>%
+         winner = if_else(is.na(winner), FALSE, TRUE),
+         affiliation_party = if_else(affiliation_party == "Constitutionalist", "Dissenting Republican", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Federalist/Quid", "Dissenting Republican", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Clintonian/Federalist", "Dissenting Republican", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Clintonian", "Dissenting Republican", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Quid", "Dissenting Republican", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Lewisite", "Dissenting Republican", affiliation_party),
+         affiliation_party = if_else(affiliation_party %in% affiliation_party, tolower(affiliation_party), "other"),
+         affiliation_party = if_else(affiliation_party == "anti-federalist", "antifederalist", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "democratic-republican", "demrep", affiliation_party)) %>%
   rename(vote = overview) %>%
   group_by(election_id) %>%
   mutate(total_vote = sum(vote, na.rm = TRUE),
