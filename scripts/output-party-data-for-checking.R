@@ -1,16 +1,17 @@
 library(tidyverse)
 library(mappingelections)
 
-st <- "LA"
-cong <- 12
+st <- "PA"
+cong <- 15
 out_dir <- "~/Desktop/congress"
-parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac", "Dissenting Republican")
+parties <- c("Federalist", "Anti-Federalist", "Democratic-Republican", "Chesapeake", "Potomac",
+             "Republican Faction")
 
 counties_in_elections <- read_rds("../data-cleaning/data/counties-in-elections-grouped.rds")
 
 verify_columns <- function(df, parties = c("federalist", "antifederalist",
                                            "demrep", "chesapeake", "potomac",
-                                           "dissrep", "other"), suffix) {
+                                           "repfac", "other"), suffix) {
   for (party in parties) {
     if (!(party %in% colnames(df))) {
       df[[party]] <- NA_integer_
@@ -50,16 +51,25 @@ meae_congressional_counties_raw <- read_csv("congressional-counties.csv", col_ty
 
 candidate_county_returns <- elections %>%
   left_join(meae_congressional_counties_raw, by = c("election_id", "state")) %>%
-                 # Aggregate all dissenting Republican factions into a single label
-  mutate(party = if_else(party == "Constitutionalist", "Dissenting Republican", party),
-         party = if_else(party == "Federalist/Quid", "Dissenting Republican", party),
-         party = if_else(party == "Clintonian/Federalist", "Dissenting Republican", party),
-         party = if_else(party == "Clintonian", "Dissenting Republican", party),
-         party = if_else(party == "Quid", "Dissenting Republican", party),
-         party = if_else(party == "Lewisite", "Dissenting Republican", party),
+                 # Aggregate all Republican factions into a single label
+  mutate(party = if_else(party == "Constitutionalist", "Republican Faction", party),
+         party = if_else(party == "Federalist/Quid", "Republican Faction", party),
+         party = if_else(party == "Clintonian/Federalist", "Republican Faction", party),
+         party = if_else(party == "Clintonian", "Republican Faction", party),
+         party = if_else(party == "Quid", "Republican Faction", party),
+         party = if_else(party == "Lewisite", "Republican Faction", party),
+         party = if_else(party == "Democrat", "Democratic-Republican", party),
+         party = if_else(party == "Crawfordite", "Republican Faction", party),
+         party = if_else(party == "Crawford", "Republican Faction", party),
+         party = if_else(party == "New School Republican", "Republican Faction", party),
+         party = if_else(party == "Old School Republican", "Republican Faction", party),
+         party = if_else(party == "Union Ticket", "Republican Faction", party),
+         party = if_else(party == "Anti-Caucus", "Republican Faction", party),
+         party = if_else(party == "Caucus", "Republican Faction", party),
          party = if_else(party %in% parties, tolower(party), "other"),
          party = if_else(party == "anti-federalist", "antifederalist", party),
-         party = if_else(party == "democratic-republican", "demrep", party))
+         party = if_else(party == "democratic-republican", "demrep", party),
+         party = if_else(party == "republican faction", "repfac", party))
 
 party_county_returns_from_counties <- candidate_county_returns %>%
   group_by(meae_id, county_ahcb, county_fips, party) %>%
@@ -89,7 +99,7 @@ party_returns_from_counties <- party_votes_from_counties %>%
          demrep_vote, demrep_percentage,
          chesapeake_vote, chesapeake_percentage,
          potomac_vote, potomac_percentage,
-         dissrep_vote, dissrep_percentage,
+         repfac_vote, repfac_percentage,
          other_vote, other_percentage,
          county_source)
 
@@ -113,12 +123,20 @@ candidate_results <- elections %>%
             suffix = c("", "_congbio")) %>%
   mutate(winner = congbio_position == "Representative",
          winner = if_else(is.na(winner), FALSE, TRUE),
-         affiliation_party = if_else(affiliation_party == "Constitutionalist", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "Federalist/Quid", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "Clintonian/Federalist", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "Clintonian", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "Quid", "Dissenting Republican", affiliation_party),
-         affiliation_party = if_else(affiliation_party == "Lewisite", "Dissenting Republican", affiliation_party)) %>%
+         affiliation_party = if_else(affiliation_party == "Constitutionalist", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Federalist/Quid", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Clintonian/Federalist", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Clintonian", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Quid", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Lewisite", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Crawfordite", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Crawford", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "New School Republican", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Old School Republican", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Union Ticket", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Anti-Caucus", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Caucus", "Republican Faction", affiliation_party),
+         affiliation_party = if_else(affiliation_party == "Democrat", "Democratic-Republican", affiliation_party)) %>%
   rename(vote = overview) %>%
   group_by(election_id) %>%
   mutate(total_vote = sum(vote, na.rm = TRUE),
