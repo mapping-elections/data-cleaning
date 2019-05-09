@@ -1,0 +1,10 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,Thomas Hawkins,HT0013,Republican,A03,1,2231
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,Benjamin S. Pigman,PB0017,Republican,A03,2,2206
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,William Downey,DW0051,Republican,A03,3,2204
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,George Buckley,BG0035,Federalist,A01,4,2090
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,Henry Stembel,SH0041,Republican,A03,5,2087
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,Baker Johnson,JB0012,Federalist,A01,6,2077
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,Frederick A. Schley,SF0015,Federalist,A01,7,2055
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,Jacob Baumgardner,BJ0394,Federalist,A01,8,2046
+md.assembly.frederick.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Frederick County",House of Delegates,ON063,scattering,null,null,null,9,4

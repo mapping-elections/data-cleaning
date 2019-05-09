@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Somerset,pa.assembly.somerset.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Somerset County",House of Representatives,ON064,Patrick Sullivan,SP0115,Federalist,A01,896
+2,Somerset,pa.assembly.somerset.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Somerset County",House of Representatives,ON064,Alexander Ogle,OA0029,Republican,A03,505

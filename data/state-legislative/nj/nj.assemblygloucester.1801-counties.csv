@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Gloucester,nj.assemblygloucester.1801,1801,1801,General,"New Jersey 1801 Assembly, Gloucester County",Assembly,ON003,Samuel W. Harrison,HS0123,Federalist,A01,1115
+2,Gloucester,nj.assemblygloucester.1801,1801,1801,General,"New Jersey 1801 Assembly, Gloucester County",Assembly,ON003,Samuel French,FS0068,Federalist,A01,1104
+3,Gloucester,nj.assemblygloucester.1801,1801,1801,General,"New Jersey 1801 Assembly, Gloucester County",Assembly,ON003,Isaac Mickle,MI0028,Republican,A03,1098
+4,Gloucester,nj.assemblygloucester.1801,1801,1801,General,"New Jersey 1801 Assembly, Gloucester County",Assembly,ON003,Abel Clement,CA0076,Federalist,A01,1087
+5,Gloucester,nj.assemblygloucester.1801,1801,1801,General,"New Jersey 1801 Assembly, Gloucester County",Assembly,ON003,Amos Cooper,CA0077,Republican,A03,1074
+6,Gloucester,nj.assemblygloucester.1801,1801,1801,General,"New Jersey 1801 Assembly, Gloucester County",Assembly,ON003,Levi Rogers,RL0001,Republican,A03,1044

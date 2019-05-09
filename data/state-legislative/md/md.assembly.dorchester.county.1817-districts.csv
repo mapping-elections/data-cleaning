@@ -1,0 +1,19 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Benjamin Lecompte,LB0012,null,null,1,One,79
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Benjamin Lecompte,LB0012,null,null,1,Two,209
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Benjamin Lecompte,LB0012,null,null,1,Three,266
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Henry Keene,KH0015,null,null,2,One,71
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Henry Keene,KH0015,null,null,2,Two,257
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Henry Keene,KH0015,null,null,2,Three,182
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Edward Griffith,GE0032,null,null,3,One,73
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Edward Griffith,GE0032,null,null,3,Two,211
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Edward Griffith,GE0032,null,null,3,Three,222
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Thomas Pitt,PT0062,null,null,4,One,82
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Thomas Pitt,PT0062,null,null,4,Two,179
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Thomas Pitt,PT0062,null,null,4,Three,235
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Michael Lucas,LM0017,null,null,5,One,76
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Michael Lucas,LM0017,null,null,5,Two,102
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Michael Lucas,LM0017,null,null,5,Three,199
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Charles Langford,LC0014,null,null,6,Three,1
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Risdon Lecompte,LR0014,null,null,7,Three,1
+md.assembly.dorchester.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Dorchester County",House of Delegates,ON063,Nathan Rawlings,RN0013,null,null,8,Three,1

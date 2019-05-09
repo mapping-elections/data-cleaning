@@ -1,0 +1,8 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,John T. H. Worthington,WJ0162,null,null,1292
+2,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,William F. Johnson,JW0022,null,null,1216
+3,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,Tobias E. Stansbury,ST0095,null,null,1155
+4,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,Edward Orrick,OE0010,null,null,1013
+5,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,Adam Showers,SA0045,null,null,992
+6,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,Hugh Sly,SH0048,null,null,962
+7,Baltimore,md.assembly.baltimore.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Baltimore County",House of Delegates,ON063,John B. Snowden,SJ0287,null,null,793

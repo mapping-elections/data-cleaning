@@ -1,0 +1,11 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,Isaac Connell,CI0005,Republican,A03,1,597
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,Jonathan Harris,HJ0228,Republican,A03,2,589
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,Wright Hall,HW0156,Republican,A03,3,582
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,James Brook,BJ0403,Republican,A03,4,566
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,Federalist,A01,5,562
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,James F. Browne,BJ0410,Federalist,A01,6,557
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,William Knight,KW0024,Federalist,A01,7,554
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,Thomas Miller,MT0062,Federalist,A01,8,540
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,Morgan Brown,BM0032,null,null,9,1
+md.assembly.kent.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Kent County",House of Delegates,ON063,Frederick Wilson,WF0035,null,null,10,1

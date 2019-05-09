@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.assembly.somerset.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Somerset County",House of Representatives,ON064,Alexander Ogle,OA0029,Republican,A03,1,562
+pa.assembly.somerset.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Somerset County",House of Representatives,ON064,Patrick Sullivan,SP0115,Constitutionalist,A07,2,324
+pa.assembly.somerset.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Somerset County",House of Representatives,ON064,Adam Miller,MA0212,Federalist,A01,3,125

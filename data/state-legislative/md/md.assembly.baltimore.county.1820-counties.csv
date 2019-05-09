@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.assembly.baltimore.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Baltimore County",House of Delegates,ON063,Tobais E. Stansbury,ST0095,Republican,A03,1387
+2,Baltimore,md.assembly.baltimore.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Baltimore County",House of Delegates,ON063,Adam Showers,SA0045,Republican,A03,1230
+3,Baltimore,md.assembly.baltimore.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Baltimore County",House of Delegates,ON063,John B. Snowden,SJ0287,Republican,A03,1165
+4,Baltimore,md.assembly.baltimore.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Baltimore County",House of Delegates,ON063,Edward Orrick,OE0010,Republican,A03,1050
+5,Baltimore,md.assembly.baltimore.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Baltimore County",House of Delegates,ON063,Abraham H. Price,PA0036,Federalist,A01,841
+6,Baltimore,md.assembly.baltimore.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Baltimore County",House of Delegates,ON063,Hugh Ely,EH0012,Republican,A03,112

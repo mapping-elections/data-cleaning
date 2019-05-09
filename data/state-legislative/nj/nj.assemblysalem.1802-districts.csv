@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nj.assemblysalem.1802,1802,1802,General,"New Jersey 1802 Assembly, Salem County",Assembly,ON003,Samuel Ray,RS0048,Republican,A03,1,NA,NA
+nj.assemblysalem.1802,1802,1802,General,"New Jersey 1802 Assembly, Salem County",Assembly,ON003,Edward Burroughs,BE0182,Republican,A03,2,NA,NA
+nj.assemblysalem.1802,1802,1802,General,"New Jersey 1802 Assembly, Salem County",Assembly,ON003,Merriman Smith,SM0060,Republican,A03,3,NA,NA
+nj.assemblysalem.1802,1802,1802,General,"New Jersey 1802 Assembly, Salem County",Assembly,ON003,Eleazer Mayhew,ME0055,Federalist,A01,4,NA,NA
+nj.assemblysalem.1802,1802,1802,General,"New Jersey 1802 Assembly, Salem County",Assembly,ON003,Robert G. Johnson,JR0024,Federalist,A01,5,NA,NA
+nj.assemblysalem.1802,1802,1802,General,"New Jersey 1802 Assembly, Salem County",Assembly,ON003,Joseph Shinn,SJ0558,Federalist,A01,6,NA,NA

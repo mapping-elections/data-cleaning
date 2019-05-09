@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.assembly.baltimore.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Baltimore County",House of Delegates,ON063,Abraham Price,PA0036,Republican,A03,1031
+2,Baltimore,md.assembly.baltimore.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Baltimore County",House of Delegates,ON063,Adam Showers,SA0045,Republican,A03,1007
+3,Baltimore,md.assembly.baltimore.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Baltimore County",House of Delegates,ON063,John B. Snowden,SJ0287,Republican,A03,1005
+4,Baltimore,md.assembly.baltimore.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Baltimore County",House of Delegates,ON063,Thomas Johnson,JT0020,Republican,A03,722

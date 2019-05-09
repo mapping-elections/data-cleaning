@@ -1,0 +1,19 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Matthias Dashiell,DM0011,Federalist,A01,1,One,321
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Matthias Dashiell,DM0011,Federalist,A01,1,Two,328
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Matthias Dashiell,DM0011,Federalist,A01,1,Three,202
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Littleton P. Dennis,DL0033,Federalist,A01,2,One,282
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Littleton P. Dennis,DL0033,Federalist,A01,2,Two,327
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Littleton P. Dennis,DL0033,Federalist,A01,2,Three,199
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Levin R. King,KL0006,Federalist,A01,3,One,272
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Levin R. King,KL0006,Federalist,A01,3,Two,318
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Levin R. King,KL0006,Federalist,A01,3,Three,201
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Josiah F. Polk,PJ0159,Federalist,A01,4,One,268
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Josiah F. Polk,PJ0159,Federalist,A01,4,Two,312
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Josiah F. Polk,PJ0159,Federalist,A01,4,Three,198
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Joshua Bratton,BJ0420,Republican,A03,5,One,259
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Joshua Bratton,BJ0420,Republican,A03,5,Two,170
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Joshua Bratton,BJ0420,Republican,A03,5,Three,88
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,John Rider,RJ0108,Republican,A03,6,One,186
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,John Rider,RJ0108,Republican,A03,6,Two,168
+md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,John Rider,RJ0108,Republican,A03,6,Three,87

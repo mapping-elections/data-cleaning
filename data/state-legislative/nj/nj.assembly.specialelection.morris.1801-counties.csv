@@ -1,0 +1,3 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Morris,nj.assembly.specialelection.morris.1801,1801,1801,Special,"New Jersey 1801 Assembly, Morris County, Special",Assembly,ON003,Cornelius Voorheis,VC0000,null,null,604
+2,Morris,nj.assembly.specialelection.morris.1801,1801,1801,Special,"New Jersey 1801 Assembly, Morris County, Special",Assembly,ON003,Jesse Upson,UJ0021,null,null,579

@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Prince George's,md.assembly.prince.georges.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Prince George's County",House of Delegates,ON063,Benjamin B. Mackall,MB0034,Republican,A03,472
+2,Prince George's,md.assembly.prince.georges.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Prince George's County",House of Delegates,ON063,Benedict I. Semmes,SB0035,Republican,A03,428
+3,Prince George's,md.assembly.prince.georges.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Prince George's County",House of Delegates,ON063,Henry Culver,CH0069,Republican,A03,424
+4,Prince George's,md.assembly.prince.georges.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Prince George's County",House of Delegates,ON063,William T. Wooten,WW0107,Republican,A03,420

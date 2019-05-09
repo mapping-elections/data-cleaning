@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.mifflin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Mifflin County",House of Representatives,ON064,William Beale,BW0278,Republican,A03,1,NA,NA
+pa.assembly.mifflin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Mifflin County",House of Representatives,ON064,William Wilson,WW0247,Republican,A03,2,NA,NA
+pa.assembly.mifflin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Mifflin County",House of Representatives,ON064,John Brown,BJ1047,Republican,A03,3,NA,NA

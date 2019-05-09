@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Levi Howell,HL0015,Republican,A03,1636
+2,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Silas Dickerson,DS0109,Republican,A03,1588
+3,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Joseph Gaston,GJ0239,Republican,A03,1547
+4,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Joseph Sharp,SJ0530,Republican,A03,1422
+5,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,John Gustin,GJ0238,Federalist,A01,1090
+6,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Thomas Stewart,ST0151,Federalist,A01,1070
+7,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Moses Moore,MM0027,Federalist,A01,812
+8,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,William Runkle,RW0081,null,null,477
+9,Sussex,nj.generalassembly.sussex.1800,1800,1800,General,"New Jersey 1800 Assembly, Sussex County",Assembly,ON003,Nicholas Coxe,CN0021,Federalist,A01,425

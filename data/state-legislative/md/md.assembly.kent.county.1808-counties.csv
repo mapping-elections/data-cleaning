@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,Unit Angier,AU0000,Republican,A03,623
+2,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,William Moffit,MW0109,Republican,A03,602
+3,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,Richard Brice,BR0044,Republican,A03,586
+4,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,James Welch,WJ0170,Republican,A03,583
+5,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,Richard Frisby,FR0014,Federalist,A01,578
+6,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,James Ringgold Jr.,RJ0091,Federalist,A01,558
+7,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,Jarvis Spencer,SJ0234,Federalist,A01,541
+8,Kent,md.assembly.kent.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Kent County",House of Delegates,ON063,John Latham,LJ0080,Federalist,A01,537

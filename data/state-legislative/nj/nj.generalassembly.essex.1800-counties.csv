@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,nj.generalassembly.essex.1800,1800,1800,General,"New Jersey 1800 Assembly, Essex County",Assembly,ON003,Charles Clark,CC0052,Republican,A03,1666
+2,Essex,nj.generalassembly.essex.1800,1800,1800,General,"New Jersey 1800 Assembly, Essex County",Assembly,ON003,Abraham Speer,SA0080,Republican,A03,1664
+3,Essex,nj.generalassembly.essex.1800,1800,1800,General,"New Jersey 1800 Assembly, Essex County",Assembly,ON003,Jabez Parkhurst,PJ0263,Republican,A03,1660
+4,Essex,nj.generalassembly.essex.1800,1800,1800,General,"New Jersey 1800 Assembly, Essex County",Assembly,ON003,James Hedden,HJ0388,Federalist,A01,7

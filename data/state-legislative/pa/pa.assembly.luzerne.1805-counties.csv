@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Rosewell Welles,WR0143,Federalist,A01,662
+2,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Nathan Beach,BN0092,Federalist,A01,509
+3,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,John Jenkins,JJ0187,Republican,A03,392
+4,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Nathan Palmer,PN0060,Republican,A03,273
+5,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Moses Coolbaugh,CM0062,null,null,214
+6,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Reed Brockway,BR0119,null,null,87
+7,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Benjamin Carpenter,CB0091,null,null,60
+8,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,"Justus Gaylord, Jr.",GJ0402,null,null,3
+9,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Lawrence Myers,ML0027,null,null,2
+10,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Nathan Jackson,JN0004,null,null,1
+11,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Thomas Park,PT0131,null,null,1
+12,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Benjamin Perry,PB0069,null,null,1
+13,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,James Scovell,SJ0233,null,null,1
+14,Luzerne,pa.assembly.luzerne.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Luzerne County",House of Representatives,ON064,Jonathan Stevens,SJ1210,null,null,1

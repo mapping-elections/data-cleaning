@@ -1,0 +1,4 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.annapolis.city.1817,1817,1817,General,"Maryland 1817 House of Delegates, Annapolis",House of Delegates,ON063,Dennis Claude,CD0036,Republican,A03,1,NA,NA
+md.assembly.annapolis.city.1817,1817,1817,General,"Maryland 1817 House of Delegates, Annapolis",House of Delegates,ON063,John Stephen,SJ0211,Republican,A03,2,NA,NA
+md.assembly.annapolis.city.1817,1817,1817,General,"Maryland 1817 House of Delegates, Annapolis",House of Delegates,ON063,Alexander C. Magruder,MA0076,Federalist,A01,3,NA,NA

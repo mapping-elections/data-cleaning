@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Franklin,pa.assembly.franklin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Franklin County",House of Representatives,ON064,William Findlay,FW0061,Republican,A03,1386
+2,Franklin,pa.assembly.franklin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Franklin County",House of Representatives,ON064,James MacConnell,MJ0918,Republican,A03,1355
+3,Franklin,pa.assembly.franklin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Franklin County",House of Representatives,ON064,Jacob Dechert,DJ0439,Republican,A03,1350
+4,Franklin,pa.assembly.franklin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Franklin County",House of Representatives,ON064,Christian Oyster,OC0007,Federalist,A01,1260
+5,Franklin,pa.assembly.franklin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Franklin County",House of Representatives,ON064,George Clarke,CG0094,Federalist,A01,1253
+6,Franklin,pa.assembly.franklin.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Franklin County",House of Representatives,ON064,Thomas Greer,GT0068,Federalist,A01,1250

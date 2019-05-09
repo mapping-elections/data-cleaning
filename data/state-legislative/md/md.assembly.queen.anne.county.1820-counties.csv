@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Queen Anne's,md.assembly.queen.anne.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Queen Anne's County",House of Delegates,ON063,Henry E. Wright,WH0023,Republican,A03,611
+2,Queen Anne's,md.assembly.queen.anne.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Queen Anne's County",House of Delegates,ON063,Robert Stevens,SR0074,Republican,A03,536
+3,Queen Anne's,md.assembly.queen.anne.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Queen Anne's County",House of Delegates,ON063,Richard Moffett,MR0037,Republican,A03,429
+4,Queen Anne's,md.assembly.queen.anne.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Queen Anne's County",House of Delegates,ON063,Charles R. Nicholson,NC0003,Republican,A03,413

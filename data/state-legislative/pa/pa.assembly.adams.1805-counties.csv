@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Adams,pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Smith,SW0216,Constitutionalist,A07,1240
+2,Adams,pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Constitutionalist,A07,1076
+3,Adams,pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,null,null,176

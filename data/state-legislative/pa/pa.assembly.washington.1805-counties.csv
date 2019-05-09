@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,John Marshall,MJ0922,Republican,A03,2281
+2,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,Aaron Lyle,LA0096,Republican,A03,2166
+3,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,James Stephenson,SJ1094,Republican,A03,2152
+4,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,Samuel Agnew,AS0049,Republican,A03,2126
+5,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,William MacFarland,MW0288,Federalist,A01,1002
+6,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,John Hoge,HJ0764,Federalist,A01,923
+7,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,James Mitchell,MJ0920,Federalist,A01,903
+8,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,Thomas Patterson,PT0153,Federalist,A01,878
+9,Washington,pa.assembly.washington.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Washington County",House of Representatives,ON064,Samuel Black,BS0247,Federalist,A01,568

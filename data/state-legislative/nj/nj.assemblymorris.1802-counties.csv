@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Morris,nj.assemblymorris.1802,1802,1802,General,"New Jersey 1802 Assembly, Morris County",Assembly,ON003,Aaron Kitchell,KA0023,Republican,A03,1031
+2,Morris,nj.assemblymorris.1802,1802,1802,General,"New Jersey 1802 Assembly, Morris County",Assembly,ON003,William Corwin,CW0102,Republican,A03,865
+3,Morris,nj.assemblymorris.1802,1802,1802,General,"New Jersey 1802 Assembly, Morris County",Assembly,ON003,Jonathan Ogden,OJ0037,Republican,A03,809

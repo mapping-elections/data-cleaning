@@ -1,0 +1,3 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.huntingdon.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Huntingdon County",House of Representatives,ON064,James MacCune,MJ0909,Republican,A03,1,NA,NA
+pa.assembly.huntingdon.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Huntingdon County",House of Representatives,ON064,Arthur Moore,MA0224,Republican,A03,2,NA,NA

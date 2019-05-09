@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,Ara Spence,SA0049,Republican,A03,1052
+2,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,William Quinton,QW0001,Republican,A03,1046
+3,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,John S. Spence,SJ0312,Republican,A03,1046
+4,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,William Riley,RW0047,Republican,A03,1024
+5,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,Ephraim K. Wilson,WE0025,Federalist,A01,1015
+6,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,Thomas N. Williams,WT0034,Federalist,A01,1012
+7,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,Charles Parker,PC0012,Federalist,A01,959
+8,Worcester,md.assembly.worcester.county.1819,1819,1819,General,"Maryland 1819 House of Delegates, Worcester County",House of Delegates,ON063,James Powell,PJ0174,Federalist,A01,924

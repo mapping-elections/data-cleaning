@@ -1,0 +1,11 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Jabez Parkhurst,PJ0263,Republican,A03,1980
+2,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Amos Harrison,HA0060,Republican,A03,1425
+3,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Ralph Post,PR0031,Republican,A03,1279
+4,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,William Gould,GW0068,Federalist,A01,867
+5,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Abraham Wooley,WA0099,Federalist,A01,722
+6,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Abraham Speer,SA0080,Republican,A03,550
+7,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,James Wilcocks,WJ0361,Federalist,A01,248
+8,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Ezra Darby,DE0037,Federalist,A01,111
+9,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Sheppard Kollack,KS0015,null,null,9
+10,Essex,nj.assemblyessex.1801,1801,1801,General,"New Jersey 1801 Assembly, Essex County",Assembly,ON003,Mathias Williamson,WM0049,null,null,1

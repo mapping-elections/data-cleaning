@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Centre,pa.assembly.centre.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Centre County",House of Representatives,ON064,William Rankin,RW0153,Republican,A03,731
+2,Centre,pa.assembly.centre.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Centre County",House of Representatives,ON064,Matthew Allison,AM0017,Federalist,A01,587
+3,Centre,pa.assembly.centre.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Centre County",House of Representatives,ON064,John Culbertson,CJ0779,Federalist,A01,197
+1,Clearfield,pa.assembly.centre.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Centre County",House of Representatives,ON064,William Rankin,RW0153,Republican,A03,NA
+2,Clearfield,pa.assembly.centre.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Centre County",House of Representatives,ON064,Matthew Allison,AM0017,Federalist,A01,NA
+3,Clearfield,pa.assembly.centre.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Centre County",House of Representatives,ON064,John Culbertson,CJ0779,Federalist,A01,NA

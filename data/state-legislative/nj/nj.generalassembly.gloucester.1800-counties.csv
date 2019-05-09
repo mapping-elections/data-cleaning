@@ -1,0 +1,8 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,Samuel French,FS0068,Federalist,A01,1446
+2,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,Samuel W. Harrison,HS0123,Federalist,A01,1435
+3,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,Abel Clement,CA0076,Federalist,A01,1415
+4,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,John Collins,CJ0404,Democrat,A03,755
+5,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,Amos Cooper,CA0077,Democrat,A03,708
+6,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,Jeremiah Wood,WJ0350,Democrat,A03,688
+7,Gloucester,nj.generalassembly.gloucester.1800,1800,1800,General,"New Jersey 1800 Assembly, Gloucester County",Assembly,ON003,Joshua L. Howell,HJ0402,null,null,2

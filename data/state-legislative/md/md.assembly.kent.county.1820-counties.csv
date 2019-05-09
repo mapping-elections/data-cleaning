@@ -1,0 +1,12 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,Federalist,A01,589
+2,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,James F. Brown,BJ0410,Federalist,A01,589
+3,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Frederick Boyer,BF0007,Federalist,A01,583
+4,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Richard S. Thomas,TR0030,Federalist,A01,582
+5,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,578
+6,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Edward Brown,BE0088,Republican,A03,578
+7,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Josiah Massey,MJ0310,Republican,A03,574
+8,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,William Moffitt,MW0109,Republican,A03,567
+9,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Richard Thomas,TR0030,Federalist,A01,1
+10,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,George Neal,NG0004,Federalist,A01,1
+11,Kent,md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,John Ferguson,FJ0464,Federalist,A01,1

@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.worcester.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Worcester County",House of Delegates,ON063,John P. Slemaker,SJ0338,Republican,A03,1,1000
+md.assembly.worcester.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Worcester County",House of Delegates,ON063,William Spence,SW0088,Republican,A03,2,948
+md.assembly.worcester.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Worcester County",House of Delegates,ON063,Irving Spence,SI0032,Republican,A03,3,941
+md.assembly.worcester.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Worcester County",House of Delegates,ON063,"Henry Franklin, Jr.",FH0001,Republican,A03,4,931
+md.assembly.worcester.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Worcester County",House of Delegates,ON063,Henry Dickenson,DH0022,Federalist,A01,5,401

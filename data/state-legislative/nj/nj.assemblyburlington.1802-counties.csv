@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,William Stockton,SW0121,Federalist,A01,1794
+2,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,William Coxe,CW0104,Federalist,A01,1683
+3,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,William Pearson,PW0138,Federalist,A01,1628
+4,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,John Lacey,LJ0171,Federalist,A01,1613
+5,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,Joseph Budd,BJ0601,Republican,A03,1094
+6,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,David Wright,WD0033,Republican,A03,1015
+7,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,Samuel Jones,JS0042,Republican,A03,1007
+8,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,William Wood,WW0141,Republican,A03,958
+9,Burlington,nj.assemblyburlington.1802,1802,1802,General,"New Jersey 1802 Assembly, Burlington County",Assembly,ON003,William Black,BW0389,null,null,2

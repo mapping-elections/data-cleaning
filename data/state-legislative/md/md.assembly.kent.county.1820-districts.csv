@@ -1,0 +1,28 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,Federalist,A01,1,Lower,189
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,Federalist,A01,1,Middle,227
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,Federalist,A01,1,Upper,173
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,James F. Brown,BJ0410,Federalist,A01,2,Lower,189
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,James F. Brown,BJ0410,Federalist,A01,2,Middle,228
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,James F. Brown,BJ0410,Federalist,A01,2,Upper,172
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Frederick Boyer,BF0007,Federalist,A01,3,Lower,179
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Frederick Boyer,BF0007,Federalist,A01,3,Middle,218
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Frederick Boyer,BF0007,Federalist,A01,3,Upper,186
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Richard S. Thomas,TR0030,Federalist,A01,4,Lower,188
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Richard S. Thomas,TR0030,Federalist,A01,4,Middle,224
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Richard S. Thomas,TR0030,Federalist,A01,4,Upper,170
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,5,Lower,178
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,5,Middle,188
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,5,Upper,212
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Edward Brown,BE0088,Republican,A03,6,Lower,177
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Edward Brown,BE0088,Republican,A03,6,Middle,188
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Edward Brown,BE0088,Republican,A03,6,Upper,213
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Josiah Massey,MJ0310,Republican,A03,7,Lower,171
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Josiah Massey,MJ0310,Republican,A03,7,Middle,179
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Josiah Massey,MJ0310,Republican,A03,7,Upper,224
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,William Moffitt,MW0109,Republican,A03,8,Lower,172
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,William Moffitt,MW0109,Republican,A03,8,Middle,175
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,William Moffitt,MW0109,Republican,A03,8,Upper,220
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,Richard Thomas,TR0030,Federalist,A01,9,Upper,1
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,George Neal,NG0004,Federalist,A01,10,Upper,1
+md.assembly.kent.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Kent County",House of Delegates,ON063,John Ferguson,FJ0464,Federalist,A01,11,Upper,1

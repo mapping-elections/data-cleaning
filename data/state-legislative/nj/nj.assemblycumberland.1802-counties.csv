@@ -1,0 +1,15 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Azel Pierson,PA0051,Republican,A03,934
+2,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,George Burgin,BG0058,Republican,A03,929
+3,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,James Sheppard,SJ0554,Federalist,A01,534
+4,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Jonathan Bowen,BJ0610,Federalist,A01,528
+5,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Isaac Wheaton,WI0016,Republican,A03,5
+6,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,James B. Hunt,HJ0399,Republican,A03,3
+7,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,James Harris,HJ0411,null,null,1
+8,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Jeremiah Brooks,BJ0611,null,null,NA
+9,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,James Lee,LJ0162,null,null,NA
+10,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,James Ogden,OJ0017,null,null,NA
+11,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Josiah Seeley,SJ0568,null,null,NA
+12,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Richard Wood Sheppard,SR0137,null,null,NA
+13,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Caleb Sheppard,SC0004,null,null,NA
+14,Cumberland,nj.assemblycumberland.1802,1802,1802,General,"New Jersey 1802 Assembly, Cumberland County",Assembly,ON003,Robert Smith,SR0125,null,null,NA

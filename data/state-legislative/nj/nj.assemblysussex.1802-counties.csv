@@ -1,0 +1,18 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,John Linn,LJ0197,Republican,A03,1500
+2,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Silas Dickerson,DS0109,Republican,A03,1499
+3,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Levi Howell,HL0015,Republican,A03,1449
+4,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Abraham Shaver,SA0092,Republican,A03,1444
+5,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,John Gustin,GJ0238,Federalist,A01,734
+6,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Thomas Armstrong,AT0019,Federalist,A01,617
+7,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Jedediah Sayre,SJ0539,Federalist,A01,377
+8,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Joseph Gaston,GJ0239,Federalist,A01,263
+9,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Thomas Stewart,ST0151,Federalist,A01,229
+10,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,William Runkle,RW0081,Federalist,A01,173
+11,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Cornelius Albertson,AC0024,Federalist,A01,119
+12,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Peter Volentine,VP0004,null,null,1
+13,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Robert Davidson,DR0010,null,null,NA
+14,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,John Johnson,JJ0112,null,null,NA
+15,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Montgomery Reading,RM0045,null,null,NA
+16,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Daniel Vleit,VD0002,null,null,NA
+17,Sussex,nj.assemblysussex.1802,1802-10,1802,General,"New Jersey 1802 Assembly, Sussex County",Assembly,ON003,Garret Vleit,VG0002,null,null,NA

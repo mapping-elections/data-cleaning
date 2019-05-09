@@ -1,0 +1,43 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,"Joseph Ireland, Jr.",IJ0046,Republican,A03,1,Lower,154
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,"Joseph Ireland, Jr.",IJ0046,Republican,A03,1,Middle,127
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,"Joseph Ireland, Jr.",IJ0046,Republican,A03,1,Upper,239
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,2,Lower,161
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,2,Middle,147
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Isaac Cannell,CI0005,Republican,A03,2,Upper,156
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William H. Ringgold,RW0063,Republican,A03,3,Lower,164
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William H. Ringgold,RW0063,Republican,A03,3,Middle,122
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William H. Ringgold,RW0063,Republican,A03,3,Upper,150
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Benjamin Massey,MB0026,Republican,A03,4,Lower,128
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Benjamin Massey,MB0026,Republican,A03,4,Middle,109
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Benjamin Massey,MB0026,Republican,A03,4,Upper,170
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William S. Lassell,LW0069,Republican,A03,5,Lower,105
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William S. Lassell,LW0069,Republican,A03,5,Middle,150
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William S. Lassell,LW0069,Republican,A03,5,Upper,88
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,James H. Brown,BJ0410,null,null,6,Lower,2
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,null,null,7,Lower,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,null,null,7,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,James K. Pearce,PJ0184,null,null,8,Middle,2
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,James C. Dawlin,DJ0166,null,null,9,Middle,2
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,George W. Hanson,HG0012,null,null,10,Middle,2
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Jesse Corse,CJ0305,null,null,11,Middle,2
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,James Hodges,HJ0267,null,null,12,Lower,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John Harris,HJ0268,null,null,13,Lower,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Titus Maskin,MT0065,null,null,14,Lower,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Thomas Miller,MT0062,null,null,15,Lower,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,David Arthur,AD0033,null,null,16,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John Ashley,AJ0106,null,null,17,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Joseph Cox,CJ0036,null,null,18,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Joshua Gears,GJ0048,null,null,19,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,A. B. Hanson,HA0000,null,null,20,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Jonathan Harris,HJ0228,null,null,21,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William Jadwin,JW0041,null,null,22,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Macall W. Rasin,RM0021,null,null,23,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John L. Ringgold,RJ0603,null,null,24,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Daniel J. Snow,SD0049,null,null,25,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,William Strong,SW0199,null,null,26,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,George W. Thomas,TG0031,null,null,27,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John Toulson,TJ0004,null,null,28,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,John W. Walker,WJ0034,null,null,29,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,James Wheat,WJ0038,null,null,30,Middle,1
+md.assembly.kent.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Kent County",House of Delegates,ON063,Joseph Wicks,WJ0018,null,null,31,Middle,1

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,Daniel Sheredine,SD0047,supported by both parties,A10,1123
+2,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,"William Craig, Jr.",CW0062,supported by both parties,A10,1038
+3,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,Caleb Parker,PC0015,null,null,770
+3,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,Caleb Parker,PC0015,null,null,538
+4,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,James Gerry,GJ0150,null,null,749
+4,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,James Gerry,GJ0150,null,null,533
+5,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,John Ewing,EJ0071,null,null,NA
+6,Cecil,md.assembly.cecil.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Cecil County",House of Delegates,ON063,Enoch Megrady,ME0032,null,null,NA

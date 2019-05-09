@@ -1,0 +1,8 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,Joseph Tomlinson,TJ0221,Federalist,A01,2,552
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,William Shaw,SW0075,Federalist,A01,3,529
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,Samuel Thomas,TS0011,Federalist,A01,1,613
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,James Tidball,TJ0228,Federalist,A01,4,511
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,Benjamin Tomlinson,TB0041,Republican,A03,5,418
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,William Price,PW0052,Republican,A03,6,380
+md.assembly.allegany.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Allegany County",House of Delegates,ON063,Simkins,null,Republican,A03,7,258

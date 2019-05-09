@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.delaware.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Delaware County",House of Representatives,ON064,William Trimble,TW0093,null,null,1,NA,NA
+pa.assembly.delaware.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Delaware County",House of Representatives,ON064,William Pennock,PW0224,null,null,2,NA,NA
+pa.assembly.delaware.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Delaware County",House of Representatives,ON064,William Brook,BW0299,null,null,3,NA,NA
+pa.assembly.delaware.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Delaware County",House of Representatives,ON064,Jesse Darlington,DJ0418,null,null,4,NA,NA
