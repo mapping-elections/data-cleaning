@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nj.generalassembly.salem.1800,1800,1800,General,"New Jersey 1800 Assembly, Salem County",Assembly,ON003,Eleazer Mayhew,ME0055,Federalist,A01,1,929
+nj.generalassembly.salem.1800,1800,1800,General,"New Jersey 1800 Assembly, Salem County",Assembly,ON003,Anthony Keasley,KA0037,Federalist,A01,2,927
+nj.generalassembly.salem.1800,1800,1800,General,"New Jersey 1800 Assembly, Salem County",Assembly,ON003,Isaac Moss,MI0029,Federalist,A01,3,923
+nj.generalassembly.salem.1800,1800,1800,General,"New Jersey 1800 Assembly, Salem County",Assembly,ON003,Isiah Shinn,SI0002,Republican,A03,4,804
+nj.generalassembly.salem.1800,1800,1800,General,"New Jersey 1800 Assembly, Salem County",Assembly,ON003,Artis Seagrove,SA0103,Republican,A03,5,800
+nj.generalassembly.salem.1800,1800,1800,General,"New Jersey 1800 Assembly, Salem County",Assembly,ON003,Edward Hall,HE0009,Republican,A03,6,798

@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Cumberland,nj.generalassembly.cumberland.1800,1800,1800,General,"New Jersey 1800 Assembly, Cumberland County",Assembly,ON003,"Richard Wood, Jr.",WR0092,Federalist,A01,759
+2,Cumberland,nj.generalassembly.cumberland.1800,1800,1800,General,"New Jersey 1800 Assembly, Cumberland County",Assembly,ON003,Jonathon Bowen,BJ0610,Federalist,A01,757
+3,Cumberland,nj.generalassembly.cumberland.1800,1800,1800,General,"New Jersey 1800 Assembly, Cumberland County",Assembly,ON003,Ebenezer Elmer,EE0016,Republican,A03,648
+4,Cumberland,nj.generalassembly.cumberland.1800,1800,1800,General,"New Jersey 1800 Assembly, Cumberland County",Assembly,ON003,Azel Pierson,PA0051,Republican,A03,632

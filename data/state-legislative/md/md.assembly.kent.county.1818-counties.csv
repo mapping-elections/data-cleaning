@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,Henry Tilghman,TH0012,Federalist,A01,532
+2,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,William Knight,KW0024,Federalist,A01,528
+3,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,William Pryor,PW0066,Republican,A03,521
+4,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,Thomas B. Hynson,HT0040,Federalist,A01,515
+5,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,Isaac Spencer,SI0029,Federalist,A01,514
+6,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,Philip F. Rasin,RP0014,Republican,A03,514
+7,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,James Brooke,BJ0403,Republican,A03,504
+8,Kent,md.assembly.kent.county.1818,1818,1818,General,"Maryland 1818 House of Delegates, Kent County",House of Delegates,ON063,Joseph Wilkes II,WJ0204,Republican,A03,470

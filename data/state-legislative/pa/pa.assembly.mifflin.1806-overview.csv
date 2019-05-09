@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.assembly.mifflin.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Mifflin County",House of Representatives,ON064,William Wilson,WW0247,Republican,A03,1,683
+pa.assembly.mifflin.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Mifflin County",House of Representatives,ON064,James Banks,BJ1071,Republican,A03,2,428
+pa.assembly.mifflin.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Mifflin County",House of Representatives,ON064,William Beale,BW0278,Quid,A04,3,391
+pa.assembly.mifflin.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Mifflin County",House of Representatives,ON064,John Brown,BJ1047,Quid,A04,4,382

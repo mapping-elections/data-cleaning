@@ -1,0 +1,47 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Knight,KW0024,null,null,1,One,157
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Knight,KW0024,null,null,1,Two,178
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Knight,KW0024,null,null,1,Three,163
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas B. Hynson,HT0040,null,null,2,One,158
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas B. Hynson,HT0040,null,null,2,Two,186
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas B. Hynson,HT0040,null,null,2,Three,144
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,null,null,3,One,150
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,null,null,3,Two,189
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,John B. Eccleston,EJ0059,null,null,3,Three,143
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,George Neal,NG0004,null,null,4,One,144
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,George Neal,NG0004,null,null,4,Two,189
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,George Neal,NG0004,null,null,4,Three,142
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Whittington,WT0058,null,null,5,One,113
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Whittington,WT0058,null,null,5,Two,156
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Whittington,WT0058,null,null,5,Three,87
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Wilson,WT0046,null,null,6,One,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Wilson,WT0046,null,null,6,Two,75
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Wilson,WT0046,null,null,6,Three,91
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Benjamin Massey,MB0026,null,null,7,One,26
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Benjamin Massey,MB0026,null,null,7,Three,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Unit Angier,AU0000,null,null,8,One,26
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Unit Angier,AU0000,null,null,8,Three,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Simon Wickes,WS0069,null,null,9,One,21
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,George W. Wilson,WG0026,null,null,10,Two,12
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Isaac Freeman,FI0001,null,null,11,Two,9
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Joseph Mitchell,MJ0297,null,null,12,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Joseph Mitchell,MJ0297,null,null,12,Three,8
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Malachi Meeds,MM0018,null,null,13,Two,2
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Malachi Meeds,MM0018,null,null,13,Three,4
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,James E. Barroll,BJ0395,null,null,14,Two,5
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Graves,GW0042,null,null,15,Two,2
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Graves,GW0042,null,null,15,Three,2
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Richard Barroll,BR0068,null,null,16,Two,3
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,James Bowers,BJ0293,null,null,17,Two,3
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Richard S. Thomas,TR0030,null,null,18,Two,2
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Moffitt,MW0109,null,null,19,Two,2
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William B. Everett,EW0026,null,null,20,Two,2
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,David Chambers,CD0223,null,null,21,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,James MacClean,MJ0343,null,null,22,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Henry Tilghman,TH0012,null,null,23,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Nathaniel Hynson,HN0008,null,null,24,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Cuthbert Hall,HC0044,null,null,25,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Thomas Carville,CT0224,null,null,26,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Joseph Porter,PJ0020,null,null,27,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,Josias Gears,GJ0149,null,null,28,Two,1
+md.assembly.kent.county.1817,1817,1817,General,"Maryland 1817 House of Delegates, Kent County",House of Delegates,ON063,William Crane,CW0032,null,null,29,Three,1

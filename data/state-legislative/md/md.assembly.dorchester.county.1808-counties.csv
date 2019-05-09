@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Dorchester,md.assembly.dorchester.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Dorchester County",House of Delegates,ON063,Joseph Ennalls,EJ0037,Federalist,A01,637
+2,Dorchester,md.assembly.dorchester.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Dorchester County",House of Delegates,ON063,Solomon Frazier,FS0007,Federalist,A01,585
+3,Dorchester,md.assembly.dorchester.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Dorchester County",House of Delegates,ON063,Robert Dennis,DR0012,Federalist,A01,461
+4,Dorchester,md.assembly.dorchester.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Dorchester County",House of Delegates,ON063,Edward Griffith,GE0032,Federalist,A01,454

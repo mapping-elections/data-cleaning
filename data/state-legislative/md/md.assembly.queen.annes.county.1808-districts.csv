@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.queen.annes.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Queen Anne's County",House of Delegates,ON063,Daniel C. Hopper,HD0028,null,null,1,NA,NA
+md.assembly.queen.annes.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Queen Anne's County",House of Delegates,ON063,John E. Spencer,SJ0235,null,null,2,NA,NA
+md.assembly.queen.annes.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Queen Anne's County",House of Delegates,ON063,Thomas Wright,WT0026,null,null,3,NA,NA
+md.assembly.queen.annes.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Queen Anne's County",House of Delegates,ON063,Solomon Scott,SS0066,null,null,4,NA,NA

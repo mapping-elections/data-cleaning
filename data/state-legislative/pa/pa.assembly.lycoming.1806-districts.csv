@@ -1,0 +1,7 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Isaac Smith,SI0076,Republican,A03,1,"Muncey, Pine Creek, and Williams",396
+pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Isaac Smith,SI0076,Republican,A03,1,Tioga,NA
+pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Hugh White,WH0057,Federalist,A01,2,"Muncey, Pine Creek, and Williams",361
+pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Hugh White,WH0057,Federalist,A01,2,Tioga,NA
+pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,John Franklin,FJ0333,Constitutionalist,A07,3,"Muncey, Pine Creek, and Williams",66
+pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,John Franklin,FJ0333,Constitutionalist,A07,3,Tioga,150

@@ -1,0 +1,12 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Daniel Rose,RD0055,Constitutionalist,A07,1,3694
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Elias Redge,RE0064,Constitutionalist,A07,2,3644
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Valentine Brobst,BV0012,Constitutionalist,A07,3,3550
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,John Bischoff,BJ1039,Constitutionalist,A07,4,3511
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Jacob Schaffer,SJ1051,Constitutionalist,A07,5,3324
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,William Witman,WW0223,Republican,A03,6,2052
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Jacob Rhoads,RJ0348,Republican,A03,7,2025
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Daniel Udree,UD0000,Republican,A03,8,2019
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Isaac Adams,AI0010,Republican,A03,9,2016
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Jacob Epler,EJ0172,Republican,A03,10,2009
+pa.assembly.berks.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Berks County",House of Representatives,ON064,Peter Spang,SP0114,null,null,11,461

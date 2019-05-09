@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Somerset,md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Matthias Dashiell,DM0011,Federalist,A01,851
+2,Somerset,md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Littleton P. Dennis,DL0033,Federalist,A01,808
+3,Somerset,md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Levin R. King,KL0006,Federalist,A01,791
+4,Somerset,md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Josiah F. Polk,PJ0159,Federalist,A01,778
+5,Somerset,md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,Joshua Bratton,BJ0420,Republican,A03,517
+6,Somerset,md.assembly.somerset.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Somerset County",House of Delegates,ON063,John Rider,RJ0108,Republican,A03,441

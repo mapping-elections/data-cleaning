@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.annapolis.city.1820,1820,1820,General,"Maryland 1820 House of Delegates, Annapolis",House of Delegates,ON063,James Boyle,BJ0330,Republican,A03,1,152
+md.assembly.annapolis.city.1820,1820,1820,General,"Maryland 1820 House of Delegates, Annapolis",House of Delegates,ON063,Lewis Duvall,DL0010,Republican,A03,2,149
+md.assembly.annapolis.city.1820,1820,1820,General,"Maryland 1820 House of Delegates, Annapolis",House of Delegates,ON063,Henry Maynidier,MH0050,Federalist,A01,3,109
+md.assembly.annapolis.city.1820,1820,1820,General,"Maryland 1820 House of Delegates, Annapolis",House of Delegates,ON063,Alexander C. Magruder,MA0076,Federalist,A01,4,106

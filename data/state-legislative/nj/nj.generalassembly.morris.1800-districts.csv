@@ -1,0 +1,11 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,David Welsch,WD0030,Republican,A03,1,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Cornelius Voorheis,VC0000,Republican,A03,2,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Silas Condit,CS0064,Republican,A03,3,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,William Campfield,CW0098,Federalist,A01,4,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Robert Colfax,CR0051,null,null,5,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Hiram Smith,SH0058,null,null,6,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Jacob Gray,GJ0245,null,null,7,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Benjamin Ludlow,LB0031,null,null,8,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Abraham Kitchell,KA0027,null,null,9,NA,NA
+nj.generalassembly.morris.1800,1800,1800,General,"New Jersey 1800 Assembly, Morris County",Assembly,ON003,Joshua Jennings,JJ0107,null,null,10,NA,NA

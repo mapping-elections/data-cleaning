@@ -1,0 +1,4 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Somerset,nj.assemblysomerset.1802,1802,1802,General,"New Jersey 1802 Assembly, Somerset County",Assembly,ON003,William MacEowen,MW0180,Federalist,A01,479
+2,Somerset,nj.assemblysomerset.1802,1802,1802,General,"New Jersey 1802 Assembly, Somerset County",Assembly,ON003,Frederick Frelinghuysen,FF0012,Federalist,A01,478
+3,Somerset,nj.assemblysomerset.1802,1802,1802,General,"New Jersey 1802 Assembly, Somerset County",Assembly,ON003,James Van Duyn,VJ0173,Federalist,A01,474

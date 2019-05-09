@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Essex,nj.assemblyessex.1802,1802,1802,General,"New Jersey 1802 Assembly, Essex County",Assembly,ON003,Ezra Darby,DE0037,Republican,A03,1822
+2,Essex,nj.assemblyessex.1802,1802,1802,General,"New Jersey 1802 Assembly, Essex County",Assembly,ON003,Israel Day,DI0018,Republican,A03,1244
+3,Essex,nj.assemblyessex.1802,1802,1802,General,"New Jersey 1802 Assembly, Essex County",Assembly,ON003,Abraham Godwin,GA0021,Republican,A03,1230
+4,Essex,nj.assemblyessex.1802,1802,1802,General,"New Jersey 1802 Assembly, Essex County",Assembly,ON003,Abraham Woolley,WA0099,Opposition Republican,A07,583
+5,Essex,nj.assemblyessex.1802,1802,1802,General,"New Jersey 1802 Assembly, Essex County",Assembly,ON003,James Ludlow,LJ0172,Opposition Republican,A07,571

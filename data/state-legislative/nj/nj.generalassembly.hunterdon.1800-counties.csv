@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,Benjamin Van Cleve,VB0016,Federalist,A01,1281
+2,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,Simon Wyckoff,WS0095,Federalist,A01,1269
+3,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,Stephen Burrowes,BS0151,Federalist,A01,1228
+4,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,John Haas,HJ0406,Republican,A03,1211
+5,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,John Lequear,LJ0249,Republican,A03,1156
+6,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,Joseph Hankinson,HJ0394,Republican,A03,1079
+7,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,John E. Spencer,SJ0534,Federalist,A01,704
+8,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,Thomas Bowlby,BT0213,Republican,A03,188
+9,Hunterdon,nj.generalassembly.hunterdon.1800,1800,1800,General,"New Jersey 1800 Assembly, Hunterdon County",Assembly,ON003,J. Beaverdielind,BJ0059,null,null,NA

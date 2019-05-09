@@ -1,0 +1,16 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Smith,SW0216,Constitutionalist,A07,1,One,428
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Smith,SW0216,Constitutionalist,A07,1,Two,194
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Smith,SW0216,Constitutionalist,A07,1,Three,244
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Smith,SW0216,Constitutionalist,A07,1,Four,203
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Smith,SW0216,Constitutionalist,A07,1,Five,171
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Constitutionalist,A07,2,One,390
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Constitutionalist,A07,2,Two,183
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Constitutionalist,A07,2,Three,202
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Constitutionalist,A07,2,Four,160
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Constitutionalist,A07,2,Five,141
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,null,null,3,One,39
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,null,null,3,Two,11
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,null,null,3,Three,41
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,null,null,3,Four,41
+pa.assembly.adams.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,null,null,3,Five,44

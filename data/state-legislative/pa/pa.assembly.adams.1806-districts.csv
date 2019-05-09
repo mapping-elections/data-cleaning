@@ -1,0 +1,21 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Walter Smith,SW0210,Federalist,A01,1,One,570
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Walter Smith,SW0210,Federalist,A01,1,Two,332
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Walter Smith,SW0210,Federalist,A01,1,Three,300
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Walter Smith,SW0210,Federalist,A01,1,Four,228
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Walter Smith,SW0210,Federalist,A01,1,Five,162
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Federalist,A01,2,One,560
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Federalist,A01,2,Two,331
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Federalist,A01,2,Three,299
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Federalist,A01,2,Four,226
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Andrew Shriver,SA0195,Federalist,A01,2,Five,161
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Henry Hoke,HH0074,Republican,A03,3,One,48
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Henry Hoke,HH0074,Republican,A03,3,Two,3
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Henry Hoke,HH0074,Republican,A03,3,Three,32
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Henry Hoke,HH0074,Republican,A03,3,Four,24
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,Henry Hoke,HH0074,Republican,A03,3,Five,39
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,Republican,A03,4,One,38
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,Republican,A03,4,Two,2
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,Republican,A03,4,Three,31
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,Republican,A03,4,Four,24
+pa.assembly.adams.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Adams County",House of Representatives,ON064,William Cooper,CW0239,Republican,A03,4,Five,40

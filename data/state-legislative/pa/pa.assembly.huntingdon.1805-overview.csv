@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.assembly.huntingdon.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Huntingdon County",House of Representatives,ON064,James MacCune,MJ0909,Republican,A03,1,994
+pa.assembly.huntingdon.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Huntingdon County",House of Representatives,ON064,Arthur Moore,MA0224,Republican,A03,2,937
+pa.assembly.huntingdon.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Huntingdon County",House of Representatives,ON064,Thomas Johnston,JT0046,Federalist,A01,3,690
+pa.assembly.huntingdon.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Huntingdon County",House of Representatives,ON064,Thomas Wilson,WT0204,Federalist,A01,4,671

@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Joseph Cross,CJ0240,Republican,A03,812
+2,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Thomas Lyles,LT0039,Republican,A03,807
+3,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Richard T. Hall,HR0082,Republican,A03,797
+4,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Julius Forrest,FJ0102,Republican,A03,783
+5,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,George Semmes,SG0031,Federalist,A01,764
+6,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Thomas Sommerville,ST0093,Federalist,A01,760
+7,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Francis M. Hall,HF0006,Federalist,A01,755
+8,Prince George's,md.assembly.prince.georges.county.1820,1820,1820,General,"Maryland 1820 House of Delegates, Prince George's County",House of Delegates,ON063,Thomas Brooke,BT0112,Federalist,A01,727

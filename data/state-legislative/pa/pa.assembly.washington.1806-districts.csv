@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.washington.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Washington County",House of Representatives,ON064,James Stevenson,SJ1094,Republican,A03,1,NA,NA
+pa.assembly.washington.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Washington County",House of Representatives,ON064,Abel MacFarland,MA0242,Republican,A03,2,NA,NA
+pa.assembly.washington.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Washington County",House of Representatives,ON064,Ebenezer Jennings,JE0031,Republican,A03,3,NA,NA
+pa.assembly.washington.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Washington County",House of Representatives,ON064,James Kerr,KJ0190,Republican,A03,4,NA,NA
+pa.assembly.washington.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Washington County",House of Representatives,ON064,Thomas Hopkins,HT0148,Federalist,A01,5,NA,NA

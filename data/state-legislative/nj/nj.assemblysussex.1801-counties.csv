@@ -1,0 +1,14 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Levi Howell,HL0015,Republican,A03,1587
+2,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Silas Dickerson,DS0109,Republican,A03,1521
+3,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Abraham Shaver,SA0092,Republican,A03,1501
+4,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,John Linn,LJ0197,Republican,A03,1402
+5,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,John Gustin,GJ0238,Federalist,A01,998
+6,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Joseph Gaston,GJ0239,Federalist,A01,846
+7,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Jedediah Sayre,SJ0539,Federalist,A01,844
+8,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Valentine Bidleman,BV0006,Federalist,A01,758
+9,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,Abraham Coursen,CA0080,Federalist,A01,12
+10,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,John Summers,SJ0551,Federalist,A01,4
+11,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,J. Johnson,JJ0112,null,null,NA
+12,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,R. Davidson,DR0010,null,null,NA
+13,Sussex,nj.assemblysussex.1801,1801,1801,General,"New Jersey 1801 Assembly, Sussex County",Assembly,ON003,G. Vleit,VG0002,null,null,NA

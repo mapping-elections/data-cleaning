@@ -1,0 +1,5 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nj.assemblymorris.1801,1801,1801,General,"New Jersey 1801 Assembly, Morris County",Assembly,ON003,Aaron Kitchell,KA0023,null,null,1,1810
+nj.assemblymorris.1801,1801,1801,General,"New Jersey 1801 Assembly, Morris County",Assembly,ON003,William Corwin,CW0102,null,null,2,1776
+nj.assemblymorris.1801,1801,1801,General,"New Jersey 1801 Assembly, Morris County",Assembly,ON003,Jonathan Ogden,OJ0037,null,null,3,936
+nj.assemblymorris.1801,1801,1801,General,"New Jersey 1801 Assembly, Morris County",Assembly,ON003,Jesse Upson,UJ0021,null,null,4,936

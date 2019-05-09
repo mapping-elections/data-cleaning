@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Somerset,nj.assemblysomerset.1801,1801,1801,General,"New Jersey 1801 Assembly, Somerset County",Assembly,ON003,William MacEowen,MW0180,Federalist,A01,1356
+2,Somerset,nj.assemblysomerset.1801,1801,1801,General,"New Jersey 1801 Assembly, Somerset County",Assembly,ON003,James Van Duyn,VJ0173,Federalist,A01,1231
+3,Somerset,nj.assemblysomerset.1801,1801,1801,General,"New Jersey 1801 Assembly, Somerset County",Assembly,ON003,Frederick Frelinghuysen,FF0012,Federalist,A01,1187
+4,Somerset,nj.assemblysomerset.1801,1801,1801,General,"New Jersey 1801 Assembly, Somerset County",Assembly,ON003,Alexander Kilpatrick,KA0034,Republican,A03,447
+5,Somerset,nj.assemblysomerset.1801,1801,1801,General,"New Jersey 1801 Assembly, Somerset County",Assembly,ON003,James Stryker,SJ0549,Republican,A03,444
+6,Somerset,nj.assemblysomerset.1801,1801,1801,General,"New Jersey 1801 Assembly, Somerset County",Assembly,ON003,Davin Muford,MD0007,null,null,1

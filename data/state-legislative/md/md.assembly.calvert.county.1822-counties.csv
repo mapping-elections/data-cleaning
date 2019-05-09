@@ -1,0 +1,5 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Calvert,md.assembly.calvert.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Calvert County",House of Delegates,ON063,James A. D. Dalrymple,DJ0161,null,null,NA
+2,Calvert,md.assembly.calvert.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Calvert County",House of Delegates,ON063,Mordecai Smith,SM0039,null,null,NA
+3,Calvert,md.assembly.calvert.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Calvert County",House of Delegates,ON063,Sutton J. Weems,WS0065,null,null,NA
+4,Calvert,md.assembly.calvert.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Calvert County",House of Delegates,ON063,Richard Roberts,RR0021,null,null,NA

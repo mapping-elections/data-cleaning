@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Monmouth,nj.assemblymonmouth.1802,1802,1802,General,"New Jersey 1802 Assembly, Monmouth County",Assembly,ON003,John A. Scudder,SJ0547,Republican,A03,1659
+2,Monmouth,nj.assemblymonmouth.1802,1802,1802,General,"New Jersey 1802 Assembly, Monmouth County",Assembly,ON003,Peter Knott,KP0012,Republican,A03,1526
+3,Monmouth,nj.assemblymonmouth.1802,1802,1802,General,"New Jersey 1802 Assembly, Monmouth County",Assembly,ON003,James Cox,CJ0405,Republican,A03,1427
+4,Monmouth,nj.assemblymonmouth.1802,1802,1802,General,"New Jersey 1802 Assembly, Monmouth County",Assembly,ON003,David Gordon,GD0019,Federalist,A01,1231
+5,Monmouth,nj.assemblymonmouth.1802,1802,1802,General,"New Jersey 1802 Assembly, Monmouth County",Assembly,ON003,Kenneth Anderson,AK0000,Federalist,A01,1166
+6,Monmouth,nj.assemblymonmouth.1802,1802,1802,General,"New Jersey 1802 Assembly, Monmouth County",Assembly,ON003,Joseph Stillwell,SJ0544,Federalist,A01,1016

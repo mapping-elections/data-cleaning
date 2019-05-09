@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+pa.assembly.fayette.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Fayette County",House of Representatives,ON064,Joseph Huston,HJ0785,Republican,A03,1,1088
+pa.assembly.fayette.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Fayette County",House of Representatives,ON064,Christian Tarr,TC0055,Republican,A03,2,910
+pa.assembly.fayette.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Fayette County",House of Representatives,ON064,John Cunningham,CJ0711,Republican,A03,3,827
+pa.assembly.fayette.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Fayette County",House of Representatives,ON064,Charles Porter,PC0040,Federalist,A01,4,779
+pa.assembly.fayette.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Fayette County",House of Representatives,ON064,William Boyd,BW0288,Federalist,A01,5,671

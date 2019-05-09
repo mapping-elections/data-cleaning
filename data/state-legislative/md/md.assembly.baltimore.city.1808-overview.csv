@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.baltimore.city.1808,1808,1808,General,"Maryland 1808 House of Delegates, Baltimore",House of Delegates,ON063,Robert Stewart,SR0063,Republican,A03,1,3312
+md.assembly.baltimore.city.1808,1808,1808,General,"Maryland 1808 House of Delegates, Baltimore",House of Delegates,ON063,Theodorick Bland,BT0057,Republican,A03,2,3284
+md.assembly.baltimore.city.1808,1808,1808,General,"Maryland 1808 House of Delegates, Baltimore",House of Delegates,ON063,Edward Aisquith,AE0006,Federalist,A01,3,761
+md.assembly.baltimore.city.1808,1808,1808,General,"Maryland 1808 House of Delegates, Baltimore",House of Delegates,ON063,Samuel Schaeffer,SS0073,Federalist,A01,4,732
+md.assembly.baltimore.city.1808,1808,1808,General,"Maryland 1808 House of Delegates, Baltimore",House of Delegates,ON063,Nicholas Norris,NN0001,Federalist,A01,5,127

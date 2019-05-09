@@ -1,0 +1,9 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,Samuel Miles,MS0164,Federalist,A01,2358
+2,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,William Hallman,HW0337,Federalist,A01,2338
+3,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,Samuel Rees,RS0087,Federalist,A01,2327
+4,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,Cadwallader Evans,EC0027,Federalist,A01,2321
+5,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,Samuel Gross,GS0076,Republican,A03,2029
+6,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,Nathaniel B. Boileau,BN0080,Republican,A03,1985
+7,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,Henry Sheetz,SH0131,Republican,A03,1975
+8,Montgomery,pa.assembly.montgomery.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Montgomery County",House of Representatives,ON064,John Mann,MJ0816,Republican,A03,1957

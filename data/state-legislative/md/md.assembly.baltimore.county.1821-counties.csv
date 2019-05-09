@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,Edward Orrick,OE0010,null,null,2136
+2,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,Tobias E. Stansbury,ST0095,null,null,2068
+3,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,John B. Snowden,SJ0287,null,null,1781
+4,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,Adam Showers,SA0045,null,null,1681
+5,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,John T. H. Worthington,WJ0162,null,null,977
+6,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,Abraham H. Price,PA0036,null,null,917
+7,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,William F. Johnson,JW0022,null,null,916
+8,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,Hugh Ely,EH0012,null,null,749
+9,Baltimore,md.assembly.baltimore.county.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore County",House of Delegates,ON063,William Merryman,MW0098,null,null,119

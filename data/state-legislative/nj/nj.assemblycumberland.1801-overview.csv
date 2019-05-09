@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+nj.assemblycumberland.1801,1801,1801,General,"New Jersey 1801 Assembly, Cumberland County",Assembly,ON003,George Burgin,BG0058,Republican,A03,1,918
+nj.assemblycumberland.1801,1801,1801,General,"New Jersey 1801 Assembly, Cumberland County",Assembly,ON003,Azel Pierson,PA0051,Republican,A03,2,911
+nj.assemblycumberland.1801,1801,1801,General,"New Jersey 1801 Assembly, Cumberland County",Assembly,ON003,Jonathan Bowen,BJ0610,Federalist,A01,3,529
+nj.assemblycumberland.1801,1801,1801,General,"New Jersey 1801 Assembly, Cumberland County",Assembly,ON003,"John Sheppard, Jr.",SJ0546,Federalist,A01,4,522
+nj.assemblycumberland.1801,1801,1801,General,"New Jersey 1801 Assembly, Cumberland County",Assembly,ON003,Jeremiah Brooks,BJ0611,null,null,5,1

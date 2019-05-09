@@ -1,0 +1,6 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Allegany,md.assembly.alleghany.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Allegany County",House of Delegates,ON063,Thomas Greenwell,GT0032,Republican,A03,638
+2,Allegany,md.assembly.alleghany.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Allegany County",House of Delegates,ON063,John A. Hoffman,HJ0250,Republican,A03,599
+3,Allegany,md.assembly.alleghany.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Allegany County",House of Delegates,ON063,Thomas Pollard,PT0060,Republican,A03,516
+4,Allegany,md.assembly.alleghany.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Allegany County",House of Delegates,ON063,Benjamin Tomlinson,TB0041,Republican,A03,493
+5,Allegany,md.assembly.alleghany.county.1822,1822,1822,General,"Maryland 1822 House of Delegates, Allegany County",House of Delegates,ON063,Thomas Cresap,CT0089,null,null,332

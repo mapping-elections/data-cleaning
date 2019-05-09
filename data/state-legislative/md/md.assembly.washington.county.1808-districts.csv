@@ -1,0 +1,17 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,Frisby Tilghman,TF0001,Republican,A03,1,Fiery's,225
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,Frisby Tilghman,TF0001,Republican,A03,1,Stover's,265
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,William Gabby,GW0039,Republican,A03,2,Fiery's,226
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,William Gabby,GW0039,Republican,A03,2,Stover's,206
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,William Downey,DW0039,Republican,A03,3,Fiery's,228
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,William Downey,DW0039,Republican,A03,3,Stover's,209
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,John Bowles,BJ0304,Republican,A03,4,Fiery's,214
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,John Bowles,BJ0304,Republican,A03,4,Stover's,207
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,Matthew Van Lear,VM0007,Federalist,A01,5,Fiery's,35
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,Matthew Van Lear,VM0007,Federalist,A01,5,Stover's,138
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,William Good,GW0041,Federalist,A01,6,Fiery's,32
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,William Good,GW0041,Federalist,A01,6,Stover's,132
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,Lancelot Jacques,JL0002,Federalist,A01,7,Fiery's,32
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,Lancelot Jacques,JL0002,Federalist,A01,7,Stover's,132
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,John Barr,BJ0336,Federalist,A01,8,Fiery's,32
+md.assembly.washington.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Washington County",House of Delegates,ON063,John Barr,BJ0336,Federalist,A01,8,Stover's,87

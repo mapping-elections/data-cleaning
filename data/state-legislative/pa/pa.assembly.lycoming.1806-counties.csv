@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Lycoming,pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Isaac Smith,SI0076,Republican,A03,441
+2,Lycoming,pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Hugh White,WH0057,Federalist,A01,427
+3,Lycoming,pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,John Franklin,FJ0333,Constitutionalist,A07,301
+1,Potter,pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Isaac Smith,SI0076,Republican,A03,NA
+2,Potter,pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Hugh White,WH0057,Federalist,A01,NA
+3,Potter,pa.assembly.lycoming.1806,1806-10,1806,General,"Pennsylvania 1806 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,John Franklin,FJ0333,Constitutionalist,A07,NA

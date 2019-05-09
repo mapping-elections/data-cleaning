@@ -1,0 +1,10 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,William Carroll,CW0053,Federalist,A01,1080
+2,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Henry C. Gaither,GH0020,Federalist,A01,1048
+3,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Samuel Thomas,TS0011,Federalist,A01,1036
+4,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Hezekiah Veatch,VH0001,Federalist,A01,1002
+5,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Howard Griffith,GH0019,Republican,A03,490
+6,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Richard West,WR0045,Republican,A03,463
+7,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Elijah Vears,VE0006,Republican,A03,451
+8,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Benjamin Higgins,HB0049,Republican,A03,413
+9,Montgomery,md.assembly.montgomery.county.1808,1808,1808,General,"Maryland 1808 House of Delegates, Montgomery County",House of Delegates,ON063,Benjamin Ray,RB0010,Federalist,A01,166

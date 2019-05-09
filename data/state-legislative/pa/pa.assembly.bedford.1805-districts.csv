@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,district,vote
+pa.assembly.bedford.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Bedford County",House of Representatives,ON064,William Piper,PW0228,Federalist,A01,1,NA,NA
+pa.assembly.bedford.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Bedford County",House of Representatives,ON064,Benjamin Martin,MB0076,Federalist,A01,2,NA,NA
+pa.assembly.bedford.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Bedford County",House of Representatives,ON064,Jacob Fore,FJ0336,Republican,A03,3,NA,NA
+pa.assembly.bedford.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Bedford County",House of Representatives,ON064,Hugh Barclay,BH0115,Federalist,A01,4,NA,NA
+pa.assembly.bedford.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Bedford County",House of Representatives,ON064,Peter Morgert,MP0096,Republican,A03,5,NA,NA

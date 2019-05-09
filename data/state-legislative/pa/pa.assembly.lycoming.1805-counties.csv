@@ -1,0 +1,7 @@
+candidate_num,county,election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,vote
+1,Lycoming,pa.assembly.lycoming.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,John Franklin,FJ0333,Constitutionalist,A07,521
+2,Lycoming,pa.assembly.lycoming.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Hugh White,WH0057,null,null,517
+3,Lycoming,pa.assembly.lycoming.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Martin,null,Federalist,A01,237
+1,Potter,pa.assembly.lycoming.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,John Franklin,FJ0333,Constitutionalist,A07,NA
+2,Potter,pa.assembly.lycoming.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Hugh White,WH0057,null,null,NA
+3,Potter,pa.assembly.lycoming.1805,1805-10,1805,General,"Pennsylvania 1805 House of Representatives, Lycoming and Potter Counties",House of Representatives,ON064,Martin,null,Federalist,A01,NA

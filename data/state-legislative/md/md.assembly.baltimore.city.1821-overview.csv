@@ -1,0 +1,6 @@
+election_id,election_date,election_year,election_type,election_label,office_name,office_id,candidate,name_id,affiliation,affiliation_id,candidate_num,overview_vote
+md.assembly.baltimore.city.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore",House of Delegates,ON063,John P. Kennedy,KJ0050,Republican,A03,1,4958
+md.assembly.baltimore.city.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore",House of Delegates,ON063,John Barney,BJ0397,Republican,A03,2,4564
+md.assembly.baltimore.city.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore",House of Delegates,ON063,John S. Tyson,TJ0229,Republican,A03,3,2651
+md.assembly.baltimore.city.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore",House of Delegates,ON063,Robert Purviance,PR0022,Republican,A03,4,1337
+md.assembly.baltimore.city.1821,1821,1821,General,"Maryland 1821 House of Delegates, Baltimore",House of Delegates,ON063,Francis D. Cummins,CF0008,Federalist,A01,5,117
